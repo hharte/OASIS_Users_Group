@@ -1,0 +1,585 @@
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST30  A 09/23/83 02:40    59    3 S    68 VOL30
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL30
+COPYX    ASSEMBLE A 04/01/83 10:11   520   10 S    68 VOL30
+COPYX    COMMAND  A 04/01/83 01:19    14    4 R   256 VOL30
+ENCODE   ASSEMBLE A 04/05/83 13:59   190    4 S    61 VOL30
+ENCODE   COMMAND  A 04/05/83 14:00     8    2 R   256 VOL30
+ENVELOPS EXEC     A 04/19/83 22:01    38    1 S    65 VOL30
+ENVELOPS SCRIPT   A 03/26/83 01:37    14    1 S    61 VOL30
+LABEL3A  EXEC     A 04/18/83 21:54    51    2 S    69 VOL30
+LABEL3A  SCRIPT   A 04/18/83 21:48    39    2 S    71 VOL30
+MEMBER30 FEEDBACK A 09/23/83 02:50    21    1 S    65 VOL30
+MSGS     EXEC     A 05/02/83 22:50    64    2 S    65 VOL30
+NEWS     LETTER30 A 09/23/83 08:23   231   13 S    65 VOL30
+PCP      EXEC     A 09/23/83 04:35   132    5 S    68 VOL30
+PCP      INSTALL  A 09/23/83 04:24   254    8 S    73 VOL30
+PCPACK   BASIC    A 02/08/83 02:04   450   16 S   104 VOL30
+PCPADD   BASIC    A 02/08/83 02:05   197    7 S    85 VOL30
+PCPINIT1 BASIC    A 02/08/83 02:05    38    2 S    82 VOL30
+PCPINIT2 BASIC    A 02/08/83 02:05    38    2 S    81 VOL30
+PCPINIT3 BASIC    A 02/08/83 02:05    41    2 S    81 VOL30
+PCPINVNT BASIC    A 02/08/83 02:06   433   16 S   141 VOL30
+PCPINVNT INDEXED  A 10/28/82 19:10    18    7 I    59 VOL30
+PCPJOBS  INDEXED  A 10/28/82 19:12     6   23 I   502 VOL30
+PCPMENU  BASIC    A 02/08/83 02:07   438   16 S   112 VOL30
+PCPNEW   EXEC     A 04/21/83 22:38    61    2 S    68 VOL30
+PCPPRINT WORK     A 10/28/82 19:22     0    1 S     0 VOL30
+PCPSRIAL BASIC    A 02/08/83 02:08   396   13 S    98 VOL30
+PCPSRIAL INDEXED  A 10/19/82 23:55     0    9 I   165 VOL30
+QUIP1    ASSEMBLE A 04/13/83 22:19   142    3 S    66 VOL30
+QUIP1    COMMAND  A 04/13/83 22:20     6    2 R   256 VOL30
+QUIP1    DATA     A 04/11/83 22:16   182   24 S   717 VOL30
+QUIP1    RECORD   A 09/23/83 02:11    32    1 D     4 VOL30
+REBUILDP EXEC     A 04/18/83 06:29    81    3 S    80 VOL30
+SELECT30 EXEC     A 09/23/83 05:05    41    2 S    46 VOL30
+SHOWFIL  EXEC     A 04/19/83 21:43    82    3 S    77 VOL30
+SHOWFILE ASSEMBLE A 04/19/83 21:38   520   10 S    63 VOL30
+SHOWFILE COMMAND  A 04/19/83 21:38     8    2 R   256 VOL30
+SHOWFMCK COPY     A 04/13/83 16:02    79    2 S    63 VOL30
+SHOWFUNP COPY     A 04/13/83 16:02   159    4 S    63 VOL30
+VOL30    CONTENTS A 09/23/83 11:52   171    7 S    65 VOL30
+VOL30    EXEC     A 09/23/83 02:30   354   10 S    73 VOL30
+41 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+ENCODE.COMMAND:A copied to ENCODE.COMMAND:D
+MEMBER30.FEEDBACK:A copied to MEMBER30.FEEDBACK:D
+PCP.EXEC:A replaces PCP.EXEC:D
+PCPINIT1.BASIC:A copied to PCPINIT1.BASIC:D
+PCPINVNT.BASIC:A copied to PCPINVNT.BASIC:D
+QUIP1.ASSEMBLE:A copied to QUIP1.ASSEMBLE:D
+SHOWFIL.EXEC:A copied to SHOWFIL.EXEC:D
+VOL30.CONTENTS:A copied to VOL30.CONTENTS:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+MSGS.EXEC:A copied to MSGS.EXEC:D
+PCP.INSTALL:A copied to PCP.INSTALL:D
+PCPINIT2.BASIC:A copied to PCPINIT2.BASIC:D
+PCPSRIAL.BASIC:A copied to PCPSRIAL.BASIC:D
+SELECT30.EXEC:A copied to SELECT30.EXEC:D
+SHOWFILE.COMMAND:A copied to SHOWFILE.COMMAND:D
+SHOWFMCK.COPY:A copied to SHOWFMCK.COPY:D
+COPYX.COMMAND:A copied to COPYX.COMMAND:D
+LABEL3A.EXEC:A copied to LABEL3A.EXEC:D
+PCPADD.BASIC:A copied to PCPADD.BASIC:D
+PCPINIT3.BASIC:A copied to PCPINIT3.BASIC:D
+PCPINVNT.INDEXED:A copied to PCPINVNT.INDEXED:D
+PCPMENU.BASIC:A copied to PCPMENU.BASIC:D
+PCPPRINT.WORK:A copied to PCPPRINT.WORK:D
+ENCODE.ASSEMBLE:A copied to ENCODE.ASSEMBLE:D
+PCPJOBS.INDEXED:A copied to PCPJOBS.INDEXED:D
+PCPNEW.EXEC:A copied to PCPNEW.EXEC:D
+PCPSRIAL.INDEXED:A copied to PCPSRIAL.INDEXED:D
+QUIP1.COMMAND:A copied to QUIP1.COMMAND:D
+QUIP1.DATA:A copied to QUIP1.DATA:D
+VOL30.EXEC:A copied to VOL30.EXEC:D
+ENVELOPS.EXEC:A copied to ENVELOPS.EXEC:D
+SHOWFILE.ASSEMBLE:A copied to SHOWFILE.ASSEMBLE:D
+SHOWFUNP.COPY:A copied to SHOWFUNP.COPY:D
+$README.FIRST30:A copied to $README.FIRST30:D
+COPYX.ASSEMBLE:A copied to COPYX.ASSEMBLE:D
+ENVELOPS.SCRIPT:A copied to ENVELOPS.SCRIPT:D
+LABEL3A.SCRIPT:A copied to LABEL3A.SCRIPT:D
+NEWS.LETTER30:A copied to NEWS.LETTER30:D
+PCPACK.BASIC:A copied to PCPACK.BASIC:D
+QUIP1.RECORD:A copied to QUIP1.RECORD:D
+REBUILDP.EXEC:A copied to REBUILDP.EXEC:D
+
+>VOL30
+=================================================================
+:                                                                :
+:           VOLUME 30 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "It is the customary fate of new truths to begin as heresies" :
+:  "and to end as superstitions."                 Thomas Huxley  :
+:                    ....speaking on Darwin's Origin of Species  :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL30 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 30  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  30,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST30  A 09/23/83 02:40    59    3 S    68 VOL30
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL30
+COPYX    ASSEMBLE A 04/01/83 10:11   520   10 S    68 VOL30
+COPYX    COMMAND  A 04/01/83 01:19    14    4 R   256 VOL30
+ENCODE   ASSEMBLE A 04/05/83 13:59   190    4 S    61 VOL30
+ENCODE   COMMAND  A 04/05/83 14:00     8    2 R   256 VOL30
+ENVELOPS EXEC     A 04/19/83 22:01    38    1 S    65 VOL30
+ENVELOPS SCRIPT   A 03/26/83 01:37    14    1 S    61 VOL30
+LABEL3A  EXEC     A 04/18/83 21:54    51    2 S    69 VOL30
+LABEL3A  SCRIPT   A 04/18/83 21:48    39    2 S    71 VOL30
+MEMBER30 FEEDBACK A 09/23/83 02:50    21    1 S    65 VOL30
+MSGS     EXEC     A 05/02/83 22:50    64    2 S    65 VOL30
+NEWS     LETTER30 A 09/23/83 08:23   231   13 S    65 VOL30
+PCP      EXEC     A 09/23/83 04:35   132    5 S    68 VOL30
+PCP      INSTALL  A 09/23/83 04:24   254    8 S    73 VOL30
+PCPACK   BASIC    A 02/08/83 02:04   450   16 S   104 VOL30
+PCPADD   BASIC    A 02/08/83 02:05   197    7 S    85 VOL30
+PCPINIT1 BASIC    A 02/08/83 02:05    38    2 S    82 VOL30
+PCPINIT2 BASIC    A 02/08/83 02:05    38    2 S    81 VOL30
+PCPINIT3 BASIC    A 02/08/83 02:05    41    2 S    81 VOL30
+PCPINVNT BASIC    A 02/08/83 02:06   433   16 S   141 VOL30
+PCPINVNT INDEXED  A 10/28/82 19:10    18    7 I    59 VOL30
+PCPJOBS  INDEXED  A 10/28/82 19:12     6   23 I   502 VOL30
+PCPMENU  BASIC    A 02/08/83 02:07   438   16 S   112 VOL30
+PCPNEW   EXEC     A 04/21/83 22:38    61    2 S    68 VOL30
+PCPPRINT WORK     A 10/28/82 19:22     0    1 S     0 VOL30
+PCPSRIAL BASIC    A 02/08/83 02:08   396   13 S    98 VOL30
+PCPSRIAL INDEXED  A 10/19/82 23:55     0    9 I   165 VOL30
+QUIP1    ASSEMBLE A 04/13/83 22:19   142    3 S    66 VOL30
+QUIP1    COMMAND  A 04/13/83 22:20     6    2 R   256 VOL30
+QUIP1    DATA     A 04/11/83 22:16   182   24 S   717 VOL30
+QUIP1    RECORD   A 09/23/83 02:11    32    1 D     4 VOL30
+REBUILDP EXEC     A 04/18/83 06:29    81    3 S    80 VOL30
+SELECT30 EXEC     A 09/23/83 05:05    41    2 S    46 VOL30
+SHOWFIL  EXEC     A 04/19/83 21:43    82    3 S    77 VOL30
+SHOWFILE ASSEMBLE A 04/19/83 21:38   520   10 S    63 VOL30
+SHOWFILE COMMAND  A 04/19/83 21:38     8    2 R   256 VOL30
+SHOWFMCK COPY     A 04/13/83 16:02    79    2 S    63 VOL30
+SHOWFUNP COPY     A 04/13/83 16:02   159    4 S    63 VOL30
+VOL30    CONTENTS A 09/23/83 11:52   171    7 S    65 VOL30
+VOL30    EXEC     A 09/23/83 02:30   354   10 S    73 VOL30
+41 file(s), 248 block(s).
+▼ EWS.LETTER30:VOL30                                       01/29/85 17:20 Page 1
+
+-----------------------------------------------------------------
+1 October 1983          N E W S   L E T T E R           Volume 30
+-----------------------------------------------------------------
+
+
+
+
+Good Morning Fellow Oasis User:
+
+
+
+VOLUME 30: contains a production control program system, produced
+by Bill Quintrell  (615) 877-2716.  This system is  complete, but
+has only  limited documentation.  Bill has told me that he thinks
+it can  be significantly improved, but hasn't had time to work on
+it.  I'd suggest contacting him, if you are thinking of using it.
+This  volume also  contains a  whole new batch of QUIPs  together
+with the data  encoding program Gary Bergman uses  on them.  Also
+included  is a  new COPYX  command from Gary Bergman for  copying
+INDEXED  or  KEYED  files either  sector by  sector  or record by
+record, a new utility for typing envelops from a name and address
+file in  Script format,  a utility for printing labels  3 up also
+from  Gary Bergman,  a variation  of  the FILELIST command called
+SHOWFILE that is  less cryptic than the Oasis  version (from John
+Taylor), and a utility for rebuilding a crashed partition without
+resetting the  whole computer (REBUILDP) from Albert Bates.  Lots
+of goodies in this mixed bag.
+
+VOLUME 29 MISSING: It was there!!!  But, at least 20 or 30 of you
+wrote or  called to say you didn't get it.  It was on the back of
+Volume 28.  The  diskette was a "flippy" with  two sets of single
+side index holes.   All you have to do  is turn the disk over and
+you've  got  Volume   29.   Sorry  for  the  confusion   and  any
+inconvenience it may have caused.
+
+CARAVAN: Yep!   The camels  got lost  in  the dunes or something.
+Actually   what   happened   is   a   little  more   bizarre.   A
+computerphobic friend of mine agreed to reset the computer once a
+week for me  while I was in Asia.   Unfortunately, the very first
+week the terminal came unplugged somehow.  So, week after week my
+loyal friend  reset the computer and typed the startup command on
+a  DEAD  terminal.  Our  information system  was  down for all of
+August and part of September.  At the moment we are back up again
+with   300  baud   operation  only.   Malcolm  Blackhall  at  NNC
+Electronics is  in the process of writing some software that will
+let us operate with both 300 and 1200 baud.  Possibly by the time
+you read this it will be up in the dual mode.
+
+PHASE ONE: Boy,  just let  me go out of town  for a few weeks and
+all hell  breaks  loose.   So  many  important things  have  been
+happening that  I don't know where to begin, certainly not at the
+beginning!
+
+I have been hearing  for a long time that  Phase One has not been
+satisfying the  desires of  some of the more finicky  OASIS users
+for technical support.  Lots of people know this, it's no secret.
+One of  the people who came to this same conclusion some time ago
+was Tim Williams (the same).  While Tim is still associated in an
+intimate way  with Phase One and is still working on OASIS-16, he
+has started  a new company called, better sit down for this one -
+OASIS TECHNOLOGY.
+
+In a very  enlightening conversation a week ago, Tim told me that
+the  primary  objective  of the  new company  will  be to provide
+excellent  technical  support  for  OASIS users,  even Z-80 OASIS
+users!   You've  got  to  believe  he  can  do  it  now,  because
+practically the entire experienced technical staff from Phase One
+has left  to join  him.  When I asked him  what the new company's
+relationship with  Phase  One  currently  is,  he said  "at  arms
+length",  a phrase  I once  used to describe our relationship  to
+them, too.
+
+Among the  people  now  working  with  OASIS  TECHNOLOGY  are Tim
+Williams, Jack  Zelver, Dave Sheffy, Sue Connellano, Andy Mender,
+and  apparently  Mike  Blaisdell is  also in  some  way involved.
+Being a  "new" company they are actively looking for work and can
+be reached  at (415)  820-5592.  Might not be a  bad idea to give
+them a call just to explore their impressive capabilities.
+
+Setting hurt  feelings  and legal  complexities aside, this could
+well be  the long wished for turning point for OASIS.  One way or
+the other I suppose it will be.  With OASIS TECHNOLOGY taking the
+lead  for  technical  support,  including  help  with  new system
+implementations, PHASE ONE should be able to focus more attention
+on  the promotion  of the  operating system itself - in  order to
+sell more systems.
+
+Some tangible  evidence is  beginning to emerge that their recent
+efforts  to  get better  press coverage  is  starting to pay off.
+While  we're talking  about it,  my OUG press releases have  been
+picked up by at least a half dozen publications and I've gotten a
+few releases from  you folks, which I am  sure were printed in at
+least a few journals, too.  So, the OASIS publicity ball seems to
+be rolling just a little faster than before.
+
+Tim told  me that  he and  others have felt for a  long long time
+that Phase One has been missing the boat by not making better use
+of  our user's  group.  He  made it clear that he  and presumably
+others at his new company will be looking for mutually beneficial
+ways  to interact  with the  OUG and our members.  I  must say at
+this point  that Sidorsky has apparently turned back on the green
+light for some degree of OUG support.  Joel Lafette, has informed
+me that  we will be allowed to place our PAID ads in the Software
+Directory starting with  the next issue, and I  have been getting
+an average  of one new referral per day from them since my return
+on 11  September.  There are of course, lots of other more active
+ways  that  we might/should  collaborate, considering that we are
+all  in the  same boat.   A strong and active professional  users
+group is one of the best ways I know for putting more sail on the
+boat (and for bailing when that is necessary, too).
+
+I have been  told by  Phase One insiders that they  certainly are
+not  abandoning  the  8-bit version  just because  most  of their
+resources are  now committed  to OASIS-16.  I think I  detected a
+recognition that  the Z-80 OASIS will have a significant nitch to
+fill for a very long time.
+
+MIGRATION: Several of  our members have now told me that they are
+definitely moving  toward UNIX - that they feel compelled to jump
+on the  16-bit band  wagon before it gets too  far down the road.
+OASIS-16 has  just been too long in coming for them.  Many of you
+have suggested privately to me that Phase One may have missed the
+window for the 16-bit market.  I don't think so.  It is true that
+Phase  One  has not  done a  very good job in providing  reliable
+estimates of availability dates.  I think that more than anything
+is the problem.
+
+The 16-bit machines have really only been around now for a little
+over  a year,  hardly long  enough for the manufacturers to  have
+shaken  all  of  the bugs  out  of  them.   Tim  tells me  he  is
+determined  to  make  the 16-bit  version the highest performance
+operating system in existence and to delay final releases only as
+long as necessary to realize that objective.  He says he wants to
+avoid  some  of the  technical problems  they  had with the first
+releases of  the Z-80 OASIS.  There are three machine versions of
+OASIS-16  now  in beta  test, at  least one of which has  already
+reported back  to Phase One.  All of the evidence available to me
+suggests that the waiting is about over.
+
+But for  those  of  you  who  are  still  determined  to  protect
+yourselves,  or  who would  for other  reasons  like to run their
+software  under  other  operating systems,  there are now several
+programs  for converting  OASIS software.  Brian Goodheim told me
+about   New  Age   BASIC  which   is  purported  to  be  a   UNIX
+implementation of OASIS  BASIC.  Also, I heard that  there is now
+an OBASIC  to "C"  conversion program.  Beats me how  they do it,
+and no  one has told me who has it.  Just today I received a call
+from another  of our members, Zri Barak up in Canada, who says he
+now has  an OBASIC to MBASIC translation program - the reverse of
+our MCONVERT.   In the  mail today was a flyer  from Scott Bouman
+(Quest Research) for a UNIX version of the SEND/RECEIVE commands.
+And, we  released an  OASIS version of the CP/M  program MODEM on
+Volume 6 of the library a while back.
+
+So it  appears  that  the  the  gates  are  now  opening in  both
+directions  for applications  software to  flow  both to and from
+OASIS - overall a healthy development I think.
+
+JAPAN: has  no  OASIS  users  to  speak  of  as  yet, but  that's
+changing.  While  we were  there I had a chance  to talk (with my
+wife's translation)  with some  of the people concerned with  the
+implementation of OASIS on Japanese machines.  In addition to the
+Seiko  machine  which  no  one  wanted  to  talk  about for  some
+mysterious reason, there are at least four other Japanese machine
+manufacturers committed  to offering OASIS: Canon, Pentel, Victor
+(Sirius), and Toshiba.
+
+Considering the growing  importance of computers from the land of
+the  rising  sun, this  is looks  like  a healthy development for
+OASIS.  The guy  at Pental said that they  will be introducing an
+8086 machine in  the near future in addition  to the 8-bit system
+they are  now starting  to market both in the  US and Japan.  But
+business practices  are very different in most other countries so
+that  most  of our  business oriented  software  will not be very
+useful without  major modifications  - even if the displays  were
+translated  into  the foreign  languages.  A market for utilities
+does exist in Japan, however, and some of the manufacturers might
+be interested in including copies of business software with their
+machines for the American market.  We will shortly have a mailing
+list for all the machine manufacturers.
+
+HONG KONG: is  the computer/software ripoff capital of the world.
+Be thankful that  no one is much interested  in OASIS there.  Our
+Hong  Kong   member  was  very  helpful  in  getting  me  to  the
+semi-secret  computer   discount  market.   Hidden  away  in  the
+basement and second floors of a building that looked like any one
+of a  thousand others,  were a hundred tiny stores  all trying to
+sell both hardware  (mostly "Apples") and software at  the lowest
+prices.  Apple  II+ were selling for about $200 and you could get
+an Apple  IIe  for  about  $350.   The biggest  bargains  were in
+software, however.  For  prices varying from about one  dollar to
+about  six you  could have  your pick of just about  any American
+software  package you  wanted, including  such  gems as dBASE II,
+Peachtree Accounting, Supercalc, Visacalc, Wordstar, etc.
+
+When questioned,  the  vendors  assured  me that  the copies were
+legal as long  as I didn't make any  commercial use of them.  The
+Hong Kong  officials don't see it that way, but seem powerless to
+stop  the  practice  without  legal  pressure  from  the American
+copyright  holders.  While  I was  there they made a raid  on the
+area  and  confiscated  all  the  stock  of  one  store that  was
+blatantly  selling  Apple  look-alikes  actually marked  with the
+Apple logo.  I didn't buy anything, but I've got to tell you that
+the low prices tempted me.
+
+COMDEX: plans are beginning  to firm up.  We will  be there on 29
+November.   It looks  like  we  will  have  our meetings  in  the
+Regalian East  Room at the Ceasar's Palace on that date, probably
+in the morning.  We are planning both a usual general meeting and
+a new series of tutorials this time.  Several of our members have
+volunteered  to  help  with  the  tutorials (about  four separate
+sessions) and people  from OASIS TECHNOLOGY have been  invited to
+participate.  If you  have any thoughts on this,  get to me soon.
+More later when the plans are firmer.
+
+WOW!   This was a long newsletter.  I guess it is a reflection of
+the  three  enormous  post  office mail bags I had waiting for me
+when I got back from our Asian trip.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265 (If I'm gone, an answering machine takes over)
+(805) 965-5415 (bulletin board - 300/1200 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 30
+-----------------------------------------------------------------
+▼ EMBER30.FEEDBACK:VOL30                                   01/29/85 17:20 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER30.FEEDBACK                                  1 October 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+DANGER IN BASIC CSI COMMAND                       10 March 1983
+
+The Oasis  Basic  manual instructions  about the  use  of the CSI
+command indicate  that you can't use it to attach a device with a
+class  code   driver.   What  the  manual  doesn't  say  is  that
+attempting to do  so may, as it did  in one case for us, blow the
+system  nucleus and  one  or  more  sectors  of the  system  disk
+directory into oblivion.   This caused us to loose  several hours
+of work  on a  8 Mbyted hard disk, but  could have been even more
+disasterous if used on a fully operational system.
+
+Tom Cannon
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER30.FEEDBACK                           1 October 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 30.
+
+*****************************************************************
+
+
+COPYX.ASSEMBLE/COMMAND
+
+This is  a  generalized  expand/copy program  that transfers data
+from  a KEYED  or INDEXED  file to any other file  with a similar
+KEYLEN  RECSIZE.  One  major feature  of this utility is that  it
+pulls data  from the input file on a "SECTOR" basis, which speeds
+up  the  process  and  guarantees  to  extract  all INDEXED  file
+records.  It  waq  developed  in  the  process of  improving  the
+performance of Bob Chapman's spelling checker (PRUFEDIT).
+
+One of  the changes  I made,  allows the use of KEYED  or INDEXED
+files.   The  actual  modifications  to  "PRUFEDIT"  were  mailed
+directly to Bob.
+
+From Gary Bergman (201) 246-7285
+
+WANT MORE INFO NOW? [Y/N]:N
+
+NCODE.ASSEMBLE/COMMAND
+
+This utility "encodes"  a sequential file by scrambling each byte
+according  to a  specific alogrithim.   This  is the same program
+that was used  to "encode" the data for  the "QUIP" system.  From
+Gary Bergman (201) 246-7285
+
+
+WANT MORE INFO NOW? [Y/N]:N
+
+NVELOPS.EXEC/SCRIPT
+
+This is a routine I wrote to print labels from the various
+mailing  lists  (eg. MEMBERS.ADDRESS and EDITORS.ADDRESS).
+It asks for the name of the mailing list and the runs  the
+SCRIPT file ENVELOPS.SCRIPT. It's not fancy at all, but it
+is the one I use all the time as of right now.  FB
+
+Syntax:    ENVELOPS  [<fn> <ft>]|[HELP]
+
+Note:      No punctuation used between file name and type.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ABEL3A.SCRIPT
+
+
+Is a  SCRIPT file  for printing  3 across labels.  It prints  one
+label per record (3 records at a time).  Most of the time I print
+duplicate sets at once, with a simpler file.  This file is used
+when only  1 label per record is needed.  There are other ways of
+accomplishing this, but I thought I would just pass this along to
+you.    Gary Bergman (201) 246-7285
+
+To use this you must first ASSIGN channel 3 to the mailing list
+file (eg >ASSIGN 3 MEMBERS ADDRESS S).  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+SGS.EXEC
+
+This  is  a  program  first released on volume 23.  Bill Symonds,
+after a lot of frustration, discovered several bugs in  it  which
+have  been corrected in this re-release. (Note: this EXEC must be
+used in conjunction with the other MSGS* programs on volume 23. )
+You should just copy it over  to  volume  23 before trying to run
+the MSGS system.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+CP.DOC/EXEC
+PCPACK/PCPADD/PCPINIT1/PCPINIT2/PCPINIT3/PCPINVNT.BASIC
+PCPINVNT.INDEXED
+PCPJOBS.INDEXED
+PCPMENU.BASIC
+PCPPRINT.WORK
+PCPSRIAL.BASIC/INDEXED
+
+This is  a full  production control program/system (PCP).  It was
+developed  by  Bill  Quintrell of  PERSONALIZED BUSINESS SYSTEMS,
+  Mountain  Creek   Rd  #1409,Chattanooga,  TN  37415  (615)
+-2716.  He would like to do something with it commercially, so
+this is an  end-user-only copy (as with most  OUG library items).
+The  documentation is  skimpy and  there are a few places  in the
+code  where  improvements could  be made.   With  these things in
+mind, you  will still  find PCP is a complete,  fully functional,
+ready to run system.  If you make any improvements to it for your
+own use, please let both Bill and me know.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+UIP1.ASSEMBLE/COMMAND/DATA/RECORD
+
+The QUIP  program originally  released on volume 22 was slighltly
+modified  to  work  with QUIP1.DATA  and a  new  set of QUIPS was
+prepared  for  this contribution.   The new  quips  came from the
+students of  UCSB who have been contributing them over the years.
+FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+EBUILDP.EXEC
+
+This is time  saving utility  for fixing crashed partitions in  a
+multi-user  system without  reseting the entire system.  You will
+need to  make some  changes to this EXEC for  your own system, no
+doubt,  but  look  it  over  and  see  what  you  think.  It  was
+contributed by Albert Bates of Plenty.  (615) 964-3992.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+HOFILE.EXEC
+SHOWFILE.ASSEMBLE/COMMAND
+SHOWFMCK.COPY
+SHOWFUNP.COPY
+
+The OASIS  "FILELIST"  command  does not  show the  key  size for
+Indexed  and Keyed  files.  In  addition, some of the other  file
+parameters  are  encoded  in  a  rather  cryptic  fashion.  These
+limitations are imposed by the requirement that each file's entry
+fit on a single line.
+
+The "SHOWFILE"   utility   was   written   to  circumvent   these
+limitations.  It  displays a file's format information (including
+key length and percentage of records in use for Keyed and Indexed
+files) in a  more readable format.  Since the  display fills most
+of  the   screen,  this  utility  allows  only  a  single  file's
+parameters to  be displayed at one time--no wildcards are allowed
+in the file  specification.  The utility will work  with any file
+format.
+▼ ^
+This program uses  two routines  which may be of use  to assembly
+language  programmers.  "SHOWLMCK.COPY"  is used at the beginning
+of  an OASIS  program.  It  tests to see whether there  is enough
+memory to  run the program.  It also tests to see if the user has
+requested  "HELP"  and displays  the help message if appropriate.
+"SHOWLUNP.COPY"  will  unpack the  date and  time  from the OASIS
+packed format.  It has the reverse effect of SC 46 ("PACK").
+
+Written by:  John Taylor
+             Taylor Electric Co.
+             PO Drawer 11N
+             Milwaukee, WI  53201
+             (414) 367-5123
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 30.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 an answering machines will answer, if I don't.
+(805) 965-5415 (CARAVAN, the OUG 300/1200 baud Bulletin board)
+
+****************************************************************
+
+>

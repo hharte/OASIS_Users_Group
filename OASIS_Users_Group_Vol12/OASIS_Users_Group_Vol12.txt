@@ -1,0 +1,723 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: May 1982
+Volume: 12
+
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST12  A 04/30/82 19:41    53    3 S    69 VOL$12
+BENCH    EXEC     A 05/12/82 20:22    57    2 S    74 VOL$12
+BENCH1   BASIC    A 05/13/82 17:45    50    3 S    88 VOL$12
+BENCH11  BASIC    A 05/13/82 17:57    46    2 S    89 VOL$12
+BENCH2   BASIC    A 05/12/82 18:41    29    2 S    87 VOL$12
+BENCH22  BASIC    A 05/12/82 18:44    26    2 S    88 VOL$12
+CLOCK    BASICOBJ A 05/13/82 17:46    73    3 S   101 VOL$12
+CLOCK    EXEC     A 04/23/82 17:56    29    1 S    77 VOL$12
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$12
+DATABASE FORM$1   A 10/26/81 13:57    60    5 S   132 VOL$12
+DATAFILE FORM$1   A 11/18/81 13:49    12    1 S    69 VOL$12
+EPSON    ASSEMBLE A 08/16/81 00:00   103    3 S    48 VOL$12
+EPSON    COMMAND  A 11/23/81 17:35     4    1 R   256 VOL$12
+EPSONPRT EXEC     A 05/13/82 18:10    22    1 S    52 VOL$12
+FILLFORM BASIC    A 05/12/82 18:45   115    7 S   137 VOL$12
+FILLFORM DATAFILE A 03/06/82 17:32    36    2 S    71 VOL$12
+FILLFORM EXEC     A 05/13/82 19:56    47    2 S    79 VOL$12
+FILLFORM FORMFILE A 03/06/82 17:32    60    5 S   132 VOL$12
+FILLFORM INFO     A 02/01/82 09:49    68    4 S    78 VOL$12
+GRAPHNET BASIC    A 05/12/82 18:41    83    3 S    82 VOL$12
+GRAPHNET EXEC     A 05/13/82 17:49    97    4 S    77 VOL$12
+MEMBER12 FEEDBACK A 05/12/82 19:20    50    3 S    78 VOL$12
+NEWS     LETTER12 A 05/12/82 19:43   140    7 S    77 VOL$12
+OKI      ASSEMBLE A 03/31/82 19:37   143    4 S    62 VOL$12
+OKI      COMMAND  A 03/31/82 19:38     2    1 R   256 VOL$12
+OKI      DOC      A 04/01/82 16:36    46    3 S    79 VOL$12
+OKIDATA  EXEC     A 04/11/82 17:39     9    1 S    25 VOL$12
+REMIND   EXEC     A 05/13/82 17:52    19    1 S    75 VOL$12
+REMINDER BASIC    A 05/13/82 20:35   202   12 S   106 VOL$12
+REMINDER EXEC     A 05/13/82 17:51    17    1 S    73 VOL$12
+SELECT12 EXEC     A 05/13/82 20:53    76    4 S    46 VOL$12
+TEK4025  EXEC     A 05/13/82 20:38    19    1 S    70 VOL$12
+TEK4025  MEDIA127 A 04/30/82 20:15    19    2 S    79 VOL$12
+TNT      EXEC     A 11/23/81 18:32    73    2 S    65 VOL$12
+VOL12    EXEC     A 05/13/82 20:48   416   12 S    73 VOL$12
+WISH     LIST12   A 05/12/82 19:03    42    2 S    75 VOL$12
+XBCPM    BASIC    A 04/22/82 17:48    88    3 S    73 VOL$12
+XBEOQ    BASIC    A 04/22/82 18:57    49    2 S    85 VOL$12
+XBEPQ    BASIC    A 04/22/82 18:57    49    2 S    85 VOL$12
+XBPERT   BASIC    A 04/22/82 20:03   109    4 S    84 VOL$12
+XBTA     BASIC    A 04/22/82 18:00   313    9 S    97 VOL$12
+XFABR    BASIC    A 04/21/82 20:14    37    2 S    73 VOL$12
+XFAIOB   BASIC    A 04/22/82 17:26    89    3 S    81 VOL$12
+XFCIC    BASIC    A 04/22/82 17:35    20    1 S    73 VOL$12
+XFCR     BASIC    A 04/22/82 18:53    79    3 S    85 VOL$12
+XFCVOATB BASIC    A 04/22/82 18:55    47    2 S    87 VOL$12
+XFDS     BASIC    A 04/22/82 18:57    39    2 S    73 VOL$12
+XFFMROR  BASIC    A 04/22/82 19:18   107    4 S    80 VOL$12
+XFFSRA   BASIC    A 04/22/82 19:18   188    5 S    73 VOL$12
+XFFVOAI  BASIC    A 04/22/82 19:18    36    2 S    77 VOL$12
+XFIA     BASIC    A 04/22/82 19:48   346   11 S    84 VOL$12
+XFIROR   BASIC    A 04/22/82 19:54    64    2 S    73 VOL$12
+XFLBD    BASIC    A 04/22/82 19:57    67    3 S    80 VOL$12
+XFNPVOAI BASIC    A 04/22/82 20:02    43    2 S    76 VOL$12
+XFPSC    BASIC    A 04/22/82 20:05   101    3 S    74 VOL$12
+XFPVOATD BASIC    A 04/22/82 17:36    32    2 S    80 VOL$12
+XFRO78I  BASIC    A 04/22/82 17:39    34    2 S    84 VOL$12
+XFSIA    BASIC    A 04/22/82 17:44    91    3 S    73 VOL$12
+XMBDA    BASIC    A 04/22/82 17:47    81    3 S    73 VOL$12
+XMCS     BASIC    A 04/22/82 18:54    97    4 S    74 VOL$12
+XMDFD    BASIC    A 04/22/82 18:56    27    1 S    73 VOL$12
+XMF      BASIC    A 04/22/82 19:16    42    2 S    73 VOL$12
+XMLI     BASIC    A 04/22/82 19:58    84    3 S    78 VOL$12
+XMMA     BASIC    A 04/22/82 19:58    94    3 S    83 VOL$12
+XMNBA    BASIC    A 04/22/82 19:59    74    3 S    85 VOL$12
+XMNBC    BASIC    A 04/22/82 20:00    49    2 S    73 VOL$12
+XMNI     BASIC    A 04/22/82 20:00    64    2 S    73 VOL$12
+XMPMA    BASIC    A 04/22/82 20:04   122    4 S    77 VOL$12
+XMS      BASIC    A 04/22/82 17:43   220    6 S    74 VOL$12
+XMSET    BASIC    A 04/22/82 17:44    79    3 S    73 VOL$12
+XMSMQT   BASIC    A 04/22/82 17:45   123    5 S    73 VOL$12
+XMSOP    BASIC    A 04/22/82 17:46    47    2 S    73 VOL$12
+XMUEOSD  BASIC    A 04/22/82 18:02    45    2 S    73 VOL$12
+XVHB     BASIC    A 04/22/82 19:21   330    9 S    73 VOL$12
+XVMT     BASIC    A 04/22/82 19:59    63    3 S    75 VOL$12
+XVTC     BASIC    A 04/22/82 18:02    52    2 S    73 VOL$12
+76 file(s), 244 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+BENCH2.BASIC:A copied to BENCH2.BASIC:D
+CLOCK.EXEC:A replaces CLOCK.EXEC:D
+FILLFORM.INFO:A copied to FILLFORM.INFO:D
+OKI.DOC:A copied to OKI.DOC:D
+XFABR.BASIC:A copied to XFABR.BASIC:D
+XFFSRA.BASIC:A copied to XFFSRA.BASIC:D
+XMSET.BASIC:A copied to XMSET.BASIC:D
+XVTC.BASIC:A copied to XVTC.BASIC:D
+EPSON.COMMAND:A copied to EPSON.COMMAND:D
+FILLFORM.BASIC:A copied to FILLFORM.BASIC:D
+FILLFORM.DATAFILE:A copied to FILLFORM.DATAFILE:D
+GRAPHNET.EXEC:A copied to GRAPHNET.EXEC:D
+REMIND.EXEC:A copied to REMIND.EXEC:D
+TNT.EXEC:A copied to TNT.EXEC:D
+VOL12.EXEC:A copied to VOL12.EXEC:D
+XBPERT.BASIC:A copied to XBPERT.BASIC:D
+BENCH22.BASIC:A copied to BENCH22.BASIC:D
+XBCPM.BASIC:A copied to XBCPM.BASIC:D
+XFLBD.BASIC:A copied to XFLBD.BASIC:D
+XFNPVOAI.BASIC:A copied to XFNPVOAI.BASIC:D
+XMCS.BASIC:A copied to XMCS.BASIC:D
+XMSMQT.BASIC:A copied to XMSMQT.BASIC:D
+XVMT.BASIC:A copied to XVMT.BASIC:D
+BENCH.EXEC:A copied to BENCH.EXEC:D
+REMINDER.EXEC:A copied to REMINDER.EXEC:D
+XFAIOB.BASIC:A copied to XFAIOB.BASIC:D
+XFCVOATB.BASIC:A copied to XFCVOATB.BASIC:D
+XFDS.BASIC:A copied to XFDS.BASIC:D
+XFFVOAI.BASIC:A copied to XFFVOAI.BASIC:D
+XFIA.BASIC:A copied to XFIA.BASIC:D
+XFPVOATD.BASIC:A copied to XFPVOATD.BASIC:D
+EPSONPRT.EXEC:A copied to EPSONPRT.EXEC:D
+GRAPHNET.BASIC:A copied to GRAPHNET.BASIC:D
+XFCR.BASIC:A copied to XFCR.BASIC:D
+XMMA.BASIC:A copied to XMMA.BASIC:D
+XVHB.BASIC:A copied to XVHB.BASIC:D
+BENCH11.BASIC:A copied to BENCH11.BASIC:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+DATABASE.FORM$1:A copied to DATABASE.FORM$1:D
+DATAFILE.FORM$1:A copied to DATAFILE.FORM$1:D
+XBTA.BASIC:A copied to XBTA.BASIC:D
+XFCIC.BASIC:A copied to XFCIC.BASIC:D
+XFRO78I.BASIC:A copied to XFRO78I.BASIC:D
+XFSIA.BASIC:A copied to XFSIA.BASIC:D
+CLOCK.BASICOBJ:A replaces CLOCK.BASICOBJ:D
+EPSON.ASSEMBLE:A copied to EPSON.ASSEMBLE:D
+MEMBER12.FEEDBACK:A replaces MEMBER12.FEEDBACK:D
+OKIDATA.EXEC:A copied to OKIDATA.EXEC:D
+REMINDER.BASIC:A copied to REMINDER.BASIC:D
+WISH.LIST12:A copied to WISH.LIST12:D
+XFIROR.BASIC:A copied to XFIROR.BASIC:D
+XMLI.BASIC:A copied to XMLI.BASIC:D
+FILLFORM.FORMFILE:A copied to FILLFORM.FORMFILE:D
+NEWS.LETTER12:A replaces NEWS.LETTER12:D
+SELECT12.EXEC:A copied to SELECT12.EXEC:D
+TEK4025.MEDIA127:A copied to TEK4025.MEDIA127:D
+XBEOQ.BASIC:A copied to XBEOQ.BASIC:D
+XFPSC.BASIC:A copied to XFPSC.BASIC:D
+XMDFD.BASIC:A copied to XMDFD.BASIC:D
+XMNBA.BASIC:A copied to XMNBA.BASIC:D
+FILLFORM.EXEC:A copied to FILLFORM.EXEC:D
+OKI.ASSEMBLE:A copied to OKI.ASSEMBLE:D
+TEK4025.EXEC:A copied to TEK4025.EXEC:D
+XBEPQ.BASIC:A copied to XBEPQ.BASIC:D
+XFFMROR.BASIC:A copied to XFFMROR.BASIC:D
+XMNI.BASIC:A copied to XMNI.BASIC:D
+XMPMA.BASIC:A copied to XMPMA.BASIC:D
+XMSOP.BASIC:A copied to XMSOP.BASIC:D
+$README.FIRST12:A copied to $README.FIRST12:D
+BENCH1.BASIC:A copied to BENCH1.BASIC:D
+OKI.COMMAND:A copied to OKI.COMMAND:D
+XMBDA.BASIC:A copied to XMBDA.BASIC:D
+XMF.BASIC:A copied to XMF.BASIC:D
+XMNBC.BASIC:A copied to XMNBC.BASIC:D
+XMS.BASIC:A copied to XMS.BASIC:D
+XMUEOSD.BASIC:A copied to XMUEOSD.BASIC:D
+
+>OKI
+
+
+Printer 1 is not attached!
+
+
+>VOL12
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 12  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  12,
+THE LATEST NEWSLETTER, AND FEEDBACK FROM MEMBERS:
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST12  A 04/30/82 19:41    53    3 S    69 VOL$12
+BENCH    EXEC     A 05/12/82 20:22    57    2 S    74 VOL$12
+BENCH1   BASIC    A 05/13/82 17:45    50    3 S    88 VOL$12
+BENCH11  BASIC    A 05/13/82 17:57    46    2 S    89 VOL$12
+BENCH2   BASIC    A 05/12/82 18:41    29    2 S    87 VOL$12
+BENCH22  BASIC    A 05/12/82 18:44    26    2 S    88 VOL$12
+CLOCK    BASICOBJ A 05/13/82 17:46    73    3 S   101 VOL$12
+CLOCK    EXEC     A 04/23/82 17:56    29    1 S    77 VOL$12
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$12
+DATABASE FORM$1   A 10/26/81 13:57    60    5 S   132 VOL$12
+DATAFILE FORM$1   A 11/18/81 13:49    12    1 S    69 VOL$12
+EPSON    ASSEMBLE A 08/16/81 00:00   103    3 S    48 VOL$12
+EPSON    COMMAND  A 11/23/81 17:35     4    1 R   256 VOL$12
+EPSONPRT EXEC     A 05/13/82 18:10    22    1 S    52 VOL$12
+FILLFORM BASIC    A 05/12/82 18:45   115    7 S   137 VOL$12
+FILLFORM DATAFILE A 03/06/82 17:32    36    2 S    71 VOL$12
+FILLFORM EXEC     A 05/13/82 19:56    47    2 S    79 VOL$12
+FILLFORM FORMFILE A 03/06/82 17:32    60    5 S   132 VOL$12
+FILLFORM INFO     A 02/01/82 09:49    68    4 S    78 VOL$12
+GRAPHNET BASIC    A 05/12/82 18:41    83    3 S    82 VOL$12
+GRAPHNET EXEC     A 05/13/82 17:49    97    4 S    77 VOL$12
+MEMBER12 FEEDBACK A 05/12/82 19:20    50    3 S    78 VOL$12
+NEWS     LETTER12 A 05/12/82 19:43   140    7 S    77 VOL$12
+OKI      ASSEMBLE A 03/31/82 19:37   143    4 S    62 VOL$12
+OKI      COMMAND  A 03/31/82 19:38     2    1 R   256 VOL$12
+OKI      DOC      A 04/01/82 16:36    46    3 S    79 VOL$12
+OKIDATA  EXEC     A 04/11/82 17:39     9    1 S    25 VOL$12
+REMIND   EXEC     A 05/13/82 17:52    19    1 S    75 VOL$12
+REMINDER BASIC    A 05/13/82 20:35   202   12 S   106 VOL$12
+REMINDER EXEC     A 05/13/82 17:51    17    1 S    73 VOL$12
+SELECT12 EXEC     A 05/13/82 20:53    76    4 S    46 VOL$12
+TEK4025  EXEC     A 05/13/82 20:38    19    1 S    70 VOL$12
+TEK4025  MEDIA127 A 04/30/82 20:15    19    2 S    79 VOL$12
+TNT      EXEC     A 11/23/81 18:32    73    2 S    65 VOL$12
+VOL12    EXEC     A 05/13/82 20:48   416   12 S    73 VOL$12
+WISH     LIST12   A 05/12/82 19:03    42    2 S    75 VOL$12
+XBCPM    BASIC    A 04/22/82 17:48    88    3 S    73 VOL$12
+XBEOQ    BASIC    A 04/22/82 18:57    49    2 S    85 VOL$12
+XBEPQ    BASIC    A 04/22/82 18:57    49    2 S    85 VOL$12
+XBPERT   BASIC    A 04/22/82 20:03   109    4 S    84 VOL$12
+XBTA     BASIC    A 04/22/82 18:00   313    9 S    97 VOL$12
+XFABR    BASIC    A 04/21/82 20:14    37    2 S    73 VOL$12
+XFAIOB   BASIC    A 04/22/82 17:26    89    3 S    81 VOL$12
+XFCIC    BASIC    A 04/22/82 17:35    20    1 S    73 VOL$12
+XFCR     BASIC    A 04/22/82 18:53    79    3 S    85 VOL$12
+XFCVOATB BASIC    A 04/22/82 18:55    47    2 S    87 VOL$12
+XFDS     BASIC    A 04/22/82 18:57    39    2 S    73 VOL$12
+XFFMROR  BASIC    A 04/22/82 19:18   107    4 S    80 VOL$12
+XFFSRA   BASIC    A 04/22/82 19:18   188    5 S    73 VOL$12
+XFFVOAI  BASIC    A 04/22/82 19:18    36    2 S    77 VOL$12
+XFIA     BASIC    A 04/22/82 19:48   346   11 S    84 VOL$12
+XFIROR   BASIC    A 04/22/82 19:54    64    2 S    73 VOL$12
+XFLBD    BASIC    A 04/22/82 19:57    67    3 S    80 VOL$12
+XFNPVOAI BASIC    A 04/22/82 20:02    43    2 S    76 VOL$12
+XFPSC    BASIC    A 04/22/82 20:05   101    3 S    74 VOL$12
+XFPVOATD BASIC    A 04/22/82 17:36    32    2 S    80 VOL$12
+XFRO78I  BASIC    A 04/22/82 17:39    34    2 S    84 VOL$12
+XFSIA    BASIC    A 04/22/82 17:44    91    3 S    73 VOL$12
+XMBDA    BASIC    A 04/22/82 17:47    81    3 S    73 VOL$12
+XMCS     BASIC    A 04/22/82 18:54    97    4 S    74 VOL$12
+XMDFD    BASIC    A 04/22/82 18:56    27    1 S    73 VOL$12
+XMF      BASIC    A 04/22/82 19:16    42    2 S    73 VOL$12
+XMLI     BASIC    A 04/22/82 19:58    84    3 S    78 VOL$12
+XMMA     BASIC    A 04/22/82 19:58    94    3 S    83 VOL$12
+XMNBA    BASIC    A 04/22/82 19:59    74    3 S    85 VOL$12
+XMNBC    BASIC    A 04/22/82 20:00    49    2 S    73 VOL$12
+XMNI     BASIC    A 04/22/82 20:00    64    2 S    73 VOL$12
+XMPMA    BASIC    A 04/22/82 20:04   122    4 S    77 VOL$12
+XMS      BASIC    A 04/22/82 17:43   220    6 S    74 VOL$12
+XMSET    BASIC    A 04/22/82 17:44    79    3 S    73 VOL$12
+XMSMQT   BASIC    A 04/22/82 17:45   123    5 S    73 VOL$12
+XMSOP    BASIC    A 04/22/82 17:46    47    2 S    73 VOL$12
+XMUEOSD  BASIC    A 04/22/82 18:02    45    2 S    73 VOL$12
+XVHB     BASIC    A 04/22/82 19:21   330    9 S    73 VOL$12
+XVMT     BASIC    A 04/22/82 19:59    63    3 S    75 VOL$12
+XVTC     BASIC    A 04/22/82 18:02    52    2 S    73 VOL$12
+76 file(s), 244 block(s).
+▼ EWS.LETTER12:VOL$12                                      01/30/85 18:23 Page 1
+
+----------------------------------------------------------------------
+27 March 1982           N E W S   L E T T E R
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+This new volume has got to be one of the best yet.  The complete
+OSBOURNE Book, "Practical Basic Programs", is on it along with
+a series of benchmark programs, a specialized database system,
+a system for sending telegrams with your computer/modem, and
+miscellaneous other goodies.
+
+I've come to realize that OASIS is not getting as much "press" as
+it deserves.  There are lots of reviews of CP/M and UNIX compatible
+software, but precious little about the OASIS stuff.  It occurs to
+me that we can probably do something about that.  Any time you have
+occasion to write to the editors of any magazine you read, mention
+that you would like to see more articles about OASIS.  If you have
+commercial software, make sure all the appropriate journals get a
+press release (or a series of them) describing your software.  Invite
+them to review it, too.  Offer to send a demo disk.  I will be
+putting out a computer journals mailing list sometime soon.  WE REALLY
+MUST GET THEM TO START GIVING US A LITTLE SOMETHING NOW AND THEN.
+After all, there are about 20,000 OASIS users now!
+
+Speaking of demonstration disks, it occurred to me that one way to
+satisfy many many people's curiosity about what various commercial
+program packages do, would be to issue a series of brief demonstration
+programs.  They could just summarize the special features of the
+package, and then run through a short demo of how the output looks
+in a typical application.  Of course there are problems with this.
+The demo would have to run hassle free on lots of different kinds
+of equipment, and would have to be very "user friendly."  I still
+think the idea is worth some thought by you commercial software
+developers.  Let me know what you think.  We need someone to be the
+first to try out the idea.
+
+Every now and then I start thinking about the tremendous potential
+power the possession of a personal computer gives us.  For example,
+we can very easily send out large numbers of "PERSONAL" letters
+to decision makers expressing our concerns.  Or, quickly check some
+complicated calculation that the general public must just accept
+as fact.  I have just begun to think of the possible ways I can use
+my system to bring a little reason to some of the insanity I see
+all around us.  What about you?  If you have been doing anything
+along these lines, I'd personally love to hear about it, and more
+than likely will want to put information about it into the library.
+
+The possibilities are endless.  For example, I'd like to see us start
+a series of public concern "form" letters that the rest of us could
+consider modifying and sending out on our systems.  Next time you write
+your congressional representative send me a copy of the letter (on disk,
+naturally).  If you make up a mailing list of names of people to go with
+the letter, send that too.
+
+For safety, we should probably avoid highly controversial subjects
+in starting this sort of thing, but there are an infinite number
+of problems around us that most of us recognize and agree
+on (such as rising crime rates, health hazards, warped western values, etc.).
+Why not start thinking about ways you can increase your effectiveness
+as a change maker through the use of the tool you are using to read
+this. Let's see what can be done.
+
+O.K. Here's the latest on the BusinessMaster conversion project.
+I'm still waiting to send out copies of the unconverted version
+until the 120 odd programs are at least renumbered.  I have two
+possibilities here.  Someone has promised to use CTRAN for us
+on the programs as soon as it is actually available (as of 10 May
+1982 it is still not released by Phase One Systems).  The second
+possibility is that I may get our own version of CCONVERT prepared
+first and use it.  We have MCONVERT as an excellent starting point
+for the CBASIC2 version.  I would think that one way or another
+we should be able to get started in a couple of months.
+
+The most recent conversion of the two Osbourne books reminds me
+to ask if there are any published collections of programs you
+would like to see converted and modified for use with OASIS.
+There are lots of books of programs in the book stores, most of
+the ones I've looked at are not all that interesting.  If you've
+seen any good ones, I'd like to hear about it.
+
+Along this same line, what kinds of software would you like to
+see being added to the library?  Would be authors sometimes ask
+about the kinds of programs there seems to be special interest
+in.  I know a number of members have a large number of old CP/M
+programs they are planning to convert and would like advice on
+where they should begin.  I listen to you, but very few people
+ever mention the things they wish they could find.
+
+If you are a member of another users' group, you might consider
+using their library as a potential source for programs to be
+converted for use under OASIS.  There is a little work envolved,
+but it is almost always easier to convert a good program than
+to start writing one from the beginning.  Quite a bit of the
+things now in our library were converted from programs in one
+of the CP/M Users Group Libraries.  And, there are hundreds of
+users groups.  Also, many of the bulletin boards offer the
+capability of down-loading software that can then be converted
+for use under OASIS.  It's not hard to do at all.  Just takes
+a little time and knowledge of the two Basics.
+
+Our own Bulletin Board has gotten bogged down because of an
+incompatibility between the Computer and version 5.5 of OASIS.
+I haven't lost hope of getting it up and running, just haven't
+had time to work on it lately.
+
+
+After lots of conversations on the subject, I've decided to release
+all future BASIC programs as ASCII files.  The tiny space saving
+that results from putting them into a BASICOBJ form isn't worth
+the questions from people (new users) who don't yet know their
+way around the Interpreter/Compiler.  It wont really make much
+difference to the rest of us, so GOODBYE.BASICOBJ and HELLO.BASIC.
+
+Several of our members have pointed out how easy it is to make
+any old SSSD floppy diskette into a double sided "flippy."  All
+you have to do is punch a second set of holes in the jacket
+like you see on regular "flippies" that you buy.  There is quite
+a bit of tolerance for error, too.  I've now tried it many times
+and have never found a diskette that would not initialize with
+double density!  Of course the manufacturer doesn't guarantee
+the back side to be error free, but then again 10,000 hobbyists
+can't be wrong.  Might be just what the recession ordered.
+
+Well, that's it for this volume.  I know this letter rambles a
+lot, but then I don't plan to enter it in any literary contest
+just now.  If you don't like mine, write some of your own, and
+I'll put them on the next volume.
+
+
+Peace,
+
+
+Fred Bellomy
+OASIS Users' Group
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265 or 965-5555 (answ. mach.)
+
+▼ EMBER12.FEEDBACK:VOL$12                                  01/30/85 18:23 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+USER FEEDBACK for 1 May 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                          09 April 1982
+
+
+Greetings!
+
+     Here at last is the debugged CLOCK, which handles 12-hour or 24-hour
+format, and the accompanying EXEC.  Also enclosed is the complete FILLFORM
+set, with an example built into the FILLFORM EXEC, as per your request.  The
+third program here is yet another version of REMINDER, prompted by problems I
+was having with other people wanting to leave messages for me, but inadver-
+tantly in the process getting all my messages for the day (which then get
+cleared from the file).  I don't know that it's worth putting this version out
+as a "What?  Again??" file, but decided to send it to you to judge.
+
+     Volumes 10 and 11 are full, rich, and satisfying.  I haven't yet explored
+everything included (far from it, actually), but the write-ups sound great,
+and those I've tried look very good.  Congratulations on doing a bang-up job
+again (as usual)!
+
+     I'm looking forward mightily to Ron Brubaker's sort routine(s).  A fast
+sorter is probably the single tool I want most, right now.  And if his work on
+BLACKBOX is typical, he does excellent programming.
+
+     YES---I am interested in discussing a joint venture into marketing OASIS
+software.  I have several ideas, and would like to hear more, so let's talk!
+More and more as I go along, OASIS looks like a great place to be.  If you can
+call me sometime soon, great.  If I haven't heard from you be about April 21
+or 22 I'll call you.  OK?  Alright.
+
+
+     Quitting time . . .
+
+                              Peace,
+
+                              Joe Trimble
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vince Oster called to tell me about a "bug" in the BASIC interpreter/Compiler.
+Whenever you CHAIN or LINK to another program module, only the last file
+OPENed is CLOSEd.  If you happen to have multiple files open, they will be
+passed OPEN to the next module and you get an error if you try to open the
+file again.  Thanks Vince
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST12:VOL$12                                        01/30/85 18:23 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST - I wish somebody would.......................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+3.  We need to develop a cheap way for members to call the new OUG Bulletin
+Board computer.  Does anyone know a way to use the networks (ie TELENET,
+TYMNET, etc.) or other phone service for cheap "off hours" communications?
+
+5.  We need a clearly written proceedure for setting up new class codes.
+
+6.  We need a conversion routine for converting ASSEMBLY language code
+from other Z80 systems to OASIS.
+
+7.  We need a BASIC disassembler.
+
+10. We still need conversion programs for lots of other versions of
+BASIC.  True, we do now have MCONVERT for MBASIC programs, but that's
+only one of many important dialects.  Using the algorhythms in MCONVERT
+it shouldn't be that difficult to make others!  Give it a try.
+
+11. Many members have asked for investment management programs.
+
+12. Many, many other users group libraries need to be checked for
+things that can be converted for use under OASIS.
+
+13. Someone who can down load the OUG library from 8" diskettes to
+the 5.25" diskettes for Vector Graphics and the IBM Personal computers.
+Grant Krucik now handles all other formats for which anyone has
+expressed an interest.
+
+14. Someone to do an "in-depth" critical review of stuff in the OUG
+library.
+
+15. We need a roster of people who have done significant reviews of
+commercial software offerings.  And, we need to know who you are.
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 May 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 12.
+
+***************************************************************
+
+
+BENCH.EXEC/BENCH1.BASIC/BENCH11.BASIC/BENCH2.BASIC/BENCH22.BASIC
+
+These are a series of benchmark programs designed to compare disk
+access and processor speeds of different computer systems.  They
+were originally proposed by IBC, but have been altered slightly
+for this presentation.  An attempt was made to keep the performance
+measurement results the same as the original, but that is not
+guaranteed.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+LOCK.EXEC/BASIC
+
+Displays current data and time in digital format on the CRT screen,
+in either 12-hour or 24-hour ("military") form.  Created by Joe Trimble.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PSON.COMMAND/ASSEMBLE/EXEC
+
+UTILITY FOR SELECTING SPECIAL FEATURES OF EPSON MX-80 PRINTER.
+SUBMITTED BY VINCE OSTER (605) 342-8455.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ILLFORM.BASIC/DATAFILE/EXEC/FORMFILE/INFO
+DATABASE.FORM$1/DATAFILE.FORM$1
+
+This is a major utility submitted by Joe Trimble (415) 836-3281.
+It allows you to create common forms and then to fill them with variable
+data maintained in separate files.  It has lots of flexability and an
+extensive set of it's own commands.  It's bound to be an important
+new capability for a lot of you.  Thanks Joe.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EMIND.EXEC/REMINDER.BASIC/EXEC
+
+This is an enhanced version of the program Joe Trimble originally
+submitted some time ago.  He has added the ability to show what is
+happening tomorrow as well as today.  It's a much better program
+now. REMIND just retrieves messages, while REMINDER.EXEC provides
+access to the full range of capabilities of the program.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RAPHNET.BASIC/EXEC
+
+GRAPHNET is a new online facility for sending TELEX AND TWX messages
+using your own terminal and modem.  They have other capabilities,
+such as store and forward and a service like Western Union MAILGRAM.
+It is very cheap for most locations (about 30 cents per minute for
+telegrams + $5.00 per month access fee).  This utility just puts the
+necessary data at the beginning and end of your own text file for
+compatibility with GRAPHNET.  I think we can do more with this
+facility, and would welcome your thoughts on the subject.
+This program was submitted by Paul Schindler (415) 254-4923.
+
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+KI.ASSEMBLE/COMMAND/DOC
+OKIDATA.EXEC
+
+Utility for setting up the parameters required by the Okidata "Microline"
+model 82A printer.  It is easy to use.
+Submitted by John Taylor (414) 367-5123.
+
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EK4025.EXEC/MEDIA127
+
+This utility is highly specialized for systems that have both a
+Tektronix 4025 graphics terminal and a Sanders Technology Media 12/7
+printer.  It programs the terminal function keys to issue printer
+function commands to be imbedded in text files destined for the
+printer.  I use it all the time on my system, and so offer it to
+anyone who happens to have my same configuration or who is interested
+in the general technique used. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+NT.EXEC
+
+This is a demonstration of the Votrax Type-'N-Talk speech synthesizer.
+I sell them and everyone wants to "see" it speak words they make up.
+It temperarily attaches the printer to port 4 to which it is assumed
+you have attached the TNT unit. It then goes through a "canned" speech
+and then lets you type in what ever you want it to say.  Lots of fun
+at a party!
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SBOURNE'S "PRACTICAL BASIC PROGRAMS" - BUSINESS GROUP
+
+A group of 5 programs to handle a variety of business problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (B,F,M, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+B is for Business, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Practical Basic Programs."
+
+The BUSINESS group follows:
+
+XBCPM       CRITICAL PATH METHOD
+XBEOQ       ECONOMIC ORDER QUANTITY
+XBEPQ       ECONOMIC PRODUCTION QUANTITY
+XBPERT      PROGRAM EVALUATION AND REVIEW TECHNIQUE
+XBTA        TRANSPORTATION ALGORITHM
+
+TO TRY ONE NOW ENTER <name> ELSE HIT THE <CR> TO CONTINUE:
+SBOURNE'S "PRACTICAL BASIC PROGRAMS" - FINANCIAL GROUP
+
+A group of 17 programs to handle a variety of financial problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (B,F,M, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+B is for Business, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Practical Basic Programs."
+
+The FINANCIAL group follows:
+
+XFABR     APPORTIONMENT BY RATIOS
+XFAIOB    ACCRUED INTEREST ON BONDS
+XFCIC     CONTINUOUS INTEREST COMPOUNDING
+XFCR      CHECKBOOK RECONCILIATION
+XFCVOATB  CURRENT VALUE OF A TREASURY BILL
+XFDS      DEPRECIATION SWITCH
+XFFMROR   FINANCIAL MANAGEMENT RATE OF RETURN
+XFFSRA    FINANCIAL STATEMENT RATIO ANALYSIS
+XFFVOAI   FUTURE VALUE OF AN INVESTMENT
+XFIA      INCOME AVERAGING
+XFIROR    INTERNAL RATE OF RETURN
+XFLBD     LEASE/BUY DECISION
+XFNPVOAI  NET PRESENT VALUE OF AN INVESTMENT
+XFPSC     PROFIT SHARING CONTRIBUTIONS
+XFPVOATD  PRESENT VALUE OF A TAX DEDUCTION
+XFRO78I   RULE OF 78'S INTEREST
+XFSIA     SYNDICATED INVESTMENT ANALYSIS
+
+TO RUN ONE NOW TYPE <name> ELSE HIT THE <CR> TO CONTINUE:
+SBOURNE'S "PRACTICAL BASIC PROGRAMS" - MATHEMATICAL GROUP
+
+A group of 15 programs to handle a variety of mathematical problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (B,F,M, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+B is for Business, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Practical Basic Programs."
+
+The MATHEMATICAL group follows:
+
+XMBDA     BAYESIAN DECISION ANALYSIS
+XMCS      CHI-SQUARE
+XMDFD     DATA FORECASTING DIVERGENCE
+XMF       FACTORIALS
+XMLI      LAGRANGIAN INTERPOLATION
+XMMA      MARKOV ANALYSIS
+XMNBA     NONLINEAR BREAKEVEN ANALYSIS
+XMNBC     NUMERIC BASE CONVERSION
+XMNI      NEWTONIAN INTERPOLATION
+XMPMA     PAYOFF MATRIX ANALYSIS
+XMS       STATISTICS
+XMSET     STATISTICAL ESTIMATION THEORY
+XMSMQT    SWEDISH MACHINE (QUEUING THEORY)
+XMSOP     SUMS OF POWERS
+XMUEOSD   UNBIASED ESTIMATOR OF STANDARD DEVIATION
+
+TO RUN ONE NOW TYPE <name> ELSE HIT THE <CR> TO CONTINUE:
+SBOURNE'S "PRACTICAL BASIC PROGRAMS" - "VARIOUS" GROUP
+
+A group of 3 programs to handle a variety of "various" problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (B,F,M, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+B is for Business, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Practical Basic Programs."
+
+The "VARIOUS" group follows:
+
+XVHB      HOME BUDGETING
+XVMT      MUSICAL TRANSPOSITION
+XVTC      TEMPERATURE CONVERSION
+
+TO RUN ONE NOW TYPE <name> ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 12.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>

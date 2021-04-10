@@ -1,0 +1,957 @@
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST36  A 02/17/84 17:30    60    3 S    65 VOL36
+AP       EXEC     A 03/01/84 06:18    85    3 S    74 VOL36
+AP$      DOC      A 12/21/83 08:13  1747   60 S    64 VOL36
+AP$      INTRO    A 03/01/84 02:20    55    3 S    79 VOL36
+AP00     BASIC    A 12/10/83 08:03    57    3 S   103 VOL36
+AP01     BASIC    A 12/10/83 08:03   106    5 S   158 VOL36
+AP011    BASIC    A 12/10/83 08:04    78    3 S   128 VOL36
+AP02     BASIC    A 12/10/83 08:04   268   11 S   186 VOL36
+AP03     BASIC    A 12/10/83 08:04   174    7 S   167 VOL36
+AP04     BASIC    A 12/10/83 08:04    57    3 S   161 VOL36
+AP05     BASIC    A 12/10/83 08:04   278   12 S   154 VOL36
+AP06     BASIC    A 12/10/83 08:04    10    1 S    52 VOL36
+AP07     BASIC    A 12/10/83 08:05   166    7 S   163 VOL36
+AP08     BASIC    A 12/10/83 08:05    59    3 S   145 VOL36
+AP09     BASIC    A 12/10/83 08:05   133    5 S   133 VOL36
+AP10     BASIC    A 12/10/83 08:05    90    4 S   145 VOL36
+AP101    BASIC    A 12/10/83 08:05    36    2 S   103 VOL36
+AP11     BASIC    A 12/10/83 08:05    43    2 S   176 VOL36
+AP111    BASIC    A 12/10/83 08:06   136    5 S   162 VOL36
+AP12     BASIC    A 12/10/83 08:06    39    2 S    90 VOL36
+AP13     BASIC    A 12/10/83 08:06    69    3 S   228 VOL36
+AP14     BASIC    A 12/10/83 08:06    71    3 S   152 VOL36
+AP15     BASIC    A 12/10/83 08:06    53    3 S   150 VOL36
+AP16     BASIC    A 12/10/83 08:06    84    4 S   139 VOL36
+AP17     BASIC    A 12/10/83 08:07    42    2 S   126 VOL36
+AP18     BASIC    A 12/10/83 08:07    70    3 S   179 VOL36
+AP19     BASIC    A 12/10/83 08:07    22    1 S   217 VOL36
+AP20     BASIC    A 12/10/83 08:07    27    1 S    80 VOL36
+APCOMP   EXEC     A 02/29/84 20:55    32    1 S    72 VOL36
+APSETUP  BASIC    A 02/29/84 21:48    28    1 S    89 VOL36
+CONVERT  BASIC    A 02/29/84 17:37    25    1 S    77 VOL36
+CONVERT  EXEC     A 02/29/84 20:23    43    1 S    74 VOL36
+CONVERT  INFO     A 02/29/84 17:35    16    1 S    65 VOL36
+EXECLINK INFO     A 02/06/84 00:13    76    3 S    71 VOL36
+FILDEMO1 FILESPEC A 06/13/83 19:34     9    1 S    98 VOL36
+FILDEMO2 FILESPEC A 06/13/83 19:42     4    1 S    69 VOL36
+FILESPEC BASIC    A 02/17/84 13:51   168    9 S   126 VOL36
+FILESPEC DOC      A 02/17/84 14:16   115    4 S    85 VOL36
+FILESPEC EXEC     A 03/11/84 20:52    37    1 S    64 VOL36
+NOCSI    ASSEMBLE A 03/12/84 00:37    65    3 S    71 VOL36
+NOCSI    INFO     A 03/12/84 00:33    16    1 S    65 VOL36
+PC       EXEC     A 02/29/84 17:04   340    7 S    75 VOL36
+PCCLEAN  EXEC     A 02/03/84 09:08     5    1 S    13 VOL36
+PCDOWN   EXEC     A 02/16/84 07:45    20    1 S    40 VOL36
+PCUP     EXEC     A 02/17/84 11:12    17    1 S    38 VOL36
+PCWORD   EXEC     A 02/29/84 16:57    11    1 S    43 VOL36
+SELECT36 EXEC     A 03/11/84 22:11    52    3 S    46 VOL36
+VOL36    CONTENTS A 03/12/84 00:40   108    5 S    65 VOL36
+VOL36    EXEC     A 03/11/84 20:51   255    8 S    73 VOL36
+VOL36    FEEDBACK A 03/11/84 20:47   367   16 S    75 VOL36
+VOL36    NEWS     A 03/11/84 19:39   151    8 S    65 VOL36
+WISH     LIST36   A 03/11/84 19:45   104    4 S    65 VOL36
+52 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+AP02.BASIC:A copied to AP02.BASIC:D
+AP16.BASIC:A copied to AP16.BASIC:D
+AP20.BASIC:A copied to AP20.BASIC:D
+FILESPEC.DOC:A copied to FILESPEC.DOC:D
+PCUP.EXEC:A copied to PCUP.EXEC:D
+AP011.BASIC:A copied to AP011.BASIC:D
+AP03.BASIC:A copied to AP03.BASIC:D
+AP17.BASIC:A copied to AP17.BASIC:D
+AP$.INTRO:A copied to AP$.INTRO:D
+AP04.BASIC:A copied to AP04.BASIC:D
+AP18.BASIC:A copied to AP18.BASIC:D
+APCOMP.EXEC:A copied to APCOMP.EXEC:D
+CONVERT.EXEC:A copied to CONVERT.EXEC:D
+EXECLINK.INFO:A copied to EXECLINK.INFO:D
+FILESPEC.EXEC:A copied to FILESPEC.EXEC:D
+VOL36.CONTENTS:A copied to VOL36.CONTENTS:D
+AP05.BASIC:A copied to AP05.BASIC:D
+AP19.BASIC:A copied to AP19.BASIC:D
+NOCSI.INFO:A copied to NOCSI.INFO:D
+PCDOWN.EXEC:A copied to PCDOWN.EXEC:D
+SELECT36.EXEC:A copied to SELECT36.EXEC:D
+AP06.BASIC:A copied to AP06.BASIC:D
+AP10.BASIC:A copied to AP10.BASIC:D
+CONVERT.INFO:A copied to CONVERT.INFO:D
+PC.EXEC:A copied to PC.EXEC:D
+WISH.LIST36:A copied to WISH.LIST36:D
+$README.FIRST36:A copied to $README.FIRST36:D
+AP07.BASIC:A copied to AP07.BASIC:D
+AP11.BASIC:A copied to AP11.BASIC:D
+CONVERT.BASIC:A copied to CONVERT.BASIC:D
+FILESPEC.BASIC:A copied to FILESPEC.BASIC:D
+AP08.BASIC:A copied to AP08.BASIC:D
+AP101.BASIC:A copied to AP101.BASIC:D
+AP12.BASIC:A copied to AP12.BASIC:D
+APSETUP.BASIC:A copied to APSETUP.BASIC:D
+FILDEMO1.FILESPEC:A copied to FILDEMO1.FILESPEC:D
+VOL36.NEWS:A copied to VOL36.NEWS:D
+AP.EXEC:A copied to AP.EXEC:D
+AP09.BASIC:A copied to AP09.BASIC:D
+AP111.BASIC:A copied to AP111.BASIC:D
+AP13.BASIC:A copied to AP13.BASIC:D
+FILDEMO2.FILESPEC:A copied to FILDEMO2.FILESPEC:D
+NOCSI.ASSEMBLE:A copied to NOCSI.ASSEMBLE:D
+PCWORD.EXEC:A copied to PCWORD.EXEC:D
+VOL36.EXEC:A copied to VOL36.EXEC:D
+AP00.BASIC:A copied to AP00.BASIC:D
+AP14.BASIC:A copied to AP14.BASIC:D
+AP$.DOC:A copied to AP$.DOC:D
+AP01.BASIC:A copied to AP01.BASIC:D
+AP15.BASIC:A copied to AP15.BASIC:D
+PCCLEAN.EXEC:A copied to PCCLEAN.EXEC:D
+VOL36.FEEDBACK:A copied to VOL36.FEEDBACK:D
+
+>BONUS36
+File "BONUS36.COMMAND" not found.
+
+>VOL36:A
+=================================================================
+:                                                                :
+:           VOLUME 36 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "What matters is one's sense of purpose at any given moment,  :
+:   because life is merely a succession of moments."             :
+:                                              Code of Bushido   :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL36 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 36  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  36,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST36  A 02/17/84 17:30    60    3 S    65 VOL36
+AP       EXEC     A 03/01/84 06:18    85    3 S    74 VOL36
+AP$      DOC      A 12/21/83 08:13  1747   60 S    64 VOL36
+AP$      INTRO    A 03/01/84 02:20    55    3 S    79 VOL36
+AP00     BASIC    A 12/10/83 08:03    57    3 S   103 VOL36
+AP01     BASIC    A 12/10/83 08:03   106    5 S   158 VOL36
+AP011    BASIC    A 12/10/83 08:04    78    3 S   128 VOL36
+AP02     BASIC    A 12/10/83 08:04   268   11 S   186 VOL36
+AP03     BASIC    A 12/10/83 08:04   174    7 S   167 VOL36
+AP04     BASIC    A 12/10/83 08:04    57    3 S   161 VOL36
+AP05     BASIC    A 12/10/83 08:04   278   12 S   154 VOL36
+AP06     BASIC    A 12/10/83 08:04    10    1 S    52 VOL36
+AP07     BASIC    A 12/10/83 08:05   166    7 S   163 VOL36
+AP08     BASIC    A 12/10/83 08:05    59    3 S   145 VOL36
+AP09     BASIC    A 12/10/83 08:05   133    5 S   133 VOL36
+AP10     BASIC    A 12/10/83 08:05    90    4 S   145 VOL36
+AP101    BASIC    A 12/10/83 08:05    36    2 S   103 VOL36
+AP11     BASIC    A 12/10/83 08:05    43    2 S   176 VOL36
+AP111    BASIC    A 12/10/83 08:06   136    5 S   162 VOL36
+AP12     BASIC    A 12/10/83 08:06    39    2 S    90 VOL36
+AP13     BASIC    A 12/10/83 08:06    69    3 S   228 VOL36
+AP14     BASIC    A 12/10/83 08:06    71    3 S   152 VOL36
+AP15     BASIC    A 12/10/83 08:06    53    3 S   150 VOL36
+AP16     BASIC    A 12/10/83 08:06    84    4 S   139 VOL36
+AP17     BASIC    A 12/10/83 08:07    42    2 S   126 VOL36
+AP18     BASIC    A 12/10/83 08:07    70    3 S   179 VOL36
+AP19     BASIC    A 12/10/83 08:07    22    1 S   217 VOL36
+AP20     BASIC    A 12/10/83 08:07    27    1 S    80 VOL36
+APCOMP   EXEC     A 02/29/84 20:55    32    1 S    72 VOL36
+APSETUP  BASIC    A 02/29/84 21:48    28    1 S    89 VOL36
+CONVERT  BASIC    A 02/29/84 17:37    25    1 S    77 VOL36
+CONVERT  EXEC     A 02/29/84 20:23    43    1 S    74 VOL36
+CONVERT  INFO     A 02/29/84 17:35    16    1 S    65 VOL36
+EXECLINK INFO     A 02/06/84 00:13    76    3 S    71 VOL36
+FILDEMO1 FILESPEC A 06/13/83 19:34     9    1 S    98 VOL36
+FILDEMO2 FILESPEC A 06/13/83 19:42     4    1 S    69 VOL36
+FILESPEC BASIC    A 02/17/84 13:51   168    9 S   126 VOL36
+FILESPEC DOC      A 02/17/84 14:16   115    4 S    85 VOL36
+FILESPEC EXEC     A 03/11/84 20:52    37    1 S    64 VOL36
+NOCSI    ASSEMBLE A 03/12/84 00:37    65    3 S    71 VOL36
+NOCSI    INFO     A 03/12/84 00:33    16    1 S    65 VOL36
+PC       EXEC     A 02/29/84 17:04   340    7 S    75 VOL36
+PCCLEAN  EXEC     A 02/03/84 09:08     5    1 S    13 VOL36
+PCDOWN   EXEC     A 02/16/84 07:45    20    1 S    40 VOL36
+PCUP     EXEC     A 02/17/84 11:12    17    1 S    38 VOL36
+PCWORD   EXEC     A 02/29/84 16:57    11    1 S    43 VOL36
+SELECT36 EXEC     A 03/11/84 22:11    52    3 S    46 VOL36
+VOL36    CONTENTS A 03/12/84 00:40   108    5 S    65 VOL36
+VOL36    EXEC     A 03/11/84 20:51   255    8 S    73 VOL36
+VOL36    FEEDBACK A 03/11/84 20:47   367   16 S    75 VOL36
+VOL36    NEWS     A 03/11/84 19:39   151    8 S    65 VOL36
+WISH     LIST36   A 03/11/84 19:45   104    4 S    65 VOL36
+52 file(s), 247 block(s).
+▼ OL36.NEWS:VOL36                                          02/01/85 11:13 Page 1
+
+-----------------------------------------------------------------
+15 March  1984          N E W S   L E T T E R           Volume 36
+-----------------------------------------------------------------
+
+
+Good Morning;
+
+
+VOL36: Contains  some   really  heavy  weight  business  oriented
+contributions  this  time.   It includes  a complete and original
+Accounts  Payable  package  from Jim  Halpin, another utility for
+converting BASIC  programs to BASICOBJ versions from Ross Hansen,
+a nifty system for summarizing and displaying the characteristics
+of  interrelated  files  from Harry  Schauwecker, a new ambitious
+business  shell from  Peter Carlson,  and  a method for returning
+control to a COMMAND after it's execution from Ross Hansen.
+
+POLITICS: The good news  this time is that there  is no hot news.
+Stability  seems  to be  the order  of the day at the  moment, at
+least  as  far  as personnel  and relationships  among  the Oasis
+companies is  concerned.  Everyone at Phase One is now part of an
+apparently  effective  promotional  offensive.   The  IBM PC,  of
+course,  is getting  a lot  of attention, but I have  been seeing
+press  releases  for  for other  machines, too.   Looks  like our
+earlier optimism may have been justified.
+
+SOFTWARE DIRECTORY:  Phase  One  Systems has  announced a "bonus"
+edition of the directory created specially for promotion of Oasis
+on  the  Televideo computers.   The additional 10,000 copies will
+carry  all  the original  software information and advertisements
+(but will  have  all  the  original  hardware ads  replaced  with
+information   about   Televideo  equipment).    According  to  my
+calculations that  brings the  total number of copies printed  to
+27,000.  Stue  Wachs at Phase One says they are offering the same
+deal to  any hardware manufacturer who wants to play.  Looks like
+an increasingly useful place to keep an up-to-date (FREE) listing
+of  your  software  products  or  services.   They  are, however,
+increasing the display advertising costs for the next issue - our
+1/2 page (4X) went up 17 percent to $644 per issue!
+
+"C" MANUAL:  Stue  reports  that  Phase  One  now  has  a  manual
+available for Oasis "C".  Sorry, I don't have any further info at
+this time.  Call Stewart Wachs, if you want one.  (415) 562-8085.
+
+KAYPRO: I now have  unofficial word that Oasis is  up and running
+on  one  or  more of  the Kaypro  machines...   and is available.
+Apparently no formal announcement has been made by Phase One yet,
+but anyone  interested in  a Kaypro with Oasis should  call Brian
+Goodheim  at  Realsoft  Systems (303)  925-1558.  Other news from
+Kaypro Corp (with Japanese tie-ins): they  have  reduced the list
+price of  their bottom-of-the-line  Kaypro II from $1592 down  to
+$1295  and  are  maintaining the  dealer margins.   The  Kaypro 4
+remains at  $1995 and  the 10 Mbyte hard disk  Kaypro 10 stays at
+$2795  -  still  some  of  the  lowest  prices  among  the  Oasis
+compatible  machines.   Later  this  summer they  are planning to
+unveil an IBM  PC compatible lap-size portable.  Wonder  if it is
+going  to run  the  IBM  PC  version  of Oasis-16.   An  exciting
+thought.
+
+IBC: From  Randy Rogers  comes the  news that IBC now offers  the
+best price  of all  on OASIS - FREE.  Oasis  is now included free
+with all  IBC computers.   They are also bundling Sort,  Control,
+Forms,  Multi-Calc,  and over  40 user friendly utilities.  Randy
+also says that  the lead time for delivery  of the FAST 8MHz H.P.
+Middies is way  down (and the reliability is  up).  "We make 8bit
+Oasis run  faster than the 16bit Oasis.  IBC really does continue
+to be the premier Oasis computer." says he.  I've seen nothing to
+dispute  his   claims..........yet.   But,  there  is  a  lot  of
+innovative  work  going  on out  there, so  who  knows what might
+happen in the future.
+
+ALTOS: Phase  One is  now delivering  copies  of Oasis-16 for the
+Altos 586  and 986 machines; I confirmed it with both John Corwin
+at Altos and Stue Wachs at Phase One.  From Altos comes more news
+that  David  Hanna,  formerly  president  of  GRiD  Systems,  has
+replaced  founder  Dave  Jackson  as  president  of  Altos.  Dave
+Jackson remains chairman  of the board of directors  at Altos and
+Hanna stays on  the board of directors at  GRiD.  The networks of
+interconnecting  relationships  among  Silicon  Valley  companies
+reminds me of the sociograms we studied in college.
+
+IBM PC/XT: Phase  One did a big (24K) mailing to PC owner and has
+been inundated  with inquiries  ever since.  There seems to  be a
+LOT  of  interest  in  Oasis  out  there  in  PC-land.  They  are
+beginning to pay  more attention to the PC-compatibles,  too, and
+may  soon have  an announcement  about which ones really can  run
+Oasis-16.  Stay tuned.
+
+APPLE + Z80  card: With  all the Apples out there  and the recent
+emphasis on  business applications of these machines, how come no
+one has thought  about making Oasis available to  the hundreds of
+thousands of Apple owners?  Seems like an opportunity knocking to
+me ......  for someone.
+
+UNIX SEND/RECEIVE: From  Scott Bouman of Quest Research we get an
+announcement   of   a  new   software  package  that  provides  a
+SEND/RECEIVE  link  between  Oasis  8bit  computers and  machines
+running  UNIX  and/or Xenix  operating systems.  Suggested retail
+price  is $359.   Scott  can  be  reached  at (612)  894-7752  in
+Minnesota.
+
+OASIS BASIC  ON  UNIX:  From UX-Software  of Toronto Canada (416)
+591-8620 came  an announcement of another system which will allow
+you  to run  Oasis  Basic  programs  under  UNIX.  They  call  it
+UX-BASIC.   There  are quite  a few  differences  between the two
+Basic dialects, but the conversion time no doubt would be shorter
+than starting from scratch.
+
+GAMES: Guess  what.  You  are not  the only one who likes  to see
+games released  along with  all the other "serious" stuff  in our
+library.  Several members (including some pretty "serious" types)
+have told me  they really look forward to  a little light reading
+once in  a  while.  And,  we do  have  a couple members who  have
+confessed  to enjoying  the games  more  than the "useful" stuff.
+The point of all this is to encourage you to go ahead and send in
+those games  you think others might like to play, because you are
+not alone.   It is true that most of our members want the bulk of
+our library  to reflect the professional business nature of Oasis
+and our  membership.  But, all work and no play makes Jack (sorry
+Jack/John) a dull boy.
+
+OTHER OPERATING SYSTEMS: Nothing  new to report this time,  but I
+can't  help  relating   a  story  that  has  a   BEARing  on  the
+relationship of Oasis  to UNIX and the other  competing operating
+systems.
+
+At one point in  the adventures of two campers  they had to enter
+Grizzly  bear  country.  Finally,  one of  them  stops and starts
+putting  on some  running shoes.   The other asks, "What are  you
+doing  that  for?"......"In  case  of Grizzlies."  was his reply.
+"Surely you  don't think  you can outrun a grizzly,  do you." the
+other quipped....."Don't have to.  Just have to outrun you."
+
+Oasis doesn't have  to  outrun  all  the  big guys  like  UNIX or
+PC/DOS.  We  just have  to outrun some of the  other little guys,
+and Oasis is  an operating system with big  machine features that
+makes it easy for us to do that!
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265  (805)  965-5415  CARAVAN  our  OASIS  information
+exchange facility.   It runs 1200 Baud during the week and 300 on
+the weekends.
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 36
+-----------------------------------------------------------------
+▼ OL36.FEEDBACK:VOL36                                      02/01/85 11:13 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL36.FEEDBACK                                     10 March  1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+February 1984
+
+Notes to OUG:
+
+On the inclosed  disk are  several programs.  CONVERT is a  quick
+little exec  that  changes  a  'BASIC'  program  to  a 'BASICOBJ'
+program. NOCSI: this program may  give someone  an idea of how to
+retain  control  over  command program and make it return without
+exiting to the CSI.
+
+SPOOLER NOTES: Spooler  files may be unprotected by modifying the
+"SPOOLER.LOADFILE"   program.    The   byte   at  0854H   of  the
+"SPOOLER.LOADFILE"  program determines  the the protection status
+of the files  created.  Modifying this byte from  24H to 04H will
+unprotect  the  files  generated  by  the SPOOLER.   Use 'PATCH'.
+WORKS ON 5.5A/5.6A, BUT DON'T KNOW ABOUT OTHER VERSIONS.
+
+Ross Hansen
+Ross Distributing Co.
+78 South State St.
+Preston, ID 83263
+(208) 852-0830
+
+-----------------------------------------------------------------
+25 December 1983
+
+Dear Fred:
+
+It's good  to know  that  OASIS  is  alive  and well,  if  not in
+Oakland,  then at  least among  the members of the User's  group.
+I've spent the last two years developing some accounting software
+for my  company using  OASIS, and I've always been  frustrated by
+the lack of attention Phase One pays to its product.  I guess the
+fact that Oasis lives on shows how good a product it is.
+
+I first heard  of Oasis  in a Phase One ad  in Byte magazine.  We
+purchased the single user version directly from Phase One back in
+early 1982.  Since then the advertising has dried up, and now (as
+I am  about to  market our product) I have  to convince potential
+customers  that Oasis  is the  way to go; the response  is always
+"What's Oasis?".
+
+I wish I  had heard  of the Users group earlier,  because many of
+the utilities  would have  saved me time in the  past.  I want to
+get the entire back library (someday), but there is no room in my
+budget right now.  If any of my contributions earn me credit, I'd
+be  delighted to  receive any  of the volumes published before  I
+joined.
+
+As I  mentioned,  I've  written  a  group  of  accounting modules
+designed   for   my  company   (a  mechanical  contractor).   The
+accounting technique  is designed for a job cost environment, but
+it  is equally  useful with  the job cost feature disabled.   The
+programs are  the result of my experience as an accountant in the
+manufacturing and contracting areas since I got out of school (in
+1975).  I  want to sell these programs; my own market is strictly
+local (New Jersey), so if anyone is interested, let me know.
+
+The entire  package,  as  I market  it locally, includes software
+installation, training,  source listings, file specifications and
+users manuals.
+
+The major modules are:
+
+Accounts Payable       24 Programs     10 files
+Accounts Receivable    23 Programs     19 files
+General Ledger         21 Programs     17 files
+Payroll                25 Programs     18 files
+Job Maintenance         4 Programs      5 files
+Vehicle Cost            1 Programs      2 files
+Tool Inventory          4 Programs      3 files
+Transmittals            7 Programs      5 files
+
+plus many small applications (22 additional programs).
+
+The modules are  quite flexible.  The Payroll, in  particular, is
+useful in  our  industry  because  of  the way  it  handles Union
+deductions.  For example, each Union can have 10 deductions, each
+of which can be automatically calculated 48 different ways.  I've
+yet to see a union deduction that the program couldn't handle.
+The job cost feature has really helped my company get a handle on
+work  in  progress.  The  up-to-the-minute job sales and itemized
+costs are available  for display at any time,  with at most a ten
+second file access delay.  Production people use that one program
+constantly (more than the others combined).
+
+I've included the  A/P module programs for use by the Oasis Users
+Group members.  The source programs are included, but the program
+documentation and  file specifications are not on this disk (they
+are currently available, but as hard copy only).  These programs,
+and  the   other  modules,  are  for  sale  only  through  Allied
+Conditioning Corp.
+
+Tell the OUG members:
+
+DON'T SELL IT OR GIVE IT AWAY WITHOUT TELLING ME.
+
+The software is  designed to  run on a hard disk.   We use TRS-80
+Model  II and  Corvus hardware;  the screen is 79 columns  and 23
+lines.   The  programs use  the Radio  Shack  function keys: 'f1'
+equals control A, 'f2' equals control B, and BREAK equals control
+C.
+
+I hope  some of  the members  find the A/P system useful.   We've
+been using it in two locations for well over a year, and while it
+could  stand some  revision (always),  it  is reliable and pretty
+easy to use.
+
+The thing  that  most interests  me is  the  future of Oasis (and
+Phase One).  Please include as much information in future volumes
+as possible - what I've learned already is astounding!  Also, I'd
+like to know more about Tim Williams: what is his background, why
+the association with Phase One, etc.
+
+If you have any questions, let me know.  Take it easy.
+
+Jim Halpin
+Allied Conditioning Corp.
+Metuchen, N.J.
+201-548-5656
+
+-----------------------------------------------------------------
+
+December 5, 1983
+
+Dear Fred:
+
+I  am  having a problem with my 5.6A version and perhaps you know
+of a solution or possibly one  of  the other members can help me.
+
+When  two terminals try to access tthe disk at the same time they
+both get locked out and can't generate an interrupt. The only way
+out is to reboot and in doing this on our  Altos  8000-12 we must
+push the reset button a couple of times to get going.
+
+I have written to Phase One also.  Hope the OUG can help out.
+
+Sincerely,
+
+Joel Wasserman (212) 651-0900
+
+-----------------------------------------------------------------
+01068,05,02/11/84,03:43,GEORGE WILLIS,ALL (602) 967-5771
+ADDING 8" DRIVE TO ALTOS 5-5,,
+
+NEED INFO  ON  ANY  WAY TO  GET 8"  FLOPPY  DRIVE GOING ON 5-1/4"
+ALTOS.   CALL GEORGE  WILLIS AT  (602) 967-5771.  YOU MAY GET  MY
+ANSWERING  MACHINE,  BUT LEAVE  MESSAGE PLEASE.  WILL ATTEMPT ANY
+JURY  RIG  SOLUTION  THAT WORKS,  AM WILLING  AT  PAY FOR WORKING
+SOLUTION.
+
+-----------------------------------------------------------------
+01070,05,02/11/84,18:33,STEVE KHOTIM,ALL (213) 884-8110
+WANTED LOCAL PROGRAMMER  INSTRU,,
+
+We need a  local individual to give instruction in programing and
+to lecture 3  or 4 days on CSI,  Basic, Macro etc.  Pay 25-35 per
+Hr.  Travel  included.  Meals included.  Must fully knowledgeable
+in using Basic with indexed files using Oasis on Onyx system
+
+-----------------------------------------------------------------
+01073,04,03/01/84,18:53,SHAUN SWEENEY,ALL (604) 753-5823
+COMMUNICATIONS,,
+
+I am  looking  for  a  dependable  software  program  for running
+bisynchronous  comm  on  an IBC  Middi-Cadet.  Would appreciate a
+collect call  ASAP  from  anyone  who  can help.   Call  area 604
+753-5823 ask for Kerry or Shaun.  (Nanaimo Canada)
+
+-----------------------------------------------------------------
+01074,02,03/01/84,09:11,MIKE BLAISDELL,ALL
+BASIC PROGRAMMER NEEDED,,
+
+Need a competent Basic  programmer for a full time job in Oregon.
+Call Mike Blaisdell (415) 865-1323.
+
+-----------------------------------------------------------------
+01075,06,03/01/84,20:17,BRIAN GOODHEIM,ALL
+JOBS IN ATLANTA GA,,
+
+We need several new  Oasis people for our expanded  Alanta Georga
+office. Needed  immediately   are:  an  MSDOS/OASIS  applications
+programmer, an  operations manager,  and a person to do  software
+support. Send  resumes  to Brian  Goodheim, RealSoft Systems, 100
+South Spring Street #5, Aspen, CO 81611.  Or, call (303) 925-1558
+
+-----------------------------------------------------------------
+01076,06,03/03/84,01:34,JACK HOLEMAN,FRED BELLOMY
+JUST CAME BY TO SAY HOWDY,NONE,
+
+Iziy2 I{d2H8$ {cnhr es'-P|-0(t*}vrhdZ|*vf;U'Am
+{WHAT WUZ THAT}{??r??
+Rg7{}{
+}iTO}}{MiCH STATIC ON THE{LINE v{SYOU CAN{SEE (I HOPE)
+7{BYE
+
+-----------------------------------------------------------------
+01077,12,03/03/84,03:55,BOB SMYTH,FRED (617) 925-1260
+OASIS/ALTOS SALES,,
+
+Hello Fred..communicating  via CP/M  on a Morrow Micro, Anchor Mk
+XII modem.   Micoramerica is having close out sale on ALTOS 8 bit
+computers.   Example  8000-10  (4 user  10 meg winchester) around
+$1000  dealer  price.  OASIS  Operating system around $350.  5-5D
+around $1400.  16  bitters also on sale.  Also,  am getting Oasis
+BB  software via  John Taylor,  and will probably put a  board up
+soon on  one of  the ALTOS closeouts.  Keep up  the good work!!!!
+By the way, Kaypro has finally a Z80A on their version 4, at $200
+more.  Is this the OASIS unit?  Earlier KAYPROS used a 2.5KZ Z80,
+and they were a lot slower.  So long for now..Bob
+
+-----------------------------------------------------------------
+01078,06,03/03/84,09:23,DAVE KLOTZMAN,ALL (303) 473-5880
+OASIS-16/ALTOS,,
+
+I understood, as of February `84, that Phase One was the supplier
+of  16 bit  OASIS for  the Altos machines, even though  you could
+only get 8-bit OASIS for their 5 inch machines from Altos!  Altos
+is/was  waiting  for  something  called Nu-Age  BASIC, that would
+allow one to run INTERPRETIVE OASIS BASIC under eunuchs.
+
+-----------------------------------------------------------------
+01079,06,03/04/84,05:38,MIKE GILILLAND,ALL
+NEED TO CONVERT MBASIC PROGRAM,,
+
+We have  about  60,000  lines of  MBASIC programs  to  convert to
+OBASIC.   Need someone  to do  the  conversion for us, preferably
+using one of the translation programs to keep the costs down.  We
+don't have time to do it for ourselves.  If you are interested in
+doing it  for  us, give  us a  call  with a cost estimate.   Mike
+Gililland (214) 437-2001
+
+-----------------------------------------------------------------
+
+Dennis Wood called to point out that we neglected to include a
+copy of EXECLINK.INFO on volume 34.  The missing file is included
+on this volume (36).  Sorry for any inconvenience.  FB
+
+-----------------------------------------------------------------
+
+Fred:
+     Enjoyed vols. 33-35!  The RAMDISK is faster than my floppies
+but slower than the slowest hard disk!  I gotta hand it to Chapman,
+this RAMDISK is better than what I had before, but mainly it whets
+my appetite for the $50 model.
+
+     Also enjoyed the newsletter.  Especially the part about the
+$180 1200 baud modems!  (notice that I'm calling you during the
+week for the first time!)  Let me share with you what I learned in
+▼ OL36.FEEDBACK:VOL36                                      02/01/85 11:13 Page 2
+
+getting my Rixon T212A from United Products:
+
+     1. Phone number you published told me to call 206-682-5025.
+        THAT number was answered by Phil Clyde.  He sold me the
+        T212A for $199.95 (he said the last batch of 80 modems,
+        which was gone in 2 weeks!) was $180/modem, but they were
+        older versions of the same model. (!?)
+
+     2. Phil promised me the modem would work when I received it,
+        or I could send it back.  He also said Rixon was super-
+        helpful when it came to tech support, so I needn't be
+        overly-concerned that no documentation would come with it.
+        I got just enough help from them to make it a sporting
+        proposition to figure out how to hook it up, but obviously
+        I got it working now; I couldn't have done it without their
+        help.
+
+     3. Phil was happy to take my VISA charge card number over the
+        phone.
+
+     4. Just so others who may want to take advantage of this deal
+        won't have to call all over the country like I did, here's
+        what the thing needs to work:
+
+          Female (digital signal) RS-232c
+               1-chassis ground
+               2-transmit
+               3-receive
+               7-signal ground
+              20-DTR (MUST be high for modem to work)
+                     (indicated by TR light on front panel)
+
+          Male (analog (phone) signal) RS-232c
+               7-one of the TWO MAIN phone wires
+               8-the other main phone line (phones only need 2 wires)
+              18-one end of a 9310 ohm resistor (that's what Rixon said!)
+              19-other end of resistor (I used 10K ohm; works fine)
+              21-one end of momentary SPST switch
+              22-other end of momentary switch
+
+To place call:
+               1. Switch should be in open (normal) position
+               2. Dial telephone normally
+               3. Wait for carrier, then
+               4. Close switch contacts
+               5. Hang up telephone handset
+               6. Release switch, you should be connected
+
+Hints:
+     -when modem is powered, but not connected to anything, the MC light
+      should be lit.
+     -when terminal (or SIOn) is connected, the TR light should come on.
+     -pushing AL should allow you to "talk to yourself".  ie, echo will
+      be provided as if a host were echoing back (or pins 2&3 were shorted)
+     -once you reach step 6 (above), the SD light should flicker with
+      each keypress, indicating the character is being sent.
+     -the MC light will go ON if the carrier is lost!
+     -press (in) the HS button for 1200 baud, let it out for 300.
+     -make sure your SIOn baud rate is set correspondingly.
+     -I ran pin 6 of SIO3 to pin 20 of Rixon, ENAB4 seems to work.
+     -pushing in switches AL and ST should cause MC light to go off and
+      stay off after a second or two
+
+If Phil can't help the next poor soul who struggles with this, and the
+above isn't enough, feel free to give him my number (even though Phil is
+the one getting rich, he's quick to admit that he just sells them.)
+
+I've been real busy lately, ESPECIALLY with all the new OUG software to
+look over.  The STARTUP example (also from Chapman, I believe) was very
+helpful in automating the set-up of the RAMDISK as :S, and SELECTX could
+be a real life-saver one of these days!  I haven't even tried PROOF yet
+(no source code - what gives?)  You mentioned that EXECLINK was tricky,
+and suggested we look at some non-existent (on my disk) documentation.
+All in all, I was very impressed with the goodies, and hope I can find
+the time soon to send you the cleaned up versions of what you've already
+seen, as well as two new commands: BELL & STRIP.  Do you return the disks
+you receive from contributors, or will I be uploading the next batch right
+from my Altos to yours?
+
+By the way, who would you go to if you needed service on one of your
+Altos' floppy drives?  (DMA just tried Altos, and they're now 0 for 1)
+
+Remember when I told you that CARAVAN didn't return to the initial menu
+from the message center?  Well, I think what happened was that when the
+message part was terminated, it gave a terminal-sounding message to the
+effect "THAT'S ALL FOLKS...  [hang up now]".  I think I hung up before
+it returned to the initial menu!  Could you change the wording of that
+message?
+
+Speaking of changes, please update the Master OUG Members List to reflect
+the proper spelling of my last name, as well as the modem change.
+
+Well, that's all for now.  10 a.m. will come too soon as it is!!!
+
+                                   -dave klotzman
+
+PS: Finally caught up with Joel Laffitte (by phone) the other day.  He's
+at Master Systems now (they're in the OASIS application software directory)
+and he mentioned a cute trick that I'd like to pass along:
+
+>LOAD BASIC OVERLAY1
+
+>RUN QWERTYUX ; any file that won't be found
+
+-             ; !!! you'll find yourself in the Basic editor,
+                    with at least 5K more room than normally!
+                    You can't run under the interpreter this way,
+                    but you can Load, Save, and edit!
+
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL36.FEEDBACK                               10 March 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST36:VOL36                                         02/01/85 11:14 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+WISH LIST #36 - I wish somebody would ............. 15 March 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+65. A  program  for  recording  and  analyzing a  tennis player's
+performance.   Statistically evaluated  faults might help players
+(like me) improve.
+
+64. OASIS implemented on MANY more Z80 machines.
+
+63. Programs  that   integrate  logical  groups  of  OUG  library
+programs.
+
+62. Someone to write reviews of the contents of the OUG Library.
+
+61. A truly portable Oasis compatible computer.
+
+60. A MOUSE input for CONIN to work with menu screens or windows,
+together  with the  necessary software  to make it work with  the
+keyboard (through an RS232C port?).
+
+59. WASTEBASKET  routine  for  purging no  longer wanted files on
+active  disks,  but  keeping  them  available  in  some  sort  of
+"history" file(s) on a separate disk or series of disks - maybe a
+modification of PURGE.EXEC.
+
+58. I  need  faster  means  for  manufacturing new  volumes.  The
+combination of INITDISK and BACKUP takes too long now.  How about
+one command that does both functions in one pass?  I've been told
+it can't be done!!
+
+57. I  need a  simple information  system with which to file  and
+retrieve notes about OUG members' needs and offerings, as well as
+special  projects  information  for  ready  retrieval  to  answer
+telephone inquiries quickly.
+
+56. We  must   develop  a  networking  (LAN)  and/or  distributed
+processing capability under Oasis.
+
+55. Windows for running multiple applications simultaneously from
+one terminal in multiple partitions.
+
+54. I  need a  means for  QUICKLY making sure that all  the files
+listed in an earlier SELECTED.EXEC still reside on the disk.
+
+53. We need a  comparison chart showing for Oasis  Basic with the
+others.
+
+52. We need a method for RESTORING around a bad sector (or fixing
+it) in an ARCHIVE file.
+
+51. As we  begin to  get more people using Oasis-16  we will need
+some new utilities  for moving things back and  forth between the
+two versions.   In  particular,  we  will  need new  versions  of
+SEND/RECEIVE (GIVE/GET??).
+
+50. We  need  a diskette  format compatibility/interchangeability
+summary.  8"  double density  and all 5.25" format diskettes  are
+problems.
+
+49. We need  class code source for any devices not now covered in
+the library (see volume 18 and 34).
+
+48. Someone  to  collect and  summarize information about all the
+various commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+43. A utility for assigning synonyms for commands would be nice.
+
+39. We  need the  compliment of  GETFILE  (PUTFILE?) for CP/M and
+other formats.
+
+38. The equivelent of  the BASIC PRINT USING "!"  for use in EXEC
+routines.
+
+36. More  people  to  write articles  about OASIS  or  letters to
+publications  about  such  articles  they have  seen.  More press
+releases  about  your  own OASIS  compatible commercial software.
+Etc.
+
+30. A  utility  for  automatically figuring  out the optimum disk
+ATTACH  values  for HDL,  STP, and  STS for all of the  different
+systems now operating under OASIS.
+
+29. A  list  of  the 500  most frequently  used  words in English
+writing  for use  with Chapman's latest spelling checker's CUSTOM
+dictionaries.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, ADA, etc.
+
+23. A spelling  checker that keeps track of frequently misspelled
+words and automatically corrects them.
+
+16. An "electronic spreadsheet" like SUPERCALC!
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+END of WISH LIST as of 15 March 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 36.
+
+*****************************************************************
+
+
+AP     .EXEC    AP$    .DOC     AP$    .INTRO   AP00   .BASIC
+AP01   .BASIC   AP011  .BASIC   AP02   .BASIC   AP03   .BASIC
+AP04   .BASIC   AP05   .BASIC   AP06   .BASIC   AP07   .BASIC
+AP08   .BASIC   AP09   .BASIC   AP10   .BASIC   AP101  .BASIC
+AP11   .BASIC   AP111  .BASIC   AP12   .BASIC   AP13   .BASIC
+AP14   .BASIC   AP15   .BASIC   AP16   .BASIC   AP17   .BASIC
+AP18   .BASIC   AP19   .BASIC   AP20   .BASIC   APCOMP .EXEC
+APSETUP.BASIC
+
+
+From Jim Halpin  of Allied Conditioning Corp.  comes the accounts
+payable module  of a  complete accounting system he designed  for
+his   company.    Allied  is   envolved  with  manufacturing  and
+mechanical contracting.
+▼ ^
+It is a  big system.   The data files require over  a megabyte of
+disk storage.   The accounting  technique used is designed for  a
+job cost  environment, but it is equally useful with the job cost
+feature disabled.   Program documentation and file specifications
+are available in hard copy form directly from Jim.  He is looking
+for people to market the complete package for him.
+
+Jim Halpin, Allied Conditioning Corp., Metuchen, N.J. 08840
+Phone him at 201-548-5656.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+
+
+
+
+
+ONVERT.BASIC/EXEC/INFO
+
+CONVERT is a  quick little exec that changes a 'BASIC' program to
+a 'BASICOBJ' program The main difference between the two types of
+programs is in  the line numbering system.  To  convert a program
+it is only necessary to load it, renumber it, then 'SAVE' it as a
+'BASICOBJ'.  CONVERT  will do this globally, all *.basic owned by
+the current  account or  .  to CONVERT all programs  owned by the
+current account it  is only necessary to type  'CONVERT [CR]' the
+program will  then  ask  you  if  you really  want  to do it.  To
+'CONVERT' only  one program simply type 'CONVERT' and the program
+name.  After it  has converted the program it  will automatically
+compile it.
+
+Ross Hansen, Ross  Distributing Co., 78 South State St.  Preston,
+ID 83263 (208) 852-0830
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ILDEMO1.FILESPEC
+FILDEMO2.FILESPEC
+FILESPEC.BASIC/DOC/EXEC
+
+This is a nifty program for keeping track of the characteristics
+of interrelated files.  It provides for a consistant summary of
+the specifications of files.  Contributed by Harry Schauwecker
+Exeutech, (213) 540-0591. (NOTE: two demo files are provided so
+you can see what typical output looks like, before actually using
+the program.)
+WANT MORE INFO NOW? [Y/N]:N
+
+C      .EXEC     PCCLEAN .EXEC     PCDOWN  .EXEC
+PCUP    .EXEC     PCWORD  .EXEC
+
+This is  an  Oasis  Business Shell  created by  Peter  Carlson of
+Quorum Associates in  Tacoma, WA (206) 565-1700.  It  was written
+to work in his environment on an Onyx system.  It will need to be
+customized for your specific needs, naturally, but this will give
+you a BIG head start.  I have not attempted to generalize it.  It
+is presented pretty much as Peter sent it in except the names  of
+the modules have  been changed to conform to  our standards.
+    FB  2/28/84
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+
+
+
+
+OCSI.ASSEMBLE/INFO
+
+NOCSI: this program  may give  someone an  idea  of how to retain
+control over a command program and make it return without exiting
+to the CSI. It is not for beginners as you must know what you are
+looking for when  you set up the bias  factor and the location to
+install a return instruction * only affects the program loaded in
+memory **  It was  used as part of a  modem security program with
+call  back and  attached a  special console driver that did  some
+funny things at the bit level.
+
+The syntax is 'START  NOCSI xx Cyy' where xx  is the port# and yy
+is the class code.  *** SEE NOCSI.ASSEMBLE FOR MORE INFO ***
+NOTE: I did not check this one out.  Too complicated for me. FB
+
+Ross Hansen, Ross  Distributing Co., 78 South State St.  Preston,
+ID 83263 (208) 852-0830
+
+WANT TO LIST THE PROGRAM NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 36.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service)
+ 1200 baud weekdays and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+PS: THE MISSING EXECLINK.INFO ON VOLUME 34 IN ON THIS VOLUME. FB
+
+>
+

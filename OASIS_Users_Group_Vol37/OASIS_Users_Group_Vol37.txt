@@ -1,0 +1,1073 @@
+April 1984                      Volume: 37
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$BONUS37 README   A 04/18/84 23:10    47    3 S    65 VOL37
+$README  FIRST37  A 03/01/84 04:24    60    3 S    65 VOL37
+ACCEPT   ASSEMBLE A 03/16/84 20:40   254    6 S    67 VOL37
+ACCEPT   COMMAND  A 03/16/84 20:41     6    2 R   256 VOL37
+ACCEPT$  EXEC     A 04/18/84 21:57    59    2 S    68 VOL37
+ACCEPT37 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL37
+ALARM    ASSEMBLE A 02/21/84 21:52   133    3 S    64 VOL37
+ALARM    COMMAND  A 02/21/84 21:52     4    1 R   256 VOL37
+ALARM$   EXEC     A 04/18/84 22:48    65    2 S    69 VOL37
+BRB0250  BASICCOM A 03/23/84 10:35    27    7 SR  254 VOL37
+BRB0250  DATA     A 03/27/84 20:10     2    2 I   170 VOL37
+BRBA250  BASIC    A 03/27/84 20:44    61    3 S   101 VOL37
+BRBA250  BASICCOM A 03/15/84 10:48     6    2 SR  254 VOL37
+BRBB250  BASICCOM A 03/15/84 12:26     7    2 SR  254 VOL37
+BRBB250  DATA     A 03/27/84 19:51     0    3 I   501 VOL37
+BRBN250  BASIC    A 03/27/84 20:49     3    1 S    25 VOL37
+BRBN250  BASICCOM A 03/15/84 12:01     1    1 SR   37 VOL37
+BRBNOTES EXEC     A 03/28/84 05:31    58    2 S    73 VOL37
+BRBNOTES INFO     A 03/27/84 23:29    69    3 S    66 VOL37
+CLASS38  ASSEMBLE A 02/28/84 23:08   134    3 S    57 VOL37
+CLASS40  ASSEMBLE A 08/02/82 00:00    36    1 S    57 VOL37
+CLASS42  ASSEMBLE A 06/20/82 00:00    41    2 S    67 VOL37
+CLASS45  ASSEMBLE A 06/10/82 00:00    68    3 S    76 VOL37
+COMMAREA ASSEMBLE A 02/26/84 12:54    21    1 S    61 VOL37
+COMMAREA LOADFILE A 02/24/84 23:59     1    1 R   256 VOL37
+COPYRITE BASIC    A 03/27/84 20:44    66    2 S   113 VOL37
+COPYRITE BASICCOM A 03/27/84 19:57     4    1 SR  254 VOL37
+ENCASE   ASSEMBLE A 04/19/84 00:41   413    7 S    61 VOL37
+ENCASE   CAPWORD  A 02/22/84 22:04     7    1 S     7 VOL37
+ENCASE   COMMAND  A 04/19/84 00:47    25    7 R   256 VOL37
+ENCASE   COMPDATA A 02/27/84 23:48    13    1 S    68 VOL37
+ENCASE   TESTDATA A 02/21/84 00:59    12    1 S    68 VOL37
+ENCASE$  EXEC     A 04/18/84 23:35    69    2 S    65 VOL37
+ENQTEST  ASSEMBLE A 02/25/84 17:29    43    1 S    59 VOL37
+ENQTEST  COMMAND  A 02/25/84 17:29     2    1 R   256 VOL37
+ENQTEST  OBJECT   A 04/18/84 20:20    11    1 S   128 VOL37
+ENQUEUE  ASSEMBLE A 02/25/84 17:21   113    4 S    62 VOL37
+ENQUEUE  OBJECT   A 02/25/84 17:21     9    1 SD   97 VOL37
+ENQUEUE$ EXEC     A 04/19/84 06:16    58    2 S    72 VOL37
+FCOMP    COMMAND  A 03/16/84 23:17    50   13 R   256 VOL37
+FCOMP1   IBMOBJ   A 03/16/84 20:22    10    1 D    80 VOL37
+FCOMP2   IBMOBJ   A 03/16/84 20:20    10    1 D    80 VOL37
+FCOMPDEM EXEC     A 04/19/84 07:08   133    3 S    69 VOL37
+FL       INFO     A 03/28/84 07:25    36    2 S    65 VOL37
+FL0      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL37
+FL1      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL37
+FL2      COMMAND  A 02/20/84 20:30    18    5 R   256 VOL37
+FLCOPY   EXEC     A 04/18/84 22:18   143    4 S    73 VOL37
+LP       EXEC     A 10/01/83 23:32    57    2 S    65 VOL37
+MASTERM  BASIC    A 04/13/83 21:32    50    3 S   160 VOL37
+MOVE     EXEC     A 03/14/84 18:33    41    2 S    78 VOL37
+PCP      EXEC     A 02/29/84 19:56   136    5 S    68 VOL37
+QISORT4K COMMAND  A 01/16/84 17:35    37   10 R   256 VOL37
+SELECT37 EXEC     A 04/18/84 20:19    81    4 S    46 VOL37
+SYSTEM   CLASS38  A 02/28/84 23:10     3    1 R   256 VOL37
+SYSTEM   CLASS40  A 04/18/84 20:15     2    1 R   256 VOL37
+SYSTEM   CLASS42  A 04/18/84 20:17     3    1 R   256 VOL37
+SYSTEM   CLASS45  A 04/18/84 20:19     2    1 R   256 VOL37
+SYSTEM   DEV18TRS A 06/29/83 14:03     4    1 RWD 256 VOL37
+SYSTEM   DEV9TRS  A 06/06/83 11:23     4    1 RWD 256 VOL37
+U$SHELL  INFO     A 04/18/84 23:01    14    1 S    65 VOL37
+UATTACH  EXEC     A 07/15/83 20:35    91    3 S    79 VOL37
+UBACKUP  EXEC     A 07/11/83 00:50    72    3 S    79 VOL37
+UBELL    EXEC     A 11/22/82 18:03    13    1 S    68 VOL37
+UCOPY    EXEC     A 07/19/82 09:09    36    1 S    78 VOL37
+UDATE    EXEC     A 12/25/82 11:13    17    1 S    79 VOL37
+UEDIT    EXEC     A 10/28/82 16:55    32    2 S    79 VOL37
+UFILE    EXEC     A 11/02/82 09:30    28    1 S    79 VOL37
+UINIT    EXEC     A 01/13/83 13:11     6    1 S    56 VOL37
+ULIST    EXEC     A 07/19/82 13:25    29    1 S    79 VOL37
+UMULTI   EXEC     A 07/22/83 07:29   131    4 S    79 VOL37
+UOASIS   EXEC     A 04/18/84 15:09    61    3 S    78 VOL37
+URENAME  EXEC     A 07/19/82 09:17    31    1 S    78 VOL37
+USHOW    EXEC     A 07/19/82 13:21    35    2 S    77 VOL37
+USPOOL   EXEC     A 12/04/83 15:21    72    2 S    78 VOL37
+UTERM    EXEC     A 10/28/82 16:57    30    1 S    79 VOL37
+UWORD    EXEC     A 01/26/81 00:46   111    4 S    79 VOL37
+VOL37    CONTENTS A 04/18/84 23:00   283   12 S    65 VOL37
+VOL37    EXEC     A 04/18/84 22:51   647   18 S    73 VOL37
+VOL37    FEEDBACK A 04/18/84 19:46   181    8 S    66 VOL37
+VOL37    NEWS     A 04/18/84 20:17   213   12 S    65 VOL37
+81 file(s), 246 block(s).
+
+>COPYFILE *.*:A = = D(NOQ
+ALARM.COMMAND:A copied to ALARM.COMMAND:D
+ENCASE.COMMAND:A copied to ENCASE.COMMAND:D
+ENQTEST.OBJECT:A copied to ENQTEST.OBJECT:D
+FCOMPDEM.EXEC:A copied to FCOMPDEM.EXEC:D
+SYSTEM.DEV9TRS:A copied to SYSTEM.DEV9TRS:D
+VOL37.CONTENTS:A copied to VOL37.CONTENTS:D
+ACCEPT$.EXEC:A copied to ACCEPT$.EXEC:D
+ENCASE.COMPDATA:A copied to ENCASE.COMPDATA:D
+FLCOPY.EXEC:A copied to FLCOPY.EXEC:D
+SYSTEM.CLASS45:A copied to SYSTEM.CLASS45:D
+BRBNOTES.INFO:A copied to BRBNOTES.INFO:D
+CLASS45.ASSEMBLE:A copied to CLASS45.ASSEMBLE:D
+SELECT37.EXEC:A copied to SELECT37.EXEC:D
+BRB0250.BASICCOM:A copied to BRB0250.BASICCOM:D
+ENCASE.TESTDATA:A copied to ENCASE.TESTDATA:D
+ENQTEST.COMMAND:A copied to ENQTEST.COMMAND:D
+MASTERM.BASIC:A copied to MASTERM.BASIC:D
+MOVE.EXEC:A copied to MOVE.EXEC:D
+QISORT4K.COMMAND:A copied to QISORT4K.COMMAND:D
+SYSTEM.CLASS42:A copied to SYSTEM.CLASS42:D
+UBACKUP.EXEC:A copied to UBACKUP.EXEC:D
+CLASS42.ASSEMBLE:A copied to CLASS42.ASSEMBLE:D
+COMMAREA.ASSEMBLE:A copied to COMMAREA.ASSEMBLE:D
+FCOMP1.IBMOBJ:A copied to FCOMP1.IBMOBJ:D
+FL0.COMMAND:A copied to FL0.COMMAND:D
+UWORD.EXEC:A copied to UWORD.EXEC:D
+FCOMP.COMMAND:A copied to FCOMP.COMMAND:D
+$README.FIRST37:A copied to $README.FIRST37:D
+ALARM.ASSEMBLE:A copied to ALARM.ASSEMBLE:D
+BRBN250.BASIC:A copied to BRBN250.BASIC:D
+BRBN250.BASICCOM:A copied to BRBN250.BASICCOM:D
+ENCASE.ASSEMBLE:A copied to ENCASE.ASSEMBLE:D
+FCOMP2.IBMOBJ:A copied to FCOMP2.IBMOBJ:D
+UATTACH.EXEC:A copied to UATTACH.EXEC:D
+UDATE.EXEC:A copied to UDATE.EXEC:D
+BRBA250.BASIC:A copied to BRBA250.BASIC:D
+BRBA250.BASICCOM:A copied to BRBA250.BASICCOM:D
+COMMAREA.LOADFILE:A copied to COMMAREA.LOADFILE:D
+ULIST.EXEC:A copied to ULIST.EXEC:D
+BRB0250.DATA:A copied to BRB0250.DATA:D
+BRBB250.BASICCOM:A copied to BRBB250.BASICCOM:D
+ENCASE$.EXEC:A copied to ENCASE$.EXEC:D
+ENQUEUE.ASSEMBLE:A copied to ENQUEUE.ASSEMBLE:D
+FL.INFO:A copied to FL.INFO:D
+U$SHELL.INFO:A copied to U$SHELL.INFO:D
+UFILE.EXEC:A copied to UFILE.EXEC:D
+UMULTI.EXEC:A copied to UMULTI.EXEC:D
+ACCEPT.COMMAND:A copied to ACCEPT.COMMAND:D
+BRBNOTES.EXEC:A copied to BRBNOTES.EXEC:D
+COPYRITE.BASIC:A copied to COPYRITE.BASIC:D
+ENQTEST.ASSEMBLE:A copied to ENQTEST.ASSEMBLE:D
+FL1.COMMAND:A copied to FL1.COMMAND:D
+ACCEPT37.COMMAND:A copied to ACCEPT37.COMMAND:D
+ALARM$.EXEC:A copied to ALARM$.EXEC:D
+SYSTEM.CLASS40:A copied to SYSTEM.CLASS40:D
+USHOW.EXEC:A copied to USHOW.EXEC:D
+USPOOL.EXEC:A copied to USPOOL.EXEC:D
+VOL37.EXEC:A copied to VOL37.EXEC:D
+VOL37.FEEDBACK:A copied to VOL37.FEEDBACK:D
+CLASS40.ASSEMBLE:A copied to CLASS40.ASSEMBLE:D
+COPYRITE.BASICCOM:A copied to COPYRITE.BASICCOM:D
+UCOPY.EXEC:A copied to UCOPY.EXEC:D
+URENAME.EXEC:A copied to URENAME.EXEC:D
+VOL37.NEWS:A copied to VOL37.NEWS:D
+BRBB250.DATA:A copied to BRBB250.DATA:D
+ENQUEUE$.EXEC:A copied to ENQUEUE$.EXEC:D
+UBELL.EXEC:A copied to UBELL.EXEC:D
+UEDIT.EXEC:A copied to UEDIT.EXEC:D
+UTERM.EXEC:A copied to UTERM.EXEC:D
+$BONUS37.README:A copied to $BONUS37.README:D
+ENCASE.CAPWORD:A copied to ENCASE.CAPWORD:D
+FL2.COMMAND:A copied to FL2.COMMAND:D
+PCP.EXEC:A copied to PCP.EXEC:D
+SYSTEM.CLASS38:A copied to SYSTEM.CLASS38:D
+UOASIS.EXEC:A copied to UOASIS.EXEC:D
+ACCEPT.ASSEMBLE:A copied to ACCEPT.ASSEMBLE:D
+CLASS38.ASSEMBLE:A copied to CLASS38.ASSEMBLE:D
+ENQUEUE.OBJECT:A copied to ENQUEUE.OBJECT:D
+LP.EXEC:A copied to LP.EXEC:D
+SYSTEM.DEV18TRS:A copied to SYSTEM.DEV18TRS:D
+UINIT.EXEC:A copied to UINIT.EXEC:D
+
+>VOL37
+4     COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P      0
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+   ==================================================================
+   :           VOLUME 37 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   : "Not to dream boldly may turn out to be simply irresponsible." :
+   :                                             George Leonard     :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 37  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  37,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$BONUS37 README   A 04/18/84 23:10    47    3 S    65 VOL37
+$README  FIRST37  A 03/01/84 04:24    60    3 S    65 VOL37
+ACCEPT   ASSEMBLE A 03/16/84 20:40   254    6 S    67 VOL37
+ACCEPT   COMMAND  A 03/16/84 20:41     6    2 R   256 VOL37
+ACCEPT$  EXEC     A 04/18/84 21:57    59    2 S    68 VOL37
+ACCEPT37 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL37
+ALARM    ASSEMBLE A 02/21/84 21:52   133    3 S    64 VOL37
+ALARM    COMMAND  A 02/21/84 21:52     4    1 R   256 VOL37
+ALARM$   EXEC     A 04/18/84 22:48    65    2 S    69 VOL37
+BRB0250  BASICCOM A 03/23/84 10:35    27    7 SR  254 VOL37
+BRB0250  DATA     A 03/27/84 20:10     2    2 I   170 VOL37
+BRBA250  BASIC    A 03/27/84 20:44    61    3 S   101 VOL37
+BRBA250  BASICCOM A 03/15/84 10:48     6    2 SR  254 VOL37
+BRBB250  BASICCOM A 03/15/84 12:26     7    2 SR  254 VOL37
+BRBB250  DATA     A 03/27/84 19:51     0    3 I   501 VOL37
+BRBN250  BASIC    A 03/27/84 20:49     3    1 S    25 VOL37
+BRBN250  BASICCOM A 03/15/84 12:01     1    1 SR   37 VOL37
+BRBNOTES EXEC     A 03/28/84 05:31    58    2 S    73 VOL37
+BRBNOTES INFO     A 03/27/84 23:29    69    3 S    66 VOL37
+CLASS38  ASSEMBLE A 02/28/84 23:08   134    3 S    57 VOL37
+CLASS40  ASSEMBLE A 08/02/82 00:00    36    1 S    57 VOL37
+CLASS42  ASSEMBLE A 06/20/82 00:00    41    2 S    67 VOL37
+CLASS45  ASSEMBLE A 06/10/82 00:00    68    3 S    76 VOL37
+COMMAREA ASSEMBLE A 02/26/84 12:54    21    1 S    61 VOL37
+COMMAREA LOADFILE A 02/24/84 23:59     1    1 R   256 VOL37
+COPYRITE BASIC    A 03/27/84 20:44    66    2 S   113 VOL37
+COPYRITE BASICCOM A 03/27/84 19:57     4    1 SR  254 VOL37
+ENCASE   ASSEMBLE A 04/19/84 00:41   413    7 S    61 VOL37
+ENCASE   CAPWORD  A 02/22/84 22:04     7    1 S     7 VOL37
+ENCASE   COMMAND  A 04/19/84 00:47    25    7 R   256 VOL37
+ENCASE   COMPDATA A 02/27/84 23:48    13    1 S    68 VOL37
+ENCASE   TESTDATA A 02/21/84 00:59    12    1 S    68 VOL37
+ENCASE$  EXEC     A 04/18/84 23:35    69    2 S    65 VOL37
+ENQTEST  ASSEMBLE A 02/25/84 17:29    43    1 S    59 VOL37
+ENQTEST  COMMAND  A 02/25/84 17:29     2    1 R   256 VOL37
+ENQTEST  OBJECT   A 04/18/84 20:20    11    1 S   128 VOL37
+ENQUEUE  ASSEMBLE A 02/25/84 17:21   113    4 S    62 VOL37
+ENQUEUE  OBJECT   A 02/25/84 17:21     9    1 SD   97 VOL37
+ENQUEUE$ EXEC     A 04/19/84 06:16    58    2 S    72 VOL37
+FCOMP    COMMAND  A 03/16/84 23:17    50   13 R   256 VOL37
+FCOMP1   IBMOBJ   A 03/16/84 20:22    10    1 D    80 VOL37
+FCOMP2   IBMOBJ   A 03/16/84 20:20    10    1 D    80 VOL37
+FCOMPDEM EXEC     A 04/19/84 07:08   133    3 S    69 VOL37
+FL       INFO     A 03/28/84 07:25    36    2 S    65 VOL37
+FL0      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL37
+FL1      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL37
+FL2      COMMAND  A 02/20/84 20:30    18    5 R   256 VOL37
+FLCOPY   EXEC     A 04/18/84 22:18   143    4 S    73 VOL37
+LP       EXEC     A 10/01/83 23:32    57    2 S    65 VOL37
+MASTERM  BASIC    A 04/13/83 21:32    50    3 S   160 VOL37
+MOVE     EXEC     A 03/14/84 18:33    41    2 S    78 VOL37
+PCP      EXEC     A 02/29/84 19:56   136    5 S    68 VOL37
+QISORT4K COMMAND  A 01/16/84 17:35    37   10 R   256 VOL37
+SELECT37 EXEC     A 04/18/84 20:19    81    4 S    46 VOL37
+SYSTEM   CLASS38  A 02/28/84 23:10     3    1 R   256 VOL37
+SYSTEM   CLASS40  A 04/18/84 20:15     2    1 R   256 VOL37
+SYSTEM   CLASS42  A 04/18/84 20:17     3    1 R   256 VOL37
+SYSTEM   CLASS45  A 04/18/84 20:19     2    1 R   256 VOL37
+SYSTEM   DEV18TRS A 06/29/83 14:03     4    1 RWD 256 VOL37
+SYSTEM   DEV9TRS  A 06/06/83 11:23     4    1 RWD 256 VOL37
+U$SHELL  INFO     A 04/18/84 23:01    14    1 S    65 VOL37
+UATTACH  EXEC     A 07/15/83 20:35    91    3 S    79 VOL37
+UBACKUP  EXEC     A 07/11/83 00:50    72    3 S    79 VOL37
+UBELL    EXEC     A 11/22/82 18:03    13    1 S    68 VOL37
+UCOPY    EXEC     A 07/19/82 09:09    36    1 S    78 VOL37
+UDATE    EXEC     A 12/25/82 11:13    17    1 S    79 VOL37
+UEDIT    EXEC     A 10/28/82 16:55    32    2 S    79 VOL37
+UFILE    EXEC     A 11/02/82 09:30    28    1 S    79 VOL37
+UINIT    EXEC     A 01/13/83 13:11     6    1 S    56 VOL37
+ULIST    EXEC     A 07/19/82 13:25    29    1 S    79 VOL37
+UMULTI   EXEC     A 07/22/83 07:29   131    4 S    79 VOL37
+UOASIS   EXEC     A 04/18/84 15:09    61    3 S    78 VOL37
+URENAME  EXEC     A 07/19/82 09:17    31    1 S    78 VOL37
+USHOW    EXEC     A 07/19/82 13:21    35    2 S    77 VOL37
+USPOOL   EXEC     A 12/04/83 15:21    72    2 S    78 VOL37
+UTERM    EXEC     A 10/28/82 16:57    30    1 S    79 VOL37
+UWORD    EXEC     A 01/26/81 00:46   111    4 S    79 VOL37
+VOL37    CONTENTS A 04/18/84 23:00   283   12 S    65 VOL37
+VOL37    EXEC     A 04/18/84 22:51   647   18 S    73 VOL37
+VOL37    FEEDBACK A 04/18/84 19:46   181    8 S    66 VOL37
+VOL37    NEWS     A 04/18/84 20:17   213   12 S    65 VOL37
+81 file(s), 246 block(s).
+▼ OL37.NEWS:VOL37                                          01/29/85 16:49 Page 1
+
+-----------------------------------------------------------------
+23 April 1984           N E W S   L E T T E R           Volume 37
+-----------------------------------------------------------------
+
+
+
+
+Hello again;
+
+VOLUME 37: is another  WOW!  First, it is accompanied  by a giant
+triple bonus for  those of you with standing  orders.  Next, Gary
+Bergman has out done himself again with five major contributions:
+ACCEPT, which makes EXECs much more useful; ALARM, which sends an
+alarm/message  to  another  partition  at  a  prespecified  time;
+ENQUEUE, a  new method  to LOCK/UNLOCK ISAM files which  prevents
+file   corruption   problems;  ENCASE,   for  adjusting  text  to
+upper/lower case; and a powerful new triple utility, FCOMP, which
+1)  does  an intellegent  comparison of  two  files, 2) lists all
+files which  reside on  2 or more disks, and  3) checks to see if
+all files in a SELECTED.EXEC are still on the disk.
+
+Then, from  Bob  Bortz  comes an  excellent mini-data base system
+(generated  using  his BPGEN).   I intend  to try and use it  for
+keeping  track of  all the  special deals and projects we  always
+have  cooking  here.  Also,  several new  Class  codes and device
+drivers are included on this volume.  Royce Bordman has submitted
+his  Oasis  Shell  which  provides  easy access  for non-computer
+people to many of the more common Oasis commands.  Bill Berne has
+given us a  special limited version of his  QISORT (limited to 4K
+files)  and  there  are  several  other little  ditties including
+another Mastermind game.
+
+However, my absolute  favorite this  time is the new single  disk
+backup utility from Lew Murray which first copies an image of any
+floppy disk to  the hard disk and then  copies from the hard disk
+back  to floppies  at about  twice the speed of the  normal Oasis
+BACKUP  command.  It  has already  saved me a bunch of  time!  81
+files in all this time.
+
+BONUS: This  time I  ran into  a problem trying to put  the bonus
+materials we  have accumulated on the back of volume 36.  It just
+wouldn't all  fit in  any logical fashion.  So, I've  innovated a
+bit this time - delayed shipping volume 36 until it could go with
+37  and crammed  all  761  blocks  of  bonus materials  onto  two
+independent ARCHIVE files (some media formats like the Onyx tapes
+may have been prepared without using ARCHIVE).
+
+There is a separate file on Volume 37 called BONUS37.README which
+discusses the  contents of the bonus volumes.  Briefly though, it
+contains a  complete set of the updated dictionary files together
+with a copy of the latest version of PROOF, the spelling checker;
+and  three  commercial  software package  demonstrations: QISORT,
+BPGEN,  and  DATEBOOK.   If you  have any  trouble  restoring the
+archive files,  let me know.  Otherwise, I will probably use this
+technique again.
+
+OASIS-16: Well, it's actually out there now.  In fact, we got our
+first new Oasis-16  (only) member this month.  The  time has come
+for  us to  try  and  get  some  independent assessments  of  the
+performance,   problems,   benefits,   etc.    for  the   various
+implementations  now  running.   These  seem to  include: the IBM
+PC/XT, Seiko  8600, Altos  586/986, Onyx 186, and ???   There are
+rumors  that  the  IBM version  will run  on  some (many?) of the
+so-called PC compatibles.   If you have tried it  on any of them,
+please let the rest of us know what you discovered.
+
+Jim Pingatore  recently sent  out a request for information about
+available  Oasis-16   software  to  all  vendors  listed  in  the
+Application Software Directory.   They want to know which  of you
+have already converted Oasis-8 stuff for operation with Oasis-16.
+'Be a good idea to let them know soon.  The software directory is
+being  expanded,  both  in content  and numbers  of  copies being
+printed (27000 copies  of the last issue with  the possibility of
+more  in  the  works).  Stewart  Wachs tells  me  that the Summer
+edition will  contain several new features..."sort of the Monitor
+reborn  in magazine  format." One  of the first features will  be
+"Porting Applications  to Oasis-16 ....  Software developers talk
+about a remarkably straightforward process."
+
+THANK YOU:  Hardly  a day  goes by  that  someone doesn't call or
+write  me about  how great  they think Oasis and the  OUG are.  I
+generally just  smile and nod agreement without thinking too much
+about  what  it  all means.   Of course  my  personal role is not
+insignificant, but it  is only a small (though  somewhat visible)
+part of  the overall effort that goes into making OUG work for us
+all.  Perhaps  more important,  none of us would even  have Oasis
+related jobs  if  it  were  not  for the  creative  genius of the
+author, Tim  Williams.  So, for all of you who really deserve the
+THANK YOUs,  I send you notice of the hundreds I have received on
+your behalf.
+
+OASIS TECHNOLOGIES: has moved into new quarters.  They are now at
+201 Lafayette  Circle,  Lafayette,  CA  94549  with a  new  phone
+number: (415) 283-4290.  Joel Laffitte who worked at Phase One in
+the past is  now working with O-Tech.  Tim  Williams reports that
+version  5.7 of  Oasis-8  is  now  in  Alpha test  and  should be
+released in  the May/June time frame.  Many of the old known bugs
+have been fixed and Basic has been speeded up I understand.
+
+O-Tech is now working  on a number of add-on  products which they
+will market  directly and through dealers.  These include: a full
+implementation "C" compiler for both 8 and 16 bit Oasis (price in
+the $200-300 range and available June/July); Mainframe Connection
+-  a  bisync communications  controller (price not available, but
+product available  now);  and  SCRIPT  for  Oasis-16 is  due  for
+release in June/July.
+
+Tim specifically  noted that  O-Tech personnel were available for
+short  or  long  term consulting  arrangements with third parties
+interested  in  implementing  Oasis on  new machines (appropriate
+contractual  arrangements  having  been  made with  Phase One, of
+course).   I got  the strong  impression  that things have calmed
+down so much  now, that they are anxiously  looking for more work
+to keep everybody busy up there.
+
+PRESS COVERAGE:  Electronic  Business/15  April 1984,  carried an
+excellent  balanced  assessment  of  both  long  and  short  term
+prospects for Oasis-8/16.   The EB reporter did her  homework and
+quoted sources  both within and outside the Oasis community.  One
+of  the  outsiders,  Brian Boyle  who is  an  analyst for Gnostic
+Concepts Inc,  warns that  "Oasis risks falling victim to  MS/DOS
+and/or UNIX  by the end of the decade." because operating systems
+that "do  not coexist  and become able to take  advantage of Unix
+and MS/DOS  things will  not survive, except in very  specialized
+niches." But the new warm bodies at Phase One have some tricks up
+their sleeves.  For one thing, both Unix and Oasis-16 are written
+in "C" and  software written for one should  "at least in theory"
+be able  to run on the other.  Ed Malboeuf painted a very up-beat
+picture for  Phase One in his portion of the interviews.  Stewart
+Wachs tells  me there is another story due for release in the May
+issue of Mini-Micro.
+
+COMDEX/SPRING: Phase  One will  be there  in  Atlanta for the May
+22-25 confab.  I  am planning to come myself,  but can't finalize
+any plans  just yet.  Stewart Wachs has sent me a small supply of
+complimentary  guest  tickets which  I will  make  available on a
+first come first served bases to standing order members.
+
+HANOVER FAIR: If you thought COMDEX was big, consider the quarter
+million  people  who  studied  the  computer exhibits  in Germany
+earlier this  year.  In an extensive review of the fair, Computer
+Systems  News  (23  April  84)  highlighted  the  rapidly growing
+interest  in microcomputers  in a market area often characterized
+as lagging  the US  industry by two to three  years.  The article
+emphasized  an improving  awareness that the European market will
+require   a  greater   willingness  to  meet  higher  performance
+expectations  than are  typically found  in  the US.  That sounds
+like fertile ground for Oasis to me.  Don't you think?
+
+EUROPE: this summer in July/August is our destination.  First, we
+just MUST  get  away  from  all  the Olympic  crowds  who will be
+milling around  Santa Barbara for the water games, but second and
+more important,  our personal  visits have proven to be  not only
+fun, but  an excellent  way to promote the interests  of OUG.  We
+now  have  over  thirty members  in European countries including:
+England,  Scotland,  Holland,  Belgium, Germany,  Spain, Finland,
+Norway, and  Sweden.  We have some special reasons for visiting a
+few of  our European members and Tommi (Tomoko) has never been to
+Europe.  So,  this should be both an educational trip and a great
+opportunity to expand  the awareness of the OUG  and Oasis on the
+other side of the Atlantic.
+
+OREGON: We  spent  Tommi's Easter  vacation week visiting many of
+our members in north western Oregon.  We took the train to Eugine
+and then  rented a car to get to the places where our members are
+located:  Ernest  Brown  in  Newport,    Jeff Muhleman  in Salem,
+Fergus  O'Scannlain   and  Charlene  Beovich  in  Portland,  Pete
+Lancashire (who gave us a tour of Tektronix) in Beverton and Dean
+Harris across the border in Vancouver Washington.  It's wonderful
+to  see  the  faces behind  the voices  on  the telephone and the
+variety of  work  places  which  are  homes for  Oasis  machines.
+Visiting members  is a  very satisfying part of running  the OUG.
+It's like  we are  all a part of an  international fraternity and
+there is  generally an instant built-in rapport stemming from our
+common interest in Oasis.
+
+EXECUPORT XL+:  is a  small portable  computer  with a 132 column
+screen and both  Z80 and 80186 microprocessors that  was reviewed
+in the  March  1984  issue  of  Dr.  Dobb's  Journal.   While the
+machine  from  Computer Transceiver  Systems Inc.  comes standard
+with CP/M and  MS-DOS, the article noted that  OASIS is available
+as  an  option.  The  $3495 machine  comes bundled with a lot  of
+software,  128K  of RAM,  and two  800K  5.25" DSDD floppies, but
+doesn't seem to  have a hard disk option.   Does anyone know more
+about this one?
+
+CONTRIBUTIONS: While the  main form of contributions continues to
+be  software,  don't overlook  the possibility of  other ways for
+sharing  the  wealth.   The WISH.LISTnn  file that is re-released
+periodically always has lots of things people have suggested that
+need  to  be done.   I am  open to making deals for  anything you
+might  do that  would have  value to the rest of  our members.  I
+have talked  to lots of you who have projects that are "not quite
+ready" to  be released  to the OUG.  At the  same time, others of
+you   have   called  offering   general  help,  but  looking  for
+suggestions.  Seems  people in the two groups ought to be able to
+collaborate to everyone's benefit.  I am anxious to help you find
+each other, so let's hear your ideas.
+
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 37
+-----------------------------------------------------------------
+▼ OL37.FEEDBACK:VOL37                                      01/29/85 16:49 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL37.FEEDBACK                                     23 April  1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                                     Feb 20, 1984
+
+Fred Bellomy
+Oasis Users Group
+P. O. Box 2400
+Santa Barbara, Ca. 93120
+
+Dear Fred;
+
+The  inclosed disk  contains a  floppy  backup program for single
+floppy systems and two drivers for Radio Shack Model II systems.
+
+     If you have any  questions about these programs, call  me at
+1-800-233-0229.
+
+                                   Sincerely
+
+                                   Lew Murray
+                                   Nola Data Systems
+
+     P.S. The hackers  out there might find the floppy program an
+interesting  challenge.  Anyone  who can figure the serial number
+routine is welcome to it.
+
+NOTE:  Since this letter Lew has created another pair of programs
+based  on  FL1  which allows me to designate multiple destination
+disks for production work.   It  saved  me  about 5 hours on this
+current production run for volumes 36, 37, and bonuses!   Both of
+these (FL0 and FL2) are included, also. FB
+-----------------------------------------------------------------
+March 14, 1984
+
+
+Greetings from bug land:
+
+A week later  than I  thought, here is the revised  Bug Reporting
+System.   Included  on the  disk are  two  programs, BUGREPRT and
+BUGMAINT, and four random files.  Two of the random files are for
+the menus; the other two are for the actual bug reports.  In each
+pair  there is  an indexed  file which serves as an  index to the
+other file, which is a direct file.
+
+NOTE: The BUG reporting system  is now running on CARAVAN.    The
+system itself will be released at some point in the future.  FB
+
+The Library shell/system  is now my top priority.  I will be able
+to build on  the INDEXED/DIRECT procedures used in  BUGREPRT, but
+question     whether      I     should     stay     away     from
+direct-cursor-addressing.   I  understand  that  the problem  you
+mentioned  to  me concerning  d-c-a arose  from  the setup of the
+billboard;  the question  here, I  guess,  is whether the library
+shell will  also be working under the same billboard constraints.
+I will  assume so, unless you specify otherwise, though it cramps
+my style a bit.  (But, c'est la vie .  .  .)
+
+On February 29, by  the way, my computer thought  it was March 1.
+It accepted the  change to 02/29/84, but then  on March 1 it came
+up with  the date as March 00.  I don't know if any other systems
+maintain the date/time  clock when powered off.  If  not, chances
+are slim that  anyone else caught this anomaly,  unless they left
+their computer  on for two days or worked past midnight either or
+both nights.  Have you heard of anyone else having this problem?
+
+Speaking of  HELP,  it sure  would be  nicer  to have consistency
+between HELP  for commands  and HELP for execs.  Do  you know any
+reason why  OASIS is set up to require "HELP" first for commands,
+but second  for execs?  Another little inconsistency that bugs me
+a bit is  the difference between the CSI  command under BASIC and
+the CSI  command under EDIT.  Why does one require quotes and the
+other not?
+
+Next topic: class codes,  about which I have two  comments.  One,
+we seem to  be getting to the point  where it would be helpful to
+have an  indexed file set up to cross-reference the class numbers
+and the terminals represented.  Also, perhaps, an EXEC to look up
+and report the  cross reference?  Two, another pet  peeve of mine
+is  that  the  drivers (at  least those  I've  tried) do too much
+limiting  and/or screening  of what  comes  in from the terminal.
+That  is,  the  CPU  only  sends  OASIS-recognized  codes to  the
+terminal,  regardless  of  what the  terminal sends  to  the CPU,
+rather than simply  returning "as is" any code  combinations that
+OASIS doesn't  recognize or  care about.  This restricts me  from
+making full use of my terminal's capabilities.  The drivers don't
+have  to  work  this way--wouldn't  it be  appropriate  for us to
+suggest that new ones not have this built-in constraint (and that
+old ones be rewritten)?
+
+OK, mail time.   Your reactions  to the enclosed will be  eagerly
+awaited.
+
+Greetings to Tomoko/Tommi
+
+      Joe .T.
+           -
+
+Joe Trimble (415) 839-3281
+-----------------------------------------------------------------
+March 21, 1984
+
+Mr. Fred Bellomy
+Oasis Users` Group
+P.O. Box 2400
+Santa Barbara, CA  93120
+
+Dear Fred:
+
+I would like to  take this opportunity to thank  Gary Bergman for
+DISKIT.   We   use  it   constantly.   It  has  made  our   lives
+considerably easier.
+
+I would  like  to  add to  your wish  list.   The Archive/Restore
+utilities,  as distributed,  has one fatal flaw.  When RESTORING,
+if for some  reason you cannot read a  sector it is impossible to
+continue.  If  this happens  to be the first sector  on the first
+disk  of a  multivolume archive,  you are in serious trouble.   I
+find this  situation intolerable.  In designing this utility, Tim
+Williams  seems  to have  assumed that  hardware  problems do not
+exist.   Unfortunately for  us folks  down  here in the trenches,
+they  do.   What  we desperately  need is  a  modification of the
+Archive/Restore  utility that  will allow  you to get past a  bad
+sector.  A  similar problem  exists with the disk directory.   If
+you trash  one  of  the  directory  sectors, the  entire  disk is
+worthless.  What  is needed is 1) a mirror image of the directory
+stored   elsewhere   and  2)   each  sector  should  have  enough
+information  stored  with  it to  enable you  to  reconstruct the
+directory.   The  Apple  MacIntosh disks  are set  up  using this
+system.
+
+Keep up the good work with the Users` Group.  Talk to you soon.
+
+Yours truly,
+
+
+Elon L. Bateman
+Vice President
+
+Encl.
+
+-----------------------------------------------------------------
+03/02/84,01:42:51,  407,X,SHAUN SWEENEY,(604)753-5823
+]CAN ANYONE FIND ME A BISYNC SOFTWARE PACKAGE FOR USE WITH
+THE MIDDI-CADET (IBC)
+-----------------------------------------------------------------
+
+03/02/84,03:49:26,  428,X,JACK HOLEMAN,904 399-1607
+]A SYSTEM ERROR HASURRED++
+SORRY I CANT OPEN THE FILE
+THIS IS A MSG DESCR BUG
+10 LEGS, EIGHT EYES
+16 EARS
+BYE
+-----------------------------------------------------------------
+
+03/02/84,05:40:47,  429,X,BRIAN GOODHEIM,303 925 1558
+]FRED: VERY NOISY - I AM GOING TO BED
+-----------------------------------------------------------------
+
+>03/02/84,19:00:50,?,X,SAN AGUAYO,315 422-4589
+]FRED:I AM GETTING A DISK ERROR ON LOGON
+ THE ERROR OCCURS AFTER ENTRY OF THE PHONE NUMBER
+ HOWEVER THE ROR DOES NOT PREVENT ME FROM ACCESING THE
+MESSAGES
+-----------------------------------------------------------------
+
+04/15/84,07:15:52,?,X,SCOTT SHUEY,
+]FRED....
+WHEN I LOGGED ON THE SYSTEM ADVISED A SYSTEM ERROR HAD
+OCCURRED AND REQUESTED I LEAVE A MESSAGE RE THE ERROR.
+THE ONLY EVIDENCE OF A PROBLEM WAS THE SYSTEM SHOWED
+A QUESTION MARK INSTEAD OF A NUMBER WHEN THE PROMPTS
+FOR USER NO. AND LAST MESSAGE NO.  THE SYSTEM PERFORMED
+WITHOUT PROBLEMS AFTER I GOT PAST THE LOGON SEQUENCE.
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL37.FEEDBACK                               23 April 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ File not found.
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 37.
+*****************************************************************
+
+ACCEPT ASSEMBLE/COMMAND + ACCEPT$ EXEC
+
+This contribution is in response to a "WISH LIST" item to allow an
+EXEC to "accept" a byte from the console without waiting for <cr>.
+
+&CONTROL OFF must be specified to avoid the display of the command.
+The "accepted byte" is returned as a NUMERIC value in the &RETCODE.
+
+I simply added another function to the "X.COMMAND" and renamed it,
+more appropriately, to "ACCEPT".
+
+         Syntax:   ACCEPT  BYTE  (NOCR)
+
+If NOCR is not specified, the program will issue a CR/LF after
+the byte is accepted.
+
+                            Gary Bergman (201) 246-7285
+
+Want to see more info {HIT ONE KEY ONLY} - {Y/N}? N
+
+n every  OUG volume,   you ask:  "ON WHAT DRIVE IS THIS  DISK?".
+Well, you  won't have to do that anymore with this "little ditty"
+I came up with:
+
+The ACCEPT.COMMAND can give you the "current drive number".
+
+In order for it to function properly, the command must NOT reside
+on  any  other drive  (especially the  system  disk).  The way to
+accomplish this, is to rename it to ACCEPTxx.COMMAND (Where xx is
+the number of the OUG volume that will contain the command).
+
+The VOL37.EXEC on this volume illustrates the technique.
+
+Gary Bergman (201) 246-7285
+
+WANT TO LIST THE VOL37. EXEC NOW? [Y/N]:N
+LARM ASSEMBLE/COMMAND + ALARM$.EXEC
+
+4This is an "ALARM CLOCK" program that requires Multi-User Oasis.
+0
+You specify  the  time-of-day  and  an  optional "message".   The
+program will wait,  in a background partition, and  send you your
+message at the  appropriate time.  The program also  executes the
+BELLS command, described  in OUG VOLUME 23, to  play a short tune
+on the console.
+
+The number of concurrent alarms is limitted only by the number of
+partitions available.  The program requires only 1K to run.
+
+Contributed by: Gary Bergman (201) 246-7285
+
+
+
+
+
+Do you wish to see more info {Y/N}?:N
+RB0250 .BASICCOM   BRB0250 .DATA       BRBA250 .BASIC
+BRBA250 .BASICCOM   BRBB250 .BASICCOM   BRBB250 .DATA
+BRBN250 .BASIC      BRBN250 .BASICCOM   BRBNOTES.DOC
+BRBNOTES.EXEC
+
+Heres a program  that I use almost daily.  I use it in place of a
+ROLODEX  or  index  card file.   It was  originally  written with
+BPGEN,  the BASIC  Program Generator  I've  been selling for some
+time.   It has a search capability and a generous space for notes
+in each record.  It is an excellent mini-database system for data
+about people and organizations.  Bob Bortz (904) 268-2665.
+
+WANT MORE INFO NOW? [Y/N]:N
+LASS38 ASSEMBLE
+SYSTEM CLASS38
+
+This is a "better" CLASSCODE file for the WYSE-100 terminal.
+
+The key marked  "PRINT" is  translated to an ESC,P sequence.   In
+addition,  the  "DEL  CHAR INS"  key is  effectively  disabled by
+generating an  ESC,A instead of ESC,Q.  This modification is very
+desirable because  the key  can be hit too easily  due its "poor"
+location  on   the  keyboard.   Most  importantly,  this  version
+eliminates  the  need  to enter  ESC 3  times  to generate an ESC
+character.  You can hit it just twice, like normal.
+
+Gary Bergman (201) 247-2727
+
+Do you wish to list it now {Y/N}?:N
+CLASS40/CLASS42/CLASS45.ASSEMBLE + SYSTEM.CLASS40/CLASS42/CLASS45
+
+Here are three class  code drivers which I use  for my terminals.
+Class40  is  for  the Adds  Viewpoint, Class42  is  for the Ampex
+Dialog 80,  and  Class45  is  for  a Vucom  1.   This last one is
+interesting  in  that  as delevered,  the terminal  homed  to the
+bottom left  corner of the screen.  It also had no form of cursor
+addressing.   A  hardware  modification  was  made  to  make  the
+terminal home to the top left corner, and a driver was written to
+move  the  cursor  around  using  line  feeds  and  cursor  right
+commands.   It works  quite well.   I use the Vucom (80  X 16) at
+work  with a  modem to  talk to my home system  when I have spare
+time.
+
+Chris Mallem (613) 236-0374
+
+WANT TO LIST THEM NOW? [Y/N]:N
+NCASE.ASSEMBLE/COMMAND + ENCASE.TESTDATA + ENCASE.CAPWORD
+
+This program converts  a sequential text file from UPPER to lower
+case.   The 1st  letter  of  the  1st  word of  each  sentence is
+converted to UPPER  CASE.  All forms of "I"  are UPPER CASEed and
+text within quotes (") remain the same.
+
+The syntax is very simple:       >ENCASE  fname.ftype[:drive]
+
+Pronouns and other  special words  can be placed (edited) into  a
+sequential  file  called  "ENCASE.CAPWORD".   This  file,  if  it
+exists, is first  loaded into memory and will  be used to replace
+words in the text file that are spelled the same.
+
+The original input text file is saved as: "fname.BACKUP".
+
+Contributed by Gary Bergman (201) 246-7285 (Inspired From the OUG
+"wish list").
+Would you like to see a short demo now {Y/N}?:N
+NQUEUE$.EXEC + ENQUEUE.ASSEMBLE/OBJECT
+ENQTEST.ASSEMBLE/COMMAND + COMMAREA.ASSEMBLE/LOADFILE
+
+One of the poorer design aspects of Multi-User OASIS-8 is that it
+doesn't  allow you  to differentiate between a "read-for-inquiry"
+and a  "read-for-update".  Consequently, whenever a second record
+is accessed  by the  same user, OASIS automatically releases  any
+previous  record.   This  technique has  proved to be disasterous
+when  more than  one user  is adding records to the  same INDEXED
+file.
+
+This is   one  possible   implementation  of  a  LOCK/UNLOCK/TEST
+mechanism that I am currently using with much success.
+
+Gary Bergman (201) 246-7285
+
+Would you like to see more {Y/N}?:N
+COMP.COMMAND + ENCASE.TESTDATA/COMPDATA + FCOMP1/FCOMP2.IBMOBJ
+
+       This is a "quadruple function" file compare program.
+
+  1.   Checks for duplicate files amongst all of the attached disks.
+
+  2.   Examines a "SELECTED.EXEC" to check if the files really exist.
+
+  3.   Compares data records (or specific zone) between any 2 files.
+       "Highlighting" is used to show missmatched bytes within a HEX
+       display, or to indicate the "current" record in an ASCII file.
+
+  4.   Compares a file to itself (offset by 1 byte) to detect
+       the presence of two or more consecutive matching bytes.
+       (Detects binary data overruns from a "bad" tape restore.)
+
+                    Gary Bergman  (201) 246-7285
+
+WANT MORE INFO NOW? [Y/N]:N
+L.INFO + FLCOPY.EXEC + FL0/FL2.COMMAND + FL1.COMMAND
+
+This is a  fantastic set of utilities for speeding up the process
+of  making duplicate  copies of  diskettes.  On my NNC-520 it  is
+almost exactly twice  as fast as the Oasis  BACKUP command!  What
+it does  is make an "image" of the source floppy on the hard disk
+[S] and  then  just  copies  it  to more  blank,  but initialized
+floppies.  It  was contributed by Lew Murray of NOLA Data Systems
+(800) 233-0229.
+
+There are two versions:  FL1 does everything with the  "A" floppy
+only, while the FL0/FL2 set allows you to specify both the source
+and destination  floppy drives.  In my case, I have built FL0/FL2
+into the  FLCOPY.EXEC that  first makes an image of  my master on
+the hard  disk and then copies it continuously to two destination
+floppies -  alternating back and forth between the two for faster
+production (30 seconds each VS 60 seconds for Oasis BACKUP!).
+▼ ^
+FL1 is completely self prompting.  To use FL0/FL2, first run FL0;
+it will ask  for the drive that contains  the master source disk.
+Then run  FL2 with one or more destination disk letters following
+it without punctuation  {eg FL2 A B C  will copy the master image
+to all  three disk drives: A and B and C}.  You must be sure that
+nothing else is  written to the hard disk  until you are finished
+using FL2!  Otherwise, unpredictable results will occur.
+
+WANT MORE INFO NOW? [Y/N]:N
+P.EXEC
+
+This is the utility to print a number of BASICOBJ programs, along
+with their  cross references,  without having to convert them  to
+BASIC programs.  From Lew Murray (800) 233-0229.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+
+
+
+ASTERM.BASIC
+
+This is our  version of the old "Mastermind" game.  The rules are
+included on the screen.  FROM Lew Murray (800) 233-0229.
+
+WANT TO TRY IT NOW? [Y/N]:N
+OVE.EXEC
+
+This EXEC copies the specified files (&1 &2 &3) to the  specified
+destination (&4 &5 &6), then  erases the  source  files.  Caution
+should  be  used  since  any  files  of  the  same  name  at  the
+destination  will be  replaced.  Contributed by Joe Trimble (415)
+-3281.
+
+WANT MORE INFO NOW? [Y/N]:N
+CP.EXEC
+
+This is a slightly revised version of the EXEC for running the
+PCP  production control program originally released on vol 30.
+It corrects a minor error.  FB
+
+WANT TO LIST IT NOW? [Y/N]:N
+ISORT4K.COMMAND
+
+This is  a  complete  working copy  of Quantum Information's very
+fast  sort  - the  catch is  that it is limited to  sorting files
+smaller  than about  4K in  size.  Naturally, they hope you  will
+have some larger  files and will want to  purchase the commercial
+version.  But,  4K is plenty big for lots of little applications,
+so have fun.   It has an excellent HELP  option.  A more complete
+set of documentation is being included on the triple bonus volume
+that accompanies this  regular OUG volume 37.  So,  check it out,
+too.  From Bill Berne (206)789-2888.
+
+WANT MORE INFO NOW? [Y/N]:N
+YSTEM.DEV18TRS/DEV9TRS
+
+     The two  Tandy  drivers are  to allow  for  a feature I find
+quite useful.  By  sending an ascii 128 to  the console, the type
+ahead buffer  is zeroed  and the bell sounded.  This  may be done
+from within any program.  (From Basic the command would be "PRINT
+CHR$(128)." This feature would be used in any program that checks
+the validity of data entry.  I have also modified drivers for the
+Digital Microsystems  and SD  System computers, but I doubt  that
+you have enough  users on those systems to  warrant sending them.
+I  anyone  would like  to  know  how  to  implement it  on  other
+computers, they can call me at 717-393-7774.
+
+Lew Murray  Nola Data Systems
+
+(SORRY. NO SOURCE WAS PROVIDED FOR THESE. FB)
+
+▼ $SHELL.INFO    UATTACH.EXEC    UBACKUP.EXEC    UBELL  .EXEC
+UCOPY  .EXEC    UDATE  .EXEC    UEDIT  .EXEC    UFILE  .EXEC
+UINIT  .EXEC    ULIST  .EXEC    UMULTI .EXEC    UOASIS .EXEC
+URENAME.EXEC    USHOW  .EXEC    USPOOL .EXEC    UTERM  .EXEC
+UWORD  .EXEC
+
+This general  OASIS shell  was contributed by Royce Bordman (713)
+ 460-1500.  It   controls  many  of  the  most  common  functions
+available under  Oasis.  Six of the modules will require specific
+customization  for operation  on your computer: UATTACH, UBACKUP,
+ULETTER.SCRIPT, UMULTI, USPOOL, and UWORD.  Some of the functions
+like UBELL  and USHOW  are absolutely great, but some  like UINIT
+are probably not  as good as other utilities  previously released
+in the OUG library (see FORMAT on volume 23).  All in all, though
+it is a  pretty good general Oasis shell  that you will certainly
+want to customize, if you decide to use it.  UOASIS is top EXEC.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 37.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.    WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>

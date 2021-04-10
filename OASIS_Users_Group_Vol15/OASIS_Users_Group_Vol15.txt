@@ -1,0 +1,848 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: August 1982
+Volume: 15
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST15  A 07/26/82 16:23    54    3 S    69 VOL$15
+ACRS     BASIC    A 07/22/82 17:37   141    8 S    95 VOL$15
+ASCIISET BASIC    A 08/28/82 18:32    37    2 S   108 VOL$15
+BASICCOM EXEC     A 08/28/82 18:15    18    1 S    72 VOL$15
+BASICOBJ EXEC     A 08/28/82 19:11    51    2 S    79 VOL$15
+BUBLALP  BASIC    A 07/05/82 15:11    36    2 S    72 VOL$15
+BUBLNUM  BASIC    A 07/05/82 15:11    34    1 S    60 VOL$15
+BUBLPALP BASIC    A 07/05/82 15:12    40    2 S    61 VOL$15
+BUBLPNUM BASIC    A 07/05/82 15:12    40    2 S    61 VOL$15
+CLASCODE LESSON   A 07/28/82 18:32    94    5 S    79 VOL$15
+CLASS3A  ASSEMBLE A 06/29/82 21:40    36    2 S    63 VOL$15
+CLASS7A  ASSEMBLE A 06/29/82 21:42    34    1 S    58 VOL$15
+COMPINT  BASIC    A 07/22/82 15:40    88    4 S    79 VOL$15
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$15
+DICT     ASSEMBLE A 07/08/82 16:12   131    3 S    70 VOL$15
+DICT     BASICUSR A 07/08/82 16:12     4    1 R   256 VOL$15
+DICTFIX  BASIC    A 05/08/82 17:50   112    5 S   100 VOL$15
+DICTFIX  EXEC     A 05/08/82 18:50    11    1 S    25 VOL$15
+DICTFIX  SCRIPT   A 05/08/82 17:56    65    3 S    79 VOL$15
+DICTSIZE BASIC    A 05/08/82 17:48   183    7 S    93 VOL$15
+DICTSIZE EXEC     A 05/08/82 17:59    11    1 S    25 VOL$15
+DICTSIZE SCRIPT   A 05/08/82 17:57    84    3 S    79 VOL$15
+DSC2$FIX EXEC     A 08/09/82 18:03    36    2 S    74 VOL$15
+LABELS   EXEC     A 08/30/82 19:12    33    1 S    68 VOL$15
+LABELS   ONE$UP   A 07/30/82 00:18    14    1 S    66 VOL$15
+LISTOBJ  EXEC     A 08/30/82 19:50    49    2 S    73 VOL$15
+MEMBER15 FEEDBACK A 08/30/82 21:48   218   11 S    66 VOL$15
+NEWS     LETTER15 A 08/30/82 20:13   134    8 S    70 VOL$15
+OBJBASIC BASIC    A 08/28/82 19:19    40    2 S    78 VOL$15
+OBJLIST  BASIC    A 07/05/82 15:23    37    2 S    78 VOL$15
+PHONE    BASIC    A 07/22/82 18:03   342   13 S    80 VOL$15
+PHONE    CALLS    A 07/22/82 18:10     0    1 S     0 VOL$15
+PHONE    EXEC     A 08/30/82 19:55    38    2 S    78 VOL$15
+PHONE    PROJECTS A 06/14/82 09:43     0    1 S     0 VOL$15
+QUIKSTA  BASIC    A 07/05/82 15:13    98    4 S    73 VOL$15
+QUIKSTAP BASIC    A 07/05/82 15:13   102    4 S    73 VOL$15
+QUIKSTN  BASIC    A 07/05/82 15:13    94    3 S    72 VOL$15
+QUIKSTNP BASIC    A 07/05/82 15:14    97    4 S    72 VOL$15
+RESORT   BASIC    A 08/28/82 19:17    76    3 S   106 VOL$15
+RESORT   EXEC     A 08/30/82 20:16    52    2 S    78 VOL$15
+SELECT15 EXEC     A 08/30/82 17:48    54    3 S    46 VOL$15
+SHELLALP BASIC    A 07/05/82 15:14    45    2 S    61 VOL$15
+SHELLNUM BASIC    A 07/05/82 15:14    40    2 S    59 VOL$15
+SHELLPAL BASIC    A 07/05/82 15:14    47    2 S    66 VOL$15
+SHELLPNM BASIC    A 07/05/82 15:15    47    2 S    66 VOL$15
+SORTING  EXEC     A 08/30/82 20:13   157    4 S    71 VOL$15
+SORTING  LESSON1  A 07/28/82 18:23   356   12 S    79 VOL$15
+SORTING  LESSON2  A 07/28/82 18:25   459   16 S   154 VOL$15
+SORTING  LESSON3  A 07/28/82 18:25   293   11 S    79 VOL$15
+SORTING  LESSON4  A 07/28/82 18:19   464   16 S    79 VOL$15
+SORTING  OVERVIEW A 08/30/82 20:02    39    2 S    80 VOL$15
+UGROUPS  ADDRESS  A 07/30/82 18:25   240   27 S   188 VOL$15
+USRGSORT BASIC    A 08/28/82 19:11   101    5 S   132 VOL$15
+VOL15    EXEC     A 08/30/82 17:44   462   14 S    77 VOL$15
+WISH     LIST15   A 08/30/82 20:17    54    3 S    75 VOL$15
+55 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+DSC2$FIX.EXEC:A copied to DSC2$FIX.EXEC:D
+NEWS.LETTER15:A copied to NEWS.LETTER15:D
+PHONE.PROJECTS:A copied to PHONE.PROJECTS:D
+SHELLPAL.BASIC:A copied to SHELLPAL.BASIC:D
+WISH.LIST15:A copied to WISH.LIST15:D
+SELECT15.EXEC:A copied to SELECT15.EXEC:D
+SORTING.LESSON3:A copied to SORTING.LESSON3:D
+SORTING.OVERVIEW:A copied to SORTING.OVERVIEW:D
+BUBLPALP.BASIC:A copied to BUBLPALP.BASIC:D
+DICT.ASSEMBLE:A copied to DICT.ASSEMBLE:D
+QUIKSTNP.BASIC:A copied to QUIKSTNP.BASIC:D
+CLASS3A.ASSEMBLE:A copied to CLASS3A.ASSEMBLE:D
+COMPINT.BASIC:A copied to COMPINT.BASIC:D
+DICTSIZE.SCRIPT:A copied to DICTSIZE.SCRIPT:D
+LABELS.ONE$UP:A copied to LABELS.ONE$UP:D
+RESORT.EXEC:A copied to RESORT.EXEC:D
+ACRS.BASIC:A copied to ACRS.BASIC:D
+LABELS.EXEC:A copied to LABELS.EXEC:D
+QUIKSTAP.BASIC:A copied to QUIKSTAP.BASIC:D
+QUIKSTN.BASIC:A copied to QUIKSTN.BASIC:D
+ASCIISET.BASIC:A copied to ASCIISET.BASIC:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+DICTFIX.EXEC:A copied to DICTFIX.EXEC:D
+DICTSIZE.BASIC:A copied to DICTSIZE.BASIC:D
+OBJLIST.BASIC:A copied to OBJLIST.BASIC:D
+PHONE.CALLS:A copied to PHONE.CALLS:D
+SHELLALP.BASIC:A copied to SHELLALP.BASIC:D
+SORTING.LESSON2:A copied to SORTING.LESSON2:D
+BUBLPNUM.BASIC:A copied to BUBLPNUM.BASIC:D
+DICTFIX.SCRIPT:A copied to DICTFIX.SCRIPT:D
+DICTSIZE.EXEC:A copied to DICTSIZE.EXEC:D
+LISTOBJ.EXEC:A copied to LISTOBJ.EXEC:D
+OBJBASIC.BASIC:A copied to OBJBASIC.BASIC:D
+QUIKSTA.BASIC:A copied to QUIKSTA.BASIC:D
+RESORT.BASIC:A copied to RESORT.BASIC:D
+SORTING.EXEC:A copied to SORTING.EXEC:D
+$README.FIRST15:A copied to $README.FIRST15:D
+BASICCOM.EXEC:A copied to BASICCOM.EXEC:D
+CLASS7A.ASSEMBLE:A copied to CLASS7A.ASSEMBLE:D
+SORTING.LESSON4:A copied to SORTING.LESSON4:D
+UGROUPS.ADDRESS:A copied to UGROUPS.ADDRESS:D
+USRGSORT.BASIC:A copied to USRGSORT.BASIC:D
+BASICOBJ.EXEC:A copied to BASICOBJ.EXEC:D
+BUBLNUM.BASIC:A copied to BUBLNUM.BASIC:D
+DICT.BASICUSR:A copied to DICT.BASICUSR:D
+DICTFIX.BASIC:A copied to DICTFIX.BASIC:D
+PHONE.BASIC:A copied to PHONE.BASIC:D
+BUBLALP.BASIC:A copied to BUBLALP.BASIC:D
+CLASCODE.LESSON:A copied to CLASCODE.LESSON:D
+MEMBER15.FEEDBACK:A copied to MEMBER15.FEEDBACK:D
+PHONE.EXEC:A copied to PHONE.EXEC:D
+SHELLNUM.BASIC:A copied to SHELLNUM.BASIC:D
+SHELLPNM.BASIC:A copied to SHELLPNM.BASIC:D
+SORTING.LESSON1:A copied to SORTING.LESSON1:D
+VOL15.EXEC:A copied to VOL15.EXEC:D
+
+>VOL15
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 15  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  15,
+THE LATEST NEWSLETTER, AND FEEDBACK FROM MEMBERS:
+
+ON WHICH DRIVE [if other than "A"] IS VOL15 MOUNTED? [ A-G S ]:A
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST15  A 07/26/82 16:23    54    3 S    69 VOL$15
+ACRS     BASIC    A 07/22/82 17:37   141    8 S    95 VOL$15
+ASCIISET BASIC    A 08/28/82 18:32    37    2 S   108 VOL$15
+BASICCOM EXEC     A 08/28/82 18:15    18    1 S    72 VOL$15
+BASICOBJ EXEC     A 08/28/82 19:11    51    2 S    79 VOL$15
+BUBLALP  BASIC    A 07/05/82 15:11    36    2 S    72 VOL$15
+BUBLNUM  BASIC    A 07/05/82 15:11    34    1 S    60 VOL$15
+BUBLPALP BASIC    A 07/05/82 15:12    40    2 S    61 VOL$15
+BUBLPNUM BASIC    A 07/05/82 15:12    40    2 S    61 VOL$15
+CLASCODE LESSON   A 07/28/82 18:32    94    5 S    79 VOL$15
+CLASS3A  ASSEMBLE A 06/29/82 21:40    36    2 S    63 VOL$15
+CLASS7A  ASSEMBLE A 06/29/82 21:42    34    1 S    58 VOL$15
+COMPINT  BASIC    A 07/22/82 15:40    88    4 S    79 VOL$15
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$15
+DICT     ASSEMBLE A 07/08/82 16:12   131    3 S    70 VOL$15
+DICT     BASICUSR A 07/08/82 16:12     4    1 R   256 VOL$15
+DICTFIX  BASIC    A 05/08/82 17:50   112    5 S   100 VOL$15
+DICTFIX  EXEC     A 05/08/82 18:50    11    1 S    25 VOL$15
+DICTFIX  SCRIPT   A 05/08/82 17:56    65    3 S    79 VOL$15
+DICTSIZE BASIC    A 05/08/82 17:48   183    7 S    93 VOL$15
+DICTSIZE EXEC     A 05/08/82 17:59    11    1 S    25 VOL$15
+DICTSIZE SCRIPT   A 05/08/82 17:57    84    3 S    79 VOL$15
+DSC2$FIX EXEC     A 08/09/82 18:03    36    2 S    74 VOL$15
+LABELS   EXEC     A 08/30/82 19:12    33    1 S    68 VOL$15
+LABELS   ONE$UP   A 07/30/82 00:18    14    1 S    66 VOL$15
+LISTOBJ  EXEC     A 08/30/82 19:50    49    2 S    73 VOL$15
+MEMBER15 FEEDBACK A 08/30/82 21:48   218   11 S    66 VOL$15
+NEWS     LETTER15 A 08/30/82 20:13   134    8 S    70 VOL$15
+OBJBASIC BASIC    A 08/28/82 19:19    40    2 S    78 VOL$15
+OBJLIST  BASIC    A 07/05/82 15:23    37    2 S    78 VOL$15
+PHONE    BASIC    A 07/22/82 18:03   342   13 S    80 VOL$15
+PHONE    CALLS    A 07/22/82 18:10     0    1 S     0 VOL$15
+PHONE    EXEC     A 08/30/82 19:55    38    2 S    78 VOL$15
+PHONE    PROJECTS A 06/14/82 09:43     0    1 S     0 VOL$15
+QUIKSTA  BASIC    A 07/05/82 15:13    98    4 S    73 VOL$15
+QUIKSTAP BASIC    A 07/05/82 15:13   102    4 S    73 VOL$15
+QUIKSTN  BASIC    A 07/05/82 15:13    94    3 S    72 VOL$15
+QUIKSTNP BASIC    A 07/05/82 15:14    97    4 S    72 VOL$15
+RESORT   BASIC    A 08/28/82 19:17    76    3 S   106 VOL$15
+RESORT   EXEC     A 08/30/82 20:16    52    2 S    78 VOL$15
+SELECT15 EXEC     A 08/30/82 17:48    54    3 S    46 VOL$15
+SHELLALP BASIC    A 07/05/82 15:14    45    2 S    61 VOL$15
+SHELLNUM BASIC    A 07/05/82 15:14    40    2 S    59 VOL$15
+SHELLPAL BASIC    A 07/05/82 15:14    47    2 S    66 VOL$15
+SHELLPNM BASIC    A 07/05/82 15:15    47    2 S    66 VOL$15
+SORTING  EXEC     A 08/30/82 20:13   157    4 S    71 VOL$15
+SORTING  LESSON1  A 07/28/82 18:23   356   12 S    79 VOL$15
+SORTING  LESSON2  A 07/28/82 18:25   459   16 S   154 VOL$15
+SORTING  LESSON3  A 07/28/82 18:25   293   11 S    79 VOL$15
+SORTING  LESSON4  A 07/28/82 18:19   464   16 S    79 VOL$15
+SORTING  OVERVIEW A 08/30/82 20:02    39    2 S    80 VOL$15
+UGROUPS  ADDRESS  A 07/30/82 18:25   240   27 S   188 VOL$15
+USRGSORT BASIC    A 08/28/82 19:11   101    5 S   132 VOL$15
+VOL15    EXEC     A 08/30/82 17:44   462   14 S    77 VOL$15
+WISH     LIST15   A 08/30/82 20:17    54    3 S    75 VOL$15
+55 file(s), 247 block(s).
+▼ EWS.LETTER15:VOL$15                                      01/30/85 18:37 Page 1
+
+----------------------------------------------------------------------
+1 August 1982         N E W S   L E T T E R                  Volume 15
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+The highlights of  volume 15  include Vince Oster's new utilities  for
+maintaining  the  spelling checker  dictionary files, Paul Schindler's
+Phone Billing  program and  a sort routine for Trimble's  mailing list
+program; the Accelerated Cost Recovery System sent in by the Cannon's;
+Ron Brubaker's tutorials for generating Class Codes and his lessons on
+various sort  algorithm  usage.   Some  of  the games  sent  in by Tom
+Carolyn Cannon are nice, too.
+
+My wife, Tomoko, and  I spent four weeks in  June and July touring the
+U.S.  It was  a great business/pleasure trip that  gave us a chance to
+meet many of you along the way.  Everywhere we went I tried to call as
+many of  you  as possible,  but of  course  most of you were  also off
+enjoying  yourselves as  well.  So,  our  schedules often didn't mesh.
+When we did make contact it was great.  I got a first hand opportunity
+to  see  what you  are doing  and to discuss future planning  - really
+valuable for me.
+
+A number of  you have  asked me about investment related  programs for
+use with  the stock market, etc.  I have finally gained access to what
+looks like a possibly good set of programs written for the TRS-80 (mod
+I or  III).  We  need a team effort here.   First, we need someone who
+can evaluate  the value  of the programs from the  book: "New Uses For
+The Home Computer  In The Stock Market" by  Thomas V.  Lenz.  Then, if
+they still look O.K.  to someone who knows about these things, we need
+someone who  can take the TRS-80 tapes or 5.25" disks and convert them
+to either  CP/M or  OASIS 8" single density disk  format.  Finally, we
+need people  who will go through each program and translate the TRS-80
+BASIC  code to  OASIS  BASIC  statements.   So,  now is  the  hour for
+volunteers.  How 'bout it?
+
+Very soon I  will be releasing a "PRESS RELEASE SYSTEM" that will make
+it easier to send notices out to people on mailing lists (in general).
+I am  attempting to get Phase One to let us use their list of computer
+related journals, but even if they don't give it to us we will put one
+together one  way or another.  If you already have such a list, please
+send  it in  and save  me a lot of time  finding and keying in all the
+data.  Along this same line, if you have any other interesting mailing
+lists already keyed, consider letting us put them in the library.  You
+will find  one  such list  in volume  15:  a list of many  other Users
+Groups.
+
+O.K. you guys, someone out there must be capable of putting together a
+better sort using  Ron Brubaker's stuff.  The Trimble  Sort works, but
+we all  know there are MUCH MUCH faster ways to sort files.  How about
+some bright student  of all you faculty members  making a term project
+out of it?   There must be some way  we can get a "commercial quality"
+sort into our library.  Can we buy the rights from someone?  Any other
+ideas?
+
+Next volume will  include a  narrative listing of the contents  of all
+volumes up  to and including volume 16.  Many people have asked for it
+and  I must  confess that  it is a very convenient  reference to have.
+Likewise,   you   might   consider   listing   to   the   printer  the
+DISKFILE.LIBRARY so that  you have an alphabetic listing  of all files
+and their volume designations.
+
+We still very  much need  someone to run our dictionary  files through
+one of the other spelling checkers to find as many of the non-words in
+ours  as  possible.  While  their presence  in  our dictionary doesn't
+seriously  detract from  its utility,  they do take up space  and slow
+down the operation of the spelling checkers a little.  How 'bout it?
+
+Don't forget to consider  using things in the library  as patterns for
+new applications.  Our  library is now chuck full  of great ideas just
+waiting for  someone to change things a little in the code in order to
+create totally  new applications!   And, don't forget to send  in your
+new programs, whether totally new or just new adaptations.
+
+Discussions with  many  software  developers continue  about both demo
+packages and  limited capability versions of their commercial packages
+for inclusion in either the OUG library itself or a separate series of
+demo  disks.   So far,  lots of  people have indicated an interest  in
+testing the  ideas, but as yet we still don't have a "first one." I'll
+keep you posted on this one.  It has great potential for everyone.
+
+On our recent trip  we took pictures of many  of you.  It really helps
+to remember more  of the details of a  visit to have a picture to look
+at.  It might seem a little corny to exchange pictures, but I'd really
+like to  tie faces to some of your voices when you call.  In the early
+days when we only had a few members and even fewer who were contacting
+us,  it was  easier to  keep names and voices sorted  out.  Now, it is
+getting to  be  nearly impossible.   So, if  you  will send me one  of
+your's, I'll  send  you  one  of  mine.  No  big  deal.  Just a little
+something to keep this growing monster a little more personal.
+
+In connection with my  recent decision to make subject  collections of
+the library available,  I am preparing a series  of EXECs to summarize
+each catagory.  So far, I've got them for the BUSINESS/FINANCE, GAMES,
+and the  SPELLING CHECKER  collections.  Soon, there will be  ones for
+the UTILITY, ENGINEERING/MATH, and EDUCATION/MISC.  There will also be
+one  that  ties  the whole  bunch together.   These  new EXECs will be
+useful for  anyone who  has the complete library as  well as those who
+just get a particular collection.  They will be augmented periodically
+as new stuff is added to each catagory.
+
+Thanks to Rod Proctor  I am now able to  use OASIS version 5.5 with my
+Digital Microsystem  DSC-2.  At  the moment one of the  disk drives is
+out in  the second  computer, but will soon be  fixed.  That means the
+Bulletin  Board  project  will be  getting more  priority  in the near
+future.  My personal  (secret) goal is to have  it working in time for
+the November COMDEX  meeting in Las Vegas this  year.  We'll see.  I'm
+way way behind  in getting stuff integrated into  library volumes, and
+that still really  must have higher priority.  Guess  I shouldn't have
+taken such a long vacation this summer.  But, it was soooo much fun.
+
+Oh yes, I've  decided to  start giving you every THIRD  volume free on
+you  standing  order.   Hope this  will help  some  of you to continue
+justifying support  of OUG  efforts.  And, don't forget to  suggest to
+your buddies/customers/associates that they consider joining the OUG -
+with a  standing order using a copy of your earlier volumes as a giant
+head start, cost saving measure, if necessary.  We really do need more
+standing  order  members, because  these are  the  people who are kept
+up-to-date  about OUG  happenings, problems, opportunities, etc.  (not
+to  mention  financial  support for  OUG).  Non-standing order members
+will get newsletters  and other information from OUG  only on a highly
+irregular basis!
+
+Well, that  will  about  do it  for this  volume.   You may be getting
+volume 16 with this one as it is almost ready to go, too.
+
+
+
+peace,
+
+
+Fred Bellomy
+(805) 965-0265 or 965-5555
+▼ EMBER15.FEEDBACK:VOL$15                                  01/30/85 18:37 Page 1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER15.FEEDBACK
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+22 JULY 1982
+
+
+DEAR FRED:
+
+I RECEIVED  VOLUME I  OF THE  OASIS USERS GROUP RECENTLY, AND  I'M
+GLAD TO BE A MEMBER OF THIS ORGANIZATION.  I AM FAMILIAR WITH MOST
+OF THE  GAMES,  SINCE  MOST  APPEAR  TO BE  BASED  ON THE CREATIVE
+COMPUTING  "BASIC   COMPUTER  GAMES"  BOOK,  PROGRAMS  I  HAVE  IN
+MICROSOFT BASIC.   YAHTZEE  IS  EXCELLENT,  BUT  I WAS  UNABLE  TO
+RECOMPILE AWARI  FOR 5.5 (IT MENTIONS A "FOR WITHOUT NEXT" ERROR).
+HOW ABOUT  ADDING "RANDOMIZE" TO YAHTZEE FOR A DIFFERENT GAME EACH
+TIME?
+
+
+THE REASON  FOR THIS  DISK LETTER  IS TO ENCLOSE 1 OF  MY PROGRAMS
+WHICH MAY  BE OF  SOME USE TO OTHER MEMBERS.   MOST OF MY PROGRAMS
+ARE FINANCIAL OR ACTUARIAL IN NATURE, TOO ESOTERIC FOR THE TYPICAL
+USER, BUT COMPINT.BASIC COULD BE HELPFUL TO SOME.
+
+COMPINT.BASIC IS  A PROGRAM  WHICH WILL GENERATE COMPOUND INTEREST
+FUNCTIONS  INCLUDING  PRESENT  AND  FUTURE  VALUES  OF  ANNUITIES,
+AMORTIZATION  SINKING FUND  FACTORS, AND ACCUMULATED OR DISCOUNTED
+VALUES.  ENTERING 1  AS THE AMOUNT WILL GENERATE  VALUES AS CAN BE
+FOUND IN  PRINTED  COMPOUND  INTEREST  TABLES  OR BY  ENTERING  AN
+AMOUNT, THE  INTERMEDIATE STEP  OF MULTIPLYING CAN BE SAVED.   ANY
+NUMBER OF COMPOUNDING  PERIODS PER YEAR ARE ALLOWED  AND ANY RANGE
+OF YEARS  CAN BE DISPLAYED.  NOTE THAT THE OPTIONS SPECIFY WHETHER
+THE PAYMENT FOR  AN ANNUITY (REGULAR PAYMENT) IS  AT THE BEGINNING
+OR END OF EACH PERIOD.
+
+
+I HOPE YOU  WILL FIND THIS PROGRAM USEFUL ENOUGH TO ADD TO THE OUG
+LIBRARY.   I WILL  GRATEFULLY ACCEPT ANY CONSTRUCTIVE CRITICISM ON
+SAME.  IT IS "HOPEFULLY" SELF-DOCUMENTING ENOUGH WHERE THE AVERAGE
+USER WON'T HAVE ANY TROUBLE WITH IT.
+
+
+I WOULD ALSO  LIKE TO  GET A VERSION OF AWARI  WHICH WORKS IN VER.
+5.5.
+
+IT WOULD  BE  NICE  IF SOMEONE  WOULD WRITE/CONTRIBUTE OTHELLO.  I
+HAVE SEEN A GREAT PROGRAM FOR IT WITH DIRECT CURSOR ADDRESSING AND
+ITS A GAME THAT CAN BE PLAYED BETTER ON A COMPUTER THAN A BOARD.
+
+ONE OTHER  ITEM  OF  INTEREST FOR  OASIS USERS  CONCERNS  THE WORD
+PROCESSING PROGRAM WORDSTAR, WHICH I BELIEVE TO BE ONE OF THE BEST
+AVAILABLE.  MY  COMPUTER VENDER RECENTLY HAD A DISCUSSION WITH THE
+PRESIDENT  OF  MICROPRO  AND IT  APPEARS THAT  THEY  HAVE WORDSTAR
+OPERATING UNDER OASIS  IN HOUSE, BUT THEY HAVE  NO PLANS TO MARKET
+IT  BECAUSE  THEY FEEL  THE MARKET  IS TOO SMALL TO WARRANT  THEIR
+SUPPORT OF THE PROGRAM.
+
+IF A SIGNIFICANT NUMBER  OF OASIS USERS WERE TO  REQUEST IT WITH A
+COMMITMENT TO  PURCHASE, IT MIGHT SWAY THEM ENOUGH TO CHANGE THEIR
+DECISION.  I NOW RUN SPELLBINDER ON OASIS AND WOULD GLADLY TOSS IT
+OUT IF  WORDSTAR WAS  MADE AVAILABLE.  POSSIBLY A SURVEY  OF OASIS
+USERS WOULD INDICATE ENOUGH OF A MARKET FOR MICROPRO TO REEVALUATE
+THEIR POSITION.  I SOLICIT YOUR COMMENTS IN THIS REGARD.
+
+
+ BEST REGARDS,
+
+
+
+MICHAEL D. AXELROD
+2535 N. 40TH AVENUE
+HOLLYWOOD, FL 33021
+
+(305) 983-5600
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15 July 1982
+
+Dear Fred,
+
+I know  its  been ages  since I  last sent you something and  if I
+don't  start contributing  more  I  won't  be  able to  afford  to
+continue subscribing to OUG.  Thus, in spite of a crazy schedule I
+am firing off this disk in the hopes of keeping up a bit.
+
+First a question.  As  you have probably observed I  tend to write
+most  text  files as  SCRIPT files.   I have formatted all of  the
+script  files on  this disk  to be displayed on a  terminal.  What
+format would  you prefer for the submission of text files?  I find
+SCRIPT  type files  to  be  the  most  flexible since  it  is only
+necessary to change the .SIZ command to reformat them for terminal
+display  or  for the  preparation of  hardcopy  on the printer.  I
+trust that you  will make whatever adjustments are  necessary this
+time and I will try to comply next time with your wishes.
+
+I believe that your desire for some thoughts on writing class code
+routines has  yet to be satisfied.  I'm afraid that what I have to
+contribute may not be of much help if all you are looking for is a
+class  code for  your Tektronix  Graphics  terminal.  I don't have
+such fancy toys to play with.
+
+However, I   am   including  two   class  codes  I  have  written.
+Both are revisions of the ones Phase One released that didn't work
+with my equipment.  CLASS7A is for my Televidio 920C  and  CLASS3A
+is for my ADM-5.
+
+I should also mention that the University's ADM-5 is equipped with
+a Retrographics  board that supposedly is compatible with (believe
+it or not)  the Tektronix Graphics codes.  Unfortunately  I am not
+an assembly language programmer so I'm not sure if I can lick this
+one.  My  listing  of  the  Oasis  CLASS MACLIB  file  has several
+terminal  types  that  appear  to  be  nearly  as  complex as  the
+Tektronix terminal  so it  may be doable.  Maybe you  could enlist
+the aid of one of the talented Z80 assembler types in the group to
+look into this one for us.
+
+I'm afraid  I must  add  my  dissenting  vote  to those  who  have
+indicated  their lack  of joy  over the decision to include  Oasis
+BASIC programs  on the OUG disks as BASIC type files.  However, to
+show  you  what a  good sport  I am I have included  several weird
+programs I  wrote  to  deal  with  this problem.
+
+Finally, one  bit  of unfinished  business.  I  know  I said I was
+working on  some sorting routines but you guys are talking about a
+whole different kettle of bits than I was.  I'll confess, I bought
+one of those $100 jobs (QISORT) to do the type of file sorting you
+keep  talking  about.  What  I have  been working on is much  less
+ambitious.   I  have  written,  in  Oasis  BASIC,  several sorting
+algorithms  such  as  the  infamous  "bubble sort",  the legendary
+"Shell sort", and a variation of the "quicksort" algorithm.  After
+some  fooling around  I have  gotten familiar enough with each  of
+these that I can modify them for sorting either numbers or strings
+using either a direct sort or a pointer sort.  I have even written
+some lessons on how these things work for a class I teach in BASIC
+programming.  If there  is interest in such mundane  stufr,    I'm
+glad  to  send in  a copy, but if you are going  to expect a slick
+version like QISORT you are talking to the wrong guy.
+
+Ok, I'll  risk  one  more misunderstanding.   I have recently been
+offering a  short series  of workshops on Oasis for  members of my
+faculty  and  staff.  I  have written  several  handouts that were
+intended  as  an introduction  to several  parts  of the operating
+system  including  the  Command String  Interpreter, EDIT, and the
+special features  peculiar to Oasis BASIC.  I have assumed that my
+audience has  worked with  a computer of some sort  previously and
+that they  already know BASIC.  If you are interested I can try to
+eliminate some of the references that are specific to the hardware
+we  have  at the  University  and  get  them  in condition  to  be
+submitted.
+
+Ron Brubaker (312) 534-6899
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+June 17, 1982
+
+
+Dear Fred:
+
+We want  to  compliment you  on the  fine job you have been  doing
+coordinating the users  group.  We know it has  been a lot of hard
+work as well  as a lot of fun.   The improvement in quality of the
+programs in  the library  and the newsletter lately has  been very
+noticeable.  Keep up the good work.
+
+As to your  comments in a recent volume about the need to get more
+publicty for OASIS we can only say: Bravo!  As commercial software
+people we  constantly are faced with the question "What is OASIS?"
+It seems  most people in the micro industy still feel that CP/M is
+the only  operating system available.  It is up to those of us who
+have an  interest in  promoting OASIS to do something  about this.
+We  have  taken your  suggestions about  sending  news releases to
+trade magazines we  subscribe to.  Perhaps you could  distribute a
+list  of names  and addresses  of all those publications you  know
+about.  We  are sure  there are other people like  us who are only
+aware  of the  publications they  receive.  I recently had a  long
+conversation with Terry Benson at Interface Age and suggested they
+ought to give more coverage to OASIS.  I also suggested an article
+comparing   the  advantages   of  the  various  operating  systems
+available  would  be  most  informative  for  readers.   If  other
+memebers of  the OUG would write them and other publications maybe
+we  would begin  to  see  more  mention  of OASIS  than  just "The
+manufacturer also  offers the  OASIS Operating System", as is  the
+usual comment accorded us in most trade magazine articles.
+
+By the way, we appreciate the change you recently made to send all
+programs in the BASIC form.  As we are using an Altos ACS-8000-15D
+running  multi-user,  our  maximum memory  available is about 45K.
+Some of the earlier programs in the library could not be loaded on
+our machine.   I would recommend that everyone contributing to the
+OUG remember  that not  all systems in use out  there have as much
+capacity as  their own systems.  It is very frustrating to try and
+load  a program  to make  modifications only to find that  we have
+"insufficient  memory".   Sending things  out in the BASIC version
+has helped solve this problem.  We also find that many people seem
+to add to  the length of their programs  with many unnecessary REM
+statements.  This may just be a difference in philosophy about the
+way to  write a program, but we find that removing most of the REM
+statements  means  we  can load  a program  that  otherwise is too
+large.
+
+Also, if  you ever  find out  how to get the OASIS  communications
+working on  a DSC-2 under 5.4 or 5.5, please let us know.  We have
+a user  with a  similar configuration to your own  system and have
+been trying  to get  help with that problem for  about six months.
+It is too bad that certain manufacturers offer the OASIS operating
+system and then cannot or will not support it.
+
+That's about  it  for  now.   Hope  you  find  these  programs  of
+interest, and keep up the good work.
+
+Best Wishes,
+
+Tom and Carolyn Cannon
+Applied Solutions, Inc.
+P.O. Box 1469
+Jacksonville, OR  97530
+(503) 772-5746
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST15:VOL$15                                        01/30/85 18:37 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST - I wish somebody would.......................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1.  We need a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E) to OASIS BASIC. (NOTE: We now have MCONVERT, but it
+needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification)
+
+
+3.  We need to develop a cheap way for members to call the new OUG Bulletin
+Board computer.  Does anyone know a way to use the networks (ie TELENET,
+TYMNET, etc.) or other phone service for cheap "off hours" communications?
+
+6.  We need a conversion routine for converting ASSEMBLY language code
+from other Z80 systems to OASIS.
+
+7.  We need a BASIC disassembler.
+
+8.  I need a comprehensive mailing list program for keeping track of all
+our members - one that we can put in the public domain.
+Thanks for all the contributions on this on. Still don't have what I
+want yet.  It needs to operate with SCRIPT as well.
+
+9.  I need a data base system for maintaining the commercial software
+directory - again one that can be released into the public domain.
+
+10. We need people who can begin doing benchmark tests of the various
+software products that are becoming available - both proprietary and
+public domain.
+
+11. We need lots more applications to run against the dictionary data
+base.
+
+
+13. WE BADLY NEED A MODIFICATION TO SYSTEM.NUCLEUS THAT WILL IMPLEMENT
+THE BREAK FUNCTION.  PHASE ONE hasn't been responsive to the pleas from
+(at least) several members.
+
+14. We need someone to run our dictionary through one or more of the
+other spelling checkers.  There are MANY misspelled words in the current
+version of our word list, as well as many more non-words.
+
+15. We need a systematic way to keep track of the CLASS Codes and Device
+drivers - like an alphabetical list by device names with names of drivers.
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+
+17. We need a utility that compresses out multiple interfile spaces on
+a disk and frees up one large contiguous space.  Probably a tough task.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 August 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 15.
+
+***************************************************************
+
+
+ACRS.BASIC
+
+This program computes depreciaton schedules based on the new
+tax laws.  It is very useful for real estate people and
+personal investment decision analysis.  The program allows you
+to enter headings and names of customers and agents if you want
+to print the schedule out for someone.  This was adapted from a
+program and article that appeared in the March 1982 issue of
+Interface Age.  It was submitted by Tom and Carolyn Cannon.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SCIISET.BASIC
+
+This is a dandy new utility by Ron Brubaker which just prints out
+a table of the ASCII character set.  If you are anything like me,
+you need one every now and then and have to search all over the
+place to find the last publication in which you can remember seeing
+one.  So here it is once and for all.  Note: it prints the actual
+character your output device uses for each actual ASCII value.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ASICCOM.EXEC
+
+Companion to Ron Brubaker's BASICOBJ.EXEC.  This one compiles the
+whole batch of BASICOBJ programs he converted from BASIC versions.
+It can, of course, be used with any disk containing BASICOBJ programs.
+I put it together after seeing Ron's efforts.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ASICOBJ.EXEC
+OBJBASIC.BASIC
+
+I created this pair of programs for those diehards out there who
+still insist on having all of their BASIC programs as BASICOBJ's.
+BASICOBJ.EXEC is a procedure that makes a list of the files of
+type BASIC on the input disk specified utilizing the command
+FILELIST *.BASIC:&A (FILE where &A is a variable in the EXEC
+routine. BASICOBJ.EXEC then calls the BASIC program OBJBASIC
+which I have supplied as a BASIC file (I try to please). OBJBASIC
+then writes another EXEC procedure which will execute the BASIC
+interpreter, load each file that was previously listed, and resaves
+the file as a BASICOBJ type file on the specified output disk drive.
+The original EXEC then calls this new EXEC and does the job. Finally
+the damn thing cleans up after itself. I'd almost bet that there
+is an easier way to do this but this works (slowly).
+
+From Ron Brubaker (312) 534-6899
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+ORTING.OVERVIEW/LESSON1/LESSON2/LESSON3/LESSON4
+BUBLALP/BUBLNUM/BUBLPALP/BUBLPNUM.BASIC
+SHELLALP/SHELLNUM/SHELLPAL/SHELLPNM.BASIC
+QUIKSTA/QUIKSTAP/QUIKSTN/QUIKSTNP.BASIC
+
+THIS IS A COMPLETE SERIES OF LESSONS FOR UNDERSTANDING THE BASICS OF
+SORTING ALGORITHMS.  IT WAS PREPARED BY RON BRUBAKER (312) 534-6899
+FOR A CLASS HE TEACHES IN BASIC PROGRAMMING.  IT IS EXCELLENT AND
+INCLUDES FOUR EXAMPLES OF EACH OF THREE DIFFERENT TYPES OF SORTING:
+BUBBLE SORTS, SHELL SORTS, AND QUICK SORTS.  IT TAKES SOME TIME TO
+GO THROUGH ALL OF THE LESSONS, BUT IT IS GREAT STUFF.  TRY IT.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+LASS3A.ASSEMBLE
+CLASS7A.ASSEMBLE
+
+CLASS7A.ASSEMBLE is a  modification of the Oasis distributed class
+code  7 for  the TeleVideo  920C.  I found that there  are several
+differences   between  my   terminal  and  what  was  provided  in
+SYSTEM.CLASS7 on my operating system.  I believe that I have fixed
+all of these in the version I am submitting.
+
+I have also  been working with an ADM-5 at the University.  It has
+several features not  found on the ADM-3 for  which Oasis provides
+SYSTEM CLASS3.  I also found that class code 3 does not correspond
+exactly to the  ADM-5 on a couple of  input translations.  Thus, I
+finally  got  around  to  writing  CLASS3A  ASSEMBLE  to get  this
+terminal working the way it should.  I am also including this file
+in case anyone else can use it.  Ron Brubaker (312) 534-6899
+
+
+TO ASSEMBLE THESE NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OMPINT.BASIC
+
+THIS IS A PROGRAM WHICH WILL GENERATE COMPOUND INTEREST FUNCTIONS
+INCLUDING PRESENT AND FUTURE VALUES OF ANNUITIES, AMORTIZATION & SINKING FUND
+FACTORS, AND ACCUMULATED OR DISCOUNTED VALUES. ENTERING 1 AS THE AMOUNT WILL
+GENERATE VALUES AS CAN BE FOUND IN PRINTED COMPOUND INTEREST TABLES OR BY
+ENTERING AN AMOUNT, THE INTERMEDIATE STEP OF MULTIPLYING CAN BE SAVED. ANY
+NUMBER OF COMPOUNDING PERIODS PER YEAR ARE ALLOWED AND ANY RANGE OF YEARS
+CAN BE DISPLAYED. NOTE THAT THE OPTIONS SPECIFY WHETHER THE PAYMENT FOR AN
+ANNUITY (REGULAR PAYMENT) IS AT THE BEGINNING OR END OF EACH PERIOD.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+LASCODE.LESSON
+
+Ron Brubaker has put together some helpful notes on the generation
+of new class codes.  This is an excellent step toward a more highly
+automated "system" for generating class codes - which we still need!
+But, this helps.  So, thanks Ron.  (NOTE: This is a SCRIPT file.)
+
+TO READ IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ICT.ASSEMBLE/BASICUSR
+DICTFIX.BASIC/EXEC/SCRIPT
+
+These programs are used for maintaining the OUG spelling checker(s)
+dictionary.  DICTSIZE is used for changing the size of the dictionary
+file segments, SPELLING.SIZEnn.  DICTFIX is used for deleting "wrong"
+or unwanted words from the dictionary (and BOY does it need weeding!).
+The DICT modules are called by the others.  The EXECs tie everything
+together.  These were submitted by Vince Oster (605) 342-8455.  I've
+used both of them and they work fine under OASIS Version 5.5, but I
+had trouble under 5.4B (not sure what the problem is).
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ICT.ASSEMBLE/BASICUSR
+DICTSIZE.BASIC/EXEC/SCRIPT
+
+These programs are used for maintaining the OUG spelling checker(s)
+dictionary.  DICTSIZE is used for changing the size of the dictionary
+file segments, SPELLING.SIZEnn.  DICTFIX is used for deleting "wrong"
+or unwanted words from the dictionary (and BOY does it need weeding!).
+The DICT modules are called by the others.  The EXECs tie everything
+together.  These were submitted by Vince Oster (605) 342-8455.  I've
+used both of them and they work fine under OASIS Version 5.5, but I
+had trouble under 5.4B (not sure what the problem is).
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SC2$FIX.EXEC
+
+THIS IS A PATCH TO OASIS VERSION 5.5 FOR THE DIGITAL MICRO SYSTEMS DSC-2.
+PREVIOUSLY, SIO3 AND SIO4 WOULD NOT WORK PROPERLY - COULD NOT BE ATTACHED
+WHEN WE CHANGED FROM VERSIONS 5.4B TO ANY LATER RELEASE OF OASIS.
+THE SOLUTION WAS DISCOVERED BY ROD PROCTOR (206) 881-6191 AND I HAVE VERY
+GREATEFULLY CHECKED IT OUT ON MY OWN DSC-2.  ALL IT DOES IS CHANGE THE
+SYSTEM.NUCLEUS LOCATIONS, 2BB0 AND 2BB7, FROM 3A TO DB.  BUT, THAT LITTLE
+CHANGE MAKES ALL THE DIFFERENCE IN THE WORLD!
+
+This EXEC might form the basis for other PATCHES you want to submit.  At
+least you wouldn't have to start from absolute ground zero.
+
+
+TO RUN IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ABELS.EXEC/ONE$UP
+
+This is a routine I wrote to print labels from the various mailing
+lists (eg. MEMBERS.ADDRESS and UGROUPS.ADDRESS).  It asks for the
+name of the mailing list and the runs the SCRIPT file LABELS.ONE$UP.
+It's not fancy at all, but it is the one I use all the time as of
+right now.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ISTOBJ.EXEC and OBJLIST.BASIC
+
+LISTOBJ.EXEC is an EXEC procedure similar to BASICOBJ.EXEC that is
+intended to  make the  task of listing a large  number of BASICOBJ
+type files  to the printer a simple chore.  I must admit that this
+is  one of  the advantages  of the choice of the  BASIC file type.
+However,  most of  my programs  are saved as BASICOBJ files  and I
+intend to  continue this  practice.  Thus, I have whipped  up this
+delightful  pair  of  routines to  do the  chore  of listing large
+groups of such files without overexerting myself. Ron Brubaker
+(312) 534-6899
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HONE.BASIC/PROJECTS/CALLS/EXEC
+
+I AM AN OFFICE AUTOMATION CONSULTANT.  THE MAJORITY OF MY $400 PHONE
+BILL EACH MONTH IS BILLED TO CLIENTS.  I USE THIS PROGRAM TO RECORD ALL
+MY CALLS EVERY DAY, THUS GREATLY REDUCING THE AMOUNT OF WORK REQUIRED
+AT THE END OF THE MONTH TO EITHER BILL CLIENTS OR ALLOCATE COSTS.  FOR
+THOSE CLIENTS REQUIRING DETAIL BILLING, WE SIMPLY SEND THEM A COPY OF
+THE PRINTOUT. I BELIEVE THE PROGRAM IS SELF-EXPLANATORY.  ONCE IT HAS
+BEEN USED, IT CREATES A FILE CALLED "PHONE.CALLS" AND ANOTHER CALLED
+"PHONEC.BACKUPC" WHICH CONTAIN CALL DETAIL INFORMATION.  I USUALLY
+BACK UP ONCE A WEEK OR SO, JUST IN CASE "PHONE.CALLS" GETS BOMBED.
+Paul Schindler (415) 254-4923.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ESORT.BASIC
+
+USERS OF JOE TRIMBLE'S ADDRESS PROGRAM WITH DISK-FILLING FILES AND ONLY
+TWO DRIVES, WHO WANT TO HAVE THEIR LIST SORTED BOTH BY NAME AND BY COMPANY
+WILL FIND THIS UTILITY USEFUL. Paul Schindler (415) 254-4923.
+
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SRGROUP.ADDRESS
+USRGSORT.BASIC
+
+USRGROUP.ADDRESS IS A MAILING LIST FOR ABOUT 240 OTHER USERS' GROUPS
+LISTED IN SEVERAL PUBLICATIONS.  IT IS IN SCRIPT FORM FOR INPUT TO
+THE LABELS PROGRAMS.  USRGSORT.BASIC IS A PROGRAM BASED ON THE TRIMBLE
+SORT FOR SORTING THE MAILING LIST INTO SEVERAL MEANINGFUL SEQUENCES.
+
+TO RUN THE SORT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 15.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>

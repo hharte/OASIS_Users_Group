@@ -1,0 +1,310 @@
+>VOL26
+==================================================================
+:                                                                :
+:           VOLUME 26 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Example is not the main thing in influencing others.         :
+:        It is the only thing."          Albert Schweitzer       :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL26 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 26  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  26,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+^README  FIRST26  A 06/03/83 00:22    59    3 S    65 VOL26
+ADJLEGR  BASICOBJ A 04/18/83 18:06   165    6 S   215 VOL26
+BENCH11  BASIC    A 06/02/83 23:07    48    3 S    89 VOL26
+BENCH22  BASIC    A 06/02/83 23:24    25    1 S    89 VOL26
+BILLLEGR BASICOBJ A 04/18/83 18:05   292   10 S   215 VOL26
+BLACJAC2 BASIC    A 06/02/83 22:49   333   10 S    91 VOL26
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL26
+CREALEGR BASICOBJ A 04/18/83 18:07   195    5 S   165 VOL26
+DAYCLOSE BASICOBJ A 04/18/83 18:08   188    6 S   106 VOL26
+DAYERROR BASICOBJ A 04/18/83 18:10   261    8 S   219 VOL26
+DELELEGR BASICOBJ A 04/18/83 18:11   137    4 S   215 VOL26
+DUMPDAY  BASICOBJ A 04/18/83 18:12   329    9 S   105 VOL26
+DUMPLEGR BASICOBJ A 04/18/83 18:17   260    9 S   233 VOL26
+DUMPPDS  BASICOBJ A 04/18/83 18:20    84    3 S   168 VOL26
+ENCOUNTR BASICOBJ A 04/18/83 18:21   438   12 S   165 VOL26
+FILEINIT BASICOBJ A 04/20/83 06:58   380   13 S   124 VOL26
+FINSUM   BASICOBJ A 04/18/83 18:23   310    9 S   145 VOL26
+FULLLEGR BASICOBJ A 04/18/83 18:25   227    9 S   222 VOL26
+GENLLEGR BASICOBJ A 04/18/83 18:26   373   10 S   215 VOL26
+HELP     BASICOBJ A 04/18/83 18:27   161    7 S    88 VOL26
+ICHPIC   BASICOBJ A 04/18/83 18:29   141    4 S   121 VOL26
+KENO     BASIC    A 06/03/83 01:42   200    7 S    76 VOL26
+MAIL$DS  BASIC    A 06/02/83 22:58   398   14 S   108 VOL26
+MAINMENU BASICOBJ A 04/18/83 18:30   419   12 S   125 VOL26
+MEMBER26 FEEDBACK A 06/03/83 00:48   100    5 S    65 VOL26
+NEWS     LETTER26 A 06/11/83 17:23    78    4 S    65 VOL26
+PAYMENT  BASICOBJ A 04/18/83 18:31   316   10 S   201 VOL26
+PRINTREC BASICOBJ A 04/18/83 18:32   118    4 S   158 VOL26
+ROLDXDEL BASICOBJ A 04/18/83 18:33    91    3 S   172 VOL26
+ROLDXSCL BASICOBJ A 04/18/83 18:34    66    3 S   172 VOL26
+ROLLODEX BASICOBJ A 04/18/83 18:36   540   13 S   172 VOL26
+SELECT26 EXEC     A 06/03/83 00:13    40    2 S    46 VOL26
+SETCPT   BASICOBJ A 04/18/83 18:37   182    5 S   117 VOL26
+SETRXABV BASICOBJ A 04/18/83 18:38   132    4 S   111 VOL26
+STARCOMP EXEC     A 06/03/83 02:06     6    1 S    32 VOL26
+STARDOC  EXEC     A 06/10/83 03:48   123    4 S    74 VOL26
+THINLEGR BASICOBJ A 04/18/83 18:39   130    4 S   212 VOL26
+UTILITY  DATA     A 06/03/83 00:45     6    3 I    40 VOL26
+VOL26    CONTENTS A 06/03/83 01:25    57    3 S    65 VOL26
+VOL26    EXEC     A 06/11/83 17:06   163    5 S    73 VOL26
+40 file(s), 248 block(s).
+NEWS.LETTER26:VOL26                                       01/31/85 07:48 Page 1
+
+-----------------------------------------------------------------
+10 June 1983            N E W S   L E T T E R           Volume 26
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+
+VOLUME 26/27: Seems like  every new volume has a  first.  Volumes
+26 and 27 are the first to include a complete, final version of a
+major commercial  software package.  STARDOC is being offered for
+sale  concurrently  with  its  release  on these  volumes.  Larry
+Plumb, is looking for some of you turn-key systems people to sell
+copies for  him.  You may, of course use it for your own personal
+requirements, but like  all software in the OUG  library, you may
+not  sell  it  (or give  it away)  without  first making explicit
+arrangements with the author, Larry.
+
+We have a  number of other members who also are doctors and Larry
+is particularly interested in getting their responses to STARDOC.
+Other people  may find  some of the modules good  starting points
+for   creating   modified  versions   to  be  used  in  unrelated
+applications.   Source code  for all  modules  is included so you
+shouldn't have any trouble modifying or customizing.
+
+BONUS: Because  STARDOC  and  it's documentation  take up so much
+space  and because  I didn't  have to do as much  work getting it
+integrated into the  library this time (and because  I appreciate
+your continued support of the OUG), I am declaring an unscheduled
+free volume bonus  for all standing order members.   Volume 27 is
+free.
+
+INITIATION FEES: Several  of you have now told me that you owe me
+information  (and initiation  fees) for  people  to whom you have
+^iven our stuff.  Both are important and legally required because
+of the copyrighted status of the library.  First, it is important
+for everyone who benefits from the OUG to contribute something to
+its operation.  We  are not a big community,  so every new member
+helps keep the  costs down for the rest.   Second, our membership
+information file is one of the most important assets available to
+members.  It needs to be as complete and accurate as possible all
+the  time.  So,  send in  the info you have been  saving (and the
+fees, too).
+
+NNC COMPUTER:  I  am  in  the  middle  of  getting  my  operation
+converted over  to  the  new  NNC  520 computer  I  just got. The
+bulletin  board  has  been  down  several  days  and  all of  the
+peripherals are not yet integrated. But, basically the conversion
+is proceeding more or less normally as these things go.
+
+I am  still getting  used to  the capabilities of the NNC  520 so
+can't  report  in detail  yet on  how it compares with the  other
+available  machines. I  will say  that it  seems  to be among the
+fastest in  running our  benchmarks, and it is pretty  quiet.  In
+timing the  INITDISK and  BACKUP combination I use for  producing
+new volumes it  is about twice as fast  as my old (DSC-2) system.
+I'm using  the new Ampex D175 VDT that has eleven emulation modes
+(I've been  using the  the TVI920 mode with Class  7A - 7 doesn't
+work  right).   More  on  the  new  system  when  I've  had  more
+experience with it and after I get the cache memory installed.
+
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 26
+-----------------------------------------------------------------
+MEMBER26.FEEDBACK:VOL26                                   01/31/85 07:48 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER26.FEEDBACK                                    10 June 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                             April 3,1983
+                                             5037 Lakeshore Rd
+                                             Hamburg, NY 14075
+                                             716-627-7770
+
+OUG
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, Calif 93120
+
+Dear Fred,
+
+Enclosed please  find two  single sided single density disks that
+contain a  collection of programs I have called ** STARDOC **.  I
+am not really  sure that they will be  of interest to OUG because
+they 1)  take  up a  lot of  space  and 2) there use  is somewhat
+specialized.  They  might be  useful as an example of  a business
+type  application  and  specifically they  might be  used  by our
+physician members  to run  the financial collection end of  their
+offices.  Specifically this is a computerized replacement for the
+office pegboard  system - with ledgers, daysheets, and bills.  It
+runs best  on a hard disk because it is rather disk intensive and
+because of  the size  of the programs and data  files needed.  It
+will run, albeit slowly, on floppies (preferable d/s d/d).
+
+The data  files to  be  created  take  up  512 bytes  per  record
+(LEDGER.DATA)  and  512  bytes  per record  (ROLLODEX.DATA).  The
+other files  are much  smaller.  To use the default  sizes of 100
+records  you'll  need  50K+50K+20K  -  a  whole  s/s  s/d  floppy
+(although 1/4 of a d/s d/d floppy).
+
+The manual is  on the first disk.  It is 38 pages long and can be
+created by typing SCRIPT MANUAL.STARDOC and optionally (print.
+(For the OUG release it is on Volume 27.  FB)
+
+To briefly summarize:
+
+FILEINIT -  this  program initializes  and creates the data files
+used  by  the programs  (LEDGER.DATA, ROLLODEX.DATA, ICHPIC.DATA,
+CPTCODE.DATA,  RXABBRV.DATA  and UTILITY.DATA).   The password to
+run  this  program is  'LRP47' although  if  you list the program
+you'll see it there.  ( In the OUG release it is OUG83.   FB )
+
+MAINMENU - this program chains to all the other program and after
+FILEINIT is  used  once  type  'RUN  MAINMENU' and  you'll  be in
+business.
+
+I will donate this program to OUG members and I will be trying to
+sell it  by placing an ad in the OASIS APPLICATION DIRECTORY (the
+half page ad will cost me $700).  I will be selling it to dealers
+for $250 and  end users for $350.  It  took me 3 years to produce
+and I have been using it in my office for the past 10 months.
+
+
+^o easily utilize the  programs they all should be  copied to the
+same  hard disk  by using  COPYFILE  *.*.  Alternatively the data
+files and programs can be on separate disks.  To do this COPYFILE
+UTILITY.DATA to the disk that you wish to use for your data files
+and then when  FILEINIT asks you specify that  drive for the data
+drive default.  ( Initialization and installation has been a  bit
+automated for the OUG release. STARDOC.EXEC controls everything.)
+
+If you do  decide to  use it I would be  interested if any of the
+OUG members who use it write me with suggestions for improvement.
+I also am  beginning to work on a  sort program and could use the
+help of  some one with expertise in this area.  Specifically, for
+example, suppose  a doctor wanted to know who in his practice was
+hypertensive, female, over  55 years of age and  seen in the past
+year  ?  I  would like  to be able to produce  a sort (or control
+like)  system  that could  answer queries  like  this to the data
+base.  ( Check out RSEARCH on OUG volume 24.  FB )
+
+In January I attended the Systems Development course at PHASE ONE
+in Oakland.   It was taught by a real sharp guy Jack Zelver - and
+in  contrast to  the usual  technical freak he could TEACH.   The
+course was  $400  and I  doubt it  would  be of much use  for the
+average OASIS user.  If you want to learn more about the nuts and
+bolts of  how the  system works and have the  money I'd recommend
+it.  I'd  advise  you  to  know  a fair  amount  of Z-80 assembly
+language in  order to  get the most out of  the course.  Also ask
+them  to send  you the  manual for the course first  so you'll be
+able to  study  it  before  coming  to class.   I  was humorously
+surprised  to  hear him  talk about  his  encounters with various
+pieces of  hardware - to hear him talk it is a minor miracle that
+most computers work  at all.  They seem to  be an incredible mish
+mash of fix  after fix.  He refused to  say, even off the record,
+about his feelings concerning what hardware is good or bad.
+
+Sincerely,
+
+Larry Plumb, M.D.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER26.FEEDBACK                             10 June 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 26.
+
+*****************************************************************
+
+
+BENCH11  BASIC    (VOL 21)
+BENCH22  BASIC    (VOL 21)
+BLACJAC2 BASIC    (VOL 10)
+KENO     BASIC    (VOL 2)
+MAIL$DS  BASIC    (VOL 7)
+
+These programs   have  either   had  errors  corrected  or  minor
+improvements made  to them from their original release.  Original
+release volumes are shown in parentheses.  FB
+
+WANT TO TRY ANY OF THEM NOW? [Y/N]:N
+^
+This system was developed by Larry Plumb, M.D.  of LARP SOFTWARE,
+ Lakeshore  Road, Hamburg,  NY 14075.  For discussions about
+STARDOC he can be reached at (716) 627-7770
+ADJLEGR .BASICOBJ   BILLLEGR.BASICOBJ   CREALEGR.BASICOBJ
+You may,   of   course,   use  this   software  yourself  without
+restrictions.  Commercial use in any form must be negotiated with
+Larry.  He has a $350 price tag on it for end user sales and $250
+per installation for dealers.  Give him a call.  BASICOBJ
+ICHPIC  .BASICOBJ   MAINMENU.BASICOBJ   PAYMENT .BASICOBJ
+WANT MORE INFO NOW? [Y/N]:NL.BASICOBJ   ROLDXSCL.BASICOBJ
+ROLLODEX.BASICOBJ   SETCPT  .BASICOBJ   SETRXABV.BASICOBJ
+STARCOMP.EXEC       STARDOC .EXEC       THINLEGR.BASICOBJ
+UTILITY .DATA
+
+This is a complete  system for managing the day  to day operation
+of  a  doctor's office,  replacing the  "pegboard"  system now in
+common use.   It maintains ledgers, rolledex cards and daysheets.
+It prints bills,  does monthly summaries, prints bank  totals and
+daysheet  summaries.   It  does  NOT  replace the  medical chart.
+Inclusion of  the source code here allows you to customize any of
+the output to fit your particular needs.
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 26.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 ( has answering machine)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

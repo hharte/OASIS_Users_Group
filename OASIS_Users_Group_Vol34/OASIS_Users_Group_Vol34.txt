@@ -1,0 +1,2439 @@
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST34  A 01/01/84 12:04    60    3 S    65 VOL34
+CLASS    CODES    A 02/08/84 17:37   143    5 S    70 VOL34
+CLASS38  ASSEMBLE A 02/06/84 21:14   107    3 S    50 VOL34
+CLASS44  ASSEMBLE A 12/20/83 10:09   119    3 S    56 VOL34
+CLASS49  ASSEMBLE A 01/24/84 08:49    33    1 S    53 VOL34
+CLASS50  ASSEMBLE A 01/23/84 21:57    50    2 S    68 VOL34
+CLASS51  ASSEMBLE A 02/08/84 15:37    40    2 S    62 VOL34
+CLASS52  ASSEMBLE A 02/08/84 15:39    36    1 S    58 VOL34
+CLASS81  ASSEMBLE A 02/02/84 09:55    47    2 S    71 VOL34
+CLASS82  ASSEMBLE A 11/30/83 23:01    52    1 S    46 VOL34
+CLASS86  ASSEMBLE A 10/20/83 19:16    78    2 S    54 VOL34
+CLASS87  ASSEMBLE A 10/23/83 12:02    79    2 S    54 VOL34
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL34
+DEV1650I ASSEMBLE A 02/06/84 23:42   443   10 S    61 VOL34
+DEV8     ASSEMBLE A 01/05/84 18:50   166    5 S    71 VOL34
+DISKIT   COMMAND  A 02/06/84 23:48    54   14 R   256 VOL34
+EXECLINK ASSEMBLE A 01/25/84 11:55    41    1 S    61 VOL34
+EXECLINK COMMAND  A 01/25/84 11:55     3    1 R   256 VOL34
+FILECHK  BASIC    A 01/23/84 07:21   122    5 S   177 VOL34
+FPPTN1   BASIC    A 12/08/83 13:23    13    1 S    63 VOL34
+FPPTN2   BASIC    A 12/08/83 13:23    13    1 S    63 VOL34
+FPPTN3   BASIC    A 12/08/83 13:24    13    1 S    63 VOL34
+FPPTN4   BASIC    A 12/08/83 13:24    13    1 S    63 VOL34
+FPRPRT4  BASIC    A 12/08/83 13:27    87    4 S   144 VOL34
+FPSETPAR BASIC    A 12/08/83 13:19     9    1 S    60 VOL34
+FPTEST   DOC      A 02/08/84 20:43   144    7 S    73 VOL34
+FPTEST   EXEC     A 02/08/84 21:00    58    2 S    67 VOL34
+FPTEST   KEYLPARM A 08/18/83 15:37     1    1 S    10 VOL34
+FPTEST4  EXEC     A 08/18/83 15:20    26    1 S    53 VOL34
+IBMGET   ASSEMBLE A 03/10/83 13:07   118    2 S    41 VOL34
+IBMGET   COMMAND  A 02/08/84 15:07     5    2 R   256 VOL34
+IBMTRANS ASSEMBLE A 03/10/83 14:25   135    3 S    55 VOL34
+IBMTRANS COMMAND  A 02/08/84 15:07     6    2 R   256 VOL34
+OKI92    BASIC    A 12/01/83 08:48   166    8 S   100 VOL34
+PROOF    COMMAND  A 06/23/83 10:19    27    7 R   256 VOL34
+RAM      EXEC     A 01/23/84 06:39    38    1 S    59 VOL34
+RAMDISK  EXEC     A 01/23/84 06:33   282    8 S    78 VOL34
+RAMINIT  ASSEMBLE A 12/29/83 01:08    66    3 S    71 VOL34
+RAMINIT  COMMAND  A 12/29/83 01:34     5    2 R   256 VOL34
+SELECT34 EXEC     A 02/08/84 20:47    64    3 S    46 VOL34
+SELECTX  ASSEMBLE A 02/06/84 17:07   733   14 S    71 VOL34
+SELECTX  COMMAND  A 02/07/84 01:46    20    5 R   256 VOL34
+STARTUP  ASSEMBLE A 08/07/83 22:59    76    3 S    71 VOL34
+SYSTEM   CLASS38  A 02/06/84 21:15     3    1 R   256 VOL34
+SYSTEM   CLASS44  A 02/08/84 13:54     3    1 R   256 VOL34
+SYSTEM   CLASS49  A 10/15/83 00:25     3    1 R   256 VOL34
+SYSTEM   CLASS50  A 01/11/84 18:21     2    1 R   256 VOL34
+SYSTEM   CLASS51  A 08/26/83 09:08     2    1 R   256 VOL34
+SYSTEM   CLASS52  A 08/25/83 21:04     2    1 R   256 VOL34
+SYSTEM   CLASS81  A 10/15/83 00:14     2    1 R   256 VOL34
+SYSTEM   CLASS82  A 10/15/83 00:17     3    1 R   256 VOL34
+SYSTEM   CLASS86  A 05/08/83 03:42     3    1 R   256 VOL34
+SYSTEM   CLASS87  A 02/08/84 19:41     3    1 R   256 VOL34
+SYSTEM   DEV1650I A 02/08/84 15:21     5    2 R   256 VOL34
+SYSTEM   DEV8     A 12/29/83 01:35     2    1 R   256 VOL34
+TOMIXED  BASIC    A 09/09/83 20:00    26    2 S   172 VOL34
+TOMIXED  C        A 09/09/83 18:36   189    5 S    70 VOL34
+TOMIXED  COMMAND  A 09/09/83 18:46    34    9 R   256 VOL34
+VOL34    CONTENTS A 02/17/84 13:51   376   16 S    67 VOL34
+VOL34    EXEC     A 02/17/84 13:56   696   21 S    74 VOL34
+VOL34    FEEDBACK A 02/08/84 21:31   431   18 S    76 VOL34
+VOL34    NEWS     A 02/08/84 21:19   127    7 S    65 VOL34
+WYSE100  ASSEMBLE A 02/07/84 09:03   137    5 S    61 VOL34
+WYSE100  COMMAND  A 02/07/84 07:49     2    1 R   256 VOL34
+64 file(s), 244 block(s).
+
+>LIST COPYRITE NOTICE
+OPYRITE.NOTICE:VOL34                                     02/01/85 10:53 Page 1
+
+**********************     N  O  T  E     **********************
+
+ALL COMMERCIAL RIGHTS FOR ALL SOFTWARE CONTAINED ON THIS DISKETTE
+ARE RESERVED FOR THE AUTHORS, UNLESS EXPLICITLY STATED OTHERWISE.
+
+       Nothing in the OUG library may be resold by anyone.
+
+*****************************************************************
+
+>VOL34
+=================================================================
+:                                                                :
+:           VOLUME 34 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "This world of ours is a new world...One thing that is new    :
+:   is the prevalence of newness, the changing scale and scope   :
+:   of change itself, so that the world alters as we walk in it.":
+:                                          J. Robert Oppenheimer :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL34 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 34  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  34,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST34  A 01/01/84 12:04    60    3 S    65 VOL34
+CLASS    CODES    A 02/08/84 17:37   143    5 S    70 VOL34
+CLASS38  ASSEMBLE A 02/06/84 21:14   107    3 S    50 VOL34
+CLASS44  ASSEMBLE A 12/20/83 10:09   119    3 S    56 VOL34
+CLASS49  ASSEMBLE A 01/24/84 08:49    33    1 S    53 VOL34
+CLASS50  ASSEMBLE A 01/23/84 21:57    50    2 S    68 VOL34
+CLASS51  ASSEMBLE A 02/08/84 15:37    40    2 S    62 VOL34
+CLASS52  ASSEMBLE A 02/08/84 15:39    36    1 S    58 VOL34
+CLASS81  ASSEMBLE A 02/02/84 09:55    47    2 S    71 VOL34
+CLASS82  ASSEMBLE A 11/30/83 23:01    52    1 S    46 VOL34
+CLASS86  ASSEMBLE A 10/20/83 19:16    78    2 S    54 VOL34
+CLASS87  ASSEMBLE A 10/23/83 12:02    79    2 S    54 VOL34
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL34
+DEV1650I ASSEMBLE A 02/06/84 23:42   443   10 S    61 VOL34
+DEV8     ASSEMBLE A 01/05/84 18:50   166    5 S    71 VOL34
+DISKIT   COMMAND  A 02/06/84 23:48    54   14 R   256 VOL34
+EXECLINK ASSEMBLE A 01/25/84 11:55    41    1 S    61 VOL34
+EXECLINK COMMAND  A 01/25/84 11:55     3    1 R   256 VOL34
+FILECHK  BASIC    A 01/23/84 07:21   122    5 S   177 VOL34
+FPPTN1   BASIC    A 12/08/83 13:23    13    1 S    63 VOL34
+FPPTN2   BASIC    A 12/08/83 13:23    13    1 S    63 VOL34
+FPPTN3   BASIC    A 12/08/83 13:24    13    1 S    63 VOL34
+FPPTN4   BASIC    A 12/08/83 13:24    13    1 S    63 VOL34
+FPRPRT4  BASIC    A 12/08/83 13:27    87    4 S   144 VOL34
+FPSETPAR BASIC    A 12/08/83 13:19     9    1 S    60 VOL34
+FPTEST   DOC      A 02/08/84 20:43   144    7 S    73 VOL34
+FPTEST   EXEC     A 02/08/84 21:00    58    2 S    67 VOL34
+FPTEST   KEYLPARM A 08/18/83 15:37     1    1 S    10 VOL34
+FPTEST4  EXEC     A 08/18/83 15:20    26    1 S    53 VOL34
+IBMGET   ASSEMBLE A 03/10/83 13:07   118    2 S    41 VOL34
+IBMGET   COMMAND  A 02/08/84 15:07     5    2 R   256 VOL34
+IBMTRANS ASSEMBLE A 03/10/83 14:25   135    3 S    55 VOL34
+IBMTRANS COMMAND  A 02/08/84 15:07     6    2 R   256 VOL34
+OKI92    BASIC    A 12/01/83 08:48   166    8 S   100 VOL34
+PROOF    COMMAND  A 06/23/83 10:19    27    7 R   256 VOL34
+RAM      EXEC     A 01/23/84 06:39    38    1 S    59 VOL34
+RAMDISK  EXEC     A 01/23/84 06:33   282    8 S    78 VOL34
+RAMINIT  ASSEMBLE A 12/29/83 01:08    66    3 S    71 VOL34
+RAMINIT  COMMAND  A 12/29/83 01:34     5    2 R   256 VOL34
+SELECT34 EXEC     A 02/08/84 20:47    64    3 S    46 VOL34
+SELECTX  ASSEMBLE A 02/06/84 17:07   733   14 S    71 VOL34
+SELECTX  COMMAND  A 02/07/84 01:46    20    5 R   256 VOL34
+STARTUP  ASSEMBLE A 08/07/83 22:59    76    3 S    71 VOL34
+SYSTEM   CLASS38  A 02/06/84 21:15     3    1 R   256 VOL34
+SYSTEM   CLASS44  A 02/08/84 13:54     3    1 R   256 VOL34
+SYSTEM   CLASS49  A 10/15/83 00:25     3    1 R   256 VOL34
+SYSTEM   CLASS50  A 01/11/84 18:21     2    1 R   256 VOL34
+SYSTEM   CLASS51  A 08/26/83 09:08     2    1 R   256 VOL34
+SYSTEM   CLASS52  A 08/25/83 21:04     2    1 R   256 VOL34
+SYSTEM   CLASS81  A 10/15/83 00:14     2    1 R   256 VOL34
+SYSTEM   CLASS82  A 10/15/83 00:17     3    1 R   256 VOL34
+SYSTEM   CLASS86  A 05/08/83 03:42     3    1 R   256 VOL34
+SYSTEM   CLASS87  A 02/08/84 19:41     3    1 R   256 VOL34
+SYSTEM   DEV1650I A 02/08/84 15:21     5    2 R   256 VOL34
+SYSTEM   DEV8     A 12/29/83 01:35     2    1 R   256 VOL34
+TOMIXED  BASIC    A 09/09/83 20:00    26    2 S   172 VOL34
+TOMIXED  C        A 09/09/83 18:36   189    5 S    70 VOL34
+TOMIXED  COMMAND  A 09/09/83 18:46    34    9 R   256 VOL34
+VOL34    CONTENTS A 02/17/84 13:51   376   16 S    67 VOL34
+VOL34    EXEC     A 02/17/84 13:56   696   21 S    74 VOL34
+VOL34    FEEDBACK A 02/08/84 21:31   431   18 S    76 VOL34
+VOL34    NEWS     A 02/08/84 21:19   127    7 S    65 VOL34
+WYSE100  ASSEMBLE A 02/07/84 09:03   137    5 S    61 VOL34
+WYSE100  COMMAND  A 02/07/84 07:49     2    1 R   256 VOL34
+64 file(s), 244 block(s).
+▼ OL34.NEWS:VOL34                                          02/01/85 10:53 Page 1
+
+-----------------------------------------------------------------
+1 February 1984         N E W S   L E T T E R           Volume 34
+-----------------------------------------------------------------
+
+
+
+
+Good Morning OUG Member;
+
+
+VOLUME 34: The  biggest news on this volume has got to be the new
+RAMDISK system  from Bob Chapman, at least from my point of view.
+Judging from your  calls, a lot of you  are going to vote for all
+the new  class codes on this volume, however.  I've also had lots
+of calls  about the  corrupted links problem in ISAM  files being
+accessed by  multiple users.  On this volume are two programs for
+checking the integrity of ISAM files.  There is also a re-release
+of Gary  Bergman's SELECTX program that can be used fix corrupted
+files.   There  is  also a  new version  of  Bob Chapman's PROOF,
+spelling  checker that  will work with Spellbinder and Magicwand.
+There is  a utility  for "nesting" a limitless number  of EXEC's,
+and two  programs for changing all upper case text to upper/lower
+case (one in Basic and another in "C" that is much much faster!).
+There is a  utility for switching the system  to another disk and
+then starting  a program  like an IPL.EXEC.  Finally, the  latest
+TECH.NOTE4 from Larry Plumb shows how to write new class codes.
+
+JOBS: Oasis  Technologies is  looking for three programmers and a
+project manager type.  Phase One may be looking for a programmer.
+I'm going  to pay a little more attention to Oasis job and people
+availabilities  from  now  on.  I'll  try to  start  logging such
+information so  that my  responses to your calls can  be a little
+less haphazard.  If  you know of an available  Oasis expert or if
+you need someone, give me a call.
+
+UNIX: There's  another  converter  that  allows you  to run Oasis
+Basic programs  under UNIX.  It is caller UX-Basic and is offered
+by  UX Software,  71 McCaul  Street,  Toronto, Ontario CANADA M5T
+2X1.   Their  phone  number  is  (416)  591-8620.   I don't  know
+anything  about it  other than  the brief info on the  flyer they
+sent me.
+
+BUG REPORTS:  We now  have our  new  on-line bug reporting system
+working  under  CARAVAN.   You will  be able  to  read about bugs
+others  have  found  and  ways  around  them,  as  well as  leave
+information about  bugs you  have found for others to  read.  Joe
+Trimble has  been burning  the midnight oil getting this  written
+and it  is  now  ready.   You  may be  sure  that people at Oasis
+Technologies  will see  the reports  and  we are still discussing
+other possible interactions, too.  At the moment there are only a
+couple  of reports  in the  data base, but I expect  you folks to
+fill it up fast!
+
+Along this same line take note of the FPTEST diagnostic system on
+volume   34.    Here   is  a   methodology  for  testing  various
+implementations of  Oasis for the presence of a specific bug - in
+this case  the now  famous ISAM corrupted link problem  (or is it
+just  one  of  them?).  This  is a  particularly  thorough job of
+documenting a problem in a way that others can easily replicate.
+
+MARKET SHARE:  A  recent  market  research report  from Strategic
+Incorporated shows that Oasis holds 2% of the business  operating
+system market share.  The others are: Pick-1%, UNIX-2%, CP/M86-3%
+, UCSD P-System-10%, Apple DOS-13%, MS-DOS-30%, and CP/M-39%.
+That's quite  a mixture  of Apples (excuse the pun)  and oranges.
+And,  I question  classifying Apple  DOS as a business O/S.   The
+biggest surprise is that UNIX is still shown with only 2%,    but
+they  don't  say when  in 1983  they did the study.  They  can be
+contacted at: P.O.  Box 9747, San Jose, CA 95157.
+
+NEW OPERATING  SYSTEMS: At  this very  moment  at least three new
+major entries into the operating system arena are being promoted:
+Ryan-McFarland's  RM/COS, SuperDOS  for the IBM PC from Bluebird,
+and S1  from the start up company, Multi Solutions Inc.  No doubt
+they will offer some advantages over their predecessors, but they
+will have to struggle to achieve even the obscure market position
+that Oasis already  enjoys.  By comparison, we have  a giant head
+start and  I see no reason now that we can't improve our position
+in the market.
+
+MAILING LISTS:  are not  all equally  good.   I recently spoke to
+Stephen  Castle,  publisher  of System  Update Review, who shared
+some of the  experience he has been having  with direct mail.  He
+has found  the best list to be the 13K "Desktop" magazine mailing
+list.   The  second  best response  was obtained  using  the 100K
+"Business  Computer  Systems" list.   Of course no two promotions
+are the  same and he was promoting a computer information service
+rather than commercial  software, but there it is  for what it is
+worth.
+
+Speaking of  promotion,  I have  gotten nearly 200 inquiries from
+the CARAVAN release  that appeared in Interface Age  and Business
+Computer Systems  magazines.  The big difference seems to be that
+they  gave  us  Bingo card  numbers.  There  were  responses from
+people  with  Apples,  so some  of them  must  be from the merely
+curious.
+
+SOFTWARE CONFERENCES: I  see that Comdex is going to divide their
+next  show  into  software and  hardware sections.  That together
+with  the  several  announcements  for  new  shows  dedicated  to
+microcomputer software, makes me wonder if our members are making
+any   plans   to   change  the   ways  they   use   the  national
+hardware/software shows.   Softcon in New Orleans this year looks
+like it  could be  important.  I'm not so sure  about the others.
+If you have  any thoughts on this subject,  I'd like to hear from
+you.
+
+PEACE: I've  always rebelled  against doing illogical things just
+because everyone else does them.  Closing salutations have always
+been one  of my  personal pet peeves.  What the  devil does "very
+truly yours"  have  to  do  with  anybody's reality  these  days,
+anyway?  True,  there are  a number of other alternatives,  but I
+decided that if  I had to choose something,  I might just as well
+make it something  really meaningful.....  so, peace it  is, just
+in case you've been wondering.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265 (805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of .  .  .  .       N E W S   L E T T E R           Volume 34
+-----------------------------------------------------------------
+▼ OL34.FEEDBACK:VOL34                                      02/01/85 10:54 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL34.FEEDBACK                                   15 February 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+                                        Robert Chapman,
+                                        465 Lakeshore Road West,
+                                        Oakville, Ontario, Canada
+                                        L6K 1G4
+
+                                        11/29/83
+
+Dear Fred,
+
+Well, I have  a mixed bag of things on these diskettes.  It seems
+that this  package started on its way to you in May of this year.
+Well, for  one  reason  or  another  I never  quite  got finished
+putting it  all together  but now I think that  it's done.  Sorry
+for  the delay  but there  should be one or two  things here that
+other members may find interesting.
+
+     That's all I have for now,
+
+                                   take care,
+
+                                   Bob.
+
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+A note to OUG members:                          14 January 1984
+
+As an aside  I would  be interested in getting in  touch with any
+OASIS  users  who  are physicians  or who  have  a strong medical
+interest to form  a sub-group of OASIS users  to exchange medical
+or medically related programs.
+
+The Division  of  Computer  Medicine  SUNY/AB will  be sponsoring
+COMPUTER MEDICINE 84 the first convention of its kind to focus on
+microcomputer applications in the private/small group practice on
+May 11-13  at the Waterfront Hilton in Buffalo.  If you wish more
+information you can contact me at:
+
+           LAURENCE PLUMB,MD
+           Division of Computer Medicine SUNY/AB
+           840 Humboldt Parkway
+           Buffalo, NY 14211
+           (716) 627-7770
+
+(Maybe this would be a good place to start creating  SIG's within
+the OUG.  I encourage you to get in touch with Larry, if you have
+any interest in contact with other medical Oasis users.  FB)
+
+(Note:  Mack  Braly  is  interested in setting up a SIG for other
+attorneys using Oasis, too. Contact him at (918) 582-2806.)
+-----------------------------------------------------------------
+Fred,                                    February 8, 1984
+
+Thanks for your help in getting me my fast new IBC CADET-10 fast.
+
+Here are those benchmarks you asked for:
+
+BENCH1    269
+BENCH11   354
+BENCH2    168
+BENCH22   184 / 252 Compiled
+
+It took me longer than expected to convert my applications, mainly
+due to the oddity of IBC's 9-trk tape controller. It needed a complete
+rewrite of their driver to make it usable with ARCHIVEs from other
+OASIS systems and to make it compatible with mainframe peripherals.
+
+Some of my latest contributions are fixes to older programs, but most
+of the enclosed items are specific to my new equipment, such as
+the WYSE-100 terminal and IBC computer.
+
+
+I still have some interfaceing problems.   Need some HELP!!
+
+   1. No problem with new DC-HAYES SMARTMODEM, but I am still
+      unable to hook-up my old "standard" UDS-212A modem.
+
+   2. I desperately need to connect my TWX application to Western Union's
+      110 Baud communication line.  The lowest Baud rate on the IBC is 150.
+      I'm waiting for response from WU to see if my published TWX number
+      can be accessed thru Easylink.  If that won't work, I will need some
+      sort of device or hardware modification to enable me to send/receive
+      at 110 Baud with 2 stop-bits.
+
+
+
+I would like to publicly thank Leland Gunn, of Gunn Systems, for
+his assistance and the encouragement he gave me in attempting to
+do what some people at IBC said couldn't be done with their 9-trk
+controller.  Through trial and error, I was finally able to implement
+dual drive support, fast search, and read/backward functions.
+
+
+As soon as I get my TWX system up on the IBC, I will be left with
+a lot of 3 year old hardware with varying degrees of reliability.
+
+Willing to sell bundled for $6,000 or in pieces:
+
+1 Cromemco System III  - 21 slot S-100 (make that 19).
+2 Cromemco 64KZ (1 unstable)
+1 Systems Group DMB 64K (compatible with many S-100 systems)
+2 T-UART's  (3 out of 4 serial ports work) + 4 parallel (unused).
+1 16FDC floppy disk controller (5" and 8" DD/DS + serial port)
+1 Printer interface board (centronics, never used)
+2 Persci 299B 8" DD/DS pairs (4 very fast floppies, not working).
+1 Shugart DD/SS (old and reliable, always boots)
+1 Corvus 10M Hard disk Rev.B (upgraded power supply and enclosure)
+1 9-TRK tape controller (with OASIS drivers and utilities).
+1 DC-HAYES S-100 Modem  (with OASIS driver and other stuff)
+1 300 Baud modem (Direct connect, Auto-answer)
+1 MULTI-USER OASIS 5.6 Utilities, Sort, C, + EXTRAS
+  5.5b Nucleus with Corvus driver
+  5.6  Nucleus with Morrow driver
+1 CDOS (Cromemco CPM) with Corvus utilities to recover bad sectors.
+
+      Full documentation on all hardware & software.
+
+
+               Gary Bergman Associates, Inc.
+               14 Hickory Lane
+               North Brunswick, New Jersey 08902
+               (201) 247-2727  office
+               (201) 246-7285  home
+               TWX: 710 480 6282  ADS NBRU
+
+
+PS.  I also bought a DEC Letterprinter 100 to ease the workload
+     of my DIABLO.  I would be interested if anyone has patches,
+     programs, or subroutines that utilize some of its fancy
+     capabilities.
+
+(NOTE: Gary pointed out that when I changed the name of SERIALCK
+from INITIAL, I missed one reference to INITIAL.BASICUSR in the
+program.  It should be SERIALCK.BASICUSR.  Sorry.  FB)
+
+-----------------------------------------------------------------
+                                            Chris Mallam
+                                            235 Charlotte # 24
+                                            Ottawa, Ontario
+                                            Canada K1N 8L4
+                                            02/08/84 at 18:06
+
+Dear Fred,
+
+I recently discovered a missive on my answering machine from you
+regarding the accounting package that Farncomb LeGresley and I
+submitted to the OUG.  Farny is actively using the package;
+however, he reports no further work on the code.  Farny does have
+a weather forcasting program which he feels is superior to the
+OUG program.  It is based on data from a magazine article, and he
+is unsure of the the legalities involved.  I will be returning
+some recent OUG disks to you which I couldn't read, including the
+infamous vol 30, and will send a copy of the weather program for
+your perusal.
+
+Incidentally, you will notice that this document (as do all my
+documents) forbids proportional spacing.  It has been proven that
+people can read 20% faster if each word follows hard on the heels
+of the preceeding word, separated by a space, instead of
+arbitrarily spaced across the page by a word processor.
+
+I will be sending the disks I had trouble reading (I did mention
+this before with a payment) back to you tomorrow (26,30,32).  My
+system does not like single density disks (I have to convert them
+to DS,DD), and I have to flip switches to get into the single
+density mode.  Any chance of getting succeeding volumes in double
+density 8" format?  (I'm already tearing out my hair with all the
+regular format variations with which we have to deal.  I'm afraid
+any more little variations from the "standards" is going to push
+me right over the edge!  FB)
+
+Being involved with television, and thus advertising, I cannot
+see why Phase One does not advertise.  They signed their death
+warrant when they stopped advertising in Byte.  It is a necessary
+cost, even if it doesn't sell 1 operating system, public
+awareness must not be allowed to wane.
+
+I have recently written some software on my system, which I know
+will never sell in its Oasis form.  It must be converted to
+msdos, apple dos, and cp/m.  It has a very limited market to
+television professionals, and it is my personal experience that
+they have apples and ibm pc's.  If there were a single user
+version of Oasis running on the ibm pc for $200., I might have a
+chance; however, the reality is that msdos is the standard.  don't
+get me wrong, I like Oasis.  But, it is for serious professionals
+and hackers.  It is overpriced, under-advertised, and behind the
+times.  Where is concurrent Oasis, where is Oasis with windows?
+I have been there before: I am running two digital group
+computers.  I may be the smartest kid on my block, but where am i
+without friends?  Did you know that they are about to implement
+an 8088 on the dg buss and run msdos?  It was a good system, they
+are still out there running cp/m, Oasis, hard disks,
+telecommunications, etc.  My present system supports about a
+dozen users who phone in, including myself from work.  The system
+boots up, and when the user logs in, it knows what terminal to
+attach.  Let me tell you cursor addressing type stuff is
+unbearably slow at 300 baud!
+
+Well, in closing, let me say that I think unless single user
+Oasis is extended to the new 16-bit processors at a competitive
+cost, it will be lost in the shuffle.
+
+(Phase one and o-tech people are all working to get the boat
+under way again.  I think they deserve a little time from all of
+us to make good on their promises.  Fb)
+
+-----------------------------------------------------------------
+
+
+
+
+
+
+                                                 February 2, 1984
+
+
+Fred Bellomy
+Oasis Users Group
+P.O. Box 2400
+Santa Barbara, CA  93120
+
+
+dear Fred;
+
+the enclosed diskette  contains my first contribution to the user
+group library.  As  you know we are new  to the Oasis users group
+but we  are not new to Oasis.  I have known john taylor for a few
+years  now and  he is  the one who showed me  Oasis.  I have been
+working with computers since 1974 and have been in the electronic
+field all my  life.  In 1975 I built  a homebrew s-100 system and
+eventually  added  the  northstar  disk  drive  subsystem.   That
+computer is still in use today as a bbs.  The software running on
+it is also  home brew, part basic and  part machine language.  It
+is  called  <s>erious  <u>sers  <e>xchange,  sue for  short.  The
+number, for your information, is (414) 645-6849.
+
+Well, that  does it for  this  first  volume  from us.   We  have
+hundreds  of  programs and  as soon  as I get a chance  I will go
+through them and send you another volume.  I probably have enough
+software  here  to start  my own  user  group!!  Please excuse my
+software for  not having any comments or remarks.  I use the same
+format in all of my programs and use variables that say what they
+are.   Because  of  this I  very rarely  use  remarks in my basic
+programs.
+
+I have  another  package that  will be  donated as soon as it  is
+done.  It  is a  commercial product so it too  will be limited in
+some  way  as a  free copy.   It is tele-msg which is  a complete
+▼ OL34.FEEDBACK:VOL34                                      02/01/85 10:54 Page 2
+
+telephone call tracking  system with history.  I have  enclosed a
+sheet on this and also on datebook for your reference.
+
+I also have a  machine language program, I will  supply compiled,
+that is used to tell you what serial number a basiccom program is
+serialized  to.   It is  part of  a package I wrote for  software
+authors like  myself who need a fast way of checking and changing
+serial numbers in compiled basic programs.  If you or anyone else
+need  more information  on this reserializtion system please just
+write or call.
+
+Well, until next  time have fun and if there is anything I can do
+to help just yell.
+
+
+                                       Till next time,
+
+
+
+                                       Michael W. Hobach
+                                       Technical Service & Sales
+                                       201 East Jewell Street
+                                       Oak Creek, WI 53154
+                                       (414) 762-7382
+
+-----------------------------------------------------------------
+>11/22/83,15:37:25,  213,x,salim bahomed,(02) 643-5055
+
+]this is salim  bahomed calling from bahamdein computer system we
+will be renewing  our oug memebership.  Thanks Fred  for will get
+in touch  again, wish you had a telex number where we can contact
+you?
+
+-- Salim bahomed (salim called CARAVAN from saudi arabia!)
+
+-----------------------------------------------------------------
+>12/13/83,05:58:24,  288,X,brad brown,3166862392
+
+]I am having a lot of trouble with the (CARAVAN) connection.  The
+carrier detect seems  to disappear frequently and I  have to call
+back.  When I call back though, the system doesn't seem to notice
+that the phone connection had been broken.
+
+-- Brad Brown
+
+
+-----------------------------------------------------------------
+>12/30/83,19:24:53,  316,x,jim bossert,(213) 464-4008
+
+]thanks for  your  help,  Fred.   Your  system  and  organization
+provide us  Oasis users  with a valuable central resource  point,
+information and useful programs (of course!) Mike b.  and I thank
+you for your help this afternoon.
+
+-- Jim Bossert
+
+-----------------------------------------------------------------
+>12/29/83,15:58:58,  331,x,keith james,918-749-9439
+
+]seems like  this software  is a  little difficult to use -  mike
+blaisdell told  me there  is a tbbs system for  Oasis do you know
+anything about it? Keep up the good work!
+
+-- Keith James
+
+-----------------------------------------------------------------
+>12/29/83,21:24:39,  340,x,mike gililland,(214) 437-2001
+
+]ralph, left a message for you, but just to be sure...  I want to
+have a  bulletin board  for use by my customers.   Is CARAVAN for
+sale or lease?  Call (214) 437-2001.
+
+-- Mike Gililland
+-----------------------------------------------------------------
+>01050,06,12/13/83,03:18,dick griese,all
+
+disk drive for sale: I have a cdc phoenix disk drive (16mb fixed,
+16mb removable) and a konan controller (smc 100) for sale I would
+like  to  get $5000.00  for both  but  would consider selling the
+drive alone for  $4500.00.  I might also be  willing to negotiate
+on price.  Call me, dick griese, at 201 284-0261
+
+-----------------------------------------------------------------
+>01052,16,12/13/83,06:14,brad brown,all
+
+printers for sale:  I have 2 ids microprism printers which I will
+sell for $420.00.  These are brand new, I  purchased  them  for a
+client that decided not to buy them for a "few months".
+
+I will sell  as many  of these as a person  will buy for $475.00.
+They are currently listing for $695.00.
+
+These printers  have  144x144 per  inch bit addressable graphics,
+24x18  dot matrix  print at  75cps with a 8 1/2  carriage length.
+Bi-directional platen feed.
+
+Qume qvt-102  terminals $549.00:  Brand new qume qvt102 terminals
+for $549.00, amber screens available for $565.00.
+
+Tilt and   swivle  screen   with  detachable  keyboard,  business
+graphics, supports 19.2K baud, soft configured.
+
+Brad Brown
+LASCA
+P.O. Box 17309
+Wichita, KS 67217
+(316) 686-2392
+
+-----------------------------------------------------------------
+>01057,05,12/29/83,11:29,val hanney,Fred
+
+CARAVAN: second  time  I've  gotten into  the bbs...First time in
+october was a  fiasco.  Doing a very good  job!  For us all thank
+you.  Received  vol-33, thank you.  Will be on again in a week or
+two...See ya val
+
+-----------------------------------------------------------------
+>01059,05,12/29/83,08:08,dave klotzman,tom cannon
+
+csi basic dangers: even more insidious is csi "IN A (F". This may
+cause  you  to  over-write supposedly-protected  areas of memory,
+like  the  ones  used to  remember how  to  access a disk without
+mechanically destroying it (seeking track 45999...) Dave Klotzman
+(303) 473-5880
+
+-----------------------------------------------------------------
+>01061,06,12/29/83,21:27,mike gililland,all
+
+disk drivers:  help!   Need hard  disk drivers for systems group.
+Several  drives under  consideration.  If  you  know what you are
+doing  and  are  willing to  write drivers  on  a contract basis,
+contact   Mike   Gililland,  Computer   Connection,  Inc.   (214)
+437-2001, 2001 N.  Collins Blvd, Suite 103, Dallas, TX 75080
+
+-----------------------------------------------------------------
+>01064,07,01/25/84,21:09,san aguayo,all
+
+trs hard disk for sale: radio shack trs-80 8mb hard disk drive
+used for  1 year  on trs80 mod 16 asking  1500 or best offer will
+consider equipment trade call san aguayo (315) 422-4589 or write:
+
+Software Technologies
+San Aguayo
+245 Robert Drive
+Syracuse, New York 13210
+
+-----------------------------------------------------------------
+01067,05,02/11/84,03:32,George Willis,Fred
+
+I am sending  driver for  TVI 924.  Unfortunately driver for  TVI
+914 is on  8 inch system at moment  I don't have a copy for altos
+5-1/4 (which  is what  I'm on).  Anyway, TVI 924  driver is being
+sent to you as CLASS44 ASSEMBLE.
+
+Need info on  any way  to get 8 inch floppy  drive going on 5-1/4
+inch altos.  Call  George Willis at (602) 967-5771.   You may get
+my answering machine, but leave message please.  Will attempt any
+jury  rig  solution  that works,  am willing  at  pay for working
+solution.
+
+-----------------------------------------------------------------
+
+I got a call from Real Philippon (514) 668-9744 who tells me he
+has an copy of Oasis for the TRS-80 Mod II that he doesn't need
+any more.  If you need one, give him a call.  FB
+
+-----------------------------------------------------------------
+
+Got a letter from member Leonard Garcia who has a large number of
+copies of the Oasis Manuals in unopened condition.  They are 2nd
+edition and he says he will sell them for $15 each.  He sells a
+turnkey system using Oasis and doesn't include the manuals for the
+operating system, only his own manuals.  So, it's all legal.  FB
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of Vol34.Feedback                            15 February 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 34.
+
+*****************************************************************
+
+
+CALSS38/44/49/50/51/52/81/82/86/87.ASSEMBLE
+SYSTEM.CLASS38/44/49/50/51/52/81/82/86/87
+
+Finally we are getting a few more class code drivers donated.
+These ten come from various people as noted below. At the end
+is a new summary of all the codes now in the library or
+previously released by Phase One.
+
+------------------------------------------------------------------
+CLASS38.ASSEMBLE / SYSTEM.CLASS38
+
+Here is a CLASSCODE that was missing from OUG VOL18.
+This one is for the WYSE-100 terminal.
+
+It took a lot of experimentation to get the Erase Unprotect (EU)
+function to work properly.
+The fancier features of this terminal seem to be a bit cumbersome
+to implement correctly for all applications. Specifically, the
+attribute bytes for Reverse Video, Blink, and Underline occupy
+a screen position.  This driver works ok for my applications, but
+may need some reworking for those that I'm not familar with.
+
+               Gary Bergman  (201) 247-2727
+
+▼ ------------------------------------------------------------------
+CLASS44.ASSEMBLE
+SYSTEM.CLASS44
+
+From George Willis (602) 967-5771 comes a class code for a TVI924,
+Televideo 924.
+
+------------------------------------------------------------------
+CLASS49.ASSEMBLE
+SYSTEM.CLASS49
+
+A Class code driver for the Ampex D-81, D-125, D-150, and D-175
+terminals from Mike Gililland of Computer Connection (214)437-2001.
+
+-----------------------------------------------------------------
+CLASS50/CLASS51/CLASS52.ASSEMBLE
+SYSTEM.CLASS50/CLASS51/CLASS52
+
+Due to the fact that the kaypro machines use memory mapped video and most
+of the terminal programs still use some parts of CPM it is necessary
+to experiment with the form feed delay and line feed delay times.
+
+CLASS50 is the driver for the kaypro 10
+CLASS51 is for the kaypro IV ** same as CLASS50
+CLASS52 is for the kaypro II ** same as CLASS51
+
+** The value for 'LF and 'FF" required will vary from machine to machine.
+'ATTACH CONSOLE PORTxx (C5n LF15 FF15' won't work above 9600 baud
+
+Ross Hansen -  Ross Distributing Co., 78 South State St.
+Preston, ID 83263 (208) 852-0830
+
+▼ ------------------------------------------------------------------
+CLASS81.ASSEMBLE
+SYSTEM.CLASS81
+
+This class  code  is for  the Hazeltine Esprite terminals.  These
+terminals will work  off with Class Code 6  except that Phase One
+uses a  VT to do a LF.  This prevents the display from scrolling.
+Hazeltine also uses  the ~ as a lead  in and this class code uses
+an ESC which allows you to use the ~ in programs.
+
+Michael W. Hobach -  Technical Service & Sales
+East Jewell Street, Oak Creek, WI 53154 (414) 762-7382
+
+------------------------------------------------------------------
+CLASS82.ASSEMBLE
+
+This is a  class code for the new QUME QVT 102 terminals.  It may
+not be very elegant but it works well.
+
+Michael W. Hobach -  Technical Service & Sales
+East Jewell Street, Oak Creek, WI 53154 (414) 762-7382
+
+▼ ------------------------------------------------------------------
+CLASS86.ASSEMBLE/SYSTEM.CLASS86
+CLASS87.ASSEMBLE/SYSTEM.CLASS87
+
+These are two new class drivers for the Freedom series of terminals.
+The first, CLASS86, is for the Freedom 100 and the second, CLASS87,
+is for the Freedom 50.
+ANY IMPROVMENTS WOULD BE GREATLY APPRECIATED.
+CONTRIBUTED BY MICHAEL BENENSON. (213) 710-9510
+
+WANT TO LIST ANY OF THEM NOW? [Y/N]:N
+WANT TO SEE A SUMMARY OF ALL CLASS CODES NOW? [Y/N]:Y
+LASS.CODES:VOL34                                         02/01/85 10:54 Page 1
+
+CLASS CODES AVAILABLE AS OF 1 NOVEMBER 1982
+
+
+LISTING IN ALPHABETICAL ORDER BY DEVICE
+Code Terminal
+==== ===================================
+2    ADDS 580 Envoy (vol 18)
+15   ADDS Regent 20 (vol 18)
+40   ADDS Viewpoint (not implemented) (vol 18)
+3A   ADM-5 (vol 15)
+43   Altos II (vol 32)
+49   Ampex D81/D125/D150/D175 (vol 34)
+1    Beehive B100 (vol 18)
+10   DEC VT-100 (vol 18)
+22   DEC VT-52 (vol 18)
+39   DEC VT52 (Uses ESC,ESC for system control) (Untested) (vol 18)
+21   Data Media (vol 18)
+14   Elbitt (vol 18)
+37   Falco Data Products TS-1 (Untested) (vol 18)
+85   Freedom 100 (vol 34)
+6    Hazeltine 1500 (vol 18)
+81   Hazeltine Esprite (vol 34)
+32   Hazeltine Modular One (vol 18)
+10   Heath H19 (ANSI) (vol 18)
+29   Heath H19 (Heath mode) (Uses ESC,ESC for system control) (vol 18)
+22   IBM 3101 (Uses ESC,ESC for system control) (vol 18)
+20   Informer 304 (vol 18)
+11   Infoton 100 (vol 18)
+24   Intertube (vol 18)
+33   Kontron PSI80 (VDM) (vol 18)
+3    Lear Siegler ADM 3A (vol 18)
+35A  Lear Siegler ADM 5 (alternate) (vol 18)
+35   Lear Siegler ADM 5 (vol 18)
+9    Perkin Elmer BANTOM (vol 18)
+8    Perkin Elmer FOX (vol 18)
+82   Qume QVT 102 (vol 34)
+16   Reserved by Phase One
+18   Reserved by Phase One
+17   Reserved by Phase One
+19   Reserved by Phase One
+23   S D Systems VDB 8024 (VDM) (vol 18)
+41   Seiko (not implemented)
+4    Soroq IQ 120 (vol 18)
+5    Special (VDM) (vol 18)
+13   Tandy Radio Shack TRS80 II (VDM) (vol 18)
+27A  Tektronix 40 (variation) (vol 18)
+27   Tektronix 40 (vol 18)
+26   Teleray 1000 Series (vol 18)
+36   Televideo TVI910 (vol 18)
+7    Televideo TVI912/920 (vol 18)
+7B   Televideo TVI920 (for MagicWand) (vol 18)
+7A   Televideo TVI920C (vol 15)
+44   Televideo TVI924 (vol 34)
+31   Televideo TVI950 (Uses ESC,ESC for system control) (vol 18)
+12   Vector Graphic Flashwriter (VDM) (vol 18)
+34   Visual 200 (SD Systems) (vol 18)
+28   Visual 200 (vol 18)
+25   Volker-Craig VC404 (vol 18)
+38   Wyse 100 (Altos 1) (vol 34)
+30   Zentec Zepher (vol 18)
+
+
+
+
+LISTING IN CLASS CODE ORDER
+Code Terminal
+==== ===================================
+1    Beehive B100 (vol 18)
+2    ADDS 580 Envoy (vol 18)
+3    Lear Siegler ADM 3A (vol 18)
+3A   ADM-5 (vol 15)
+4    Soroq IQ 120 (vol 18)
+5    Special (VDM) (vol 18)
+6    Hazeltine 1500 (vol 18)
+7    Televideo TVI912/920 (vol 18)
+7A   Televideo TVI920C (vol 15)
+7B   Televideo TVI920 (for MagicWand) (vol 18)
+8    Perkin Elmer FOX (vol 18)
+9    Perkin Elmer BANTOM (vol 18)
+10   Heath H19 (ANSI) (vol 18)
+10   DEC VT-100 (vol 18)
+11   Infoton 100 (vol 18)
+12   Vector Graphic Flashwriter (VDM) (vol 18)
+13   Tandy Radio Shack TRS80 II (VDM) (vol 18)
+14   Elbitt (vol 18)
+15   ADDS Regent 20 (vol 18)
+16   Reserved by Phase One
+17   Reserved by Phase One
+18   Reserved by Phase One
+19   Reserved by Phase One
+20   Informer 304 (vol 18)
+21   Data Media (vol 18)
+22   IBM 3101 (Uses ESC,ESC for system control) (vol 18)
+22   DEC VT-52 (vol 18)
+23   S D Systems VDB 8024 (VDM) (vol 18)
+24   Intertube (vol 18)
+25   Volker-Craig VC404 (vol 18)
+26   Teleray 1000 Series (vol 18)
+27   Tektronix 40 (vol 18)
+27A  Tektronix 40 (variation) (vol 18)
+28   Visual 200 (vol 18)
+29   Heath H19 (Heath mode) (Uses ESC,ESC for system control) (vol 18)
+30   Zentec Zepher (vol 18)
+31   Televideo TVI950 (Uses ESC,ESC for system control) (vol 18)
+32   Hazeltine Modular One (vol 18)
+33   Kontron PSI80 (VDM) (vol 18)
+34   Visual 200 (SD Systems) (vol 18)
+35   Lear Siegler ADM 5 (vol 18)
+35A  Lear Siegler ADM 5 (alternate) (vol 18)
+36   Televideo TVI910 (vol 18)
+37   Falco Data Products TS-1 (Untested) (vol 18)
+38   Wyse 100 (Altos 1) (vol 34)
+39   DEC VT52 (Uses ESC,ESC for system control) (Untested) (vol 18)
+40   ADDS Viewpoint (not implemented) (vol 18)
+41   Seiko (not implemented)
+43   Altos II (vol 32)
+44   Televideo TVI924 (vol 34)
+49   Ampex D81/D125/D150/D175 (vol 34)
+81   Hazeltine Esprite (vol 34)
+82   Qume QVT 102 (vol 34)
+85   Freedom 100 (vol 34)
+
+
+NOTE: Only numerical class codes seem to work.  So, if you want
+to use one of the variations, you will need to rename it to
+some unused number (eg CLASS7A could be CLASS88, etc.).
+
+If you modify any of the existing class codes or write new ones
+of your own, they will need to be assembled and linked to the
+system (eg ASM CLASS42 ( / SYSTEM) for CLASS42.ASSEMBLE).
+Phase One has supplied us with the latest CLASS.MACLIB, so you
+might try it instead of the one you now have.  Be sure to
+send us anything new you do.
+
+DEVICE DRIVERS (in OUG library):
+
+DEV8    RAMDISK driver (unused multiuser partitions) (vol 34)
+DEV24S  Hayes S100 Micromodem (vol 22)
+DEV99   NEC Spinwriter (vol 18)
+DEV1650 Diablo 1640/1650 (vol 22)
+DEV1650I Diablo 1640/1650 (vol 34)
+
+***************************************************************
+▼ ^
+EV1650I.ASSEMBLE
+SYSTEM.DEV1650i
+
+This is an IBC CADET implementation of the device driver that I
+previously released on OUG VOL21 for the XEROX/DIABLO 1640/1650.
+
+This driver supports bi-directional printing and initializes the
+top margin, according to the ATTACHed page size.
+
+(The DIABLO driver on OUG VOL21 was for a Cromemco System III).
+
+                     Gary Bergman
+
+Do you wish to list it now {Y/N}?:Y
+EV1650I.ASSEMBLE:VOL34                                   02/01/85 10:55 Page 1
+
+DEV1650   REL
+          TITLE    'Xerox/Diablo Bi-directional Device Driver'
+
+;         ;*********************************************************;
+;         ;        Copyright 1984,  Gary Bergman Assoc. Inc.        ;
+;         ;        A L L     R I G H T S     R E S E R V E D        ;
+;         ;*********************************************************;
+;         ;     14 Hickory Lane    North Brunswick, N.J. 08902      ;
+;         ;*********************************************************;
+;
+;
+;
+;         This device driver supports the Diablo 1640/1650 printer:
+;
+;                  1. Page size is initialized, based on the OASIS
+;                     ATTACH parameter (Pxx).
+;
+;                  2. ENAB2 and CLASS17 are internally enforced.
+;
+;                  3. Bi-directional output (software buffering).
+;
+;
+;         To facilitate ease of maintenence, and adaptability to
+;         other hardware configurations, the program is logically
+;         segmented into two parts:
+;
+;
+;         Part1    is the logic for the OASIS device driver.
+;                  This particular driver is for an IBC CADET 10 with
+;                  the printer defined on port 9, which is actually
+;                  labeled as PORT11 (next to last port). On my system
+;                  the program is named SYSTEM.DEV19 and is defined in
+;                  "SYSTEM.DEVNAMES" as:  DIABLO 19 PSIO P66 L80
+;
+;
+;
+;         Part2    is the logic to handle "Bi-directional" printing
+;                  for the Xerox/Diablo model 1640 or 1650 printer.
+;                  The code is fully independent of Part 1
+;                  and can be incorporated into any driver.
+;
+;
+;
+;
+;         *******************************************************
+;         *        P A R T   1 :    IBC CADET DEVICE DRIVER     *
+;         *******************************************************
+;
+
+PORT      EQU      10H         ; Port base address
+VECTOR    EQU      0EH         ; Interupt vector
+DC1       EQU      11H
+DC3       EQU      13H
+
+          JP       STAT        ; Status entry
+          XOR      A           ; Ignore input
+          RET
+          NOP
+          JP       PART2       ; Go to PART2 for Bi-directional output
+;;;;      JP       OUT         ; instead of the normal output routine.
+          JP       INIT        ; Initialization
+
+
+;         UNINTIALIZE          (5th entry point - fall thru)
+;
+UNINIT    LD       A,3
+          OUT      (PORT),A
+          LD       A,VECTOR
+          LD       DE,0
+          SC       103         ; Put vector
+          RET
+
+
+
+;         INITILIZATION         (4th entry point)
+;
+INIT      LD       (UCB),IY
+;         Baud rates are fixed by hardware.
+          LD       A,VECTOR
+          LD       DE,TMSINIT
+          SC       103         ; Set vector
+          LD       A,3
+          OUT      (PORT),A
+          LD       A,95H
+          BIT      7,(IY+8)    ; Parity?
+          JR       Z,JBA
+          BIT      5,(IY+8)    ; 8 bit char?
+          JR       NZ,JB2
+          RES      4,A
+JB2       BIT      6,(IY+8)    ; Even/Odd?
+          JR       Z,JBA
+          RES      2,A         ; Even parity
+JBA       OUT      (PORT),A
+          XOR      A
+          LD       (IY+29),A
+          LD       A,17
+          LD       (IY+4),A    ; Set Class code 17
+          SET      1,(IY+28)   ; Set ENAB2 protocol
+
+          LD       C,27        ; Escape to
+          CALL     OUT
+          LD       C,13        ; execute the
+          CALL     OUT
+          LD       C,'P'       ; DIABLO "restore"
+          CALL     OUT
+          LD       A,(IY+3)    ; If lines per page
+          CP       59          ; is set at 59, then
+          RET      Z           ; nothing need be done.
+          LD       A,(IY+9)    ; If page overflow
+          CP       0           ; is not zero, then
+          RET      NZ          ; let OASIS do it.
+
+          LD       A,81H       ; Wait 1 second for
+          SC       76          ; "restore" completion.
+
+          LD       C,27        ; Escape to set
+          CALL     OUT
+          LD       C,9         ; absolute tab
+          CALL     OUT
+          LD       C,1         ; to 1st position
+          CALL     OUT
+
+          LD       C,27        ; Escape to set
+          CALL     OUT
+          LD       C,12        ; lines per page
+          CALL     OUT
+          LD       C,(IY+3)    ; Lines from UCB
+;                              ; Fall thru send
+
+
+
+;         OUTPUT               (3rd entry point)
+;
+OUTP      SC       79          ; Select Next User
+OUT       CALL     STATUS      ; Test to send
+          JR       NC,OUTP
+          LD       A,C         ; Get the byte
+          OUT      (PORT+1),A  ; Send it away
+          RET
+
+
+;         STATUS               (1st entry point)
+;
+STAT      SC       79          ; Select next user
+          CALL     STATUS
+          RET
+
+STATUS    LD       A,(TMSBUF+1)
+          OR       A
+          PUSH     AF
+          IN       A,(PORT)
+          BIT      1,A         ; txrdy?
+          JR       Z,NOTREADY
+          LD       A,(IY+29)
+          OR       A           ; Test busy flag
+          JR       NZ,NOTREADY
+READY     POP      AF
+          SCF
+          RET
+NOTREADY  POP      AF
+          RET
+
+;         Interrupt service routine
+
+TMSINIT   PUSH     AF
+          PUSH     BC
+          PUSH     HL
+          PUSH     IY
+          CALL     RETI
+SIORET    IN       A,(PORT)
+          LD       B,A
+          IN       A,(PORT+1)
+          BIT      0,B
+          JR       Z,NOCHAR
+          LD       IY,(UCB)
+          BIT      5,(IY+8)
+          JR       NZ,EIGHT
+          RES      7,A
+EIGHT     LD       C,A
+          LD       A,(TMSBUF+1)
+          CP       4
+          JR       Z,SIORET
+          LD       A,C
+          AND      7FH
+          CP       DC1
+          JR       Z,CTLQ
+          CP       DC3
+          JR       NZ,NOENAB
+CTLS      LD       (IY+29),A
+          JP       SIORET
+CTLQ      XOR      A
+          JR       CTLS
+NOENAB    LD       A,C
+          PUSH     AF
+          LD       A,(TMSBUF+1)
+          DEC      A
+          LD       (TMSBUF+1),A
+          LD       A,C
+          LD       A,(TMSBUF+2)
+          ADD      C
+MOD       SUB      4
+          JR       NC,MOD
+          ADD      4
+          LD       C,A
+          LD       B,0
+          LD       HL,TMSBUF+3
+          ADD      HL,BC
+          POP      AF
+          LD       (HL),A
+          JP       SIORET
+NOCHAR    POP      IY
+          POP      HL
+          POP      BC
+          POP      AF
+          EI
+          RET
+RETI      RETI
+
+UCB       DW       (0)
+
+TMSBUF    DC       4,0,0       ; size, position, & count
+          DS       4           ; Interrupt service buffer
+
+
+;         *******************************************************
+;         *        P A R T   2 :      BI-DIRECTIONAL LOGIC      *
+;         *******************************************************
+;
+;         Most of the credit for this section goes to:
+;
+;                  Vince Oster who originally submitted this routine
+;                  to the OASIS USER's GROUP on VOL13.  His contribution
+;                  (DEV99 ASSEMBLE), modified by Mary Ann Dahlquist,
+;                  was written for the NEC Spinwriter, which varies slightly
+;                  from this DIABLO implementation.
+
+
+PART2     LD       A,C         ;char passed in c
+          PUSH     AF          ;save registers
+          PUSH     BC
+          PUSH     HL
+          CP       FF          ;form feed?
+          JR       Z,FORMFEED
+          CP       US          ;last page?
+          JR       Z,FORMFEED  ;oasis sends this at the end
+          CP       LF
+          JR       Z,DIREC
+          CP       13
+          JR       Z,EXIT
+          CP       ' '         ;printable character?
+          JR       NC,PRNTABLE ;printable - do not fix directi
+          CALL     FIXDIR      ;notprtable-next 2 lines l to r
+PRNTABLE  PUSH     AF          ;save char again
+▼ EV1650I.ASSEMBLE:VOL34                                   02/01/85 10:55 Page 2
+
+          LD       A,(NEW)     ;get count of new line
+          INC      A           ;increment it
+          LD       (NEW),A     ;store new value in new
+          POP      AF          ;get back character
+          CALL     STORE       ;store char in buffer
+          LD       A,(NEW)     ;get line size
+          CP       BUFSIZE     ;check for 255 chars
+          JP       Z,TEMPOUT   ;255 chars-output line
+
+EXIT      POP      HL          ;restore registers
+          POP      BC
+          POP      AF
+          RET
+
+FORMFEED  LD       A,FF        ;formfeed
+          CALL     STORE       ;put formfeed in buffer
+          CALL     FIXDIR
+          JP       LEFT        ;output line
+
+DIREC     LD       A,(LR)      ;determine direction to print in
+          OR       A
+          JP       Z,LEFT
+          LD       A,(OLD)     ;else compare old vs. new length
+          LD       B,A         ;put old in b
+          LD       A,(NEW)     ;put new length in a
+          SUB      B           ;and subtract them
+          JR       Z,SETTO1    ;same length
+          JR       NC,LOGIC    ;brif new is longer than old
+          NEG                  ;negate - 2's complement
+SETTO1    INC      A
+          LD       B,A
+          LD       HL,(POINT)  ; The DIABLO complains bitterly if you ask it
+          DEC      HL          ; print backward, if you really don't have to.
+          LD       A,(HL)
+          CP       255         ; Any data in buffer
+          JR       Z,REVCLEAR
+
+          LD       A,ESC       ; Initiate escape sequence
+          CALL     PRINT
+          LD       A,'6'       ; for DIABLO reverse mode.
+          CALL     PRINT
+
+BACKSP    LD       A,' '       ; Backspace from
+          CALL     PRINT       ; where we were,
+          DJNZ     BACKSP      ; to start print.
+
+SENDREV   LD       HL,(POINT)  ; Get the last character
+          DEC      HL          ; placed into the buffer.
+REVOUT    DEC      HL
+          LD       A,(HL)      ; Look 1 character prior.
+          CP       255         ; At beginning of buffer?
+          JR       Z,REVEND    ; Yes, go check last one
+          INC      HL
+          LD       A,(HL)
+          CALL     PRINT       ; Print byte in reverse
+          DEC      HL          ; Backup to prior byte.
+          JR       REVOUT
+
+REVEND    INC      HL
+          LD       A,(HL)      ; For some reason, the 1650 rings the alarm
+          CP       ' '         ; if printing a reverse space in position 1.
+          JR       Z,REVCLEAR  ; Since we don't need it, Don't do it.
+          CALL     PRINT
+
+REVCLEAR  LD       A,10
+          CALL     PRINT
+          CALL     PRINTCR
+          XOR      A           ;clear a
+          LD       (LR),A      ;reset left/right flag
+          LD       A,1         ;r to l
+          LD       (NEXTDIR),A ;time after next
+          LD       (LASTDIR),A ;this time was r to l
+          JP       RESET       ;reset old/new counts
+
+LOGIC     LD       B,A         ;b=new-old
+          LD       A,(NEW)     ;a=new
+          SRL      A           ;divide new by 2
+          SUB      B           ;and subtract new-old from new/2
+          JR       Z,INSCR     ;brif zero
+          JR       C,INSCR     ;brif carry
+          DEC      B           ;else dec b
+          JR       NZ,FWDSP
+          LD       HL,(POINT)  ; Test if no data in the buffer,
+          DEC      HL          ; so the 1650 won't get upset at
+          LD       A,(HL)      ; going in reverse for no reason.
+          CP       255
+          JR       Z,REVCLEAR
+          JR       SETBACK     ; OK, Really send some data back.
+
+FWDSP     LD       A,' '       ; Space forward from
+          CALL     PRINT       ; here, to begin the
+          DJNZ     FWDSP       ; last byte backward.
+
+SETBACK   LD       A,ESC       ; Initiate escape sequence
+          CALL     PRINT
+          LD       A,'6'       ; for DIABLO reverse mode.
+          CALL     PRINT
+          JP       SENDREV
+
+INSCR     CALL     PRINTCR
+          LD       A,1         ;r to l
+          LD       (NEXTDIR),A ;next time
+
+LEFT      LD       A,(LASTDIR) ;last time l to r and this time
+          OR       A           ;l to r needs cr
+          JR       NZ,NOCR     ;no extra cr
+          CALL     PRINTCR
+NOCR      XOR      A
+          LD       (LASTDIR),A ;last direction l to r
+          LD       A,(NEXTDIR) ;check (NEXTDIR)
+          LD       (LR),A      ;LR=NEXTDIR
+          OR       A
+          JR       NZ,LFONLY   ;if NEXTDIR is L to R, need
+          LD       A,1         ;r to l
+          LD       (NEXTDIR),A ;time after next
+          JR       LFPLUS
+LFONLY    XOR      A           ;clear a - l to r
+          LD       (NEXTDIR),A ;time after next
+LFPLUS    LD       A,LF        ;line feed
+          CALL     STORE       ;save in buffer
+          XOR      A
+          LD       (MIDLINE),A ;reset MIDLINE
+          LD       HL,BUFFER-1 ;begin of buffer minus 1
+
+FWDOUT    INC      HL
+          LD       A,(HL)      ; Pick up from buffer
+          CALL     PRINT       ; Send it out forward
+          CP       FF          ; Was it a Form-Feed?
+          JR       Z,RESET
+          CP       LF          ; or maybe Line-Feed?
+          JR       NZ,FWDOUT   ; It's here somewhere
+
+RESET     LD       A,(NEW)     ;get current count
+          LD       (OLD),A     ;and put it in old
+          XOR      A           ;clear a
+          LD       (NEW),A     ;reset new count to 0
+          LD       HL,BUFFER   ;point hl to start of buffer
+          LD       (POINT),HL  ;and reset point to same
+          JP       EXIT
+
+TEMPOUT   CALL     FIXDIR      ;l to r next 2 times
+          LD       A,(MIDLINE) ;ck if midline
+          OR       A
+          JR       NZ,NOTBEG   ;brif not beg of line
+          CALL     PRINTCR
+NOTBEG    LD       A,1         ;set lastdir r to l
+          LD       (LASTDIR),A ;so no carriage return in middle
+          LD       (MIDLINE),A ;and set midline flag
+          LD       B,BUFSIZE   ;output 255 chars
+          LD       HL,BUFFER   ;start of output
+PARTLP    LD       A,(HL)      ;get char from buffer
+          CALL     PRINT       ;send it
+          INC      HL          ;next char
+          DJNZ     PARTLP      ;255 yet?
+          JR       RESET
+
+STORE     LD       HL,(POINT)  ;current pos in buffer pointer
+          LD       (HL),A      ;store char in correct position
+          INC      HL          ;bump position
+          LD       (POINT),HL  ;and save new position
+          RET
+
+FIXDIR    PUSH     AF
+          XOR      A           ;clear A
+          LD       (LR),A      ;l to r this time
+          LD       (NEXTDIR),A ;and next time
+          POP      AF
+          RET
+
+
+PRINTCR   LD       A,13        ; Send a "carraige return".
+
+PRINT     LD       C,A         ; Give the byte to the device driver.
+          JP       OUT         ; Send ouput and return to my caller.
+
+LR        DC       0
+NEXTDIR   DC       1
+LASTDIR   DC       1
+MIDLINE   DC       0
+BUFSIZE   EQU      255
+FF        EQU      12          ;form feed
+US        EQU      1FH         ;last page eject code
+LF        EQU      10          ;line feed
+ESC       EQU      27          ;escape
+OLD       DC       0           ;old line length
+NEW       DC       0           ;new line length
+POINT     DC       (BUFFER)    ;line buffer pointer
+          DC       255         ; Front of buffer
+BUFFER    DS       257
+          END
+▼ ISKIT.COMMAND
+
+Yup, same bug found in DISKIT. This version should replace the
+DISKIT command originally released on OUG VOL22. Now with this
+version you can Search, Modify, Add, and Delete records from a
+file whose record length exceeds 256 bytes.
+
+The DISKIT utility is very powerful, and therefore dangerous.
+To make it safer, the program will not allow any "REAL" changes
+to be made to a disk file, or sector, unless the program itself
+is executed from your system disk.
+
+Do not place DISKIT on your SYSTEM disk until you feel comfortable
+with its operation.
+
+
+
+          Gary Bergman   TWX: 710 480-6282  ADS NBRU
+
+
+Do you want the new copy of DISKIT moved now {Y/N}?:N
+
+XECLINK.ASSEMBLE/COMMAND/INFO
+
+This is an interesting little utility that allows you to call an
+infinite number of EXECs from other EXECs without regard to the
+number of SYSTEM.EXECnn files you have defined.  It's a little
+tricky, so better read the info file before using it.  It was
+donated by Scott Watson. (714) 840-4510
+
+WANT MORE INFO NOW? [Y/N]:Y
+File not found.
+
+ILECHK.BASIC
+
+FILECHK is a program that was originally written to check all data
+files *.DATA* and *.TEMP for bad record pointers.
+This program can take a very long time to run and is set up for
+the data base used by A1 software. However it could easily modified
+for another data base.
+
+Ross Hansen -  Ross Distributing Co.
+South State St. Preston, ID 83263 (208) 852-0830
+
+I have modified Ross's original program so that it seems to work OK
+with some ISAM files.  It was not written to work with sequential files
+and does not seem to work with any DIRECT files I tried it on.  I'm
+not sure about KEYED files, although the logic is there for both
+KEYED and DIRECT files.  Try it with files you know are bad and see
+if it does what it is supposed to do. (I don't have any ISAM files
+with bad links!)  And, remember that you can fix the bad files using
+Gary Bergman's SELECTX or COPYX utilities, one of which is re-released
+on this volume.   Also, take a look at the related system, FPTEST
+on this volume, too.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+PPTN1/FPPTN2/FPPTN3/FPPTN4/FPRPRT4/FPSETPAR.BASIC
+FPTEST.KEYLPARM
+FPTEST4.EXEC
+FPTEST.DOC
+
+This  is the  program set  you have been waiting for.   This test
+will document the  lost record problem of Oasis's  Indexed files.
+It was  sent to me by Ace Grove of CPI.  The letter sent to us is
+included as  FPTEST.DOC.  Ace asked that I send it on to the user
+group so that  everyone can test their own  version of OASIS.  If
+there is  any feed back on any of this please relay your response
+to both Ace and myself.
+
+
+Michael W. Hobach -  Technical Service & Sales
+East Jewell Street -  Oak Creek, WI 53154 (414) 762-7382
+
+WANT MORE INFO NOW? [Y/N]:Y
+TO ABORT THE PROGRAM TYPE <esc> QN
+
+
+
+WORKING . . . . .
+
+
+PTEST.DOC:VOL34                                          02/01/85 10:55 Page 1
+
+Computer Professionals, Inc.
+11 Regency Hills Drive
+Suite 200
+Greenville, SC 29607
+
+                                        November 3, 1983
+
+Michael Hobach
+Modern Technology
+201 E. Jewell Street
+Oak Creek, WI 53154
+
+Dear Mr. Hobach
+
+      First, let  me  apologize  for the  delay in  getting  some of this
+information to you.   The diskette that I am  enclosing contains programs
+and EXEC's which will allow you to test the IBC OASIS problem of creating
+bad  pointers in  an indexed  file.  We have run these  programs with the
+last several  versions of  IBC OASIS (including 5.6A) and  they all fail.
+We have also run these programs on ALTOS 5.6A OASIS and they do not fail.
+
+      Here's what  happens -  when several  partitions  (the test used 4)
+attempt to write records into the same file simultaneously, the resulting
+file will almost always contain bad links.  You don't lose the records in
+that  they can  be accessed  using a keyed READ.  If,  though, you try to
+read all  records  using READNEXT,  you will  not  be able to access  all
+records.
+
+      The disk contains  fourteen files  as shown on the FILELIST.   Both
+the source  and object for BASIC programs has been included.  The FPTEST4
+EXEC file merely clears the CRT, identifies the following sequence as the
+CPI BROKEN  FORWARD POINTER TEST SYSTEM then sets the KEYLENGHT parameter
+to  4  and the  SLICE parameter  to 10.  Thereafter the system  runs in a
+continuous  loop erasing  any prior  test file, creating a new  test file
+with  520  records  in it  with the  appropriate  KEYLENGHT.  520 records
+represents the  recommended  (by  Phase  One)  file size  of  anticipated
+records plus 30%.   Since four partitions will each  attempt to write 100
+records into  this  file,  if  ssuccessful  the file  should  contain 400
+records.  Once  the FPTEST data file has been created, 3 blind partitions
+are started and  the 4th partition (the one  you are at) starts normally.
+Each of the  4 programs labeled FPPTN# perform  identical tasks but these
+tasks, unfortunately,  can  not  be  accomplished  by starting  the  same
+program in 4  partitions.  In essence, all that  a EPPTN# program does is
+open a  file which contains the current KEYLENGTH tested, close that file
+then open FPTEST DATA file and attempt to write 100 records to that file.
+Each record  contains a  key consisting of as many  leading zero's as are
+necessary to fill out the key to its current size followed by the 3 digit
+record number and a one digit partition number.  In other words the first
+three records written in FPTEST will have keys of 0011, 0021 and 0031.
+
+      As previously  mentioned  all 4  active partitions attempt to write
+100  unique  records into  this test  file.  Each record can be  uniquely
+identifed and the time of its creation is indicated within it.
+
+      Once all  4  partitions  are started,  the next  program  to be run
+(FPRPRT4) analyzes and reports on results of the operation which preceded
+it.   First the  program looks  to attempt to find the  100th record from
+each of  the four  previously executed programs before it  commences with
+its operations.   This is  because even though FPPTN4 is  the last of the
+file insert programs  to be started it may  not be the last one to finish
+and it  will be unwise to attempt to prematurely analyze the results.  In
+spite of  the above it is possible that the 100th record from one or more
+partitions  will  never be  located so  if FPRPRT4 is unable to  find the
+target records after  a reasonable amount of time  (100 seconds) it quits
+waiting and starts to analyze the file.  Analysis includes the following:
+
+      a)  The time  each partition actually wrote its first record to the
+          file.
+
+      b)  The time each partition wrote its last record to the file.
+
+      c)  The existence of all 400 records in the file via KEYED READS.
+
+      d)  The presence of all 400 records in the file via READ NEXTS.
+
+      Along the way it  indicates whether or not it  was able to find key
+100  from  each partition  or whether  it quit waiting.  It logs  missing
+records, indicates the  number of records found via  READNEXT, Checks the
+sequence during READNEXT  processing and logs out of  sequence conditions
+and,  finally prints  a graphic  representation of when each of  the four
+jobs was actually running.
+
+      This process will  iterate as long as you have patience, increasing
+the  SLICE  by 10  milliseconds each  iteration to a maximum SLICE  of 80
+milliseconds.  It then  increments the KEYLENGTH by one  and starts over.
+The  entire  process can  iterate for  several  hours until the KEYLENGTH
+eventually reaches  24 but I'm sure you will find enough logged errors in
+the first  one  half  hour  to  determine that  OASIS  5.6A does not work
+properly on the IBC.
+
+      You may also be interested to know about two other problems that we
+have encountered in OASIS:
+
+          1) IBC  version only  - if  you perform a LOGOFF with  serveral
+          partitions  running  the assignment  table in another partition
+          can be garbaged resulting in a program crash.  We have had this
+          happen a couple  of times with only two  partitions, but with 9
+          partitions running  (as in one of our installations) it happens
+          almost everytime one partition does a LOGOFF.
+
+          2) There is a  general problem in OASIS which  probably affects
+          all  versions that  results in  the  system becoming locked and
+          requiring reset.   We  have  talked  to  Phase One  about  this
+          problem and their response is not encouraging.  This happened 6
+          times on one  recent day at one of  our installations.  Neeless
+          to  say we  are constsntly  having to re-build files that  were
+          being  updated  when the  lock occured.   Following  is a brief
+          summary of the problem:
+
+           1.  Partition  1 reads  (and locks)  record  "B" in an indexed
+               file.
+
+           2.  Partition  2  reads  (and locks)  record "A"  in  the same
+               indexed file.
+
+           3.  Partition 1  reads  (and  locks)  a  control record  in  a
+               different file.
+
+           4.  Partition 2  attempts to read the same control record that
+               was read by Partition 1.  The partition waits.
+
+           5.  Partition 1  attempts to  write record "B" in the  indexed
+               file.   The  partition hangs  if OASIS must "read through"
+               record "A" to find record "B" to do the write since "A" is
+               locked by partition 2.
+
+           At  this point we have a fatal lock.
+
+      I hope some of  this information will be helpful  to you.  Any help
+you could give  us in getting these problems  cleared up would be greatly
+appreciated.
+
+
+
+Best Regards,
+
+
+Dorothy A. Thomson, Vice-President
+Computer Professionals, Inc.
+
+DT/lp
+
+enc.
+(NOTE: I tried it on our NNC 520 with Oasis 5.6 and it ran OK.  FB)
+▼ ^
+BMGET.ASSEMBLE/COMMAND
+IBMTRANS.ASSEMBLE/COMMAND
+
+IBMGET.ASSEMBLE- This  is an  assembly language routine developed
+by  Evan  Sakey for  BENENSON ASSOCIATES, INC.   (213)-704 4707.
+It is  designed to pull the contents of an IBM System 5120 Double
+Density  Diskette onto  the Oasis System Disk.   Unfortunately we
+had  no documentation  on the  format of the IBM diskette  (other
+than it  was 'IBM  Format') and we kept getting  CRC errors so we
+just pulled all the sectors, ignored any disk read errors and put
+them  onto the  Oasis System  Disk in a file called  'IBM.GRAB'.
+Thats what this  routine does.   It is a  good working start to a
+double  density  'GETFILE'  but needs  a routine  that  reads the
+directory of the  IBM diskette and breaks up  the 'IBM.GRAB' file
+into the component files.
+▼ ^
+We were concerned about the possibilities of the read errors, but
+after  we  had translated  the file (Using IBMTRANS.ASSEMBLE) the
+contents  were  intact.   Quick  and Dirty,  but  it works.   Any
+questions,  suggestions  or  upgrades should  be referred to Mike
+Benenson  at  (213)-704-4707.    We will  be happy  to  work with
+anyone interested  in bringing  this up to a full  fledged double
+density 'GETFILE' utility for 5120 diskettes.
+
+IBMTRANS.ASSEMBLE- This  is the  companion program for Grab.   It
+reads the file  named 'IBM.GRAB' and translates the  EBCIDC codes
+into ASCII.    *****Warning****** no attempt is made to determine
+whether or not the file contains binary values.  Consequently the
+program assumes  it is translating a text file.   The output file
+is called (originally enough) IBM.TRANS.
+▼ ^
+This program needs  some way to be told the file structure in the
+records so that only text data is translated.   It could also use
+a way to  specify the input and output  file names.   Again it is
+quick  and  dirty but  it works.    Anyone  interested in turning
+these two programs  into a decent general purpose  Utility should
+contact Mike Benenson  at (213)-704 4707.   Trans will  work as a
+stand alone program  to translate EBCDIC to ASCII  if the file to
+be translated is renamed to IBM.GRAB.
+
+(NOTE:  There was a mention of a group of commercial programs for
+IBM data exchange back on volume 5.  Might take a look at it. FB)
+
+
+WANT TO LIST IBMGET NOW? [Y/N]:Y
+TO ABORT THE PROGRAM TYPE <esc> QN
+
+
+
+WORKING . . . . .
+
+
+BMGET.ASSEMBLE:VOL34                                     02/01/85 10:56 Page 1
+
+          REL
+;
+;
+          LD       B,0         ;channel
+          LD       DE,ACB
+          SC       24          ;assign
+          JP       C,.ERROR
+          LD       DE,FCB
+          SC       32          ;open
+          JP       NZ,.ERROR
+;
+;
+;
+;
+          LD       HL,.DET
+          SC       74          ;trap it
+;
+          SC       87          ;getlub
+          LD       (IY+1),0    ;amrk floppy there
+;
+          LD       IY,69H      ;address of floppy ucb
+          LD       (IY+0AH),2  ;# of heads'
+          LD       (IY+0BH),0
+          LD       (IY+0CH),77 ;# of tracks
+          LD       (IY+0DH),26 ;# of sectors per track
+          LD       (IY+0EH),0
+          LD       (IY+13H),0C0H ;wp/ibm double density
+          LD       (IY+14H),0  ;current cylinder
+          LD       (IY+15H),0
+          LD       (IY+12H),0
+          LD       (IY+16H),10H ;head load table
+          LD       (IY+17H),3
+          LD       (IY+18H),10H
+;
+          LD       DE,.SELRET  ;select return
+          PUSH     DE          ;return address
+          LD       A,0         ;physical drive code
+          LD       HL,(IY)     ;get the driver address
+          JP       (HL)        ;and execute
+;
+.SELRET:
+          LD       DE,.RESRET  ;restore return rouintine
+          PUSH     DE          ;return address
+          LD       HL,(IY)     ;get the driver address
+          LD       DE,3
+          ADD      HL,DE       ;offset of restore jump vector
+          JP       (HL)        ;do it
+;
+.RESRET:
+          LD       DE,SECTOR
+          LD       HL,(REC)
+          SC       17          ;deco
+          LD       DE,WHERE
+          SC       2
+;
+          LD       A,1
+          LD       B,A         ;logical drive code of floppy
+          LD       DE,(REC)    ;sector to get
+          LD       HL,MEMORY   ;where to load
+          SC       10          ;rd1
+;now write it to the hard disk
+          LD       BC,(REC)
+          INC      BC          ;oasis is base 1 direct records
+          LD       DE,FCB
+          LD       HL,MEMORY
+          SC       41
+          JR       NZ,.ERROR
+          LD       BC,(REC)
+          INC      BC
+          LD       (REC),BC    ;bump up record #
+          LD       HL,MAXREC
+          OR       A
+          SBC      HL,BC
+          JR       NC,.RESRET  ;next
+;
+.DONE:
+          LD       DE,FCB
+          SC       33          ;close the file
+          LD       DE,BYE
+          SC       2
+          SC       0
+;
+.ERROR:
+          LD       DE,ERR
+          SC       2
+          SC       0
+;
+;
+.DET:
+          LD       A,0         ;ignore
+          RET                  ;and continue
+;
+;
+;
+;
+REC:      DW       0
+ACB:
+          DC       0           ;system disk
+          DC       'ibm     '
+          DC       'disk    '
+          DC       1
+;
+FCB:
+          DC       0           ;channel 0
+          DC       01001000B
+          DW       BUFFER
+BUFFER:
+          DS       256
+MEMORY:
+          DS       256
+BYE:      DC       16,0,23,10,'Leaving...',10,0
+ERR:      DC       16,0,23,10,'Error...',10,0
+WHERE:    DC       16,0,23,'Sector '
+SECTOR:   DC       '     ',0
+;
+;
+MAXREC:   EQU      4004
+;now write all this to the disk
+▼ WANT TO LIST IBMTRANS NOW? [Y/N]:Y
+TO ABORT THE PROGRAM TYPE <esc> QN
+
+
+
+WORKING . . . . .
+
+
+BMTRANS.ASSEMBLE:VOL34                                   02/01/85 10:56 Page 1
+
+          REL
+;
+;
+          LD       B,0
+          LD       DE,INACB
+          SC       24          ;assign
+          JR       C,.ERROR
+          LD       B,1
+          LD       DE,OUTACB
+          SC       24          ;assign
+          JR       C,.ERROR
+;
+          LD       DE,INFCB
+          SC       32          ;open the input file
+          JR       NZ,.ERROR
+          LD       DE,OUTFCB
+          SC       32          ;open the outut file
+          JR       NZ,.ERROR
+;
+.GETSECT:
+          LD       DE,SECT
+          LD       HL,(REC)    ;put out sector number
+          SC       17          ;deco
+          LD       DE,WHERE    ;put out the whole line
+          SC       2           ;display
+;
+          LD       BC,(REC)    ;record number
+          LD       DE,INFCB    ;input file
+          LD       HL,SECTOR
+          SC       40          ;rddir
+          JR       NZ,.ERROR
+;
+          LD       BC,256      ;# of chars in a sector
+          LD       DE,SECTOR
+          LD       HL,SECTOR   ;what to convert
+          CALL     DECODE      ;convert the sector
+;
+          LD       BC,(REC)    ;record number
+          LD       DE,OUTFCB   ;output file
+          LD       HL,SECTOR
+          SC       41          ;wrdir
+          JR       NZ,.ERROR
+;
+          LD       BC,(REC)    ;record number
+          INC      BC          ;next record
+          LD       (REC),BC    ;store
+;
+          LD       HL,MAXREC   ;highest numbered sector
+          OR       A
+          SBC      HL,BC       ;over the top
+          JR       NC,.GETSECT ;nope
+;all done with the file
+          LD       DE,INFCB    ;input file
+          SC       33          ;close
+          LD       DE,OUTFCB   ;output file
+          SC       33          ;close
+;
+          LD       DE,BYE
+          SC       2
+          SC       0           ;egress
+;
+.ERROR:
+          LD       DE,ERR
+          SC       2           ;display error mesage
+          SC       0           ;and get the hell out
+;
+;
+DECODE:
+          PUSH     DE
+          PUSH     HL          ;save
+;
+          LD       E,(HL)      ;get the character to  be translated
+          LD       D,0         ;make 16-bit
+          LD       HL,.TRANS   ;translate table
+          ADD      HL,DE       ;point to translate code
+          LD       A,(HL)      ;get the translate code
+          POP      HL
+          POP      DE          ;restore to be translated char's address
+          LD       (DE),A      ;and store
+          INC      DE
+          INC      HL          ;next character
+          DEC      BC          ;counter
+          LD       A,B
+          OR       C
+          RET      Z           ;all done
+          JR       DECODE      ;loop for all characters
+;
+.TRANS:
+          DC       0,1,2,3,0,9,0,0FFH,0,0,0,0BH,0CH,0DH,0EH,0FH
+          DC       10H,11H,12H,13H,0,0,8,0,18H,19H,0,0,1CH,1DH,1EH,1FH
+          DC       0,0,0,0,0,0AH,17H,1BH,0,0,0,0,0,5,6,7
+          DC       0,0,16H,0,0,0,0,4,0,0,0,0,14H,15H,0,1AH
+          DC       ' ',0,0,0,0,0,0,0,0,0,0,'.<(+',0
+          DC       '&',0,0,0,0,0,0,0,0,0,'!$*);',0
+          DC       '-/        |,%_>?'
+          DC       '         \:#@',27H,'=',22H
+          DC       ' abcdefghi      '
+          DC       ' jklmnopqr      '
+          DC       ' ~stuvwxyz      '
+          DC       '                '
+          DC       '{ABCDEFGHI      '
+          DC       '}JKLMNOPQR      '
+          DC       '  STUVWXYZ      '
+          DC       '0123456789      '
+;
+;
+;
+REC:      DW       1           ;record number
+MAXREC:   EQU      4004        ;# of sectors
+SECTOR:   DS       256
+;
+BYE:      DC       16,0,23,10,'Egressing....',10,0
+ERR:      DC       16,0,23,10,'Error....',10,0
+WHERE:    DC       16,0,23,'Sector '
+SECT:     DC       '     ',0
+;
+INACB:    DC       0           ;disk s
+          DC       'ibm     '
+          DC       'disk    '  ;file name
+          DC       1           ;disk i/o
+INFCB:    DC       0           ;channel 0
+          DC       01010000B   ;direct input
+          DW       INBUF
+;
+OUTACB:   DC       0           ;disk s
+          DC       'ibm     '
+          DC       'trans   '  ;file name
+          DC       1           ;disk i/o
+OUTFCB:   DC       1           ;channel
+          DC       01001000B   ;direct output
+          DW       OUTBUF
+;
+INBUF:    DS       256
+OUTBUF:   DS       256
+;
+▼ ^
+KI92.BASIC
+
+This Basic program is  used to setup the OKIDATA  92/93 printers.
+It is menu  driven and makes using this  fancy printer a peice of
+cake.  There  is a  function for down loading a  character set to
+the printer  which I have not included because it isn't finished.
+I  also  have  a  program  which  I  will  include  in  the  next
+contribution which allows  you to design a character  set on your
+screen and  then save  it to disk.  It uses  a full screen editor
+and can be  used to create a character  set for the OKIDATA 92/93
+
+Michael W. Hobach -  Technical Service & Sales
+East Jewell Street -  Oak Creek, WI 53154 (414) 762-7382
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ROOF.COMMAND
+
+The report from two members that PROOF would not work with either
+the MAGIC WAND  or SPELLBINDER editors led to  some investigation
+of  their  file  formats  versus  the  standard  OASIS sequential
+format.  As  a result I was able to modify PROOF to work with all
+three  file  types.  My  testing with  borrowed  files from these
+other two editors  seems to work fine.  If  anyone has problems I
+would  appreciate  their  letting  me  know.  Included  with this
+package  are  two diskettes  with the current dictionary ARCHIVED
+onto them.
+
+The new  dictionary is  slightly smaller  than  the old one.  The
+difference is  that, in keeping with the logic in PROOF that will
+distinguish a singular  word from a plural these  word files have
+had the duplicate plurals removed.  This both increases the extra
+capacity  available  for new  words and  speeds  operation of the
+program.
+
+Robert Chapman,  465  Lakeshore  Road  West,  Oakville,  Ontario,
+Canada L6K 1G4 Phone (416) 827-4173
+▼ (NOTE: I  will  be  releasing  the  new  edited  versions of  the
+dictionary sections on future unscheduled bonus volumes for those
+of you with  standing orders.  In the mean  time, you can use the
+old  versions  of  the  SPELLING.GROUPnn files  currently in your
+system.)
+
+WANT TO REPLACE YOUR OLD WORKING COPY OF PROOF NOW? [Y/N]:N
+
+AM.EXEC
+RAMDISK.ASSEMBLE/COMMAND
+RAMINIT.ASSEMBLE/COMMAND
+DEV8.ASSEMBLE/SYSTEM.DEV8
+
+More magic from one of our stars, Bob Chapman, this is a
+system for turning unused memory partitions into a fast
+ram-disk.  That is, once it is installed it looks just
+like any other disk, only a lot faster.  I have installed
+this on my Altos 5-15D (floppies only) and can now do
+things like backup one floppy to another.  CARAVAN, which
+now runs on the Altos is a lot faster with the RAMDISK.
+NOTE: Bob has a faster, more efficient version that he
+sells for $50.  So, give him a call (416) 827-4173.
+
+The RAMDISK is installed by running the RAMDISK.EXEC.
+It asks you a bunch of questions about the unique
+features of your system needed to customize the RAMDISK
+for your system. The extra RAM.EXEC is provided as an
+example of a program you can use to start the RAMDISK
+each time (after you have first gone through the customized
+installation procedure once.).
+WANT TO TRY IT NOW? [Y/N]:N
+ELECTX ASSEMBLE/COMMAND
+
+Feedback from a few users of my SELECTX utility indicated a bug
+in processing of KEYED and INDEXED files whose record lengths
+exceeded 256 bytes. Here is the corrected program which should
+replace SELECTX from OUG VOL33.
+
+
+               My sincere apologies,  Gary Bergman
+
+
+
+Install or replace SELECTX now {Y/N}?:N
+
+TARTUP.ASSEMBLE
+
+STARTUP is for people like me who have to boot from a floppy disk
+but then want to ATTACH a hard disk as the system disk.  It can't
+be done  from  an  EXEC file  unless it  is  on a third disk  not
+involved in  the swap  of the system disk.  This  program enables
+the IPL process to continue beyond the re-ATTACHing of the system
+disk when there only two drives involved.
+
+Robert Chapman, 465 Lakeshore Road West, Oakville, Ontario, Canada
+L6K 1G4  Phone (416) 827-4173
+
+NOTE: This must be customized for your system. FB
+
+WANT TO LIST STARTUP IT NOW? [Y/N]:Y
+TO ABORT THE PROGRAM TYPE <esc> QN
+
+
+
+WORKING . . . . .
+
+
+TARTUP.ASSEMBLE:VOL34                                    02/01/85 10:57 Page 1
+
+;         When starting up some computers, eg. Radio Shack Mod II with CORVUS,
+;         you have to boot from a diskette. If you have a hard disk and want
+;         to re-ATTACH it as the system disk you cannot continue the IPL
+;         EXEC unless you have a third drive containing the IPL EXEC file.
+;         This is because the system loses the EXEC file if it is on one of the
+;         disks involved in the switch of the 'S' drive.
+;         To get around this you can have IPL EXEC load a small program into
+;         high memory which can call the ATTACH command (and others) using
+;         SC 70. This program can call another EXEC when it has re-attached
+;         the system disk, or it can continue and set-up memory etc. as long
+;         as it doesn't load a program which would conflict with its own area
+;         of memory.
+;         Another limitation is that you cannot ATTACH a physical device for
+;         the first time with this method since the device driver would
+;         be loaded below this program into memory which becomes un-protected
+;         when this program completes. This program has to have any devices
+;         it uses already attached before it starts.
+;
+;         The IPL EXEC that I use and the command file it calls follow:
+;
+;
+;         the IPL is a one-liner
+;         STARTUP COMMAND A
+;         &END
+;
+;
+;         here is the assembly code for STARTUP
+;         my IPL is a simple one but there is no reason
+;         why a more complex startup could not be accomplished
+;         by adding more commands and leapfrogging your
+;         way through the program
+;
+;
+STARTUP:  ABS                  ;absolute PAB allows you to run this in high mem
+          ORG      0F000H      ;to leave room below for commands to follow
+;         this ORG may be too high for some situations
+;         setting it to a lower value can also be done
+;         just make sure it doesn't overrun any device drivers that may
+;         be in high memory and that there is enough room below for any
+;         commands it calls to execute
+;
+START:
+          SC       55          ;get top of memory
+          LD       (HIMEM),HL  ;save it for later
+          LD       HL,ATTACHA  ;set up return address
+          LD       DE,CMD1     ;point to command
+          SC       70          ;call system
+ATTACHA:
+          LD       HL,SETMEM   ;next return address
+          LD       DE,CMD2     ;next command
+          SC       70
+SETMEM:
+          LD       HL,ALLDONE  ;next return address
+          LD       DE,CMD3
+          SC       70
+ALLDONE:
+          LD       HL,(HIMEM)  ;get original end-of-memory value
+          SC       56          ;restore end-of-memory
+          SC       0           ;this could be SC 54 calling another exec etc.
+CMD1:
+          DC       'ATTACH S CORVUS1',13 ;terminate command with CR
+CMD2:
+          DC       'ATTACH A FLOPPY1',13 ;booted from this disk, now it's A
+;
+;
+;
+;         now that the switch of the 'S' disk is complete any remaining
+;         tasks such as setting memory, logging on users, etc. could be done
+;         by an exec that this program could exit to. Since I only setup a
+;         second bank of memory I do it from this program.
+;
+;
+CMD3:
+          DC       'SET MEMORY 2 1 1',13
+HIMEM:    DW       0
+          END
+
+OMIXED.BASIC/C/COMMAND
+
+On one of your wish lists you mentioned a need for a program that
+would convert  an all uppercase text file into one of mixed upper
+and lower  case.  This  seemed like an ideal test  for 'C' and an
+opportunity for me  to learn a little bit  about it.  The program
+TOMIXED C is the result.  The actual work done by this program is
+trivial, it all happens in a few lines, but I spent a little time
+trying to make use of the program as simple and 'bullet-proof' as
+possible.  The  output from it will still require some editing as
+one cannot predict in every case whether or not a given character
+can be  upper or  lower case.  As a matter  of interest I wrote a
+similar program in  BASIC as a comparison.  TOMIXED  BASIC versus
+TOMIXED C is an interesting contrast.  OASIS C leaves a lot to be
+desired -  it makes all sorts of errors which will turn your hair
+grey.  I  hear that  there will soon (or maybe  someday) be a new
+version with  the bugs  ironed out and floating point  math.  You
+can't always believe what you hear, however.
+
+Robert Chapman, 465 Lakeshore Road West, Oakville, Ontario, Canada
+L6K 1G4  Phone (416) 827-4173
+
+WANT TO TRY THE BASIC VERSION NOW? [Y/N]:N
+YSE100 ASSEMBLE/COMMAND
+
+This is a utility that you can use in a LOGON, or any other, EXEC
+to setup the Function Keys for the WYSE-100 terminal. I assumed,
+based on the ducumentation on OUG VOL18, that CLASS38 would be
+used for the WYSE-100. Therefore, the program checks for CLASS38
+and gracefully exits if not so.
+
+The program is fairly simple and well documented to allow you
+to modify the Function Key assignments and the "Status" lines.
+
+
+          Gary Bergman
+
+
+Do you wish to list it now {Y/N}?:Y
+YSE100.ASSEMBLE:VOL34                                    02/01/85 10:57 Page 1
+
+WYSE100   REL
+;
+;         ;*********************************************************;
+;         ;        Copyright 1983,  Gary Bergman Assoc. Inc.        ;
+;         ;        A L L     R I G H T S     R E S E R V E D        ;
+;         ;*********************************************************;
+;         ;     14 Hickory Lane    North Brunswick, N.J. 08902      ;
+;         ;*********************************************************;
+;
+;         This brief program can be used in a LOGON EXEC to
+;         setup the Function Keys and "Labeleing" lines for
+;         the WYSE-100 terminal.
+;
+;         Several versions of this program can be implemented
+;         to reconfigure the Function Keys for use with various
+;         word processors, editors, or other custom applications
+;         by incorporating them within appropriate EXEC's.
+;
+;         You might be better off, by defining all of the various
+;         types of messages with this one program and then choose
+;         which message to send, based on an input token value.
+;
+;         The program may at first appear to be inefficient in
+;         the way the messages are sent to the terminal. However,
+;         the WYSE-100 seems to have a timing problem when asked
+;         to process too many ESC's in one long message.
+;
+;         This method proves to be easy to maintain, in that, any
+;         timing problem can be simply corrected by changing the
+;         data statements without touching the program's logic.
+;
+;         The timing can be affected, simply by inserting a zero
+;         value anywhere in the text, causing a new I/O request
+;         to be executed.
+;
+;         Note that if you wish to send a <cr> to the terminal,
+;         you must preceed it with a zero "0". This is required
+;         so that the program can "pause" and send a single <cr>
+;         without generating a CR LF.
+;
+ESC       EQU      27
+DEL       EQU      255
+CR        EQU      13
+
+          PUSH     HL          ; Save any token parameters
+          LD       B,9         ; Conout device
+          SC       21          ; Get UCB
+          PUSH     HL
+          POP      IY
+          POP      HL          ; Restore tokens (if needed)
+          LD       A,(IY+4)
+          CP       38          ; Test for WYSE-100 (SYSTEM.CLASS38)
+          JR       NZ,QUIT     ; If not CLASS38, don't do anything.
+
+;         Add your own logic here to choose which message you
+;         wish to inititialize the terminal with.
+;
+          LD       A,(HL)      ; Get command token
+
+;         LD       DE,MESSAGE2 ; Alternate msg2?
+;         CP       ??          ; Check for whatever
+;         JR       Z,LOOP      ; Yes, start sending
+;
+;         LD       DE,MESSAGE3 ; Some other message ????
+;         CP       ??          ; Check for whatever?
+;         JR       Z,LOOP      ; Yes, start sending
+
+          LD       DE,MESSAGE1 ; Default setup message
+
+LOOP      SC       2           ; Output until a zero is found.
+          LD       A,(DE)      ; Get next character
+          CP       0FFH        ; Test for end of message.
+          JR       Z,QUIT      ; OK, all done.
+          CP       CR          ; Is next character a <cr>?
+          JR       NZ,LOOP     ; No, continue output
+          LD       C,A         ; Place the <cr> in regster C
+          PUSH     DE          ; Save msg pointer
+          SC       5           ; Output 1 byte (<cr> only)
+          POP      DE          ; Restore pointer
+          INC      DE          ; Point to next byte of msg.
+          JR       LOOP
+
+QUIT      XOR      A           ; Always return sucessfully
+          SC       0           ; Back to CSI
+
+MESSAGE1:
+
+;         Define Bottom "Labeleing" line.
+
+;         The WYSE manual indicates that a string of 78 characters
+;         can be sent to the 25th (bottom) line by simply using
+;         ESC,'z(','aaaaaaaaa....',CR
+;         However, only the first 40, or so, characters actually
+;         get displayed.
+;         For simplicity, each field (0 thru 7) is individually
+;         written to.  It is not necessary to send each field
+;         as a seperate I/O. But it is guaranteed to work.
+;
+;         If you don't want the "Labels" at the bottom
+;         of the screen, simply comment-out the following:
+;
+
+          DC       ESC,'z0','1 Cancel',0
+          DC       ESC,'z1','2 Debug ',0
+          DC       ESC,'z2','3 Page  ',0
+          DC       ESC,'z3','4 Pause ',0
+          DC       ESC,'z4','5 End   ',0
+          DC       ESC,'z5','6 Logoff',0
+          DC       ESC,'z6','7 Help  ',0
+          DC       ESC,'z7','8 Print ',0
+
+;         Display "Labels" in Half Intensity (dim) and Reverse Video
+          DC       ESC,'A1t',0
+
+;         Suppress the top msg line ("LOCAL" and "HOST")
+          DC       ESC,'A21',0
+
+;         Setup Program Function Keys
+
+          DC       ESC,'z@',ESC,'Q',DEL ; F1 - System cancel
+          DC       ESC,'zA',ESC,'D',DEL ; F2 - Debug
+          DC       ESC,'zB',ESC,'W',DEL ; F3 - Page wait
+          DC       ESC,'zC',ESC,'S',DEL ; F4 - Pause
+          DC       ESC,'zD',ESC,'C',DEL ; F5 - Program cancel
+          DC       ESC,'zE','LOGOFF',0,CR,DEL ; F6 - LOGOFF command
+
+;                  Note: 0 must preceed CR to avoid CR LF.
+;
+;         A function key for HELP,CR turns out to be a really
+;         nice feature. It works whether you are in CSI, EDIT,
+;         DEBUG, PATCH, or LINK etc..
+
+          DC       ESC,'zF','HELP',0,CR,DEL ; F7 - HELP command
+          DC       ESC,'zG',ESC,'P',DEL ; F8 - Printer echo
+
+          DC       0,0FFH      ; End of message indicator
+          END
+▼ ^
+
+ELL, THAT'S  THE END  OF VOLUME 34.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG information service)
+baud weekdays and 300 baud on weekends.
+
+****************************************************************
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+IBMGET.ASSEMBLE:A copied to IBMGET.ASSEMBLE:D
+SYSTEM.CLASS51:A copied to SYSTEM.CLASS51:D
+RAMINIT.ASSEMBLE:A copied to RAMINIT.ASSEMBLE:D
+SYSTEM.CLASS38:A copied to SYSTEM.CLASS38:D
+FPPTN2.BASIC:A copied to FPPTN2.BASIC:D
+FPRPRT4.BASIC:A copied to FPRPRT4.BASIC:D
+VOL34.CONTENTS:A copied to VOL34.CONTENTS:D
+FPTEST.KEYLPARM:A copied to FPTEST.KEYLPARM:D
+EXECLINK.COMMAND:A copied to EXECLINK.COMMAND:D
+SELECT34.EXEC:A copied to SELECT34.EXEC:D
+WYSE100.ASSEMBLE:A copied to WYSE100.ASSEMBLE:D
+FPSETPAR.BASIC:A copied to FPSETPAR.BASIC:D
+DEV1650I.ASSEMBLE:A copied to DEV1650I.ASSEMBLE:D
+TOMIXED.COMMAND:A copied to TOMIXED.COMMAND:D
+FPPTN3.BASIC:A copied to FPPTN3.BASIC:D
+CLASS.CODES:A copied to CLASS.CODES:D
+CLASS81.ASSEMBLE:A copied to CLASS81.ASSEMBLE:D
+CLASS86.ASSEMBLE:A copied to CLASS86.ASSEMBLE:D
+FILECHK.BASIC:A copied to FILECHK.BASIC:D
+FPPTN4.BASIC:A copied to FPPTN4.BASIC:D
+SYSTEM.DEV1650I:A copied to SYSTEM.DEV1650I:D
+FPTEST.DOC:A copied to FPTEST.DOC:D
+SYSTEM.CLASS81:A copied to SYSTEM.CLASS81:D
+CLASS50.ASSEMBLE:A copied to CLASS50.ASSEMBLE:D
+SYSTEM.CLASS86:A copied to SYSTEM.CLASS86:D
+TOMIXED.BASIC:A copied to TOMIXED.BASIC:D
+$README.FIRST34:A copied to $README.FIRST34:D
+VOL34.NEWS:A copied to VOL34.NEWS:D
+IBMTRANS.COMMAND:A copied to IBMTRANS.COMMAND:D
+SYSTEM.CLASS50:A copied to SYSTEM.CLASS50:D
+FPTEST4.EXEC:A copied to FPTEST4.EXEC:D
+RAM.EXEC:A copied to RAM.EXEC:D
+FPTEST.EXEC:A copied to FPTEST.EXEC:D
+OKI92.BASIC:A copied to OKI92.BASIC:D
+SELECTX.COMMAND:A copied to SELECTX.COMMAND:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+SYSTEM.DEV8:A copied to SYSTEM.DEV8:D
+RAMDISK.EXEC:A copied to RAMDISK.EXEC:D
+CLASS52.ASSEMBLE:A copied to CLASS52.ASSEMBLE:D
+IBMGET.COMMAND:A copied to IBMGET.COMMAND:D
+RAMINIT.COMMAND:A copied to RAMINIT.COMMAND:D
+TOMIXED.C:A copied to TOMIXED.C:D
+VOL34.EXEC:A copied to VOL34.EXEC:D
+STARTUP.ASSEMBLE:A replaces STARTUP.ASSEMBLE:D
+WYSE100.COMMAND:A copied to WYSE100.COMMAND:D
+EXECLINK.ASSEMBLE:A copied to EXECLINK.ASSEMBLE:D
+DISKIT.COMMAND:A copied to DISKIT.COMMAND:D
+SYSTEM.CLASS52:A copied to SYSTEM.CLASS52:D
+CLASS49.ASSEMBLE:A copied to CLASS49.ASSEMBLE:D
+CLASS44.ASSEMBLE:A copied to CLASS44.ASSEMBLE:D
+SYSTEM.CLASS49:A copied to SYSTEM.CLASS49:D
+VOL34.FEEDBACK:A copied to VOL34.FEEDBACK:D
+PROOF.COMMAND:A replaces PROOF.COMMAND:D
+SYSTEM.CLASS44:A copied to SYSTEM.CLASS44:D
+DEV8.ASSEMBLE:A copied to DEV8.ASSEMBLE:D
+CLASS82.ASSEMBLE:A copied to CLASS82.ASSEMBLE:D
+CLASS87.ASSEMBLE:A copied to CLASS87.ASSEMBLE:D
+SELECTX.ASSEMBLE:A copied to SELECTX.ASSEMBLE:D
+CLASS38.ASSEMBLE:A copied to CLASS38.ASSEMBLE:D
+IBMTRANS.ASSEMBLE:A copied to IBMTRANS.ASSEMBLE:D
+FPPTN1.BASIC:A copied to FPPTN1.BASIC:D
+SYSTEM.CLASS82:A copied to SYSTEM.CLASS82:D
+CLASS51.ASSEMBLE:A copied to CLASS51.ASSEMBLE:D
+SYSTEM.CLASS87:A copied to SYSTEM.CLASS87:D
+
+>

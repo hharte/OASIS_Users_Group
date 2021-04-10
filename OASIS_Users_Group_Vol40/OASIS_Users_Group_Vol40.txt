@@ -1,0 +1,784 @@
+July 1984                       Volume: 40
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST40  A 06/23/84 18:16    60    3 S    65 VOL40
+AC$AP    EXEC     A 06/28/84 18:16   195    7 S    73 VOL40
+AC$AP000 BASICOBJ A 06/23/84 18:16    81    3 S   243 VOL40
+AC$AP010 BASICOBJ A 06/23/84 18:16   538   14 S   243 VOL40
+AC$AP020 BASICOBJ A 06/23/84 18:16   363   11 S   243 VOL40
+AC$AP030 BASICOBJ A 06/23/84 18:16   430   13 S   243 VOL40
+AC$AP031 BASICOBJ A 06/23/84 18:16    54    4 S   243 VOL40
+AC$AP040 BASICOBJ A 06/23/84 18:16   514   14 S   243 VOL40
+AC$AP050 BASICOBJ A 06/23/84 18:16   255    9 S   243 VOL40
+AC$AP060 BASICOBJ A 06/23/84 18:16   343   11 S   243 VOL40
+AC$AP061 BASICOBJ A 06/23/84 18:16   282    9 S   243 VOL40
+AC$AP070 BASICOBJ A 06/23/84 18:16   483   13 S   243 VOL40
+AC$AP080 BASICOBJ A 06/23/84 18:16   210    6 S   243 VOL40
+AC$AP090 BASICOBJ A 06/23/84 18:16   380   13 S   243 VOL40
+AC$AP100 BASICOBJ A 06/23/84 18:16    74    4 S   243 VOL40
+AC$AP110 BASICOBJ A 06/23/84 18:16   114    5 S   243 VOL40
+AC$INIT0 BASICOBJ A 06/23/84 18:16   142    5 S   243 VOL40
+AC$INIT1 BASICOBJ A 06/23/84 18:16   118    5 S   243 VOL40
+AC$INIT2 BASICOBJ A 06/23/84 18:16   440   14 S   243 VOL40
+AC$INIT3 BASICOBJ A 06/23/84 18:16   335   13 S   243 VOL40
+AC$MENU  BASICOBJ A 06/23/84 18:16   111    4 S   243 VOL40
+ACCEPT40 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL40
+AF$AGE   PAYABLE1 A 06/23/84 18:16     9    1 S     5 VOL40
+AF$CHECK PAYABLE1 A 06/23/84 18:16     0    4 I   100 VOL40
+AF$POST  PAYABLE1 A 06/23/84 18:16     0    1 S     0 VOL40
+AF$TRANS PAYABLE1 A 06/23/84 18:16     0    9 I   400 VOL40
+AF$VEND  PAYABLE1 A 06/23/84 18:16     1    5 I   179 VOL40
+AF$VENS  PAYABLE1 A 06/23/84 18:16     1    5 I   179 VOL40
+AF$VOICE PAYABLE1 A 06/23/84 18:16     0    9 I   400 VOL40
+AF$VSORT PAYABLE1 A 06/23/84 18:16     0    1 S     0 VOL40
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL40
+SELECT40 EXEC     A 06/28/84 18:16    36    2 S    46 VOL40
+VOL40    CONTENTS A 06/28/84 18:16    44    3 S    65 VOL40
+VOL40    EXEC     A 06/28/84 18:16   101    3 S    73 VOL40
+VOL40    FEEDBACK A 06/28/84 18:16   227   11 S    65 VOL40
+VOL40    NEWS     A 06/23/84 18:16   188   11 S    65 VOL40
+36 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+$README.FIRST40:A replaces $README.FIRST40:D
+AC$AP031.BASICOBJ:A replaces AC$AP031.BASICOBJ:D
+AC$AP061.BASICOBJ:A replaces AC$AP061.BASICOBJ:D
+AC$AP100.BASICOBJ:A replaces AC$AP100.BASICOBJ:D
+AC$INIT0.BASICOBJ:A replaces AC$INIT0.BASICOBJ:D
+AF$POST.PAYABLE1:A replaces AF$POST.PAYABLE1:D
+VOL40.FEEDBACK:A replaces VOL40.FEEDBACK:D
+VOL40.NEWS:A replaces VOL40.NEWS:D
+AC$AP.EXEC:A replaces AC$AP.EXEC:D
+AC$AP020.BASICOBJ:A replaces AC$AP020.BASICOBJ:D
+AC$AP050.BASICOBJ:A replaces AC$AP050.BASICOBJ:D
+AC$AP080.BASICOBJ:A replaces AC$AP080.BASICOBJ:D
+AC$INIT1.BASICOBJ:A replaces AC$INIT1.BASICOBJ:D
+AF$TRANS.PAYABLE1:A replaces AF$TRANS.PAYABLE1:D
+AF$VOICE.PAYABLE1:A replaces AF$VOICE.PAYABLE1:D
+VOL40.CONTENTS:A replaces VOL40.CONTENTS:D
+AC$INIT2.BASICOBJ:A replaces AC$INIT2.BASICOBJ:D
+ACCEPT40.COMMAND:A replaces ACCEPT40.COMMAND:D
+AF$VSORT.PAYABLE1:A replaces AF$VSORT.PAYABLE1:D
+VOL40.EXEC:A replaces VOL40.EXEC:D
+AC$AP010.BASICOBJ:A replaces AC$AP010.BASICOBJ:D
+AC$AP040.BASICOBJ:A replaces AC$AP040.BASICOBJ:D
+AC$AP070.BASICOBJ:A replaces AC$AP070.BASICOBJ:D
+AC$INIT3.BASICOBJ:A replaces AC$INIT3.BASICOBJ:D
+AC$MENU.BASICOBJ:A replaces AC$MENU.BASICOBJ:D
+AC$AP110.BASICOBJ:A replaces AC$AP110.BASICOBJ:D
+AF$CHECK.PAYABLE1:A replaces AF$CHECK.PAYABLE1:D
+COPYRITE.BASICCOM:A replaces COPYRITE.BASICCOM:D
+AC$AP000.BASICOBJ:A replaces AC$AP000.BASICOBJ:D
+AC$AP030.BASICOBJ:A replaces AC$AP030.BASICOBJ:D
+AC$AP060.BASICOBJ:A replaces AC$AP060.BASICOBJ:D
+AC$AP090.BASICOBJ:A replaces AC$AP090.BASICOBJ:D
+AF$AGE.PAYABLE1:A replaces AF$AGE.PAYABLE1:D
+AF$VEND.PAYABLE1:A replaces AF$VEND.PAYABLE1:D
+AF$VENS.PAYABLE1:A replaces AF$VENS.PAYABLE1:D
+SELECT40.EXEC:A replaces SELECT40.EXEC:D
+
+>VOL40
+>     COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P      :
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:
+   ==================================================================
+   :           VOLUME 40 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   :  "The technologies that could destroy us can also be used      :
+   :                       for our salvation." Arthur C. Clark      :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 40  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  40,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST40  A 06/23/84 18:16    60    3 S    65 VOL40
+AC$AP    EXEC     A 06/28/84 18:16   195    7 S    73 VOL40
+AC$AP000 BASICOBJ A 06/23/84 18:16    81    3 S   243 VOL40
+AC$AP010 BASICOBJ A 06/23/84 18:16   538   14 S   243 VOL40
+AC$AP020 BASICOBJ A 06/23/84 18:16   363   11 S   243 VOL40
+AC$AP030 BASICOBJ A 06/23/84 18:16   430   13 S   243 VOL40
+AC$AP031 BASICOBJ A 06/23/84 18:16    54    4 S   243 VOL40
+AC$AP040 BASICOBJ A 06/23/84 18:16   514   14 S   243 VOL40
+AC$AP050 BASICOBJ A 06/23/84 18:16   255    9 S   243 VOL40
+AC$AP060 BASICOBJ A 06/23/84 18:16   343   11 S   243 VOL40
+AC$AP061 BASICOBJ A 06/23/84 18:16   282    9 S   243 VOL40
+AC$AP070 BASICOBJ A 06/23/84 18:16   483   13 S   243 VOL40
+AC$AP080 BASICOBJ A 06/23/84 18:16   210    6 S   243 VOL40
+AC$AP090 BASICOBJ A 06/23/84 18:16   380   13 S   243 VOL40
+AC$AP100 BASICOBJ A 06/23/84 18:16    74    4 S   243 VOL40
+AC$AP110 BASICOBJ A 06/23/84 18:16   114    5 S   243 VOL40
+AC$INIT0 BASICOBJ A 06/23/84 18:16   142    5 S   243 VOL40
+AC$INIT1 BASICOBJ A 06/23/84 18:16   118    5 S   243 VOL40
+AC$INIT2 BASICOBJ A 06/23/84 18:16   440   14 S   243 VOL40
+AC$INIT3 BASICOBJ A 06/23/84 18:16   335   13 S   243 VOL40
+AC$MENU  BASICOBJ A 06/23/84 18:16   111    4 S   243 VOL40
+ACCEPT40 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL40
+AF$AGE   PAYABLE1 A 06/23/84 18:16     9    1 S     5 VOL40
+AF$CHECK PAYABLE1 A 06/23/84 18:16     0    4 I   100 VOL40
+AF$POST  PAYABLE1 A 06/23/84 18:16     0    1 S     0 VOL40
+AF$TRANS PAYABLE1 A 06/23/84 18:16     0    9 I   400 VOL40
+AF$VEND  PAYABLE1 A 06/23/84 18:16     1    5 I   179 VOL40
+AF$VENS  PAYABLE1 A 06/23/84 18:16     1    5 I   179 VOL40
+AF$VOICE PAYABLE1 A 06/23/84 18:16     0    9 I   400 VOL40
+AF$VSORT PAYABLE1 A 06/23/84 18:16     0    1 S     0 VOL40
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL40
+SELECT40 EXEC     A 06/28/84 18:16    36    2 S    46 VOL40
+VOL40    CONTENTS A 06/28/84 18:16    44    3 S    65 VOL40
+VOL40    EXEC     A 06/28/84 18:16   101    3 S    73 VOL40
+VOL40    FEEDBACK A 06/28/84 18:16   227   11 S    65 VOL40
+VOL40    NEWS     A 06/23/84 18:16   188   11 S    65 VOL40
+36 file(s), 248 block(s).
+▼ OL40.NEWS:VOL40                                          02/02/85 08:45 Page 1
+
+-----------------------------------------------------------------
+July 1984               N E W S   L E T T E R           Volume 40
+-----------------------------------------------------------------
+
+
+
+Good Morning;
+
+
+VOL40: Your patience has  been rewarded once again.  Here  is the
+third  of  Brent  Coyne's  four  Osborne based  accounting system
+modules together  with a  double bonus: the improved versions  of
+the  two previously  released earlier modules (General Ledger and
+Payroll).   All  three are  "intellegent" conversions of the CP/M
+versions and  take  advantage  of  the  superior BASIC  and  file
+structure features of  Oasis.  The system is easy  to install and
+use.   I'm  sure you  are going  to like it.  Remember that  this
+implementation is copyrighted by Brent and that if you would like
+to do anything commercial with it, call him to make the necessary
+arrangements.  He  has done a lot of work to get it up for Oasis,
+and  deserves to  share any  commercial  rewards derived from it.
+Reach him at (517) 832-2207 in Michigan.
+
+BONUS40: which accompanies volume 40 contains updated versions of
+the other  two Osborne modules released earlier on volumes 28 and
+29.   These  versions  (2.0) of  the General  Ledger  and Payroll
+modules are  enough different  from the first releases that  they
+MUST be  used with this new Accounts Payable module on volume 40.
+Only   the   programs  themselves   are  being  rereleased.   The
+organizing EXECs  and  sample  data  files  must be  gotten  from
+Volumes 28  and 29.   Basically, you should just replace  all the
+programs which  start with AC$PR on volume 28 and all those which
+start  AC$GL on  volume 29  using the new versions on  this bonus
+volume.   Several  of you  hassled me  last  time about using the
+ARCHIVE format to get more stuff on a disk.  In order to avoid it
+this time,  I have resorted to using the several SSDD 8" diskette
+formats  required  by members'  machines.  I just know somebody's
+going to  get the wrong one, and I apologize in advance to anyone
+who does.   But, once again there was just too much stuff for the
+standard formats.   If we have screwed up on your copy, give me a
+call (in September) and we'll get you something you can use.
+
+EUROPE: At this very  moment we are somewhere in  Europe visiting
+members.   This  mailing  and the  volume 40  (plus  bonus) which
+accompanies it  are being  sent out by my son,  Gary, so that you
+won't think  we have  completely disappeared.  We managed to  get
+everything done in  July before we left.  We  should have lots to
+report in the newsletter next month.
+
+PEOPLE: I  learned  from  Chris  Williams the  whereabouts of two
+former Phase  One people:  Jim Squire is with Onyx  (as is Sylvia
+Ahmed) and  Dave Sheffy is at the newly reorganized CCS (which is
+reportedly  about  to release  a new  version  of their Comstar).
+Brian Goodheim may  seem a little drowsy next  time you call him.
+He is  a new father.  His daughter born in early June is Heidi at
+6 pounds 2 onces.
+
+IBC DISKETTES:  I have  once again  made a deal on behalf  of our
+members for the  high coercivity 5.25" diskettes required  by the
+IBC Middi Cadet (and NNC 520).  These are the Maxell MD2-HD which
+seem  to  me to  be certainly  as good and maybe better  than the
+highly touted  Brown UHR II LDS product.  Our price is $47.50 per
+box (5  box minimum  per order) from Media Distributing.   To get
+this  really good  price you  must ask for Linda Ortlinghaus  and
+mention  your  OUG  membership  (really).   Her  number  is (800)
+824-7386.  Unlike the deal we had with Brown directly (which they
+cancelled  because one  of their  dealers  complained) this is an
+arrangement with a Maxell dealer and will not be cancelled.
+
+SYSTEMS GROUP: After  no response  to many statements for an  old
+unpaid  bill, I  finally called  them and learned that they  have
+filed for reorganization under Chapter 11 of the Bankruptcy laws.
+Someone is  still answering  the phone (714) 633-2240 and  one of
+our SG members says they are still shipping their products.  But,
+beware.  They told me not to expect any payment.
+
+OASIS-16 EMULATION: Comments from some of you have suggested that
+what we  need right  now, rather than an emulation  of Oasis-8 on
+the  16-bit  machines, is  an emulation  of  Oasis-16 on the many
+existing Oasis-8  machines.  Once available, people could convert
+their existing  8-bit packages for use on 16-bit machines without
+investing in any of the currently available 16-bit machines until
+they  see  if a  significant demand  materializes  for the 16-bit
+version.   Along this  same line  I have learned that things  are
+brewing right now  for other 16-bit microprocessors.  The  ones I
+have  heard mentioned  are the  80186, the 80286, and the  68000.
+Can't report  any details from my usually reliable source at this
+point,  but  keep your  eyes open  for  announcements - one might
+involve Oasis in ROM as I was musing in an earlier newsletter.
+
+VERSION 5.7: of Oasis8  is in alpha test and  preliminary reports
+suggest it  is going  to be significantly improved over  5.6.  So
+much so  that it may be called Version 6.  Improvements include a
+number of  new CSI  and EXEC features, a faster  BASIC, and a new
+non-overlaid nucleus strategy for multi-user machines which has a
+significantly improved  performance for some types of operations.
+All the known  bugs in 5.6 also have  been fixed I am told.  I am
+concerned that  new reference manuals may not be available by the
+time the  software is ready for release.  Stew Wachs at Phase One
+could not  confirm that work was even in progress on a rewrite of
+the manuals for 5.7 as late as early July.
+
+BBB SIG: Alan Bligh, who runs a Better Business Bureau in Lubbock
+Texas  has  started a  newsletter for  all  BBB's that use Oasis.
+That  makes him  the defacto  coordinator for a new SIG  to focus
+attention on topics of interest to other Better Business Bureaus.
+He  gave us  a  nice  plug in  the vol.   1  No.  2 issue of  his
+newsletter.  Thanks Alan.
+
+SIGS: If you want to coordinate a special interest group (SIG) on
+any  subject of  interest to  a sub-group of Oasis users,  let me
+know and  I'll give  you a hand.  Interest has  been expressed in
+the past  by members concerned with law, medicine, and artificial
+intelligence.  But, someone must step forward and agree to be the
+contact person  in order to get the ball rolling.  Let me know if
+that's you.  No report from our FORTH SIG this time.
+
+OASIS-8 TO  16  CONVERTER:  Oasis Technologies  has announced the
+availability  of,  FILT  8086,  a software  conversion tool which
+takes Z80  assembly  code  and  translates  it to  8086  assembly
+language   code.   It   is  designed  specifically  to  make  the
+conversion of Oasis8 to Oasis86 speedy and easy.  OTECH estimates
+that over ninety  percent of the conversion of  a typical program
+will   be   accomplished   automatically,  with   statements  not
+translated  being  flagged for  manual attention.  The conversion
+utility, FILT 8086, costs $300.  Call 'em at (415) 283-4290.
+
+FOREIGN PAYMENTS:  are always  a potential problem here.  Handled
+the wrong way at your end, it costs a lot of extra time and money
+at  this end.   Our banking  gets very confused when your  checks
+must be  sent  to  a  foreign  country for  "collection"  and the
+service  charge by  Bank of  America is now an exorbitant  $40!!!
+Add to that  an extra one to three  weeks for the checks to clear
+and you understand our consternation.
+
+There are  several  acceptable  foreign payment  procedures.  The
+simplest for  us  is  to  have  your bank  draw  a check on their
+correspondent  bank  in  the  US  (most  all  banks have  foreign
+correspondents).   You can  also use an international money order
+from your local post office.  The final way is to send us a check
+drawn on your bank in the currency of your country figured at ten
+percent more than the current exchange rate.  The key is that any
+payment must be  "U.S.  clearing" and for an  amount that doesn't
+short change  us at  this end (there are naturally  more expenses
+associated with  serving our  foreign members).  NEVER SEND US  A
+CHECK IN U.S.  DOLLARS DRAWN ON A FOREIGN BANK!
+
+COPYRIGHT: From  time  to   time  people  call  to  ask   for  an
+explanation of  the copyright law and how it applies to things in
+our  library.   The June  1984 issue  of  Computer Shopper had an
+excellent and  clearly written article on this very subject.  The
+article was  slanted toward  things bordering on Public Domain  -
+like  some of  the programs  in our library.  Anyone reading  the
+article will see  that we are well covered,  both as a collection
+and for individual  items in the library.  If  you know of anyone
+who has doubts  and is passing OUG stuff  around without explicit
+authorization,  have  them  read  this  article  written  by L.J.
+Kutten, an  attorney.  All  rights to OUG materials are  reserved
+for their authors.
+
+COMDEX: The Las  Vegas extravaganza draws near again.  We will be
+there.  In  addition to our regular general meeting, I would like
+to have  some sort  of additional formal presentations along  the
+lines of  the (intended) tutorials last year.  One thought was to
+invite  members  with  significant new  Oasis related products to
+give short, but formally prepared talks about their goodies; kind
+of a new  product "showcase." We might consider  trying to set up
+equipment  for  demonstrations,  if  that  seemed appropriate  to
+anyone.  What do you think?  We are in the early planning stages,
+so any  and all ideas from you would be very welcome.  I will try
+to  arrange  a hospitality  suite again  this  year - possibly at
+Ceasar's Palace  - where you can unwind one evening.  More on all
+this in our next newsletter.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265  (805)   965-5415  to  get  CARAVAN,  our  on-line
+information system.   Runs 24  hours a day, 7 days  a week at 300
+Baud on  weekends and at 1200 Baud during the weekdays (usually).
+Give it a try.
+
+-----------------------------------------------------------------
+end of .  .  .  .       N E W S   L E T T E R           Volume 40
+-----------------------------------------------------------------
+▼ OL40.FEEDBACK:VOL40                                      02/02/85 08:45 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL40.FEEDBACK                                          July 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+May 29, 1984
+
+Good Morning, Fred;
+
+Volumes 38 and 39 just arrived here.  My only complaint about the
+OUG is  that I barely have a chance to assimilate the contents of
+one volume before the next arrives in my mailbox!
+
+You often  ask  for  news of  what OUG  members  have been doing.
+Here's  what  I've  been busy  with during  the  past year or so.
+Please feel free to edit or abstract as appropriate.
+
+I have spent the  better part of the last  year making one of the
+items on my  personal "OASIS wish list" come  true.  I now have a
+portable machine  running OASIS!   In fact, it has a  10 megabyte
+hard disk and  can run either with OASIS  on the full 10 megs, or
+with  5  megs devoted  to OASIS  and the other 5 megs  devoted to
+CP/M.  I  can carry  the machine to a work  site, plug it in, and
+boot into either OASIS or CP/M without ever touching a floppy.
+
+You may have  guessed by  now that I am talking  about the Kaypro
+10.   I recently  completed the  implementation  of OASIS for the
+Kaypro  machines and  thought you  might  like some background on
+that  project.    First,  the  commercial--Kaypro  OASIS  is  now
+available for  immediate shipment.   It will run on the  model 10
+and on  current  production  model  4's.   It is  being  marketed
+through  RealSoft  Systems (100  S.  Spring  St.,  Aspen CO 81611
+(303)925-1558).
+
+I have been working with Brian Goodheim of RealSoft Systems for a
+number   of  years   on  various  projects  associated  with  his
+OASIS-based real estate appraisal system.  Brian and I have spent
+what  seems  like the  majority of  those  years lugging computer
+systems  into   and  out   of  various  offices  and  shows   for
+demonstrations.   Brian  seems  to be  developing a  nice  set of
+muscles  from  carrying all  of those  heavy  boxes, but the only
+benefit  I  have derived  from it  is that I can now  tie my shoe
+laces without bending over.
+
+When the first  portables became available, we discussed how nice
+it would be to have a compact, lightweight machine that would run
+all that  wonderful OASIS software.  Our dream machine would have
+plenty  of storage,  a readable  CRT  and standard size keyboard,
+ports  (with standard  connectors) for printers, modems and other
+goodies, and would be helium filled so it would just float down a
+hallway with an occasional nudge.
+
+I made my  first attempt with an Osborne.  It met only two of the
+requirements--it  had a  standard size  keyboard  and it could be
+carried by  one person.   I really tried to convince  myself that
+CP/M  was as  good as  OASIS, (also that I could  see the screen)
+but....   Brian  tried  next.  He  commissioned  a totally custom
+system.  It had everything we wanted built in--but it was too big
+to take on  an airplane and the Russians  wanted to borrow it for
+use in  training their Olympic weight lifting team.  We dubbed it
+"The  Hernia".   Then Kaypro  came along  with  their model 2 (no
+OASIS  and not  enough disk  storage) and then their model  4 and
+(aha!) the model 10.  The 10 came with a 10 meg hard disk, a nice
+big screen  (with reverse video, blink, and highlighted fields) a
+5 1/4" floppy, and a standard keyboard.  You can lift it with one
+hand and  the airlines  don't insist that you sit  in the baggage
+compartment when  you try  to carry it on board.   The only thing
+missing from the model 10 was the helium and OASIS.
+
+I had  been  working with  OASIS for  some time (the system I  am
+writing this on  has serial number 1-476) and  have been known to
+get neck deep in machine code on a regular basis.  Brian asked me
+whether it  would be  possible for 'someone' to put  OASIS on the
+Kaypro 10.  I said sure, and he asked me how soon I could have it
+ready.  The upshot was that he agreed to contact Kaypro and Phase
+One and see if they were interested I agreed to try hand-patching
+a system to see if we could get something running on the '10'.
+
+The initial contact with Kaypro was encouraging.  They had a long
+list  of software  projects planned which included implementation
+of  several alternate  operating environments.  OASIS looked like
+it would fit in well with their plans and we laid out a tentative
+schedule for its  implementation on the model 10.   What happened
+next  must be  something of  a first in the software  world.  The
+hand-patched  system went  together easily  and  we had a working
+prototype system not only ahead of schedule but before Kaypro had
+signed the development contract!
+
+That is where  things sat  for several months.  Kaypro OASIS  was
+running  in-house  at RealSoft  and at Taylor Electric.  Kaypro's
+personnel were  involved in  other projects with the result  that
+their  interest  in  OASIS was  "on hold".   Meanwhile,  word got
+around  the  OASIS community  that there  was  finally a portable
+running OASIS.  Brian  and I were seen at  a number of shows with
+our  prototype systems,  usually surrounded  by  a crowd of OASIS
+fanatics asking how soon they could get a Kaypro 10 with OASIS.
+
+Eventually it became  apparent to everyone involved that the only
+way that  Kaypro OASIS could be made available to the public in a
+reasonable period  of time  would be to market it  independent of
+Kaypro.   This would  make the system available immediately while
+leaving the door  open should Kaypro renew its  interest in OASIS
+as an alternative to CP/M.  We discussed the situation with Phase
+One  and were  able to  work out an agreement which  allows us to
+market the product through RealSoft.
+
+The time spent negotiating  with Kaypro and with Phase  One had a
+hidden benefit.  It gave us the time to find those last, stubborn
+bugs which usually don't pop up until the first systems have been
+delivered.  We also  were able to add some  niceties ranging from
+an "Exec"  routine  which  installs  OASIS  on the  hard  disk to
+automatic "parking"  of the  hard disk heads over a  safe landing
+area whenever the disk has not been accessed for twenty seconds.
+
+So that's where "Project K" stands today.  If you don't hear from
+me for  a while  it will be because I  am busy in the shop with a
+Kaypro 10, a tank of helium, and a welding outfit!
+
+Best wishes;
+
+John Taylor
+
+----------------------------------------------------------------
+06/09/84,04:00:00, 35,X,SCOTT SHUEY,(213) 691-7550
+
+Fred: for  your info,  I tried  two  separate sessions to finally
+log-on to Caravan  tonight.  The first time I  dialed approx.  25
+times and got either busy, no answer, or a dead line.  The second
+session, about  1 hour  after the first, took about  5 tries with
+the same answers as the first but finally got through.  This is a
+fairly common experience  for me.  System in use  is IBM PC, with
+PC-DOS,  using  Crosstalk  16  software and  Rixon external modem
+(R212A).  I  have also  had the same problems using  a CP/M based
+system  with same  modem and  COMMX software, and using my  Altos
+with Oasis.  Problem is not new, but has been the norm for me for
+several months.
+
+The only other item  involved with above is I  use Sprint to call
+you, but  do not think this is part of problem since I use Sprint
+all the time calling other systems with no problems.  This is not
+a  complaint, just  an annoyance;  but wanted to let you  know in
+case the info is of use.
+
+Scott Shuey
+
+----------------------------------------------------------------
+01110,25,06/09/84,11:38,BOB JOHNSON,ALL
+
+IBC/TOSHIBA, We  are new  on the  board, and are a systems  house
+(The  Software Design  Group).  Just  wanted to pass along a  few
+opinions...
+
+IBC Middi Cadet  computers are great.  We have just switched from
+ALTOS to IBC,  and are getting a pretty  good deal on them from a
+local  distributor  (better  than  from  IBC,  especially  on the
+8MHz/40 megabyte version).
+
+Also, we've  recently  switched  from  the Texas  Instruments 810
+printer  to  the Toshiba  P1351.  About  the  same price, but the
+Toshiba  has  two  "letter quality"  fonts which  are  just about
+impossible to tell from a daisywheel.
+
+We specialize in  general business accounting, inventory control,
+etc.  and  also have a pretty slick professional time and billing
+package for attorneys, accountants, etc.  Let us know if you need
+one..  all our stuff runs under OASIS-8 (of course).  By the way,
+we  have  used  OASIS-16 on  the IBM-PC,  it's  ok but not great.
+Still lots of picky little bugs.  Oh well, time to go...
+
+ DRAT!! noisy modems !!! anyway...
+ - Bob Johnson/Software Design Group
+ P.O. Box 578, Bethany, OK 73008
+ (405) 722-5058 or (405) 495-6008
+ You can also ask for Rod Jordan if I'm not around.
+
+----------------------------------------------------------------
+01111,06,06/09/84,13:52,BOB JOHNSON,ALL
+
+WYSE 50  CLASS DRIVER,  Does anyone  out there have a Class  Code
+driver for the Wyse 50 Terminal.  We're emulating a Televideo 925
+with it  now, but  we'd like to do it  right...  If I don't see a
+note here within a week or so, I'll write one and upload it..
+
+-bob johnson
+
+----------------------------------------------------------------
+01113,10,06/09/84,13:12,ALAN BLIGH,ALL
+
+BBB SIG, A  new SIG  has been formed for Better  Business Bureaus
+that are using  the recommended Oasis based software  marketed by
+Computer  Options  and  recommended  by the  national BBB office.
+There are  now ten bureaus with the system and the prospect of an
+additional 100.  Bureaus  use IBC hardware and have  fairly large
+systems (4-20  terminals).  The new SIG was formed in May 1984 by
+Alan Bligh of the Lubbock BBB.  The SIG is called BUG for Bureaus
+User Group.  BUG  may be contacted at (806)  763-0459.  Sorry, no
+modem line yet.
+
+----------------------------------------------------------------
+01115,17,06/09/84,17:39,SCOTT SHUEY,FRED
+
+WESTERN UNION EASY LINK,
+
+Fred... Just  read Vol  38 and  see you are going to  start using
+Easy  Link.   Just wanted  to pass  along  some experience with a
+competing  system -  MCI Mail.   I have never used Easy  Link but
+know  some who  have  and  they  are  happy with  it,  however in
+comparing features  I think  MCI Mail is better but  I am clearly
+biased since I have been using several MCI Mail accounts for many
+months for personal and business use.
+
+Easy Link  was much  more expensive  but  has recently reduced it
+rates  to  more closely  match MCI  Mail.   Although features are
+similar it is possible to send longer documents via MCI Mail than
+Easy Link, and I think there are some other items in favor of MCI
+Mail.  I  have used  it several times daily over  the past months
+and  have  had zero  problem.  You  may want to look at  MCI Mail
+before committing to a system; or maybe support both systems!
+
+    Scott Shuey
+
+----------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL40.FEEDBACK                                   July 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 40.
+
+*****************************************************************
+
+OSBORNE ACCOUNTS PAYABLE
+C$AP.EXEC IS THE STARTUP PROGRAM FOR THE OSBORNE ACCOUNTS PAYABLE
+ACCOUNTING PACKAGE AS IMPLEMENTED FOR OASIS BY BRENT COYNE.
+
+Syntax:   AC$AP [HELP|INFO|INSTALL]
+
+Where:    HELP   : gives this display.
+          INFO   : displays some brief info about this module.
+          INSTALL: automatically installs the system on your computer.
+          <none> : runs the AP system after installation (compilation)
+
+Note:     The BASICOBJ files must first be compiled before using.  The
+          INSTALL option handles the compilation and generates the
+          system on a separate disk(ette) ready to be run.
+▼ ▼ SBORNE ACCOUNTING: ACCOUNTS PAYABLE MODULE
+
+AC$AP   .EXEC           AC$AP000.BASICOBJ       AC$AP010.BASICOBJ
+AC$AP020.BASICOBJ       AC$AP030.BASICOBJ       AC$AP031.BASICOBJ
+AC$AP040.BASICOBJ       AC$AP050.BASICOBJ       AC$AP060.BASICOBJ
+AC$AP061.BASICOBJ       AC$AP070.BASICOBJ       AC$AP080.BASICOBJ
+AC$AP090.BASICOBJ       AC$AP100.BASICOBJ       AC$AP110.BASICOBJ
+AC$INIT0.BASICOBJ       AC$INIT1.BASICOBJ       AC$INIT2.BASICOBJ
+AC$INIT3.BASICOBJ       AC$MENU .BASICOBJ       ACCEPT40.COMMAND
+AF$AGE  .PAYABLE1       AF$CHECK.PAYABLE1       AF$POST .PAYABLE1
+AF$TRANS.PAYABLE1       AF$VEND .PAYABLE1       AF$VENS .PAYABLE1
+AF$VOICE.PAYABLE1       AF$VSORT.PAYABLE1
+
+This is  the  ACCOUNTS  PAYABLE module  of the Osborne Accounting
+System as  converted for  Oasis by Brent Coyne.  There  are three
+other  modules: GENERAL  LEDGER (vol  29),  PAYROLL (vol 28), and
+eventually  ACCOUNTS  RECEIVABLE  (possibly by  the end of 1984).
+Included with this  release is a simplified means  for installing
+the  system  in  its compiled  form on  your  own computer.  Also
+included is  a  set  of  small  test files  that  you can use for
+exploring  the  features  of the  system before actually creating
+your own data files.
+▼ ^
+This is  an  excellent  adaptation  of  the time  honored Osborne
+Accounting  System  which  takes  advantage of  the many expanded
+capabilities of Oasis  BASIC.  You may want to  get a copy of the
+published  Osborne  manuals  to augment  the meager documentation
+included with  this release.  If you make any improvements to the
+software or create  any new documentation, be sure  to get copies
+to both Brent and me.  You will, no doubt, need to customize some
+of the  programs for your own particular situation.  For example,
+the state  tax  will vary  a lot  from  one state to another  and
+federal tax rates change from year to year.
+
+Brent  has  set  up  the  Accounts Payable sort specifications to
+use  the OASIS  SORT package.   If you have the QISORT,  you will
+need to  make a modification to line 480 in the AC$AP031.BASICOBJ
+program to  use it.   Bill Berne of Quantumn Information  Systems
+(206)789-2888  helped  us figure  out the required QISORT changes
+for the first two modules.  I am sure he would help again, if you
+have trouble.
+▼ ^
+The documentation   for   the   OSBORNE   accounting  system   as
+implemented by Brent Coyne is in preparation (may be available by
+the time  you read  this).  Contact Brent directly for  copies of
+what he  has prepared.   He is charging a nominal  fee of $20 per
+module or  $50  for the  the set  of  three (with credit for  the
+accounts receivable portion when that becomes available).  Anyone
+working with the  Osborne accounting programs should get  hold of
+the OSBORNE manuals from McGraw Hill as well.
+
+If you  are  planning to  use the  A/P module with either of  the
+previously released G/L  or A/P modules on volumes  28 or 29, you
+will  need  to  replace the  earlier versions  with  the new ones
+included  on the  bonus accompanying  volume  40.  The A/P module
+will run  by  itself, but  you must  be  sure to replace any  old
+versions of  AC$INIT#.BASICOBJ that  you may have in your  system
+from the earlier P/R or G/L modules.
+▼ ^
+In order  to use  the Osborne  accounting  package you must first
+generate a  compiled version  (use the INSTALL option).  The  OUG
+distribution disks are  always nearly full so no  space exists on
+them for the compiled versions.
+
+You will  be asked  a series  of questions about your system  and
+where things  are on  it.  The installation process will  proceed
+more or less automatically after that.
+
+
+Brent Coyne can be reached at:
+
+KMC Business Systems
+Gibson
+Midland, MI 48640
+(517 832-2207
+
+▼ WANT TO INSTALL IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 40.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>

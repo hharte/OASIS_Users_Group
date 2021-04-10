@@ -1,0 +1,1226 @@
+December 1984                   Volume: 43
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST43  A 12/07/84 10:00    60    3 S    65 VOL43
+ACCEPT43 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL43
+AR$      EXEC     A 12/28/84 10:00   200    5 S    71 VOL43
+AR$ACTV  BASIC    A 12/07/84 10:00   122    7 S   210 VOL43
+AR$CMPNY DEMO     A 12/07/84 10:00     1    1 D   100 VOL43
+AR$COFM  BASIC    A 12/07/84 10:00   111    6 S   158 VOL43
+AR$ECL   DEMO     A 12/07/84 10:00     3    4 I   400 VOL43
+AR$EDIT  BASIC    A 12/28/84 10:00   278   11 S   180 VOL43
+AR$HELP  BASIC    A 12/07/84 10:00   109    8 S   256 VOL43
+AR$MAIL  BASIC    A 12/07/84 10:00   123    7 S   205 VOL43
+AR$MENU  BASIC    A 12/07/84 10:00   127    6 S   139 VOL43
+AR$POST  BASIC    A 12/07/84 10:00   282   12 S   180 VOL43
+AR$RATE  BASIC    A 12/07/84 10:00    89    5 S   184 VOL43
+AR$STAT  BASIC    A 12/07/84 10:00    95    5 S   227 VOL43
+AR$UPDAT BASIC    A 12/07/84 10:00    77    4 S   184 VOL43
+BB       ASSEMBLE A 06/12/84 01:37   163    2 S    71 VOL43
+BB       COMMAND  A 04/19/84 23:10     4    1 R   256 VOL43
+BB       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+BD       ASSEMBLE A 06/12/84 01:34   122    2 S    71 VOL43
+BD       COMMAND  A 05/08/84 16:19     4    1 R   256 VOL43
+BD       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+BH       ASSEMBLE A 06/12/84 01:38   116    2 S    71 VOL43
+BH       COMMAND  A 04/19/84 23:10     3    1 R   256 VOL43
+BH       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+CASHFLO  EXEC     A 12/06/84 10:00   202    4 S    75 VOL43
+CASHFLO  INFO     A 12/06/84 10:00    39    2 S    65 VOL43
+CASHFLO0 BASIC    A 12/06/84 10:00   304   13 S   120 VOL43
+CASHFLO1 BASIC    A 12/06/84 10:00   383   15 S   137 VOL43
+CASHFLO2 BASIC    A 12/21/84 10:00   383   15 S   137 VOL43
+CASHFLO3 BASIC    A 12/06/84 10:00   479   20 S   106 VOL43
+CASHFLO4 BASIC    A 12/07/84 10:00   386   15 S   113 VOL43
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL43
+DOLLARS  BASIC    A 12/28/84 10:00    47    3 S   124 VOL43
+DOLLARS  INFO     A 12/28/84 10:00    15    1 S    65 VOL43
+SELECT43 EXEC     A 12/28/84 10:00    47    3 S    46 VOL43
+TRAPPED  BASIC    A 12/28/84 10:00    86    3 S    67 VOL43
+UNERASE  ASSEMBLE A 02/08/84 22:54   232    8 S    72 VOL43
+UNERASE  COMMAND  A 04/20/84 01:17     7    2 R   256 VOL43
+UNERASE  INFO     A 12/28/84 10:00    23    1 S    67 VOL43
+USER1    ASSEMBLE A 06/12/84 01:55    31    1 S    69 VOL43
+USER1    BASIC    A 12/07/84 10:00    42    2 S    79 VOL43
+USER1    BASICUSR A 05/11/84 01:02     2    1 R   256 VOL43
+USER1    INFO     A 12/07/84 10:00    12    1 S    65 VOL43
+VOL43    CONTENTS A 12/28/84 10:00   132    5 S    65 VOL43
+VOL43    EXEC     A 12/28/84 10:00   342    9 S    73 VOL43
+VOL43    FEEDBACK A 12/28/84 10:00   419   19 S    66 VOL43
+XMAS1984 BASICCOM A 12/07/84 10:00     3    1 SR  254 VOL43
+47 file(s), 245 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+VOL43.FEEDBACK:A copied to VOL43.FEEDBACK:D
+COPYRITE.COMMAND:A replaces COPYRITE.COMMAND:D
+CASHFLO3.BASIC:A copied to CASHFLO3.BASIC:D
+$README.FIRST43:A copied to $README.FIRST43:D
+USER1.INFO:A copied to USER1.INFO:D
+UNERASE.INFO:A copied to UNERASE.INFO:D
+UNERASE.ASSEMBLE:A copied to UNERASE.ASSEMBLE:D
+USER1.ASSEMBLE:A copied to USER1.ASSEMBLE:D
+XMAS1984.BASICCOM:A copied to XMAS1984.BASICCOM:D
+USER1.BASIC:A copied to USER1.BASIC:D
+AR$MENU.BASIC:A copied to AR$MENU.BASIC:D
+AR$.EXEC:A copied to AR$.EXEC:D
+VOL43.CONTENTS:A copied to VOL43.CONTENTS:D
+DOLLARS.BASIC:A copied to DOLLARS.BASIC:D
+BD.ASSEMBLE:A copied to BD.ASSEMBLE:D
+USER1.BASICUSR:A copied to USER1.BASICUSR:D
+VOL43.EXEC:A copied to VOL43.EXEC:D
+BH.COMMAND:A copied to BH.COMMAND:D
+CASHFLO.INFO:A copied to CASHFLO.INFO:D
+SELECT43.EXEC:A copied to SELECT43.EXEC:D
+BB.COMMAND:A copied to BB.COMMAND:D
+CASHFLO4.BASIC:A copied to CASHFLO4.BASIC:D
+CASHFLO2.BASIC:A copied to CASHFLO2.BASIC:D
+AR$COFM.BASIC:A copied to AR$COFM.BASIC:D
+AR$ACTV.BASIC:A copied to AR$ACTV.BASIC:D
+TRAPPED.BASIC:A copied to TRAPPED.BASIC:D
+CASHFLO0.BASIC:A copied to CASHFLO0.BASIC:D
+AR$UPDAT.BASIC:A copied to AR$UPDAT.BASIC:D
+UNERASE.COMMAND:A copied to UNERASE.COMMAND:D
+AR$ECL.DEMO:A copied to AR$ECL.DEMO:D
+BD.COMMAND:A copied to BD.COMMAND:D
+DOLLARS.INFO:A copied to DOLLARS.INFO:D
+AR$MAIL.BASIC:A copied to AR$MAIL.BASIC:D
+CASHFLO.EXEC:A copied to CASHFLO.EXEC:D
+AR$CMPNY.DEMO:A copied to AR$CMPNY.DEMO:D
+AR$STAT.BASIC:A copied to AR$STAT.BASIC:D
+CASHFLO1.BASIC:A copied to CASHFLO1.BASIC:D
+AR$RATE.BASIC:A copied to AR$RATE.BASIC:D
+AR$HELP.BASIC:A copied to AR$HELP.BASIC:D
+BH.ASSEMBLE:A copied to BH.ASSEMBLE:D
+BB.ASSEMBLE:A copied to BB.ASSEMBLE:D
+AR$EDIT.BASIC:A copied to AR$EDIT.BASIC:D
+ACCEPT43.COMMAND:A copied to ACCEPT43.COMMAND:D
+AR$POST.BASIC:A copied to AR$POST.BASIC:D
+BB.INFO:A copied to BB.INFO:D
+BD.INFO:A copied to BD.INFO:D
+BH.INFO:A copied to BH.INFO:D
+
+>VOL43
+♂OUG ver 2.0 09JUN84 Copyright Aylward Enterprises
+
+40      COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P       #$    $#   %"   &"   '"   ("   )"   *"   +"   ,#   -$    .%              /'          -0    ,2   +3   *3   )3   (3   '3   &3   %3   $2   #0    "%              !'          !:   ":   #:   $:   %:   &:   ':   (:   ):   *:   +:   ,;   -<    .=              /?          -H    ,J   +K   *K   )K   (K   'K   &K   %K   $K   #K   "K   !K   %c   $b   #`    "U              !W          #T    $S   %R   &R   'R   (R   )R   *R   +R   ,S   -T    .U              /W          -`    ,b   +c   *_       )_       0 0
+   ==================================================================
+   :           VOLUME 43 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   :                 "Let there be peace on Earth,                  :
+   :                   AND LET IT BEGIN WITH ME."                   :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 43  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  43,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST43  A 12/07/84 10:00    60    3 S    65 VOL43
+ACCEPT43 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL43
+AR$      EXEC     A 12/28/84 10:00   200    5 S    71 VOL43
+AR$ACTV  BASIC    A 12/07/84 10:00   122    7 S   210 VOL43
+AR$CMPNY DEMO     A 12/07/84 10:00     1    1 D   100 VOL43
+AR$COFM  BASIC    A 12/07/84 10:00   111    6 S   158 VOL43
+AR$ECL   DEMO     A 12/07/84 10:00     3    4 I   400 VOL43
+AR$EDIT  BASIC    A 12/28/84 10:00   278   11 S   180 VOL43
+AR$HELP  BASIC    A 12/07/84 10:00   109    8 S   256 VOL43
+AR$MAIL  BASIC    A 12/07/84 10:00   123    7 S   205 VOL43
+AR$MENU  BASIC    A 12/07/84 10:00   127    6 S   139 VOL43
+AR$POST  BASIC    A 12/07/84 10:00   282   12 S   180 VOL43
+AR$RATE  BASIC    A 12/07/84 10:00    89    5 S   184 VOL43
+AR$STAT  BASIC    A 12/07/84 10:00    95    5 S   227 VOL43
+AR$UPDAT BASIC    A 12/07/84 10:00    77    4 S   184 VOL43
+BB       ASSEMBLE A 06/12/84 01:37   163    2 S    71 VOL43
+BB       COMMAND  A 04/19/84 23:10     4    1 R   256 VOL43
+BB       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+BD       ASSEMBLE A 06/12/84 01:34   122    2 S    71 VOL43
+BD       COMMAND  A 05/08/84 16:19     4    1 R   256 VOL43
+BD       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+BH       ASSEMBLE A 06/12/84 01:38   116    2 S    71 VOL43
+BH       COMMAND  A 04/19/84 23:10     3    1 R   256 VOL43
+BH       INFO     A 12/07/84 10:00     8    1 S    56 VOL43
+CASHFLO  EXEC     A 12/06/84 10:00   202    4 S    75 VOL43
+CASHFLO  INFO     A 12/06/84 10:00    39    2 S    65 VOL43
+CASHFLO0 BASIC    A 12/06/84 10:00   304   13 S   120 VOL43
+CASHFLO1 BASIC    A 12/06/84 10:00   383   15 S   137 VOL43
+CASHFLO2 BASIC    A 12/21/84 10:00   383   15 S   137 VOL43
+CASHFLO3 BASIC    A 12/06/84 10:00   479   20 S   106 VOL43
+CASHFLO4 BASIC    A 12/07/84 10:00   386   15 S   113 VOL43
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL43
+DOLLARS  BASIC    A 12/28/84 10:00    47    3 S   124 VOL43
+DOLLARS  INFO     A 12/28/84 10:00    15    1 S    65 VOL43
+SELECT43 EXEC     A 12/28/84 10:00    47    3 S    46 VOL43
+TRAPPED  BASIC    A 12/28/84 10:00    86    3 S    67 VOL43
+UNERASE  ASSEMBLE A 02/08/84 22:54   232    8 S    72 VOL43
+UNERASE  COMMAND  A 04/20/84 01:17     7    2 R   256 VOL43
+UNERASE  INFO     A 12/28/84 10:00    23    1 S    67 VOL43
+USER1    ASSEMBLE A 06/12/84 01:55    31    1 S    69 VOL43
+USER1    BASIC    A 12/07/84 10:00    42    2 S    79 VOL43
+USER1    BASICUSR A 05/11/84 01:02     2    1 R   256 VOL43
+USER1    INFO     A 12/07/84 10:00    12    1 S    65 VOL43
+VOL43    CONTENTS A 12/28/84 10:00   132    5 S    65 VOL43
+VOL43    EXEC     A 12/28/84 10:00   342    9 S    73 VOL43
+VOL43    FEEDBACK A 12/28/84 10:00   419   19 S    66 VOL43
+XMAS1984 BASICCOM A 12/07/84 10:00     3    1 SR  254 VOL43
+47 file(s), 245 block(s).
+▼ File not found.
+NOTE: VOL43. NEWS IS ON BONUS43 THIS TIME.
+
+5 December 1984         N E W S   L E T T E R          Volume 43
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+VOL43: This  volume contains  an entirely new accounts receivable
+package,  AR$  (not  Osborne).   Submitted  by Richard  Young, it
+includes  both HELP  and DEMO  features.   From Vince Oster comes
+CASHFLO, a  system for generating a cash flow report and a change
+in financial position report.
+
+Remember the last time you accidentally erased some file or group
+of files  and then  discovered that you couldn't find  any backup
+copy?  Well, UNERASE  may be just what you  need to save the day.
+From Kevin Hansen,  it does just what its  name implies, but must
+be used with caution.  For you bit-fiddlers comes BB, BD, and BH,
+a series of  little number conversion commands from  Kevin Hansen
+too.   Kevin  also sends  us USER1,  a  technique for writing and
+executing a short  Z80 machine code program from  BASIC for those
+things you cannot do in BASIC or which must be done faster.
+
+Lon Bateman  sent us  DOLLARS, a  nifty  program which converts a
+dollar  amount  from  numbers to  words -  like  you do for check
+writing.  And, we haven't forgotten you folks who like a game now
+and then, either.   TRAPPED, from Larry Stephens, will  keep some
+of the young ones amused for a while.
+
+BONUS43: is a winner all by itself.  Mikael Blaisdell has sent us
+the  first  two chapters  from his  new  Oasis User's Guide.  The
+first chapter presents a general overview of Oasis and the second
+is an  introduction to  file structures used by Oasis.   Both are
+excellent, as  one would  expect from someone having such  a long
+and  intimate  technical  association  with Oasis.   The complete
+User's Guide  is now available from Oasis Technologies for a  $25
+charge and  from several  of the computer manufacturers (such  as
+TeleVideo  or  Zicomp) which  support Oasis  (try  them first, as
+their version most likely will be customized for their hardware).
+This guide is  just what many people have  been asking for in the
+way  of a  simple to  understand introduction to Oasis for  first
+time users.
+
+Also on  the  bonus  volume is  a copy  of  an article written by
+member Buzz Vanderschoot entitled "Why OASIS?".  "Reprinted" from
+the  MicroComputer  Investors Association  journal, it introduces
+Oasis to those  not currently users and contrasts  Oasis features
+with those of CP/M.  Might be a good selling tool.
+
+To round  out  BONUS43  I  have  pulled  together  several  other
+previously  released  tutorial  items,  some  of which  have been
+modified since  their orginal  release.  As with all material  in
+our  library,  everything  on  this  volume is  copyrighted.  So,
+contact the  authors before making any redistribution plans.  You
+will also  find VOL43.NEWS on the bonus volume this time.  We ran
+out of space on VOL43.  I've also included the latest copy of the
+Oasis diskette compatibility chart  and a brief  review  of stuff
+sitting on my desk for release in future volumes.
+
+OASIS86: was released for the IBM PC/XT on 15 December 1984.  All
+of the  known problems  with the earlier versions from  Phase One
+Systems were  corrected.  Tim says there is a graphics option now
+available  for it,  too.  Otech  is  offering to upgrade anyone's
+copy of an earlier version for a nominal fee (about $50 I think).
+
+It is known  that OASIS86 will run on many of the PC compatibles.
+Susan  Catalano told me that they are very interested in learning
+about anyone's  successful attempt to get Oasis up and running on
+any of  the compatibles.   She more than hinted that  there would
+likely be  some  appropriate  reward  for  the person  who  first
+reports getting  Oasis to run on each of them.  So, if you happen
+to have  a compatible, check it out, and let me know the results,
+too.
+
+The 80286 version of  Oasis (for the IBM PC/AT)  will be released
+in two phases  according to Tim Williams.  The  first phase could
+be complete early in the first quarter of next year and will be a
+straight implementation of the Oasis86 version on the 80286.  The
+second  phase  will  involve  a  major  revision  of the  product
+specifically for  the 80286 and will take longer.  It is possible
+that we  might see  this version sometime in the  second quarter,
+but  Tim  is  making no  promises.  He  wouldn't  even talk about
+schedules for the 68000.
+
+OASIS8: Version  6.1  is expected  to be  formally  released on 2
+January  1985.  At  least nine manufacturers: IBC, NNC, Dynabyte,
+Digital  Micro Systems,  ZICOMP, AEON, Molicular Computers, Astro
+Engineering, and  Wavemate (Bullet) have worked out deals for the
+new  version.   All  of the  known bugs  in  the 6.0 version were
+corrected and the  size of the nucleus was  reduced by increasing
+the number of overlays used.
+
+LOCAL CHAPTERS:  My  travels through  Europe clearly revealed the
+need for local groups there, probably based on language facility.
+The idea  was suggested or praised by people in Germany, Belgium,
+and  Holland specifically.   With the interest expressed already,
+it  shouldn't  be  too difficult  to get  something  started over
+there.   But, we  do need  some people to handle coordination  in
+each area.
+
+Jim Gall in  Ontario Canada has taken the initiative to start the
+Ontario chapter.   Many of you have been asking about more formal
+local activities  in your  areas for a long time.   Until now, it
+didn't seem to  me that we had enough  members to make a big push
+in  most areas  worthwhile.  That  is  changing as our membership
+grows.   So, next month Standing Order members will automatically
+get  a  roster  of  other  Oasis users in  their areas and I will
+make a list  available to other members on  request.  It looks to
+me  like there  are at  least a dozen areas in  the United States
+alone with  enough people  to form local chapters.  If  you would
+like to coordinate the activities in your area, give me a call.
+
+EXPERTS: We have lots  of 'em in our membership.   Starting now I
+will be trying  to bring our records up  to date and then use the
+info  to  create some  sort of  directory  of expert capabilities
+available to Oasis users.  As it is now, I must rely on my memory
+and disorganized membership files to help people find one another
+when they  have problems.   If you have a special  talent, let me
+know by jotting down a few notes on the part of the statement you
+send back to me this time.
+
+COOP PROMOTION: Susan  Catalano, president of Oasis Technologies,
+reiterated Otech's  intention to provide more promotional support
+for developers, both  through articles in the new  Oasis magazine
+and by direct  support from their PR firm,  Advertising Concepts.
+One  of  the  ways the  PR  firm  will  try  to help  is  through
+assistance  with  writing  application  stories and  getting them
+placed in journals,  but they are also interested  in other ideas
+you may have.
+
+While in Belgium  I learned from Marc DeCroo of Compusoft (phone:
+091/25-49-98) that  six Oasis  software firms in his country  had
+banded  together  for  local joint  promotions and general mutual
+assistance -  a Belgium  Oasis Users Group.  It seems  to me that
+more of  this could be going on and that we should do what we can
+to stimulate and encourage it through the OUG as well.
+
+Don Drew  up  in  Bellevue Washington  has been  trying  to start
+something  he  calls  the  Oasis  Developers  Association.   In a
+conversation  at Comdex  in November  he  indicated he intends to
+create a  new subscription  organization with a paid staff  to do
+joint  promotions  for member  software developers.  I don't know
+how many people he has been able to convince about his particular
+scheme, but  he  certainly  convinced  me  of the  need  for more
+promotional cooperation in general. Contact him at (206)644-7111.
+
+I think it is time for us to take a more active role is promoting
+the interests of the OUG members who make their living developing
+Oasis compatible software.  Several of you have said so too, on a
+number of  occasions.  I will do my part, but we need someone who
+is willing to  coordinate a new Special Interest  Group (SIG) for
+developers.  Two  of you have already told me that you would like
+cooperate,  but are  too busy  making a living to spend  the time
+they  imagine  it  would  take  to  handle  coordination of  coop
+projects.
+
+If someone will step forward to coordinate, I know there are many
+OUG members  who will  gladly participate (there are hundreds  of
+developers  in  the  OUG).   We  already  have  two packages  for
+managing  software  development  efforts promised  by members.  I
+expect these  will be released sometime early next year.  We need
+to begin  thinking creatively about what else the OUG might do to
+encourage more cooperation among our software developers.
+
+Bob Bruce in  Toronto tells  me he is involved with  the Canadian
+Software  Developers  Association,  and would  like to make their
+members  more  aware  of the  benefits of  building  systems with
+Oasis.  If  you want to help, give him a call at the Fuimus Corp.
+(416)923-3152.   He   says  they  are  planning  a  big  European
+promotion early next year, so now's the time to get involved.
+
+OASIS MAGAZINE:  Oasis  Technologies  has hired  Calli Webb to be
+responsible for  publication of, and edit the new quarterly Otech
+magazine, Oasis  Times.  In mid-December Otech sent an invitation
+to application  software authors to both submit listings of Oasis
+compatible  software   products  and  to  advertise  in  the  new
+magazine, the first  issue of which is scheduled  for March 1985.
+The  initial  press  run  will  be  15,000  copies  and 1/2  page
+advertisement rates start  at $500 for software authors  and $700
+for others  (hardware manufacturers, I suppose).  The listings of
+software products  will be  run without charge and are  due by 12
+January  for  the   first  issue.   The  contact  at   Otech  for
+advertising  is Terry  Fienberg (415) 283-4290.  The closing date
+for display advertising in  the  first issue  is  20 January 1985
+with copy due two weeks later.
+
+Editor, Calli Webb, will  also be the person to  call for general
+PR  assistance  of any  kind.  She  will  coordinate requests for
+assistance  in  getting  application  stories and  press releases
+accepted  by  the  technical  press.   Otech has  announced their
+intention  to  provide  as  much assistance  to manufacturers and
+developers  of  Oasis compatible  products as  they  can with the
+limited resources  at their disposal.  So, if you want help, give
+Calli a call at Otech (415)283-4290.  She's looking for editorial
+material  for the  magazine for  sure and may be able  to help in
+other ways as well.
+
+COMDEX: About 70 OUG  members and friends attended our  Las Vegas
+meeting  held  during  COMDEX.   The  formal meeting  program was
+generally well received.  A number of new products were described
+and Tim  Williams was on hand to give us a summary of his current
+and planned Oasis  development activities.  Phase One was  not in
+attendance.  Several  Unix fans were there to describe ways Oasis
+software could be converted to also run under Unix.  At one point
+they got  a bit  carried away with their efforts  to convince the
+audience of the  virtues of Unix.  They were  heavily outnumbered
+by the  Oasis faithful and graciously retreated after the initial
+counterattack from our guys.
+
+In his  presentation,  Tim  indicated  that  he will  continue to
+support  all  of the  Z80 line,  and  that his 16-bit development
+priorities  are first  the 8086  family  (IBM PC/XT).  A rational
+choice  considering that  IBM now  controls about a third of  all
+personal computer sales,  and the IBM compatibles add  another 20
+percent for  a grand total of half of all sales!  (20 November 84
+Christian Science  Monitor) The second priority is the 80286 (IBM
+PC/AT) lines,  and finally the 68000 products.  Otech is planning
+to  prepare  new documentation  in addition  to  the User's Guide
+which  is  now  available  from  them.   Tim  emphasized that  an
+Implementors Guide is badly needed and is on his priority list.
+
+Susan  Catalano reported that Oasis Technologies has retained the
+public relations  firm, Advertising Concepts, to handle promotion
+and will  be publishing  a magazine to be called  the Oasis Times
+early next year.   She pledged more PR support  for Oasis product
+developers.
+
+On the  exhibit  floors  there were  a few  small  surprises, but
+nothing  earth  shaking.   IBM  PC  look-alikes  were  everywhere
+running MS/DOS  of course,  but every other booth was  announcing
+some new  Unix related product.  (The latest number I've heard is
+over 60  different versions  of the new "industry standard"  Unix
+for micros).  Liberally sprinkled through out the several exhibit
+halls were  various products to allow Multi-user operation of all
+manner of machines, including some with multiple processor boards
+which allow simultaneous operation of several different operating
+systems.  Machines  offering this capability are expected to more
+than triple their  sales during the next four  years (6 Aug CSN).
+Local  Area  Networks  (LAN)  were  in  abundance  including  the
+equivelent  of a  LAN in  one box to manage multiple  processors.
+(See Nov  12 issue of Computer System News for a good overview of
+this subject.)
+
+Of special interest  to me,  and possibly to some of  you systems
+developers  were  the  laser  page printers  with prices starting
+about $3500 and the laser disk data storage systems scheduled for
+delivery early in 1985 at costs well below $1000.  Sony's system,
+using the  currently available compact disk technology looks most
+promising.  The  day of cheap gigabyte database availability will
+likely arrive as early as next year.
+
+My biggest surprise  came when  I was walking around the  exhibit
+hall at  the MGM  Grand Hotel which was also  the location of our
+▼ eeting.   Lo  and  behold, there  was Oasis  Technology  with an
+exhibit  booth  - pulled  together by  Buddy  Auble for the newly
+reconstituted  IBC/Distribution  and Otech  only two weeks before
+the show opened!   All of the machines in  the booth were running
+Oasis with Otech  people all over the place  to greet you.  Buddy
+had  assembled a  truly impressive assortment of Oasis compatible
+machines for the  exhibit.  I stopped by the  booth several times
+during the  four days of the show and there always seemed to be a
+lot of activity going on.
+
+PRESS: Doug  Bauer  wrote an  excellent letter  to  the editor of
+Business Computer  Systems which ended with the summary sentence:
+"I feel you  are doing your readers a  real disservice by touting
+nothing  but  UNIX  and  ignoring  the other  available operating
+systems."  Associate  Editor Tom  Woods replied:  "It  would be a
+disservice to our readers to ignore the market forces responsible
+for  UNIX's  recent  popularity.   Both  ATT  and  IBM now  offer
+multiuser systems that run versions of UNIX."
+
+I am surprised  that an excellent publication like BCS would take
+such a  parochial stand on the technology verses promotional hype
+issue.   While  it  is  true  that  publications,  like  hardware
+manufacturers, must  "give 'em  what they want," it is  also true
+that there  is now a ground swell of disenchanted people who have
+had unsatisfactory  encounters with  one of the many versions  of
+Unix  and  are  reconsidering their  options.  The other computer
+publications   have   liberally   reported   evidence   of   this
+disenchantment.   For  a  prestigious  publication like  Business
+Computer Systems  to ignore the technical realities of the market
+just because  the  fast  rolling  band  wagon is  making  so much
+promotional noise  in not  only a disservice, but borders  on the
+irresponsible.
+
+It makes me  wonder just  what forces the editorial staff  may be
+considering  in  their  selection of  materials for the magazine.
+Apparently, most  of their readers have bought the hype, at least
+the ones who  respond to the editorial content  of their journal.
+I, for one,  intend to let them know  I think the "emperor has no
+clothes  on."  Doug's letter  expresses my opinions, pretty well.
+Read it in the December issue of BCS and see what you think.
+
+You Unix watchers  out  there  really  must  take a  look  at the
+December  issue  of Dr.   Dobb's Journal  which  contains a major
+introductory  guide  to  the "Varieties  of Unix."  It  is a well
+balanced treatment of the current state of affairs with a section
+covering a brief history of Unix.
+
+For $1285 you can  buy a copy of a  just released market research
+report entitled UNIX MARKETS.  Prepared by International Resource
+Development  Inc  (203)  866-7800  it introduced  itself with the
+following  observation:   "Unix  will  continue  to  exhibit  its
+greatest  potential   as  a  standard  operating  system  in  the
+super-micro  and supermini  markets.  However, it will disappoint
+those who expect it to become an industry standard."
+
+The December   17th   issue  of   Computer  Systems  News  had  a
+tongue-in-cheek  set of  predictions for the computer industry in
+1985.   For  August it  went like  this:  "After several years of
+promoting Unix  as the operating system of choice in the high-end
+microcomputer  industry,  ATT  suddenly  does  an about-face  and
+announces it no longer will support Unix anywhere in the computer
+industry.   'We were  so bent  on  gathering industry support for
+Unix that  we never really spent the time to determine whether it
+works.  It  doesn't,' noted a Unix marketing executive at ATT..."
+(these things are never completely off the wall!)
+
+On the  other   side  of  the  news  the  IBM  PC/AT  is  getting
+consistently good reports.   (Infoworld 3 Dec 84 ran  a review of
+the machine  which did  suggest you wait a few  months for IBM to
+get  some  of the  initial wrinkles  ironed  out of the hardware,
+though.)  Use  of  the 80286  processor makes  it  a very capable
+machine and  for once  IBM has chosen to price  it ($5795 for the
+enhanced  model   with  512K   RAM  and  a  20Mbyte  hard   disk)
+competitively.  IBM will release a multiuser version of Xenix for
+the AT early next year, but you just know that it is not going to
+be  compatible  with  anything.   Oasis286  could give  IBM PC/AT
+owners  and  system developers  an interesting alternative.  It's
+easy to see why Tim has given it his highest priority for 1985.
+
+The 6 Aug issue of Computer Systems News had an excellent special
+section on "Small Business Systems." Lots of space was devoted to
+the future  of Unix, marketing strategies, and multiuser systems.
+Worth reading to see how Oasis might fit in.
+
+The first  issue  of  a new  journal, Microthought-The Journal of
+Financial  Software,  arrived  the  other  day.   The  bi-monthly
+publication  is  exceptionally  well  done  and  the  first issue
+contained 34  pages of  financial software listings, very few  of
+which  run  under  Oasis.   Considering  much  of  our  stuff  is
+financially oriented, I  think a lot of us  need to let them know
+what  we've  got.   Contact them  at 2811  Wilshire  Blvd., Santa
+Monica,  CA  90403  (213)829-7385.  I'll  add them  to  our press
+release mailing list.
+
+PHASE ONE SYSTEMS:  Hildy Langewis  told me that the reason  they
+are  not going  to  publish  a  Winter  edition of  the  Software
+Directory this  year was because Stewart Waches was gone and they
+needed to reorganize  the production process.  She says  they are
+definitely  going  to  put out  a Spring  edition,  though.  With
+planning for  the new  Otech magazine, Oasis Times, being  pushed
+ahead  full  speed,  one must  wonder how  each  will fare in the
+competition  for limited  advertising dollars.  Hildy says POS is
+still  selling  Control and  putting on monthly training programs
+for Oasis  System Managers and for Control.  She says their staff
+has now stabilized at about 6 people.
+
+PICK: was at  COMDEX with LOTS of energetic activity around their
+very professional  booth.  They are beginning to behave like they
+really  do  intend to  give Unix  a run for its money  as the new
+micro  O/S standard  - a  claim they are making in  much of their
+press.
+
+S-1: was being  shown at COMDEX by Multi Solutions.  One of their
+sales  people said  they had  just closed a big 3  million dollar
+deal  with  Computer Engineering  and Consulting Ltd., a Japanese
+distributor  (there  must  have been  5-7 Japanese sitting around
+their booth).  I  asked how many systems they  had shipped so far
+and was told  that they now have ten  systems in Beta test.  They
+have been  getting a  lot of press lately, though.   They seem to
+have a  very good PR firm working for them.  Like Pick, they also
+are touting  S-1 as the "next world standard to replace Unix." (3
+Dec CSN)
+
+MACHINES:  Sue Catalano  tells me they have been  working  on new
+Oasis8 implementations  for the Toshiba T300 and the Oliveti M24.
+
+IBC: There seems  to have  been more changes in the  relationship
+between IBC and IBC/Distribution according to a recent newsletter
+received  from  IBC.   IBC/Distribution is  no longer selling IBC
+machines and has changed their name to Omnisource,  I understand.
+IBC is now selling directly to dealers at better margins and they
+have  also  reduced  list  prices  across  the  line.   The  High
+Performance Middi  Cadet has  been renamed the MultiStar III  and
+the Middi  Cadet line is being withdrawn.  IBC confirms that they
+will  introduce a  low cost  16-bit Oasis machine early in  1985.
+They  have  reiterated  an  offer  to  include  Oasis application
+software  brochures  with  every  machine they  ship.  Call (818)
+882-9007 if you want them to include yours.
+
+NNC: has  started  delivering  their  own tape  backup system for
+operation  with all  their newer  computers.   The system will do
+multiple archives on  a single tape and appeared  to run at least
+as fast and maybe faster than others I've seen.  The dealer price
+is in  the $1700 range.  When I asked Sandy about the possibility
+of using  it  on other  Oasis computers,  he  gave me one of  his
+typical conspiratorial glances and said anything was possible.
+
+CCS: I learned  from Gene  Nokes in the CCS booth  at COMDEX that
+they  are  are  now out  of Chapter  11  reorganization, but have
+decided to no longer support Oasis on the CalStar.  In fact, they
+have shifted  their Z80 product emphasis to the board level.
+
+ADC: Jean Pierre  is doing an implementation of  Oasis8 on a very
+interesting  8/16  bit  machine from  Advanced Digital Corp.  The
+S-100  Super System  II and  Superstar both offer an 80186  board
+option.  The  base list price for either is a little under $7000.
+With the  80186 and  a 16-bit version of Oasis  the list price is
+around  $14000  (they  are projecting  1st quarter '85 deliveries
+with  Oasis86).   Buck Arnold  is their director of international
+sales (714) 891-4004.
+
+SEIKO: I had a  call from Steve Nutt of  Sky Systems in Australia
+who informed  me that Seiko has announced plans there for a major
+push  with their  Oasis-16 system  in  Australia.  The picture is
+still  cloudy,  but  apparently they  are moving  ahead  with the
+version of  Oasis they  developed under a license from  Phase One
+before the split.
+
+Oasis Technologies  has  not  yet  confirmed a  new contract with
+anyone  connected with  Seiko (eg SMC Intech/Seicom).  The people
+in  the  Seiko booth  at Comdex  told me that "Oasis is  not very
+popular  around  here  right  now."  But,  in  a brief  telephone
+conversation with Jeff  Bahr who was handling Oasis  for Seiko, I
+learned  that  Oasis  was far  from dead  there  - that the legal
+hassles involving  Phase One and Forth Try had caused them to put
+their plans on temporary hold, only.  So, the plot thickens.
+
+NEW CONTRACTS: The legal problems between Tim Williams and Howard
+Sidorsky have made it necessary for all the previously negotiated
+distribution   contracts  to   be  reviewed  and  in  most  cases
+renegotiated.  Many  new contracts have been signed.  In addition
+to  the   manufacturers  mentioned  above,  I  am  informed  that
+negotiations  are in  progress, although no final agreements have
+been reached,  with several other companies including: Televideo,
+ONYX, Seiko, Computer Transceiver Systems, and Altos.
+
+MAINFRAME CONNECTION: Oasis  Technologies sent us an announcement
+for  a new  Oasis8 product  which allows users to exchange  files
+with  most  minicomputers  and mainframe  models by emulating the
+functions  of  IBM's  2780/3780  remote  batch  terminals.   They
+accomplish this  by using  an industry standard tool, the  Binary
+Synchronous  Protocol  (Bisync),  developed  in  1965 by  IBM for
+mainframe  telecommunications.   Price  is  $500  or $30  for the
+manual alone.  Call 'em at (415) 283-4290.
+
+DEFINITIVE 'C': is a  full Unix VII 'C' programming  language for
+Oasis,  and  both 8  and 16  bit versions are now available  from
+Oasis  Technologies.  In  addition to its compatibility with Unix
+System III  and System V, Definitive 'C' meets 100 percent of the
+standard  properties  listed  in  the  Kernighan and  Ritchie 'C'
+Language Reference Guide.  The Oasis86 version costs $500 and the
+Oasis8 version is priced at $300.
+
+OASIS SHELL  ON  XENIX: Feith  Systems has  developed  a shell to
+operate  under  Xenix which  allows the  user  to have Oasis-like
+commands and  facilities.  Currently, it is only available on the
+Altos   586/986   machines,  but   other  versions  are  planned.
+Previously,  they had  been marketing UX-BASIC which allows Oasis
+Basic programs to be easily converted for execution on Unix based
+machines.  The  new shell integrates UX-BASIC with Oasis-like CSI
+commands,  but  relies on  the native  Unix  facilities for other
+functions.  For more information call (215) 667-5575.
+
+MULTI-USER: seem to be the "latest" buzz words in the press these
+days.  Everybody  and his  brother is announcing the addition  of
+multi-user  capabilities to  their wares.  While most vendors are
+just now  discovering  the  value  of  making machines  work  for
+several  users  at once  or process  several  jobs at once, Oasis
+users  have  had the  capability for  years.  We need to let  the
+world know that innovation is nice, but experience is better.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265  (805)   965-5415  to  get  CARAVAN,  our  on-line
+information system.   Runs 24  hours a day, 7 days  a week at 300
+Baud on weekends and at 1200 Baud during the weekdays.  Give it a
+try.
+
+-----------------------------------------------------------------
+end of .......          N E W S   L E T T E R           Volume 43
+-----------------------------------------------------------------
+
+▼ OL43.FEEDBACK:VOL43                                      01/30/85 14:40 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL43.FEEDBACK                                   25 December 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+-----------------------------------------------------------------
+11/13/84,15:40:15, 35,X,JACK HOLEMAN,(904) 398-5839
+
+THE ORDERING FEATURE  IS NICE,  BUT A CALLER MUST ENTER  HIS NAME
+AND INFO TWICE IF HE GOES TO GET OR SEND MESSAGES BEFORE OR AFTER
+ORDERING.  CAN ANYTHING BE DONE ABOUT THAT?
+
+-----------------------------------------------------------------
+01115,17,06/09/84,17:39,SCOTT SHUEY,FRED
+
+WESTERN UNION EASY  LINK,, Just read Vol 38 and see you are going
+to  start using  Easy  Link.   Just  wanted  to pass  along  some
+experience with a competing system - MCI Mail.  I have never used
+Easy  Link  but know  some who  have and they are happy  with it,
+however in comparing features I think MCI Mail is better but I am
+clearly biased  since I have been using several MCI Mail accounts
+for  many months  for personal  and business use.  Easy Link  was
+much  more expensive  but has  recently reduced it rates to  more
+closely  match  MCI Mail.   Although features  are  similar it is
+possible to  send longer  documents via MCI Mail than  Easy Link,
+and I think  there are some other items  in favor of MCI Mail.  I
+have used  it several  times daily over the past  months and have
+had zero  problem.   You  may  want  to look  at  MCI Mail before
+committing to a system; or maybe support both systems!
+
+Scott Shuey
+
+-----------------------------------------------------------------
+01116,06,06/10/84,02:36,SCOTT WATSON,ALL
+
+*MEDICAL PACKAGE*,, To  thee  who  ask-  RCI  has a  nice  little
+medical/dental  package.   I  know that  MED-LOGIC carries it.  I
+think both companies are in the software directory.
+
+-Scott Watson
+
+-----------------------------------------------------------------
+01117,11,06/10/84,02:41,SCOTT WATSON,BOB JOHNSON
+
+*WYSE 50*,, Bob,  Sure I  have a class code, I  have to give it a
+final  shakedown but  then I'll  upload it.  I will be  writing a
+small editorial in  a later message number on  the problems of no
+CLASS CODE  STANDARD.   What  should  FON  , FOFF,  PON  and POFF
+do?!?!?
+
+Cheers, -Scott Watson
+
+-----------------------------------------------------------------
+01118,13,06/12/84,01:39,WALTER STAGNER,FRED
+
+OASIS BOOK DISTRIBUTION,,  Hi, Fred.  This is the first time I am
+using the  BB so  I just thought I would  give you a ring in case
+you happen  to see  this while you are in  Europe.  I received my
+advance from  the publisher and they have sent both you and Phase
+One  a letter  asking if  you are interested in distributing  the
+book.  I keep  reading about how UNIX will  definitely NOT become
+the standard that everyone thought it would. Of  course   we  all
+knew that.   Maybe  we  can  generate  more exposure  for  OASIS.
+That's it  for now.  Hope your trip/vacation is going well.  Drop
+me a card or something.  warmest regards...Walt
+
+-----------------------------------------------------------------
+01119,02,06/11/84,10:13,PETER CARLSON,ALL
+
+*MEDICAL PACKAGES-PART  II*,,  Synectics Group  out of Sacramento
+has  even a  better package  than RCI.  Contact Bill Hobbs  (916)
+486-8101.
+
+-----------------------------------------------------------------
+01120,04,06/11/84,10:16,PETER CARLSON,ALL
+
+ONYX FOR  SALE,, Onyx  5001MU for  sale, 14MB, 3 user, has  Sort,
+Control, Spellbinder, Open Systems (GL, AP, PR, AR, SO), and full
+RM  Cobol  development  system.  $6,000  or best offer.  Contact,
+Bill Stratton, (206) 565-1700.
+
+-----------------------------------------------------------------
+01121,09,06/11/84,10:19,PETER CARLSON,ALL
+
+PROGRAMMER FOR  HIRE.,, Oasis  programmer for hire.  Over 5 years
+experience in IBM mainframe Cobol, ADABAS, systems analysis, data
+administra- tion  and programming.  Recent experience includes RM
+Cobol, and Oasis  Basic.  Seeks work at home  with Altos computer
+(M/PM and Oasis)  and modem.  Willing to work  with Sort/Control,
+Assembler,        and        program        development       and
+maintenance/enhancement/conversion.  $12.50/hr.   or negoti- able
+basis.  Call:  Phyllis Carlson, (206) 752-1803, 1510 North Mason,
+Tacoma, WA.  98406.
+
+-----------------------------------------------------------------
+01124,16,06/12/84,23:35,CHRIS PRATT,FRED BELLOMY
+
+HARD DISKS/PROGRAM SERIAL #,, Fred, Greetings, I have a couple of
+questions I wanted to ask.
+
+1. Have you ever heard of a Hard Disk Manufacturer
+   putting a life-time warranty on Track 0 of the
+   disk. I was told this sometime ago but cannot
+   prove it now that I have a system with a clobbered
+   Track 0.
+
+2. I was under the impression that we could share the
+   OUG Disks with other OUG Members but after reading
+   about the sneaky things we can do if the program
+   is serialized, I thought we Washington members had
+   better not try it. The question is if I put a copy
+   of one of Gary Bergmans programs (like SELECTX) on
+   my disk (in object form) from KCSO, will I be
+   in trouble because of its serialization? (could be. FB)
+
+P.S. You  bulletin   board  is  quite  nice,  Keep  up  the  good
+work......  Chris Pratt (Pratt Data Systems)
+
+-----------------------------------------------------------------
+01125,01,06/13/84,08:04,KEVIN HANSEN,FRED BELLOMY
+
+WHAT CLASS CODE  ?,, WHAT  TERMINAL CLASS DOES CARAVAN EXPECT  ON
+THE OTHER  END?  (Class 4, but it shouldn't be a problem.  Is it?
+FB)
+
+-----------------------------------------------------------------
+01126,01,06/14/84,01:57,GEOFF SMITH,ALL
+
+COMMUNICATIONS,, NEED  TO  COMMUNICATE FROM  C/PM TO OASIS.  HELP
+(213) 866-1738
+
+-----------------------------------------------------------------
+01127,02,06/09/84,18:33,TONY ZABEL,ALL
+
+THE BEST MEDICAL  SYSTEM ,, The best medical system on the market
+today is Microcare from Att Micro Systems of Seattle.
+
+-----------------------------------------------------------------
+01129,16,06/14/84,00:20,CHARLIE COHEN,FRED
+
+TELEVIDEO TS804,,  HELLO  FRED  JUST  GOT  IN  A  COUPLE  OF  THE
+TELEVIDEO 804's.  IT IS AN OK MACHINE.  I WAS MOST IMPRESSED WITH
+THE  WAY THAT  TELEVIDEO DOCUMENTED  THE OASIS.  THEY DID A  VERY
+GOOD JOB.   I GET THE IMPRESSION THAT THEY REALLY LIKE OASIS.  IF
+ANY NON  OASIS PEOPLE READ THE MANUAL, I THINK THAT THEY WOULD BE
+IMPRESSED  ENOUGH  TO GET  THE OASIS  PACKAGE.   ALSO, THERE IS A
+COMPLETE OASIS  AVAILABLE TOO.   I THINK THAT THE COMPLETE  OASIS
+WON'T FIT ON ONE DISK.  AS IT COMES IT HAS ONLY THE BASIC RUNTIME
+PACKAGE ON  IT.  NO DEBUG NO ASM MACRO LINK SORT ECT.  IT HAS ALL
+THE SYSTEM UTILITIES ON IT.
+
+PARDON MY POOR SPELLING...  I JUST CAN'T SEEM TO REVERT TO NORMAL
+SPEECH AFTER ABOUT  12 TO 18 HOURS OF  LD'S JP'S ADC'S NOP'S SC'S
+.....  BYE
+
+FROM KEVIN HANSEN C/O ROSS DISTRIBUTING CO.
+
+-----------------------------------------------------------------
+01130,05,06/11/84,05:37,WALT STAGNER,FRED
+
+OASIS BOOK,, HI FRED.   JUST A QUICK NOTE TO  LET YOU KNOW THAT I
+AM MAKING  PROGRESS ON MY OASIS BOOK.  ALREADY AM MIDWAY THROUGH.
+I CAN'T WAIT UNTIL YOU GET BACK SO YOU CAN GIVE ME SOME INPUT.
+PLEASE GIVE ME  A QUICK CALL OR DROP  ME A NOTE SO I CAN CALL YOU
+WHEN YOU RETURN.  BYE FOR NOW.  WALT
+
+-----------------------------------------------------------------
+01131,05,06/09/84,04:15,WALT STAGNER,FRED
+
+OASIS 6.0,, HI  FRED, JUST A NOTE TO LET YOU KNOW THAT IBC IS NOW
+SHIPPING  OASIS  6.0  WITH ALL  OF THEIR  MACHINES.   I'M LOOKING
+FORWARD TO TO HEARING FROM YOU WHEN YOU GET BACK. BE SURE TO GIVE
+ME A  CALL  OR DROP  ME A  QUICK  NOTE.  I CONTINUE TO  MAKE GOOD
+PROGRESS ON THE OASIS BOOK.  THANKS, WALT
+
+-----------------------------------------------------------------
+01135,31,06/09/84,00:11,KEVIN HANSEN,FRED BELLOMY
+
+OASIS VERSION 6.0  (IBC),, HELLO FRED: RECEIVED OASIS VERSION 6.0
+FIVE DAYS  AGO (IBC VERSION).  HAD SOME TROUBLE CONFIGURING IT TO
+MY  HARD  DISK.   THIS WAS  DO TO  THE  LACK OF DOCUMENTATION FOR
+SETDISK.COMMAND.  AFTER USING 6.0 A WHILE I HAVE THE FOLLOWING TO
+REPORT:
+
+1: THE DIRECTORY RECORD COUNT PROBLEM IS FIXED
+2: THE ISAM RECORD POINTER PROBLEM APPEARS TO BE FIXED
+3: THE OVLBANK SWITCH DOES IMPROVE PERFORMANCE
+4: THE COMMAND STRING EDITOR IS VERY NICE
+
+NOW FOR THE PROBLEMS I HAVE FOUND:
+
+1: THE NUCLEUS IS ABOUT 1.5K LARGER
+2: BASIC2 WILL NOT WORK PROPERLY WITH THE SPOOLER
+(WONT TAB CORRECTLY
+3: WHEN USING THE SPOOLER WITH BASIC2 AND OVLBANK ON
+THE SYSTEM HANGS UP VERY CONSISTENTLY
+4: SPOOLER CANT SHARE A PARTITION WITH THE OVLBANK
+
+THE ABOVE PROBLEMS  HAVE MADE IT MANDATORY FOR  ME TO USE THE OLD
+VERSION OF  BASIC2 (5.6A).  THE LARGER NUCLEUS IS A MAJOR PROBLEM
+FOR MY  INSTALLATION.  SOME OF THE LARGER PROGRAMS WON'T EVEN RUN
+WITH BASIC2  NOW.  THESE PROBLEMS MAY BE PECULIAR TO MY HARDWARE.
+ALL IN ALL I FEEL IT WAS STILL WORTH THE UPGRADE COST.
+
+** PS  COMMENTS  ON  SETDISK THE  FIRST TWO  LINES  OF TRACK HEAD
+SPECIFICATIONS MUST  BE SET  TO -1.  THESE APPEAR TO  BE RESERVED
+FOR THE  FLOPPY.  THE REST IS EASY.  JUST DIVIDE UP YOUR DISK THE
+WAY YOU WANT IT USING THE PROGRESSIVELY LARGER CYLINDER NUMBERS.
+
+THAT IS ALL I HAVE THIS TIME ...  BYE BYE .....
+
+-----------------------------------------------------------------
+01136,10,06/12/84,06:40,WALT STAGNER,FRED
+
+OASIS BOOK AND GROUNDSTAR SOFT,, Hi Fred, I guess you aren't back
+from your trip  yet.  I hope to hear  from you when you get back.
+IBC  is now  selling the  6.0 version of OASIS...would like  some
+info from you on whatever you might know about it.  Also, I would
+like you  to share  with me any information you  might have about
+the overall  quality of  the GROUNDSTAR software.  In addition  I
+would like to  talk to you further about  the OASIS book...I keep
+plugging  away.  If  you don't  want to call just drop  me a note
+with  the  best   times  to  call  you  and   I'll  contact  you.
+Thanks...Walt.
+
+-----------------------------------------------------------------
+01139,05,06/10/84,22:14,BILL WILLE,ALL
+
+OASIS PROGRAMMER  JOB AVAILABLE,,  I need immediately a full time
+programmer who  is familiar  with RMCOBOL under OASIS here  in Mc
+Henry, IL. We  are  using the  Open Systems  software  on an ONYX
+machine  and  writing  related  application programs  in RMCOBOL.
+Please  contact   Bill  Wille  at  Dynamic  Systems  Inc.   (815)
+344-2490.
+
+-----------------------------------------------------------------
+01145,21,09/30/84,04:11,SCOTT WATSON,ALL
+
+GET OASIS FILES  FROM CP/M,LOVE,  I wrote a program a  long while
+back  to  transfer  OASIS sequential  files to  CP/M.   I can not
+remember the hideous reason I had for doing this, but the command
+does work well.
+
+The program runs  in CP/M and comes on a SS/SD disk.  In order to
+transfer  a  file you  first copy  it to a SS/SD OASIS  diskette,
+insert same  diskette in  CP/M machine and execute the  following
+command:    A>   GETO    filename.filetype:srcdrv   [ie:   A>GETO
+SYSTEM.HELP:B the CP/M destination file will be called SYSTEM.HEL
+and the destination diskette is always A.
+
+The command  will  display a  HELP message  if  not arguments are
+given.  There is no other documentation.
+
+▼ OL43.FEEDBACK:VOL43                                      01/30/85 14:40 Page 2
+
+Cost is $65 - Send orders too: Scott Watson ,16835 Algonquin #207
+,Huntington Beach, Ca.  92649
+
+-----------------------------------------------------------------
+01147,06,09/30/84,06:44,SCOTT SHUEY,ALL
+
+WANT TO RUN  OASIS-8 ON IBM-PC.,TGIF, Does anyone know of any way
+to run  Oasis-8 on an IBM-PC with hard disk?  I know boards exist
+to allow use of a Z-80 processor but have not seen any info about
+running Oasis on these.  I currently have several clients running
+Oasis on  Altos and  IBC machines, and I no  longer have my Altos
+but would like to use the IBM instead.
+
+-----------------------------------------------------------------
+01159,18,11/13/84,07:30,PETER FELDMAN,SYSOP
+
+CP/M BOARD FOR  IBM-PC,, FRED:  The manufacturer of the board  we
+spoke about, (The  BABY BLUE II) is Microlog,  Inc., 222 Rt.  59,
+Suffren, NY 10901.  Their phone # is: (914) 368-0353.
+
+The board contains a Z-80 and space for 256K of RAM (Note: 4 rows
+of eight chips  -- NO parity checking).  Software  is provided to
+convert 8080  programs to those that will run on MS-DOS.  (I have
+this software here somewhere, but haven't been able to find it as
+yet!).
+
+Hope this is the info you wanted.
+
+Best - Peter Feldmann
+
+-----------------------------------------------------------------
+NOTE:  Bill Dewberry told me of an article in Byte Magazine about
+a year ago that described an add-on board for the  IBM PC/XT that
+runs a Z8000 and supports the Z80 code.  No further info. FB
+
+-----------------------------------------------------------------
+01152,12,10/03/84,08:11,DAVE CLINE,EYERYONE
+
+2 IBC  CADET-50'S  FOR SALE,MICR,  We have  2  IBC Cadet-50's for
+sale.  These  machines are both a little over 1 year old and have
+every option available:
+
+    256K user memory
+    256K Cache memory
+    Cartridge tape backup
+    Ten serial ports
+    DSDD floppy
+
+To inquire  about  these machines  please call (206) 282-9911 and
+ask  for David,  Tony, or  John for more info.  We  are currently
+listening to any reasonable offers.
+
+-----------------------------------------------------------------
+01153,06,10/05/84,06:44,SCOTT SHUEY,ALL
+
+OASIS FILE CONVERSION  NEEDED,TGIF, I AM LOOKING FOR A SERVICE TO
+CONVERT OASIS 8 DATA FILES TO RM COBOL DATA FILES AND BACK AGAIN.
+HAVE APPROX.  30  MBYTES OF DATA TO TRANSFER.   PLEASE CALL ME IF
+YOU  CAN  PROVIDE  THE SERVICE  OR REFER  ME  TO SOMEONE WHO CAN.
+213/694-4543 SCOTT SHUEY
+
+-----------------------------------------------------------------
+01154,14,10/23/84,00:25,AL WHITAKER,ALL
+
+HELP,, HELP  I  AM USING  ONE OF  MY  LIBERTY TERMINALS TO ACCESS
+THIS.   CANNOT  CONFIGURE  TERMINAL  COMMAND  OF OASIS  TO ACCESS
+ANYTHING.  NEED PROPER PARAMETERS.  I TALK TO MY SYSTEM FROM HOME
+USING R/S 300/1200  MODEM AND TERMINAL, BUT CANNOT  TALK OUT FROM
+COMPUTER.  COULD  MODEM BE DEFECTIVE ?  LOTS OF NOISE I.E.  ( {{{
+)  THESE.   WOULD BETTER  MODEM HELP?   ALSO  1200 BAUD DRIVES ME
+CRAZY  CAN I  USE  HIGHER  SPEED  ON  REG.  PHONE  LINES  ?  (NOT
+DEDICATED  LINE)  ANY  INFO  WOULD  BE  APPRECIATED.   THANKS: AL
+WHITAKER
+
+-----------------------------------------------------------------
+01156,02,10/23/84,02:45,JACK HOLEMAN,BRIAN HASCALL
+
+M.O.M,, CALL BOB BORTZ.   HIS Medical Office Manager is  what you
+might look at.
+
+-----------------------------------------------------------------
+01158,10,11/11/84,09:39,JACK HOLEMAN,FRED
+
+BBS SOFTWARE,,   I   NEED   THE   INFORMATION   ABOUT  300   BAUD
+COMMUNICATION.  I JUST  GOT A THREE HUNDRED BAUD  MODEM.  I WOULD
+ALSO LIKE  TO FIND SOME SOFTWARE FOR STARTING A FLORIDA BILLBOARD
+FOR OASIS.  HOW CAN I GET BBS SOFTWARE LIKE YOURS?  JACK HOLEMAN,
+JAX FL.  1200 BAUD 300 BAUD
+
+-----------------------------------------------------------------
+01160,03,11/13/84,15:42,JACK HOLEMAN,ALL
+
+CARAVAN SOFTWARE,, I  AM LOOKING FOR COMMUNICATIONS SOFTWARE THAT
+INCORPORATES SCRIPT PROCESSOR FOR PAGE ALIGNMENT.  ANY OFFERS?
+
+-----------------------------------------------------------------
+01165,05,11/20/84,01:49,FRED BELLOMY,VIDTEX CONTRIBUTOR
+
+WHO DONE IT?,,  Thanks for the VIDTEX contribution (or part there
+of).  Looks  like you got cut off before you could send the whole
+thing.  Let me know who you are so we can arrange to get the rest
+of  the  package.  I  only got  three  files: VIDTEX.ASM/CORE and
+VIDTEX1.DIC.
+
+-----------------------------------------------------------------
+01167,20,11/25/84,05:04,KEVIN HANSEN,FRED BELLOMY
+
+XLISP SOURCE,,  HELLO FRED  ENJOYED THE  CHAT  AT COMDEX.  JUST A
+NOTE TO  TELL YOU THAT WE ARE GO ON THE XLISP WE TALKED ABOUT.  I
+WILL  BE  SENDING THE  SOURCE FOR  IT  TOMORROW SOME TIME.  STILL
+WORKING  ON  GETTING ALL  THE SOURCE  FOR  THE SMALL 'C' COMPILER
+FOUND AND ON ONE DISK.  THIS I WILL SEND AS SOON AS I FIND IT ALL
+AGAIN.  THE XLISP  WILL NEED A LOT OF  WORK TO BE COMPATIBLE WITH
+OASIS  C  OR EVEN  SMALL 'C'.   IT WAS WRITTEN FOR THE  AZTEC 'C'
+COMPILER WHICH WAS  SUPPOSED TO BE THE SAME  AS ONE OF THE 'UNIX'
+VERSION'S.   WHICH  ONE  I DON'T  HAVE ANY  IDEA.   THE SMALL 'C'
+COMPILER WORKS WELL  UNDER CP/M AND SHOULD NOT  BE TO BAD TO PORT
+OVER TO OASIS.  *****
+
+I HOPE  THAT  OASIS TEC  CAN GET  THE BALL ROLLING AS I  AM BEING
+PRESSED TO  GO TO A UNIX MACHINE AND PORT SEVERAL YEARS WORK OVER
+TO IT.  ***
+
+I MUST GET BACK TO WORK CHAT WITH YOU AGAIN .....BYE
+
+-----------------------------------------------------------------
+01168,14,11/26/84,20:55,BRIAN GOODHEIM,ALL
+
+ATT 3B2  -  UXBASIC BENCHMARK,,  On November  28,  1984 I had the
+opportunity to  try out the new ATT 3B2 computer running UNIX and
+2 active  users.  I  ran the OUG benchmark program  BENCH11 under
+UX-BASIC and thought the results might be of interest to members.
+
+The BENCH11 results were  an average score of 160  for one active
+user  using  UX-BASIC release  1.7 in  interpretive  mode.  I was
+unable  to get  the program  to run in compiled mode  or with two
+users operating the BENCH11 program simultaneously.
+
+It is my  understanding that UX-BASIC is currently at version 1.9
+and an  even faster version is being released 1/85 which is fully
+Informix compatible.
+
+-----------------------------------------------------------------
+01173,12,12/05/84,17:42,JOHN LAPENTA,THE OASIS COMMUNITY
+
+TS804 FOR SALE,,  We have  an new Televideo 804 computer  that we
+would like  to sell.  The 804 has a 10mb hard disk with 320k RAM.
+3  serial  and 1  parallel port.   It has a built in  monitor and
+comes with  OASIS runtime.   The system has never been  used, the
+retail price is $4500, we are asking $2500.
+
+Please contact   John  Lapenta   at:  Functional  Solutions  Inc.
+315-735-6421
+
+-----------------------------------------------------------------
+
+Donald Philabaum of Aardvark Studios is selling their Oasis system
+and invites interested people to call (800)233-2002 or 228-2002.
+They have an IBC Super Cadet 85 plus 3 Freedom 100 terminals and a
+bunch of software.
+
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL43.FEEDBACK                            25 December 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 43.
+
+*****************************************************************
+
+
+AR$ACTV.BASIC    AR$COFM.BASIC    AR$EDIT.BASIC    AR$HELP.BASIC
+AR$MAIL.BASIC    AR$MENU.BASIC    AR$POST.BASIC    AR$RATE.BASIC
+AR$STAT.BASIC    AR$UPDAT.BASIC
+
+AR$ ACCOUNTS RECEIVABLES  IS A SIMPLE BALANCE FORWARD SYSTEM.  IT
+WAS ORIGINALLY  CREATED AS  AN ADDITION (BLISTER) TO AN  EXISTING
+CLIENT  WRITE  UP  PACKAGE.   IT WILL  HANDLE MULTIPLE COMPANIES,
+LIMITED  ONLY  BY  DISK SPACE,  AND IS  PRESENTLY  SET UP FOR 500
+INDIVIDUAL   CLIENTS  PER   COMPANY.   IT  WILL  GENERATE  CLIENT
+STATEMENTS AS WELL  AS A FEW PRIMITIVE REPORTS.   I HAVE INCLUDED
+REMARKS IN  THE SOURCE TO ALLOW FOR FEATURES THAT YOU MAY WISH TO
+ADD THIS PROGRAM  AS IS WILL RUN IN  80 COLUMNS ON THE CRT.  MOST
+REPORTS ARE  ALSO  80  COLUMN  FORMAT.   THE REMAINDER  COULD  BE
+MODIFIED TO MATCH WITH MINIMAL EFFORT.
+
+RICHARD D. YOUNG      (405)528-2773 - HOME / (405)521-1575 - WORK
+N.W. 11th.
+OKLAHOMA CITY  OK  73106
+
+SOME ADDITIONAL INFO AVAILABLE AFTER YOU HAVE INSTALLED THE PACKAGE.
+USE THE AR$.EXEC FOR ASSISTANCE.
+▼ ^
+B.ASSEMBLE/COMMAND/INFO
+
+     Convert binary valu to hex and dec with map
+syntax BB ???????? <cr> where ? = 0 or 1
+by Kevin Hansen c/o R.D.C (208) 852 0832 0833
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+D.ASSEMBLE/COMMAND/INFO
+
+     Bit map a decimal valu
+syntax BD xx <cr>   where xx=0 to 255
+by Kevin Hansen c/o R.D.C (208) 852 0832 0833
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+H.ASSEMBLE/COMMAND/INFO
+
+     Bit map a hex valu
+syntax BH xx  where xx = 00 to FF
+by Kevin Hansen c/o R.D.C (208) 852 0832 0833
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ASHFLO.EXEC/INFO
+CASHFLO0/CASHFLO1/CASHFLO2/CASHFLO3/CASHFLO4.BASIC
+
+This is a  combination cash  flow report and change in  financial
+position   report  generator.    While  it  does  not  have  much
+documentation  it is  very easy  to  learn, everything being menu
+driven.   It was  contributed by  Vince  Oster of Management Data
+Corp (605) 342-8455.
+
+The CASHFLO.EXEC controls everything.
+WANT MORE INFO NOW? [Y/N]:N
+OLLARS.BASIC/INFO
+
+This program,  contributed   by  Lon  Bateman  of  Shoreman  Food
+Technologies (301)  754-8181 is similar to NUMBERS.BASIC that was
+distributed  on  Volume 35.   However, there are some significant
+improvements as follows:
+
+     1.  It will handle numbers up to 999,999,999.99.
+     2.  It will handle cents.
+     3.  It is much shorter - 44 lines versus 125
+         (1545 bytes versus 2512).
+
+Lon actually uses this  program in both his accounts  payable and
+payroll sections to print checks.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+RAPPED.BASIC
+
+You are  TRAPPED in  an enormous cavern underneath countless tons
+of solid rock.   The way you entered the  cavern has been blocked
+off.  There are six unexplored passages directly in front of you.
+Only one leads  out of the cavern.  Good  luck.  Should keep your
+six year old occupied for a few minutes.
+
+WANT TO TRY IT NOW? [Y/N]:N
+NERASE.ASSEMBLE/COMMAND/INFO
+
+     Unerase any file  ***** does not reallocate disk space *****
+syntax UNERASE fn.ft:fd <cr>  ***** no wilde cards ****
+
+WARNING: DO NOT USE  UNERASE.COMMAND ON FILES THAT MAY  HAVE BEEN
+OVER  WRITTEN  OR IF  YOU DON'T  KNOW HOW TO FIX DISK  ALLOCATION
+PROBLEMS  ALSO  YOU  MUST  KNOW  WHAT  TYPE  THE  FILE WAS  (I.E.
+INDEXED,KEYED,SEQUENTIAL,REL,ABS).  PROGRAM  PROMPTS YOU.
+by Kevin Hansen c/o R.D.C (208) 852 0832 0833
+
+INORDER TO TRY THIS UTILITY YOU MUST KNOW THE FULL NAME
+OF SOME PROGRAM YOU HAVE RECENTLY ERASED.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+SER1.ASSEMBLE/BASIC/BASICUSR/INFO
+
+This program demos  a USR  function that allows you to  write and
+execute a short Z80 machine code program from BASIC.  The program
+cannot exceed  255 instructions.  (*NO KIDDING*) The last byte in
+the  instructions  must  be  a  'C9'.   This  is  the Z80  return
+instruction.   If  this  instruction is  omitted, the USR program
+will abort.  This  function is used for those  little things that
+you normally can't  do from basic.  With the  exception of ATTACH
+devices, any number must be converted to hex.
+
+by Kevin Hansen c/o R.D.C (208) 852 0832 0833
+
+
+WANT TO LIST IT NOW? [Y/N]:N
+Error in EXEC file at statement:
+&IF &YN <> Y &GOTO -PROG13
+
+>

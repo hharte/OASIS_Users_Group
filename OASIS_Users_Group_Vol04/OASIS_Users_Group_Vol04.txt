@@ -1,0 +1,770 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: June 1981
+Volume: 4
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 06/30/81 16:59    23    2 S    68 VOL$4
+ASKOSIS1 ARTICLE  A 06/15/81 16:57    89    5 S    76 VOL$4
+ASKOSIS2 ARTICLE  A 06/15/81 16:35    80    5 S    76 VOL$4
+BAGELS1  BASICCOM A 06/24/81 22:34    79    2 SR   66 VOL$4
+BAGELS1  BASICOBJ A 06/24/81 22:26    81    2 S    69 VOL$4
+BUDGET   BASICCOM A 06/10/81 20:56   202    9 SR  100 VOL$4
+BUDGET   BASICOBJ A 06/10/81 20:48   217    9 S    92 VOL$4
+CHIEF    BASICCOM A 06/02/81 18:37    49    2 SR   64 VOL$4
+CHIEF    BASICOBJ A 06/24/81 22:31    52    2 S    69 VOL$4
+CLIMATES BASICCOM A 06/10/81 21:34   185    5 SR   77 VOL$4
+CLIMATES BASICOBJ A 06/10/81 21:33   191    5 S    77 VOL$4
+COMBINE  BASICCOM A 06/09/81 16:34    16    1 SR   49 VOL$4
+COMBINE  BASICOBJ A 06/24/81 22:39    21    1 S    68 VOL$4
+CRAPSEX  BASICCOM A 06/24/81 22:06   145    4 SR   67 VOL$4
+CRAPSEX  BASICOBJ A 06/09/81 18:38   146    4 S    67 VOL$4
+DLRINFO  INFORMTN A 06/15/81 16:41    71    4 S    76 VOL$4
+ENTERPRI PICTURE  A 06/24/81 22:47    70    4 S    54 VOL$4
+GAMES4   EXEC     A 06/25/81 15:50   120    3 S    66 VOL$4
+GUESS    BASICCOM A 06/02/81 16:58    35    1 SR   82 VOL$4
+GUESS    BASICOBJ A 05/27/81 20:36    35    1 S    79 VOL$4
+HIFINA   BASICCOM A 06/06/81 18:34    92    3 SR   69 VOL$4
+HIFINA   BASICOBJ A 06/06/81 17:25    96    3 S    68 VOL$4
+KING     BASICCOM A 06/09/81 17:33   234    7 SR   85 VOL$4
+KING     BASICOBJ A 05/26/81 17:21   235    7 S    84 VOL$4
+MATCH23  BASICCOM A 06/06/81 18:35    38    1 SR   56 VOL$4
+MATCH23  BASICOBJ A 06/06/81 17:20    43    2 S    56 VOL$4
+MORTGAGE BASICCOM A 06/08/81 16:10   170    5 SR   79 VOL$4
+MORTGAGE BASICOBJ A 06/08/81 16:41   174    5 S    79 VOL$4
+NEWS4    LETTER   A 06/25/81 18:27    46    2 S    72 VOL$4
+NFL      BASICCOM A 06/06/81 18:00   551   11 SR   71 VOL$4
+NFL      BASICOBJ A 06/06/81 17:39   591   12 S    68 VOL$4
+PINUP1   PICTURE  A 05/20/81 16:43   145    9 S    73 VOL$4
+PINUP2   PICTURE  A 05/20/81 16:44   229   18 S    80 VOL$4
+ROCKET   BASICCOM A 06/25/81 00:30    84    3 SR   72 VOL$4
+ROCKET   BASICOBJ A 06/25/81 00:07    86    3 S    67 VOL$4
+RUSSIAN  BASICCOM A 06/06/81 18:36    15    1 SR   59 VOL$4
+RUSSIAN  BASICOBJ A 06/25/81 00:09    17    1 S    64 VOL$4
+SLOTS    BASICCOM A 07/01/81 16:37    83    3 SR   85 VOL$4
+SLOTS    BASICOBJ A 07/01/81 16:36    85    3 S    85 VOL$4
+SNOOPY1  PICTURE  A 06/24/81 23:10    59    3 S    65 VOL$4
+SNOOPY2  PICTURE  A 05/20/81 16:44    78    4 S    69 VOL$4
+SWARMS   BASICCOM A 05/22/81 18:37   498   14 SR   77 VOL$4
+SWARMS   BASICOBJ A 06/25/81 00:23   534   14 S    75 VOL$4
+TACOS    BASICCOM A 06/09/81 17:16    21    1 SR   64 VOL$4
+TACOS    BASICOBJ A 06/25/81 00:24    26    1 S    67 VOL$4
+TAXMAN   BASICCOM A 06/09/81 17:24   144    3 SR   68 VOL$4
+TAXMAN   BASICOBJ A 06/25/81 00:27   180    4 S    68 VOL$4
+TIME     BASICCOM A 06/24/81 22:05    64    5 SR  186 VOL$4
+TIME     BASICOBJ A 06/24/81 22:05    66    5 S   175 VOL$4
+TRAP     BASICCOM A 06/06/81 18:35    38    2 SR   58 VOL$4
+TRAP     BASICOBJ A 06/25/81 00:29    40    2 S    66 VOL$4
+VOL4     EXEC     A 07/15/81 20:29   410   13 S    79 VOL$4
+52 file(s), 241 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+KING.BASICCOM:A copied to KING.BASICCOM:D
+TRAP.BASICCOM:A copied to TRAP.BASICCOM:D
+ROCKET.BASICCOM:A copied to ROCKET.BASICCOM:D
+$README.FIRST:A replaces $README.FIRST:D
+COMBINE.BASICCOM:A copied to COMBINE.BASICCOM:D
+TRAP.BASICOBJ:A copied to TRAP.BASICOBJ:D
+NFL.BASICOBJ:A copied to NFL.BASICOBJ:D
+RUSSIAN.BASICCOM:A copied to RUSSIAN.BASICCOM:D
+GAMES4.EXEC:A copied to GAMES4.EXEC:D
+CRAPSEX.BASICCOM:A copied to CRAPSEX.BASICCOM:D
+ROCKET.BASICOBJ:A copied to ROCKET.BASICOBJ:D
+BAGELS1.BASICCOM:A copied to BAGELS1.BASICCOM:D
+COMBINE.BASICOBJ:A copied to COMBINE.BASICOBJ:D
+RUSSIAN.BASICOBJ:A copied to RUSSIAN.BASICOBJ:D
+CRAPSEX.BASICOBJ:A copied to CRAPSEX.BASICOBJ:D
+GUESS.BASICCOM:A copied to GUESS.BASICCOM:D
+BAGELS1.BASICOBJ:A copied to BAGELS1.BASICOBJ:D
+BUDGET.BASICCOM:A copied to BUDGET.BASICCOM:D
+ASKOSIS2.ARTICLE:A copied to ASKOSIS2.ARTICLE:D
+TIME.BASICOBJ:A copied to TIME.BASICOBJ:D
+MORTGAGE.BASICCOM:A copied to MORTGAGE.BASICCOM:D
+GUESS.BASICOBJ:A copied to GUESS.BASICOBJ:D
+BUDGET.BASICOBJ:A copied to BUDGET.BASICOBJ:D
+ASKOSIS1.ARTICLE:A copied to ASKOSIS1.ARTICLE:D
+TACOS.BASICCOM:A copied to TACOS.BASICCOM:D
+NFL.BASICCOM:A copied to NFL.BASICCOM:D
+PINUP1.PICTURE:A copied to PINUP1.PICTURE:D
+MORTGAGE.BASICOBJ:A copied to MORTGAGE.BASICOBJ:D
+CLIMATES.BASICCOM:A copied to CLIMATES.BASICCOM:D
+CLIMATES.BASICOBJ:A copied to CLIMATES.BASICOBJ:D
+PINUP2.PICTURE:A copied to PINUP2.PICTURE:D
+SNOOPY2.PICTURE:A copied to SNOOPY2.PICTURE:D
+HIFINA.BASICCOM:A copied to HIFINA.BASICCOM:D
+TACOS.BASICOBJ:A copied to TACOS.BASICOBJ:D
+TAXMAN.BASICCOM:A copied to TAXMAN.BASICCOM:D
+TIME.BASICCOM:A copied to TIME.BASICCOM:D
+SLOTS.BASICCOM:A copied to SLOTS.BASICCOM:D
+HIFINA.BASICOBJ:A copied to HIFINA.BASICOBJ:D
+VOL4.EXEC:A copied to VOL4.EXEC:D
+SWARMS.BASICCOM:A copied to SWARMS.BASICCOM:D
+KING.BASICOBJ:A copied to KING.BASICOBJ:D
+ENTERPRI.PICTURE:A copied to ENTERPRI.PICTURE:D
+SLOTS.BASICOBJ:A copied to SLOTS.BASICOBJ:D
+SWARMS.BASICOBJ:A copied to SWARMS.BASICOBJ:D
+CHIEF.BASICCOM:A copied to CHIEF.BASICCOM:D
+TAXMAN.BASICOBJ:A copied to TAXMAN.BASICOBJ:D
+NEWS4.LETTER:A copied to NEWS4.LETTER:D
+DLRINFO.INFORMTN:A copied to DLRINFO.INFORMTN:D
+MATCH23.BASICCOM:A copied to MATCH23.BASICCOM:D
+CHIEF.BASICOBJ:A copied to CHIEF.BASICOBJ:D
+SNOOPY1.PICTURE:A copied to SNOOPY1.PICTURE:D
+MATCH23.BASICOBJ:A copied to MATCH23.BASICOBJ:D
+
+>VOL4
+O SKIP THE INTRODUCTORY MATERIAL TYPE "SKIP", OTHERWISE
+TYPE <CR> TO SEE A DIRECTORY FOR THIS VOLUME AND READ THE NEWSLETTER.
+:
+
+
+
+
+
+WELCOME  TO  VOLUME 4  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN SOFTWARE CONTRIBUTED BY MEMBERS.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  4
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 06/30/81 16:59    23    2 S    68 VOL$4
+ASKOSIS1 ARTICLE  A 06/15/81 16:57    89    5 S    76 VOL$4
+ASKOSIS2 ARTICLE  A 06/15/81 16:35    80    5 S    76 VOL$4
+BAGELS1  BASICCOM A 06/24/81 22:34    79    2 SR   66 VOL$4
+BAGELS1  BASICOBJ A 06/24/81 22:26    81    2 S    69 VOL$4
+BUDGET   BASICCOM A 06/10/81 20:56   202    9 SR  100 VOL$4
+BUDGET   BASICOBJ A 06/10/81 20:48   217    9 S    92 VOL$4
+CHIEF    BASICCOM A 06/02/81 18:37    49    2 SR   64 VOL$4
+CHIEF    BASICOBJ A 06/24/81 22:31    52    2 S    69 VOL$4
+CLIMATES BASICCOM A 06/10/81 21:34   185    5 SR   77 VOL$4
+CLIMATES BASICOBJ A 06/10/81 21:33   191    5 S    77 VOL$4
+COMBINE  BASICCOM A 06/09/81 16:34    16    1 SR   49 VOL$4
+COMBINE  BASICOBJ A 06/24/81 22:39    21    1 S    68 VOL$4
+CRAPSEX  BASICCOM A 06/24/81 22:06   145    4 SR   67 VOL$4
+CRAPSEX  BASICOBJ A 06/09/81 18:38   146    4 S    67 VOL$4
+DLRINFO  INFORMTN A 06/15/81 16:41    71    4 S    76 VOL$4
+ENTERPRI PICTURE  A 06/24/81 22:47    70    4 S    54 VOL$4
+GAMES4   EXEC     A 06/25/81 15:50   120    3 S    66 VOL$4
+GUESS    BASICCOM A 06/02/81 16:58    35    1 SR   82 VOL$4
+GUESS    BASICOBJ A 05/27/81 20:36    35    1 S    79 VOL$4
+HIFINA   BASICCOM A 06/06/81 18:34    92    3 SR   69 VOL$4
+HIFINA   BASICOBJ A 06/06/81 17:25    96    3 S    68 VOL$4
+KING     BASICCOM A 06/09/81 17:33   234    7 SR   85 VOL$4
+KING     BASICOBJ A 05/26/81 17:21   235    7 S    84 VOL$4
+MATCH23  BASICCOM A 06/06/81 18:35    38    1 SR   56 VOL$4
+MATCH23  BASICOBJ A 06/06/81 17:20    43    2 S    56 VOL$4
+MORTGAGE BASICCOM A 06/08/81 16:10   170    5 SR   79 VOL$4
+MORTGAGE BASICOBJ A 06/08/81 16:41   174    5 S    79 VOL$4
+NEWS4    LETTER   A 06/25/81 18:27    46    2 S    72 VOL$4
+NFL      BASICCOM A 06/06/81 18:00   551   11 SR   71 VOL$4
+NFL      BASICOBJ A 06/06/81 17:39   591   12 S    68 VOL$4
+PINUP1   PICTURE  A 05/20/81 16:43   145    9 S    73 VOL$4
+PINUP2   PICTURE  A 05/20/81 16:44   229   18 S    80 VOL$4
+ROCKET   BASICCOM A 06/25/81 00:30    84    3 SR   72 VOL$4
+ROCKET   BASICOBJ A 06/25/81 00:07    86    3 S    67 VOL$4
+RUSSIAN  BASICCOM A 06/06/81 18:36    15    1 SR   59 VOL$4
+RUSSIAN  BASICOBJ A 06/25/81 00:09    17    1 S    64 VOL$4
+SLOTS    BASICCOM A 07/01/81 16:37    83    3 SR   85 VOL$4
+SLOTS    BASICOBJ A 07/01/81 16:36    85    3 S    85 VOL$4
+SNOOPY1  PICTURE  A 06/24/81 23:10    59    3 S    65 VOL$4
+SNOOPY2  PICTURE  A 05/20/81 16:44    78    4 S    69 VOL$4
+SWARMS   BASICCOM A 05/22/81 18:37   498   14 SR   77 VOL$4
+SWARMS   BASICOBJ A 06/25/81 00:23   534   14 S    75 VOL$4
+TACOS    BASICCOM A 06/09/81 17:16    21    1 SR   64 VOL$4
+TACOS    BASICOBJ A 06/25/81 00:24    26    1 S    67 VOL$4
+TAXMAN   BASICCOM A 06/09/81 17:24   144    3 SR   68 VOL$4
+TAXMAN   BASICOBJ A 06/25/81 00:27   180    4 S    68 VOL$4
+TIME     BASICCOM A 06/24/81 22:05    64    5 SR  186 VOL$4
+TIME     BASICOBJ A 06/24/81 22:05    66    5 S   175 VOL$4
+TRAP     BASICCOM A 06/06/81 18:35    38    2 SR   58 VOL$4
+TRAP     BASICOBJ A 06/25/81 00:29    40    2 S    66 VOL$4
+VOL4     EXEC     A 07/15/81 20:29   410   13 S    79 VOL$4
+52 file(s), 241 block(s).
+HIT <CR> WHEN READY TO PROCEED.
+▼ ^
+
+
+
+
+IT THE <CR> TO CONTINUE
+File not found.
+▼ ^
+
+
+
+
+ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 4.
+SOME  WERE WRITTEN  BY THE  CPMUG  REVIEWER, "ZOSO." I'VE ADDED
+OTHER COMMENTS WHERE NEEDED.
+
+***************************************************************
+
+BAGELS1.BASICOBJ/BASICCOM
+
+ANOTHER VERSION OF THE EVER POPULAR 3 DIGIT NUMBER GUESSING GAME.
+NOTHING SPECIAL ABOUT THIS ONE, EXCEPT THAT IT LOOKS LIKE THE
+ORIGINAL IMPLEMENTATION. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C <CR>
+:
+
+UDGET.BASICOBJ/BASICCOM
+
+THIS IS A REALLY NICE HOUSEHOLD BUDGET SYSTEM. IT ALLOWS YOU TO
+MAKE A TEST BUDGET AND THEN TO CHANGE THINGS TO KEEP YOUR PLANNED
+OUTGO EQUAL TO YOUR KNOWN INCOME.  YOU CAN ITERATE AS MANY TIMES
+AS YOU WANT AND THEN IT WILL PRINT A COPY OF THE FINAL BUDGET. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+HIEF.BASCIOBJ/BASICCOM
+
+REMEMBER THIS...?  YOU THINK OF A NUMBER, PERFORM SOME DUMB ARITHMETIC, AND YOU
+ARRIVE AT ANOTHER NUMBER, WHICH YOU REVEAL TO THE CRASHING BORE WHO'S DOING
+THIS TO YOU, AND THAT PERSON WILL DEDUCE THE NUMBER YOU STARTED WITH...; WELL
+SOMEONE HAS COMPUTERIZED IT ALL AND BLAMED THE POOR INDIANS. I MUST CONFESS
+THAT I REFUSED TO RUN THIS OFTEN ENOUGH TO DETERMINE IF IT WORKS OR NOT. THE
+GAME(?) ENDS WITH A BIG LIGHTNING BOLT!! PERHAPS IT WOULD BE BEST FOR SOMEONE
+TO REMOVE THE ARITHMETIC AND THE INDIAN CHIEF, THEN TO TAKE WHAT'S LEFT AND
+RENAME IT 'LITENING.BAS'... BE HONEST, ANONYMOUS AUTHOR, ARE WE EXPECTED TO
+USE ANY NUMBER OTHER THAN 22 ONCE WE MASTER THE TRIBAL RULES ?
+ (P.S. I TRIED IT, AND IT DOES WORK.  NOT SURE THAT YOU NATIVE
+ AMERICANS WILL APPRECIATE THE STEREOTYPE.  I HEAR THAT THIS WAS
+ THE MAJOR FUNDING PROJECT BY B.I.A. IN 1977.  A.R.G)  ZOSO
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+LIMATES.BASICOBJ/BASICCOM
+
+THIS IS A METEOROLOGY QUIZ ABOUT WORLD CLIMATES.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+OMBINE.BASICOBJ/BASICCOM
+
+IF YOU REALLY WANT TO KNOW HOW MANY DIFFERENT COMBINATIONS OF 6 THINGS
+TAKEN 3 AT A TIME THERE ARE, THEN YOU MUST TRY THIS ONE.  OTHERWISE... FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+RAPSEX.BASICOBJ/BASICCOM
+
+THIS IS A SEXY VERSION OF THE OLD LAS VEGAS GAME OF CRAPS.  THE COMMENTS
+MAKE THIS VERSION A LITTLE DIFFERENT. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+NTERPRI.PICTURE
+PINUP1.PICTURE
+PINUP2.PICTURE
+SNOOPY1.PICTURE
+SNOOPY2.PICTURE
+
+THIS IS COMPUTER ART?????  NOT A BAD SET OF PRINTER TEST PATTERNS
+OR SOMETHING TO AMUSE YOUR CHILDREN ON A RAINY DAY. NOTE: IF YOU
+RUN THESE, YOU'RE GOING TO GET THE WHOLE NINE YARDS!
+
+TO SEE THEM ALL NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AMES.EXEC
+
+THE LATEST VERSION OF THE GAMES EXEC TO TIE THEM ALL TOGETHER INTO
+A NEAT PACKAGE.  LETS YOU SELECT ANY GAME IN THE OUG LIBRARY SO FAR. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+UESS.BASICOBJ/BASICCOM
+
+GUESS A NUMBER BETWEEN 0 AND 99.  HO HUM..... FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+IFINA.BASICOBJ/BASICCOM
+
+ANOTHER LOAN AMORTIZATION PROGRAM.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+ING.BASICOBJ/BASICCOM
+
+A VERY SLIGHTLY DIFFERENT VERSION OF KINGDOM RELEASED EARLIER.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+ATCH23.BASICOBJ/BASICCOM
+
+THIS ONE PLAYS '23-MATCH NIM'. YOU ALWAYS GO FIRST. THE SLY COMPUTER ALWAYS
+GOES SECOND. GUESS WHO (OR WHAT) WINS... YAWN !
+ (P.S. I DIDN'T EXPERIENCE ZOSO'S PROBLEM, AND FOUND I COULD BEAT
+ THE MACHINE 10 TIMES OUT OF TEN.  FOR YOU MATHS TYPES, THE CORRECT
+ STRATEGY IS TO LEAVE THE MACHINE TO DEAL WITH A QUANTITY ONE
+ GREATER THAT A MULTIPLE OF FOUR - IE START BY TAKING TWO AND
+ LEAVING 21 (5*4+1).  A.R.G)
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+ORTGAGE.BASICOBJ/BASICCOM
+
+ANOTHER VERSION OF LOAN AMORTIZATION.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+FL.BASICOBJ/BASICCOM
+
+IF YOU ARE IN PRACTICE TO BE THE TEAMS' QUARTER BACK, THIS COULD
+BE VALUABLE PRACTICE.  PERSONALLY, I'D PREFER A MONDAY NIGHT BEER
+IN FRONT OF THE BOOB TUBE - AND I DON'T DRINK BEER!  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+OCKET.BASICOBJ/BASICCOM
+
+ROCKET.BAS [NAMED SOMETHING ELSE FOR AN EARLIER RELEASE]
+YOU'VE SEEN THIS BEFORE, BELIEVE ME ! THIS ISN'T AS GOOD AS THE EARLIER ONE
+(FROM FIRST DISTRIBUTION), AND FURTHERMORE IT EXHIBITS THE ALARMING TREND
+OF BEING ACCEPTABLE ONLY TO CERTAIN SPECIAL COMPILER/RUN VERSIONS. SELL THIS,
+AND THEN SELL THE PURCHASER THE EARLIER ONE AS A COSTLY UPGRADE. ZOSO
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+USSIAN.BASICOBJ/BASICCOM
+
+WHEN WILL YOU PARENTAL TYPES LEARN... UNLESS YOU TEACH YOUR 'RETARDATE' TO
+SIGN HIS PROGRAMS WITH SOMETHING CUTE LIKE 'LITTLE JOHNNY DOE AGE 7 1/2',
+SOMEBODY MAY MISTAKENLY THINK THAT YOU SUBMITTED THEM. YOU WOULDN'T WANT
+THAT TO HAPPEN, WOULD YOU ?  FOR THE RECORD, THIS IS RUSSIAN-ROULETTE: THE ONE
+YOU'VE ALWAYS AVOIDED.  THE OUTPUT OF THIS OPUS-MAGNUS CONSISTS OF THE WORDS,
+'CLICK' AND 'POW'. THE LATTER INDICATES THAT YOUR BRAINS HAVE BEEN SPATTERED
+ACROSS THAT PAYROLL PROGRAM YOU WERE PREPARING FOR THE ESKIMO FREEZER SALESMAN.
+I AM WRITING THIS A WEEK BEFORE CHRISTMAS, BUT I CANNOT REFRAIN FROM WISHING
+THAT THE AUTHOR HAD DEBUGGED THIS ITEM WITH A [REAL] .357 MAGNUM. BY THE WAY,
+IF YOU MUST PLAY THIS (AND I EARNESTLY HOPE YOU DON'T), YOU WILL MOST LIKELY BE
+RISKING YOUR LIFE WITH A SINGLE-SHOT ANTIQUE OR A SEVEN SHOT 'HYBRID' GUN. IT
+SEEMS THAT THE CALL TO RND (RANDOM-NUMBER) SEVERELY AFFECTS THE OTHER MISTAKES
+IN THIS PROGRAM. I'M NEW AT THIS BUSINESS, BUT I HOPE TO GAIN YOUR CONFIDENCE
+BY CALLING THEM AS I SEE THEM,... THIS IS THE VERY WORST PROGRAM THAT I HAVE
+EVER SEEN !!! I HAVE NEVER ELIMINATED ALL COPIES OF A FILE FROM MY ARCHIVES
+BEFORE. THIS TIME, I JUST MIGHT...CLICK-CLICK-POW !!! ZOSO
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+LOTS.BASICOBJ/BASICCOM
+
+A TOLERABLY GOOD SIMULATION OF THE LAS VEGAS SLOT MACHINE.  ONLY
+PROBLEM IS THAT THE COMPUTER NEVER PAYS OFF WITH ANYTHING TANGIBLE. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+WARMS.BASICOBJ/BASICCOM
+
+THE ATTACK OF THE KILLER BEES... GET ME MY HEART MEDICINE... I GROW FAINT...!!
+THIS ONE DIDN'T WORK EITHER, BUT IT LOOKED LIKE IT MIGHT BE GOOD, SO I REWROTE
+IT A BIT FOR MICROSOFT DISK BASIC. MAYBE, IF YOU SEE A FILE SWARMS2.ASC, I'LL
+HAVE DECIDED TO INCLUDE IT. THIS IS A VERY!! COMPREHENSIVE GAME WITH A LOT OF
+OPTIONS. IT QUICKLY BECOMES CONFUSING AND BORING !!!  THE PSYCHOLOGISTS
+AMONGST YOU WILL FIND THIS GAME A MOST INTERESTING DIAGNOSTIC TOOL!! WHEN I GOT
+THIS ONE RUNNING, ABOUT A DOZEN PEOPLE TRIED IT... EVERY SINGLE ONE, BY THE
+SECOND ATTEMPT, DID NOTHING BUT 'NUKE' UNEVACUATED AMERICAN CITIES, MYSELF IN-
+CLUDED. I THINK, IN FAIRNESS, HUMAN NATURE IS LESS AT FAULT THAN THIS MONUMENT
+TO FUTILITY... REMEMBER THAT PINBALL MACHINE WHICH YIELDED A FREE GAME EVERY
+THOUSAND TRIES...?  THIS GAME OFFERS THE SAME LIKELIHOOD OF VICTORY AS THAT
+VERY SAME MACHINE WITH ONLY 2 BALLS AND INOPERATIVE FLIPPERS... THE 'STING' ?
+ZOSO
+
+I HAVE TO ADMIT THAT I LIKE SWARMS A LOT.  BUT THEN, ZOSO'S SANE AND I MUST
+BE ELSEWISE (?).  THERE ARE A LOT OF OPTIONS AND THE SITUATION IS REAL ENOUGH
+TO KEEP UP THE SUSPENSE.  WELL, THAT'S MY OPINION, ANY WAY. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+ACOS.BASICOBJ/BASICCOM
+
+THIS IS THE MOST INANE PROGRAM I HAVE EVER SEEN.  BUT, THE ONE I TALK
+ABOUT MOST!  IT IS SO STUPID, IT INTRIGUES ME.  I CHANGED THE LOGIC
+SO THAT "MY BROTHER" EATS A SLIGHTLY RANDOM NUMBER OF TACOS MORE THAN
+YOU DO EVERY TIME AND ALSO ADDED AN ESCAPE ROUTINE (CR).  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+AXMAN.BASICOBJ/BASICCOM
+
+A FACTORS NUMBER GAME. YOU TAKE A NUMBER AND THE COMPUTER TAKES ALL THE
+FACTORS. WHOEVER GETS THE LARGEST NUMBER WINS.  NOT BAD.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>C
+:
+
+IME.BASICOBJ/BASICCOM
+
+YOU CONFIRM WHAT THE LOCAL TIME IS AND THEN TELL THE COMPUTER THE
+NAME OF A MAJOR CITY IN THE WORLD.  IT TELLS YOU THE LOCAL TIME THERE.
+I WROTE IT TO HELP FIGURE OUT GOOD TIMES TO CALL PEOPLE IN FOREIGN
+COUNTRIES.  NOTHING WORSE THAN THINKING IT'S 3PM IN TOKYO ONLY TO
+REACH A SLEEPY FRIEND WHO INFORMS YOU THAT IT'S 3AM THEIR TIME.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+RAP.BASICOBJ/BASICCOM
+
+ANOTHER NUMBER GUESSING GAME. THIS TIME YOU TRY TO BRACKET THE
+SECRET NUMBER.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+
+ELL, THAT'S  THE END  OF VOLUME 4.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+
+***************************************************************
+
+>
+
+>LIST NEWS4.LETTER (NOH
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+From Fred Bellomy                                            9 June 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Hi Sports fans:
+
+In between writing these blurbs I think of a million things I'd like to
+talk about.  But, when the time comes to put it down, I'm speechless.
+For one thing, Volume 3 was only finished a week or so ago.
+
+This volume contains 14 games which include the worst so far (TACOS) and
+one of the most interesting (SWARMS).  I think the international time
+converter (TIME) is great (but then, I wrote it) and I know a lot of
+folks are going to appreciate the household budget program, BUDGET.
+
+Dispite the fact that many of the press releases have started to appear,
+I haven't gotten any new software contributions for a couple of weeks
+now.  Come on you guys and gals; keep the exciting contributions coming.
+
+Nothing new yet on the Bulletin Board System.  I'm trying to get a
+separate dedicated computer to put it on.  The software hasn't arrived
+as yet, but is ordered.  If you have any suggestions for special ways we
+might use it when it is up and running, let me know.  I'm looking into
+the possibilities for hooking up with one of the networks (ie TELENET or
+TYMNET) to make it possible for you all to reach the OUG CBBS at low
+cost.  I don't know how soon that will be possible, but its in the
+thinking process.  If you have any information on how to make it happen,
+get in touch with me.
+
+I've included three blurbs from Phase One Systems (file type ARTICLE or
+INFORMTN) that you might want to read sometime.
+
+No newsletter contributions from any of you, so that's it.
+
+Peace,
+
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+>LIST ASKOSIS1.ARTICLE:A (NOH
+                                    ASK OASIS
+
+
+          Chris Williams, one of Phase One Systems' technical support staff,
+     has   extensive   first  hand   experience  in  quickly  isolating  and
+     eliminating your trouble spots.
+
+          In this  regular  column, Chris  will address your most frequently
+     asked questions and highlight tips to let you work quicker and smarter.
+
+          First Boot Blues
+
+          Like any new  adventure, many users generate their first questions
+     just after receiving their original disks and documentation.
+
+          Chris reports that when anything is new to you, you frequently get
+     carried away and want to get on-line before reading even the first page
+     of instructions.
+
+          Before doing  anything  else  with  OASIS,  Chris  recommends  the
+     following procedure.
+
+                   1. READ
+
+                   Read everything you can concerning both the hardware
+              and software.  If you do run into a question, you'll know
+              where to look without wasting time.
+
+                   2. Protect Your System Disk
+
+                   Make sure  your  new disk  is write-protected before
+              you boot up.  No use taking any chances.
+
+                   3. Attach Peripherals
+
+                   Your hardware  must   be  physically  and  logically
+              mated.   OASIS provides  you with the "ATTACH" command to
+              simplify  this task.   Printers, disk drives and consoles
+              have  special  codes  which  are fully  documented in the
+              reference  manual.  But  since you read that first thing,
+              you already know that.
+
+                   4. Backup
+
+                   Resist the  urge  to  jump  in  and design  your new
+              program to save the economy.  First use OASIS to format a
+              blank  disk  with  the  intelligent INITDISK  command and
+              options,then  make  a  back-up  copy of  the system disk.
+              Label it clearly, with the copyright notice and any other
+              pertinent information.
+
+                   Now lock  your original  disk away for emergency use
+              only.  Again, better safe than sorry.
+1        In addition to  the in-depth reference manual, OASIS  HELP messages
+         are provided for all major utilities.  It is possible, though, that
+         you may run  into a unique, undocumented situation.   (No situation
+         is fool-proof.)
+
+              Undocumented Dilemmas
+
+              For those  rare  occasions  when you  do have an unprecedented
+         difficulty, Chris recommends an additional few steps that will save
+         you time and aggravation.
+
+              "Again, please  be sure  you've thoroughly researched all your
+         software and  hardware documentation.  If you're still convinced of
+         a problem,  write down the exact details of what transpired between
+         you  and  the system.   Include the  commands,  error messages, and
+         other outside activities which may be affecting the situation.
+
+              "Have your serial  number and license information handy before
+         you  call.   We   can  only  assist  you  after   considering  this
+         prerequisite."
+
+              Chris adds  that the  vast majority  of  your questions can be
+         answered within the  manual, and that your first  inquiry should be
+         made to your  system supplier.  If all else  fails, of course Phase
+         One will always be available for your technical needs.
+
+              If you  have  any special,  machine independent questions that
+         you'd like  to share, feel free to drop Chris a line in care of the
+         Software  Monitor.   If you've  found any special OASIS programming
+         tips  of  your own,  just let  us know.  We'll offer a  year's free
+         maintenance  and up-date  to any person who contributes interesting
+         or particularly effective  tips that are published in  the Software
+         Monitor.  Good luck!
+
+                                       # # #
+
+
+>LIST ASKOSIS2 ARTICLE (NOH
+                                    ASK OASIS
+
+
+          By Chris Williams, Phase One Systems
+
+          Disk Compression Utility
+
+          Many OASIS users  have recently asked Phase One Systems to provide
+     a  disk  space  organization utility;  a program  to  "squeeze" out the
+     unused spaces between  files, leaving a larger and  more useful area at
+     the end of the disk.
+
+          Because such a  utility would  be somewhat hazardous to use,  most
+     sensible  users would  perform a  backup  or archive beforehand.  Since
+     these  functions  will  ultimately perform  the compression desired, we
+     suggest  this  as the  safest, most  reliable  method.  The recommended
+     procedure is:  1) BACKUP or ARCHIVE the disk to be compressed; 2) then,
+     onto a cleared  disk [INITDISK fd (CLEAR)], COPYFILE  or RESTORE all of
+     the files.   The end  result will be a disk  with the same contents but
+     with all files contiguous.
+
+          Another question  that  often  arises  as users  acquire hard disk
+     systems  concerns a  degradation in  speed of file lookups as  the disk
+     directory becomes 70-80% full.
+
+          The directory is accessed  with the same algorithms as  indexed or
+     keyed files,  and  will  perform  similarly  to those  file  types when
+     nearing  capacity.  Another  related point  is  that entries which have
+     been deleted  from the file or directory, although they will be re-used
+     when a new entry is made, have the same effect on access time as if the
+     entry  were not  deleted.   The  solution?   Be  sure to  use  the disk
+     compression  procedure  described  above with  the addition of insuring
+     that  the disk  has  the  largest  directory  size possible.   The  new
+     directory created by these procedures will optimize file access time.
+
+          Single Density Diskettes
+
+          On the  other hand,  many floppy  disk  users have been requesting
+     information    regarding    changing    between   double-density    and
+     single-density systems.
+
+          To format  an  8" disk  as single  density,  simply use the SECTOR
+     option of the INITDISK command and specify that there is to be thirteen
+     sectors per track.  For example: INITDISK A (SECTOR 13.
+
+          MACRO Assembler Users
+
+          Programmers using  the OASIS  MACRO assembler sometimes wonder how
+     to determine which disk will receive the output from the object file.
+
+          Specifically, the  MACRO  assembler  always erases  all OBJECT and
+     LISTING files  that it  finds with the same file  name as it assembles.
+     After the  program is assembled and the option NOOBJ was not specified,
+     then  an  object file  is created  and placed on the disk:  1) that was
+     specified with  the OBJ=  option; or 2) where it  found the last object
+     file; or 3) on the same disk as the source program.
+1         Release 5.5 Considerations
+
+          There are two  points that that should be made about the new OASIS
+     5.5 release.
+
+          First, due to  space considerations, three files have been omitted
+     from   all  copies   of  the   multi-user   OASIS.   These  files  are:
+     SYSTEM.EXEC2, SYSTEM.EXEC3, and SYSTEM.EXEC4.  After you configure your
+     own system disk  with more space available on  it than the distribution
+     copy, you  should reinstate these files as they are necessary for users
+     2, 3,  and 4 to execute EXEC language programs.  (Refer to the "Systems
+     Files appendix of the OASIS System Reference Manual.)
+
+          The second point  concerns the Print SPOOLER.  As indicated in the
+     manual, the  SPOOLER uses the disk for storage of reports waiting to be
+     printed.   The  disk that  is used  is the one which contains  the file
+     SYSTEM.SPOOLQUE.  It  is probably best for floppy disk users to put the
+     SYSTEM.SPOOLQUE file  on a  disk by itself.  Do not  let the SPOOL disk
+     become too full  as the SPOOLER is very  unforgiving with a "DISK FULL"
+     condition.
+
+                                       # # #
+
+
+
+>LIST DLRINFO.INFORMTN:A (NOH
+                    INFORMATION FOR PROSPECTIVE OASIS DEALERS
+
+
+     I. DISCOUNTS
+
+          OASIS Dealer  discounts  start  immediately after  purchasing your
+          first system  at retail cost.  Subsequent orders are discounted as
+          follows:
+
+                   Orders per month            Discount Rate
+                    1-9                           30%
+                    10-19                         40%
+                    20 and above                  50%
+
+          Discounts  apply  to any  and all  of  your purchases of operating
+          systems,  options,  documentation, and  available languages.  Only
+          upgrades  and COBOL  Run-time modules  are not provided to you  at
+          these discount rates.
+
+     II. WARRANTY
+
+          OASIS is warrantied  for defects of manufacture for a period of 90
+          days.  Phase  One Systems  will provide, at its descretion,  a new
+          operating  system  or  appropriate  repair  instructions  for  all
+          systems sold  by  Phase  One  Systems  or its  authorized  agents.
+          Upgrades  are  provided  upon  request  to  all  warrantied, fully
+          licensed users at a nominal charge to cover media and handling.
+
+          Phase One   Systems,   Inc.   makes   no  claims  and  assumes  no
+          responsibility  for the  performance or  fitness  of OASIS and its
+          options for any specific application.
+
+     III. PAYMENT PROCEDURE
+
+          To insure you of prompt service, all purchases are considered on a
+          pay-in-advance  or  guaranteed  basis only.   You may  use  COD or
+          credit card transactions for all your purchases.
+
+     IV. DELIVERY
+
+          In accordance  with state  and Federal statutes, Phase One Systems
+          cannot under  any circumstances guarantee exact delivery dates for
+          any purchases.
+
+          Every effort will  be made to process your orders within two weeks
+          of its  receipt.  Delivery lead times may vary depending upon your
+          hardware requirements and unforeseen circumstances.
+
+     V. DEALER RESPONSIBILITY
+
+          In exchange for services and consideration rendered, OASIS dealers
+          are  expected  to maintain  the Phase  One  Systems reputation for
+          quality and support.
+
+          In accordance  with generally  accepted business practice, Licence
+          Agreement processing,  initial end-user implementation assistance,
+1         and  on-going  technical support  are required and encouraged.  Of
+          course, Phase One  Systems will always be available  for resolving
+          unique and otherwise diverse questions.
+
+     VI. PHASE ONE SYSTEMS DEALER SUPPORT
+
+          In additon to being available for special circumstances, Phase One
+          Systems provides authorized dealers with:
+               a) various occaisional incentive packages
+               b) promotional consideration in the form of providing softwar
+                   and direct dealer directories to qualified inquires
+               c) technical application notes
+               d) a quarterly newsletter
+               e) discounts to special training classes in all aspects of
+                  OASIS
+
+>

@@ -1,0 +1,622 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: November 1981
+Volume: 7
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST7   A 11/03/81 17:28    31    2 S    69 VOL$7
+ADDRESS  BASICOBJ A 11/03/81 18:12   303   11 S   102 VOL$7
+ADDRESS  EXEC     A 11/02/81 15:55    14    1 S    48 VOL$7
+ADDRINFO BASICOBJ A 11/02/81 16:16   151   10 S   136 VOL$7
+CHECK3   BASICOBJ A 10/23/81 18:07   409   11 S    73 VOL$7
+CHECK3   EXEC     A 11/02/81 16:44    17    1 S    63 VOL$7
+CHECK3   FIRST    A 10/23/81 17:41     1    1 S     6 VOL$7
+CHECK3   NOTES    A 10/23/81 17:38    40    2 S    63 VOL$7
+DIB      TEXT     A 08/18/81 04:52    62    2 S    78 VOL$7
+GAMES    EXEC     A 08/28/81 17:08   131    4 S    66 VOL$7
+GROWRATE BASICOBJ A 11/02/81 15:23    43    2 S    70 VOL$7
+MAIL$DS  BASICOBJ A 10/31/81 21:21   399    9 S    98 VOL$7
+MAIL$DS  EXEC     A 11/03/81 17:43    44    2 S    83 VOL$7
+MEMBADD  BASICOBJ A 01/09/81 17:25    46    2 S    98 VOL$7
+MEMBER7  ADDRESS  A 10/30/81 18:37   144   21 S   241 VOL$7
+MEMBER7  FEEDBACK A 08/28/81 16:18   179    9 S    78 VOL$7
+NEWS     LETTER7  A 11/03/81 18:19   119    7 S    75 VOL$7
+PLAYBALL BASICOBJ A 08/28/81 17:03   352   14 S   106 VOL$7
+PRINTAT  EXEC     A 08/04/81 18:49    32    1 S    60 VOL$7
+REMINDER BASICOBJ A 08/24/81 02:06   108    5 S    93 VOL$7
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$7
+SPELCHEK BASICOBJ A 10/31/81 16:01   119    5 S    84 VOL$7
+SPELL    BASICOBJ A 10/25/81 16:57    43    2 S    74 VOL$7
+SPELL    EXEC     A 01/09/81 17:40    95    4 S    73 VOL$7
+SPELLADD EXEC     A 01/09/81 17:44    28    1 S    72 VOL$7
+SPELLING SIZE13   A 10/29/81 04:49  1004   21 I     1 VOL$7
+SPELLING SIZE15   A 10/29/81 04:49   475   14 I     1 VOL$7
+SPELLING SIZE4    A 10/25/81 16:46  2222   23 I     1 VOL$7
+SPELLING SIZE5    A 11/17/81 16:17  3930   45 I     1 VOL$7
+SPELSRTI BASICOBJ A 10/25/81 16:21    40    2 S    75 VOL$7
+SPELSRTS BASICOBJ A 10/25/81 16:16    37    1 S    73 VOL$7
+SYSREL   BASICOBJ A 11/03/81 18:07    37    1 S    71 VOL$7
+VOL7     EXEC     A 12/01/81 18:18   273    8 S    75 VOL$7
+WISH     LIST7    A 11/02/81 16:17    47    2 S    75 VOL$7
+34 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D (NOQ, REPL
+ADDRESS.EXEC:A copied to ADDRESS.EXEC:D
+GROWRATE.BASICOBJ:A copied to GROWRATE.BASICOBJ:D
+MAIL$DS.EXEC:A copied to MAIL$DS.EXEC:D
+MEMBER7.ADDRESS:A copied to MEMBER7.ADDRESS:D
+SPELLADD.EXEC:A copied to SPELLADD.EXEC:D
+CHECK3.BASICOBJ:A copied to CHECK3.BASICOBJ:D
+GAMES.EXEC:A replaces GAMES.EXEC:D
+SPELL.BASICOBJ:A copied to SPELL.BASICOBJ:D
+CHECK3.NOTES:A copied to CHECK3.NOTES:D
+PRINTAT.EXEC:A copied to PRINTAT.EXEC:D
+SPELCHEK.BASICOBJ:A copied to SPELCHEK.BASICOBJ:D
+SPELLING.SIZE4:A copied to SPELLING.SIZE4:D
+SYSREL.BASICOBJ:A copied to SYSREL.BASICOBJ:D
+$README.FIRST7:A copied to $README.FIRST7:D
+SPELLING.SIZE13:A copied to SPELLING.SIZE13:D
+ADDRINFO.BASICOBJ:A copied to ADDRINFO.BASICOBJ:D
+DIB.TEXT:A copied to DIB.TEXT:D
+MEMBER7.FEEDBACK:A replaces MEMBER7.FEEDBACK:D
+RUN$.EXEC:A replaces RUN$.EXEC:D
+WISH.LIST7:A replaces WISH.LIST7:D
+CHECK3.EXEC:A copied to CHECK3.EXEC:D
+SPELL.EXEC:A copied to SPELL.EXEC:D
+SPELLING.SIZE15:A copied to SPELLING.SIZE15:D
+ADDRESS.BASICOBJ:A copied to ADDRESS.BASICOBJ:D
+CHECK3.FIRST:A copied to CHECK3.FIRST:D
+MAIL$DS.BASICOBJ:A copied to MAIL$DS.BASICOBJ:D
+SPELSRTI.BASICOBJ:A copied to SPELSRTI.BASICOBJ:D
+SPELSRTS.BASICOBJ:A copied to SPELSRTS.BASICOBJ:D
+MEMBADD.BASICOBJ:A copied to MEMBADD.BASICOBJ:D
+SPELLING.SIZE5:A copied to SPELLING.SIZE5:D
+NEWS.LETTER7:A replaces NEWS.LETTER7:D
+PLAYBALL.BASICOBJ:A copied to PLAYBALL.BASICOBJ:D
+REMINDER.BASICOBJ:A copied to REMINDER.BASICOBJ:D
+VOL7.EXEC:A copied to VOL7.EXEC:D
+
+>VOL7
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 7  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  7
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST7   A 11/03/81 17:28    31    2 S    69 VOL$7
+ADDRESS  BASICOBJ A 11/03/81 18:12   303   11 S   102 VOL$7
+ADDRESS  EXEC     A 11/02/81 15:55    14    1 S    48 VOL$7
+ADDRINFO BASICOBJ A 11/02/81 16:16   151   10 S   136 VOL$7
+CHECK3   BASICOBJ A 10/23/81 18:07   409   11 S    73 VOL$7
+CHECK3   EXEC     A 11/02/81 16:44    17    1 S    63 VOL$7
+CHECK3   FIRST    A 10/23/81 17:41     1    1 S     6 VOL$7
+CHECK3   NOTES    A 10/23/81 17:38    40    2 S    63 VOL$7
+DIB      TEXT     A 08/18/81 04:52    62    2 S    78 VOL$7
+GAMES    EXEC     A 08/28/81 17:08   131    4 S    66 VOL$7
+GROWRATE BASICOBJ A 11/02/81 15:23    43    2 S    70 VOL$7
+MAIL$DS  BASICOBJ A 10/31/81 21:21   399    9 S    98 VOL$7
+MAIL$DS  EXEC     A 11/03/81 17:43    44    2 S    83 VOL$7
+MEMBADD  BASICOBJ A 01/09/81 17:25    46    2 S    98 VOL$7
+MEMBER7  ADDRESS  A 10/30/81 18:37   144   21 S   241 VOL$7
+MEMBER7  FEEDBACK A 08/28/81 16:18   179    9 S    78 VOL$7
+NEWS     LETTER7  A 11/03/81 18:19   119    7 S    75 VOL$7
+PLAYBALL BASICOBJ A 08/28/81 17:03   352   14 S   106 VOL$7
+PRINTAT  EXEC     A 08/04/81 18:49    32    1 S    60 VOL$7
+REMINDER BASICOBJ A 08/24/81 02:06   108    5 S    93 VOL$7
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$7
+SPELCHEK BASICOBJ A 10/31/81 16:01   119    5 S    84 VOL$7
+SPELL    BASICOBJ A 10/25/81 16:57    43    2 S    74 VOL$7
+SPELL    EXEC     A 01/09/81 17:40    95    4 S    73 VOL$7
+SPELLADD EXEC     A 01/09/81 17:44    28    1 S    72 VOL$7
+SPELLING SIZE13   A 10/29/81 04:49  1004   21 I     1 VOL$7
+SPELLING SIZE15   A 10/29/81 04:49   475   14 I     1 VOL$7
+SPELLING SIZE4    A 10/25/81 16:46  2222   23 I     1 VOL$7
+SPELLING SIZE5    A 11/17/81 16:17  3930   45 I     1 VOL$7
+SPELSRTI BASICOBJ A 10/25/81 16:21    40    2 S    75 VOL$7
+SPELSRTS BASICOBJ A 10/25/81 16:16    37    1 S    73 VOL$7
+SYSREL   BASICOBJ A 11/03/81 18:07    37    1 S    71 VOL$7
+VOL7     EXEC     A 12/01/81 18:18   273    8 S    75 VOL$7
+WISH     LIST7    A 11/02/81 16:17    47    2 S    75 VOL$7
+34 file(s), 247 block(s).
+▼ EWS.LETTER7:VOL$7                                        01/30/85 13:50 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEWS.LETTER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+1 November 1981
+
+
+Dear Member,
+
+This volume marks another important advancement in the activities of the
+OASIS USERS' GROUP.  For the first time commercial software is included.
+We purchased commercial distribution rights for the OASIS USERS' GROUP.
+The dictionary file is NOT public domain!  You have a legal copy of it
+and under some conditions can share it with other OASIS users in your
+geographical area, a condition generally true for anything in the library.
+If you have any questions about the copyright status of anything in the
+library, contact the author first.  Then, if you still have questions,
+get in touch with me.
+
+The SPELCHEK spelling checker probably is not the fastest one available,
+but it is certainly one of the least expensive.  And, it does work.  At
+least it tells you when words are not in the dictionary.  Unfortunately,
+there are a lot of strange non-words in the dictionary too.  I don't know
+how it was compiled, but some very unusual "words" show up - like "fred".
+In practice this has not proven to be much of a problem in my testing.
+I would appreciate feedback on your experiences in using it.  And, I would
+especially like lists of good words you find that are not now in the
+dictionary, or non-words and misspelled words you find that are in it.
+I am sure the availability of the dictionary is going to spark some really
+interesting new programs.
+
+I spent about a hundred hours getting the system together, including
+over 20 hours of computer time just rewriting the file into indexed
+segments.  I have a copy of the original sequential file in straight
+alphabetical sequence for anyone who wants to do something for us with
+that format.
+
+Speaking of hours spent on the OUG, I am spending a lot more time than
+I ever imagined it would take processing each new volume for the library.
+While this is still somewhat of a labor of love, the honeymoon is over.
+Fortunately, the income from fees is growing enough so that it is becoming
+worth my while financially.  Thanks folks.
+
+Speaking of income, it has been good enough that I am going to throw in
+volume 9 free along with volume 8 to all of you who set up standing orders.
+Actually, it makes sense because it takes two volumes + to hold the entire
+dictionary.  And, if I don't handle it this way we might end up with more
+volumes (and $35 fees) than I have been telling people to expect on the
+average.  No big deal, but that's how I see it.
+
+Now I don't want to make anyone feel guilty, but LOTS of you out there
+have promised software contributions that have so far not found their
+way into the library.  You like to get new stuff, and the main way we add
+new volumes to the library is through contributions from our members.
+SO GET YOURSELF AWAY FROM THE TV SET AND FINISH THAT PROGRAM YOU PROMISED!
+
+On the subject of new software, if you know of any really good commercial
+software or databases we can buy at a reasonable price (much less than
+$300 for unlimited rights) for conversion to OASIS and inclusion in our
+library, let me know.  It looks like that may be a good way to get new
+quality stuff.  That's how we got the SPELCHEK dictionary and the
+BusinessMaster II packages.
+
+Our BusinessMaster II conversion has bogged down.  Since the last news
+letter there has been no real progress made, of which I am aware.  Now
+that SPELCHEK is done I may be able to put a little more time into the
+project myself.  Our other partners have all been unable to give any of
+their time to the conversion lately.  That's one of the problems with
+trying to undertake a big project with an all volunteer team.  I am still
+optimistic, though, and will keep you informed.
+
+
+I am now very much aware that our members have a wide range of versions
+of OASIS, varying from 5.3 to 5.5.  Volume 1 had a couple of programs
+that had been compiled with version 5.4.  Several people called to say
+they couldn't run them with 5.5.  Now I learn that 5.5 has the capability
+of RE-compiling earlier versions so that they will run with 5.5.  All you
+have to do is issue the command: BASIC AWARI.BASICCOM.  The system will
+then generate a new compiled version.  BEWARE, the old 5.4 version is
+REPLACED, so if you want both versions, better make a copy.  I have fixed
+the current version of Volume 1 so that an automatic recompile happens
+when ever a new user runs the VOL1.EXEC.
+
+Some of you have reported that programs that worked fine with OASIS 5.4
+needed minor changes to run under 5.5.  I have taken the precaution of
+checking everything in volume 7 with both versions 5.4 and 5.5, and will
+plan to do the same for all future volumes.  Let me know if you have any
+other problems with anything in our library.
+
+The new computer for our bulletin board system is scheduled for shipment
+to us sometime very soon.  I have no idea how long it will take to get
+it up and operating with a dedicated phone number.  I do plan to bring
+the new system to the Fall COMDEX meeting this month in Los Vegas.  The
+folks at Digital Microsystems have promised to try and ship our machine
+sometime early this month, so I think it will be available in time for
+the meeting at the show.  I hope so, because it will give some of you a
+chance to play with it while you are there.
+
+We now have a time and place scheduled for our meeting at COMDEX.  It is:
+
+                        C O M D E X
+                        2 P.M. Friday, 20 November, 1981
+                        Conference Rooms 7 and 8
+                        Los Vegas Hilton Hotel
+
+The agenda is still flexible, but will definitely include a question and
+answer period with Phase One personnel and a period for people to make
+public announcements about software they expect to have available in the
+near future - both commercial and OUG library contributions.  It should
+give us a chance to explore new ways of realizing the tremendous potential
+of the OASIS operating system.  See you all there.
+
+So much for this news letter.  Unlike most of the others this one is being
+sent to all members so that they know of the COMDEX meeting. Most of our
+news letters only get "published" on the latest new volume of the library
+diskettes (or ONYX tapes).
+
+Happy computing,
+
+Fred L. Bellomy
+▼ EMBER7.FEEDBACK:VOL$7                                    01/30/85 13:50 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER.FEEDBACK for 1 SEPTEMBER 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+JOE TRIMBLE                                              26 August 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+Hi, Fred!
+
+     At last, here comes my next contribution.  The FILELIST doesn't look like
+much, but wait until you try some of these goodies!  Here's what I've done:
+
+     1) ADDRESS/ADDRINFO -- This is an updated version of the ADDRESS program
+     I sent to you earlier that you said needed some improvement and explana-
+     tion.  ADDRINFO is the explanation file, called by ADDRESS.
+
+     2) BIOPRNT2 is a real PRINTING version of "BIOPRINT" (which just sends
+     the biorhythm info to the screen).  I've also cleaned up some minor
+     errors and mis-spellings.
+
+     3) DIB is what should be page 148.1 of the MACRO manual: the control
+     block description of the Disk Identification Block which is located in
+     Sector 1 of every disk.  I had to puzzle this stuff out when I got a
+     messed up disk, but thought others might want the information, too.
+
+     4) PLAYBALL is one reason I've been so slow getting stuff to you.  After
+     getting slightly hooked on "BASEBALL", (and since the players were on
+     strike) I decided to convert it for CRT display.  After a couple of hours
+     of working at conversion, I gave up and started over from scratch.  It
+     is basically finished, though every once in awhile I come across an ano-
+     maly which shouldn't be there.  Rather than hold it any longer, though,
+     here it is.  PLEASE ENJOY IT---I've got about 20-25 hours programming
+     time in it . . .
+
+     5) REMINDER -- This is my approach to doing what "TICKLER" seems to be
+     designed to do.  Again, it turned out to be simpler for me to start over
+     rather than patch up "TICKLER".  (If it had not been anonymous I would
+     have worked harder at conversion . . .)
+
+     Now, I think/hope that ADDRESS takes care of one of the WISH LIST items,
+and "WSEARCH" looks like a working version of the "WORD$PZL" program you asked
+me to take a look at, so some progress is being made.  My database system
+hasn't gotten much further, however, so don't hold your breath waiting for it.
+There are several reasons for that, but one of them warrants a new paragraph:
+
+     Any users out there who have version 5.4F multi-user, BEWARE!  If you
+haven't already discovered it, if one user is RUNning a program which writes
+to a file, and another user is trying to SAVE a BASICOBJ program, . . .
+BOOM!  Both files' directories get grossly messed up (though the data up to
+that point is intact), so both files are essentially unusable--in fact, sub-
+sequent attempts to re-use either (after re-booting the system) have a marked
+tendency to overwrite Sectors 0 and 1 with zeroes: a mildly annoying fatal
+condition.
+
+     It took two and a half weeks of frantic work, haggling with Phase One,
+etc., to get the problem solved.  The solution:  get version 5.5 (or, better
+yet, 5.5A), which, not incidentally, does everything better than 5.4F.  Now
+I don't know for sure that this problem applies to other than DIGITAL MICRO-
+SYSTEMS owners, but if anyone runs into it, let Phase One know that you are
+due for a free 5.5 or better.
+
+     That problem, incidentally, was the impetus for the DIB info included
+on this disk.
+
+******************************************************************************
+
+VOLUME 6 IS GREAT!  Definitely the best yet, and FULL!  Zowie, is that worth
+the bucks!  Good job!  Congrats!  Thanks!  Etc.!
+
+     The changes you made to ADD and FIND are definite improvements (except
+that in creating or re-creating the LIBRARY, the option KEYLENGTH is illegally
+abbreviated KEY, rather than KEYL); I'm in the process of reworking our own
+LIBRARY to take advantage of the new programs.
+
+     I would suggest changing the name of the master VOL6.EXEC to $VOL6.EXEC
+in order to get it at the top of the FILELIST, but other than that, no com-
+plaints about the format.  (I'm still not in love with that VOLxx.EXEC ap-
+proach, but what the heck, it works . . .)
+
+     Because of the 5.4F problem, and priorities on getting ADDRESS done, and
+vacation, and PLAYBALL, and . . . and . . . and . . . I haven't done much ex-
+ploration yet of the contents of volumes 4-6.  I will, though, and faithfully
+promise to give you some feedback.
+
+     Your "editorial" is great.  Let me recommend for people who are interes-
+ted in serious discussion of the current and future state of the microcomputer
+revolution an article in a journal called "Sociological Methods & Research".
+The article is in Volume 9 Number 4 of the journal (which issue is entirely
+devoted to microcomputers in social research), and is called "The Microcom-
+puter Revolution?" by Craig Calhoun.  The man has done a pile of research on
+where we are now, and his discussion of future possibilities is mind-opening.
+Well written, insightful, packed full of information.  If you can't find it
+in your library, I'll send you a copy, Fred, which perhaps you could further
+disseminate.  It's forty pages long, though, so not cheap to copy.
+
+     Glad to see some serious programming is going on out there; I'm looking
+forward to the business package and other things coming.  OASIS is so fantas-
+tic, I hope we can really blow everyone away with our stuff.  Let's please
+keep trying to produce QUALITY stuff.  I'll keep hacking away, especially at
+the data base and the other things you sent.
+
+     The idea of a get-together at the WCCF sounds great, too.  Keep us up
+on developments there.
+
+     Quitting time, or I won't get this in the mail to you today, either.
+Keep up the good work.
+
+
+                              Joe Trimble
+                              The MENTAT Company
+                              236 Frisbie Street
+                              Oakland, CA 94611
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+DAVID SLATER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FEED BACK - I DO NOT KNOW WHY BUT I COULD NOT RUN ANY BASICCOM
+    FB  BASIC programs were compiled with 5.4 and will not
+        run with 5.5.  They must be recompiled.  See the
+        new COMPILE EXEC on Vol 6.
+          - PROGRAMS  I AGREE WITH THE OTHER USER'S THAT ONLY
+          - BASICOBJ PROGRAMS BE INCLUDED.
+    FB  Starting with Vol 6 that's how we do it.
+          - BETTER YET WOULD BE BASIC THIS FILE CAN BE LISTED
+          - IF NEED BE.
+    FB  BASIC version takes a little more space.  You can
+        now use the COMPILE EXEC to get a BASIC version, too.
+
+          - THE EXEC FILE TO INTRODUCE SHOULD BE EDIT FILES
+          - I HAD A HARD TIME READ THE INTRODUCTION BECAUSE
+          - MY CRT IS ONLY 24X16 AND THIS WOULD MAKE EASY TO
+          - USES THE SCRIPT TO PRINT IT
+    FB  Thought about this one a long time.  I think we will
+        continue to use the EXEC approach, but take a look
+        at the changes that have been made in Vol 5 & 6.
+
+FORMAT   EXEC
+IS USE TO FORMAT A DISK, VERIFY IT THEN LOOP
+FOR ANOTHER DISK. I USE IT TO TEST DISK
+(DISK NAME WILL BE TEST)
+    FB  We have a better one in the library already.
+GAMES    EXEC
+THIS IS YOUR EXEC BUT THE GAMES ARE LISTED IN
+GROUPS OF 15  FOR USE 64X16 CRT  (I COULD NOT
+GET THIS PROGRAM TO WORK, IT WOULD GIVE ME
+"GOTO.COMMAND NOT FOUND"
+    FB  I see the problem and will try to fix it.
+MAILLIST BASIC
+THIS IS A COMPLETE MAILLIST PROGRAM, IT WILL
+ADD , EARSE , PRINT (SHEET OF LABELS
+3 LABELS WIDE) , REVIEW
+    FB  This is being included in Vol 7 with minor mods as MAIL$DS.
+MAILLIST DOC      MORE INFO ON ABOVE MAILLIST
+OASIS    MAILLIST THE DATA FILE FOR THE MAILLIST
+PRINT    EXEC     THIS PROGRAM IS USE TO ATTACH  PRINTER
+DRIVERS (ONE IF LINE LENGHT IS UNDER 85
+ANOTHER IF OVER)
+    FB  This is being included in Vol 7 as PRINTAT EXEC.
+WUMPUS   BASICOBJ
+THE SAME OLD WUMPUS EXECPT THE WUMPUS IS ALL
+THE TIME MOVE AND LEAVES TRACKS IN THE CAVE
+IT BEEN IN , PLUS  SOME GOOD OLD
+TEXAS EDITORIALS
+   FB  This is being included in Vol 7 as WUMPUS2.
+
+DAVID C SLATTER
+5914 MARINER
+SAN ANTONIO,TX 78242
+512-623-1977
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of MEMBER.FEEDBACK
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ISH.LIST7:VOL$7                                          01/30/85 13:50 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST - I wish somebody would.......................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1.  We need a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E) to OASIS BASIC.
+
+
+3.  We need to develop a cheap way for members to call the new OUG Bulletin
+Board computer.  Does anyone know a way to use the networks (ie TELENET,
+TYMNET, etc.) or other phone service for cheap "off hours" communications?
+
+
+5.  We need a clearly written proceedure for setting up new class codes.
+
+6.  We need a conversion routine for converting ASSEMBLY language code
+from other Z80 systems to OASIS.
+
+7.  We need a BASIC disassembler.
+
+8.  I need a comprehensive mailing list program for keeping track of all
+our members - one that we can put in the public domain.
+Thanks for all the contributions on this on. Still don't have what I
+want yet.  It needs to operate with SCRIPT as well.
+
+9.  I need a data base system for maintaining the commercial software
+directory - again one that can be released into the public domain.
+
+10. We need people who can begin doing benchmark tests of the various
+software products that are becoming available - both propriatary and
+public domain.
+
+11. We need lots more applications to run against the dictionary data
+base.  An assembly version of SPELCHEK would be nice, too.
+
+12. We need someone to make a nice little summary of what is in the
+OASIS USERS' GROUP library.  The DISKFILE library program doesn't
+give enough information about what each program does.  It should be
+a system that can be used for maintaining the information, like Joe
+Trimble's DISKFILE library system.
+
+13.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 November 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 7.
+
+***************************************************************
+
+
+ADDRESS.BASICOBJ/ADDRESS.EXEC/ADDRINFO.BASICOBJ
+
+THIS IS A MAILING LIST MAINTAINANCE PROGRAM WRITTEN AND SUBMITTED
+BY JOE TRIMBLE.  IT INCLUDES THE MEANS FOR CREATING A NEW MAILING
+LIST FILE AS WELL AS FOR ADDING AND MODIFYING IT.
+
+NOTE THAT IT REQUIRES CURSOR ADDRESSING CAPABILITY.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HECK3.BASICOBJ/CHECK3.EXEC/CHECK3.FIRST/CHECK3.NOTES
+
+THIS IS A CHECKBOOK MAINTAINANCE PROGRAM WRITTEN BY HOWARD DECKER.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AMES.EXEC
+
+THIS IS THE LATEST VERSION OF THE UTILITY FOR SELECTING GAMES.
+DON'T FORGET TO COMPILE ALL THE GAMES BEFORE USING THIS SELECTION
+PROGRAM. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ROWRATE.BASICOBJ
+
+THIS PROGRAM WAS OBTAINED FROM AN UNKNOWN SOURCE.
+IT ALLOWS YOU TO CALCULATE THE RATE OF GROWTH OF ANYTHING
+GIVEN SOME HISTORICAL DATA ABOUT IT.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AIL$DS.BASICOBJ/MAIL$DS.EXEC
+
+THIS IS ANOTHER MAILING LIST MAINTAINANCE SYSTEM WRITTEN AND
+SUBMITTED BY DAVID SLATER. IT REQUIRES THE GENERATION OF AN
+INDEXED FILE FOR THE MAILING LIST.  THE SYSTEM PROMPTS YOU.
+THE DOCUMENTATION FOR THIS SYSTEM IS VERY LIMITED, BUT IT IS
+FAIRLY SELF EXPLANATORY.  IT IS A LITTLE DIFFERENT THAN THE
+OTHER MAILLIST SYSTEM, SO CHECK THEM BOTH OUT.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EMBADD.BASICOBJ/MEMBERS.ADDRESS
+
+THIS IS THE LATEST OASIS USERS' GROUP MEMBERSHIP LIST.  THE MEMBADD
+PROGRAM IS WHAT IS USED TO ADD NEW MEMBERS TO THE LIST.  THIS IS
+NOT THE MOST ELEGANT SYSTEM, BUT IT DOES HAVE THE ADVANTAGE OF GIVING
+ME AN ASCII SEQUENTIAL FILE I CAN SORT AND USE AS INPUT FOR SCRIPT
+PROGRAMS.  IT ASSUMES THAT THE MEMBERS.ADDRESS FILE RESIDES ON THE
+"A" DISK.  YOU PROBABLY WILL HAVE NO NEED TO USE IT AND I JUST
+INCLUDE IT FOR REFERENCE.
+
+TO SEE AN ALPHABET LISTING OF THE MEMBERS TYPE "RUN" ELSE <CR>:
+
+LAYBALL.BASICOBJ
+
+THIS IS A GREAT NEW GAME OF BASEBALL WRITTEN AND SUBMITTED BY
+JOE TRIMBLE.  I'M NOT MUCH ON SPORTS GAMES, MYSELF, BUT THIS
+ONE LOOKS PRETTY GOOD!  IT REQUIRES CURSOR ADDRESSING.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RINTAT.EXEC
+
+THIS IS A FAIRLY SPECIALIZED UTILITY FOR ATTACHING A PRINTER TO
+YOUR SYSTEM.  IT WAS WRITTEN AND SUBMITTED BY DAVID SLATER.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EMINDER.BASICOBJ
+
+THIS IS A GREAT LITTLE PROGRAM FOR MAINTAINING A CALENDAR OR
+REMINDER LIST.  IT WILL REMIND YOU OF ANYTHING THAT OCCURS
+AT ANY REGULAR INTERVAL.  IT WAS WRITTEN AND SUBMITTED BY
+OUR OWN JOE TRIMBLE.  HE'S BEEN A BUSY LITTLE BEE AGAIN
+AS USUAL.  MY SPECIAL THANKS FOR THIS ONE, JOE.  FRED.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PELCHEK.BASICOBJ/SPELL.BASICOBJ/SPELLADD.BASICOBJ
+SPELSRTI.BASICOBJ/SPELSRTS.BASICOBJ
+SPELLING.SIZE13/SIZE15/SIZE4/SIZE5
+
+OK FOLKS, HERE IS A BIGGY!  SPELCHEK IS A DOCUMENT SPELLING CHECKER.
+SPELL IS AN ONLINE DICTIONARY.  THE FILES NAMED SPELLING.SIZEn ARE
+THE SEGMENTS OF THE DICTIONARY ITSELF.  THE REST OF THE DICTIONARY
+SECTIONS ARE ON VOLUMES 8 AND 9.  YEP, ITS BIG.  YOU WILL NEED
+TO HAVE THE ENTIRE DICTIONARY IN YOUR SYSTEM IN ORDER TO USE ANY OF
+THE SOFTWARE THAT USES THE DICTIONARY.  THAT COULD BE A REAL PROBLEM
+FOR THOSE OF YOU WHO ONLY HAVE FLOPPIES, AS THE DICTIONARY ITSELF
+TAKES WELL OVER A HALF MEGABYTE!  YOU MAY HAVE TO JUGGLE THINGS ON
+YOUR SYSTEM DISK AS WELL.
+
+THE OTHER FILES ARE FOR MAINTAINANCE OF THE DICTIONARY FILES THEMSELVES.
+
+EVERYTHING IS INITIATED BY THE SPELL.EXEC FILE.  YOU KNOW, JUST TYPE
+SPELL AND IT WILL PROMPT YOU FOR THE REST OF THE NECESSARY INPUTS.
+THIS IS NOT PUBLIC DOMAIN.  I BOUGHT THE RIGHTS TO USE THE DICTIONARY
+FOR ANY PROGRAMS WE WRITE, BUT I AM THE ONLY ONE WHO CAN "SELL" ANY
+SYSTEM WHICH INCLUDES THE DICTIONARY.  SO, TAKE CARE WITH THIS ONE.
+LET ME KNOW IF YOU HAVE A NEED TO SHARE IT.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+YSREL.BASICOBJ
+
+THIS IS A PROGRAM FOR CALCULATING THE RELIABILITY OF A SYSTEM
+WHERE THE FAILURE RATES FOR INDIVIDUAL COMPONENTS AND THEIR
+EXPECTED LIFE ARE KNOWN.  IT WAS TAKEN FROM "SOME COMMON
+BASIC PROGRAMS" BY LON POOLE AND MARY BORCHERS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 7.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+
+***************************************************************
+
+>

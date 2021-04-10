@@ -1,0 +1,288 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: August 1982
+Volume: 16
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST16  A 09/01/82 19:39    55    3 S    69 VOL$16
+BLACJAC2 BASIC    A 09/01/82 18:06   332   10 S    91 VOL$16
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$16
+HANGMAN  BASIC    A 09/01/82 18:11   190   12 S    87 VOL$16
+LEASES   BASIC    A 09/01/82 18:13   153    6 S    82 VOL$16
+MCONVERT BASIC    A 08/30/82 18:40   404   15 S   160 VOL$16
+MCONVERT EXEC     A 03/27/82 17:59    53    2 S    73 VOL$16
+MCONVERT INFO     A 02/26/82 16:35    84    2 S    70 VOL$16
+MICKEY   PICTURE  A 04/24/82 18:19   119   11 S   124 VOL$16
+NEWS     LETTER16 A 09/01/82 19:37    18    1 S    70 VOL$16
+PHONE    BASIC    A 09/01/82 20:13   340   13 S    80 VOL$16
+PICTURES BASIC    A 08/14/82 18:22    30    2 S    77 VOL$16
+PICTURES EXEC     A 08/14/82 19:10    15    1 S    60 VOL$16
+PLUTO    PICTURE  A 04/24/82 17:47   187   22 S   132 VOL$16
+SELECT16 EXEC     A 09/01/82 19:06    34    2 S    46 VOL$16
+SNOOPY   PICTURE  A 04/24/82 19:18   141   18 S   129 VOL$16
+TTT1     BASIC    A 09/01/82 18:15   107    5 S    93 VOL$16
+VOL1     CONTENTS A 06/02/82 19:34   218    9 S    71 VOL$16
+VOL10    CONTENTS A 06/02/82 18:27   250    9 S    72 VOL$16
+VOL11    CONTENTS A 06/07/82 19:52   192    8 S    71 VOL$16
+VOL12    CONTENTS A 06/07/82 19:30   192    8 S    73 VOL$16
+VOL13    CONTENTS A 06/07/82 19:39   196    8 S    72 VOL$16
+VOL14    CONTENTS A 06/07/82 19:21   179    9 S    74 VOL$16
+VOL15    CONTENTS A 09/01/82 18:23   226   10 S    77 VOL$16
+VOL16    CONTENTS A 09/01/82 19:12   101    4 S    78 VOL$16
+VOL16    EXEC     A 09/01/82 19:14   260    7 S    78 VOL$16
+VOL2     CONTENTS A 06/02/82 19:23   184    8 S    79 VOL$16
+VOL3     CONTENTS A 06/02/82 19:09   164    6 S    77 VOL$16
+VOL4     CONTENTS A 06/02/82 19:04   224    9 S    79 VOL$16
+VOL5     CONTENTS A 06/02/82 18:55   212   10 S    79 VOL$16
+VOL6     CONTENTS A 06/02/82 18:45   179    7 S    77 VOL$16
+VOL7     CONTENTS A 06/02/82 18:39   120    5 S    72 VOL$16
+VOL8     CONTENTS A 06/02/82 18:32    10    1 S    71 VOL$16
+VOL9     CONTENTS A 06/02/82 18:31    10    1 S    71 VOL$16
+WISHES   BASIC    A 09/01/82 18:18    72    3 S    75 VOL$16
+35 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+BLACJAC2.BASIC:A copied to BLACJAC2.BASIC:D
+PICTURES.BASIC:A copied to PICTURES.BASIC:D
+VOL1.CONTENTS:A replaces VOL1.CONTENTS:D
+VOL12.CONTENTS:A replaces VOL12.CONTENTS:D
+VOL15.CONTENTS:A copied to VOL15.CONTENTS:D
+VOL7.CONTENTS:A replaces VOL7.CONTENTS:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+LEASES.BASIC:A copied to LEASES.BASIC:D
+MCONVERT.INFO:A copied to MCONVERT.INFO:D
+VOL2.CONTENTS:A replaces VOL2.CONTENTS:D
+VOL8.CONTENTS:A replaces VOL8.CONTENTS:D
+MCONVERT.BASIC:A copied to MCONVERT.BASIC:D
+PHONE.BASIC:A replaces PHONE.BASIC:D
+VOL11.CONTENTS:A replaces VOL11.CONTENTS:D
+VOL14.CONTENTS:A replaces VOL14.CONTENTS:D
+VOL3.CONTENTS:A replaces VOL3.CONTENTS:D
+VOL9.CONTENTS:A replaces VOL9.CONTENTS:D
+$README.FIRST16:A copied to $README.FIRST16:D
+MCONVERT.EXEC:A copied to MCONVERT.EXEC:D
+NEWS.LETTER16:A copied to NEWS.LETTER16:D
+SNOOPY.PICTURE:A copied to SNOOPY.PICTURE:D
+VOL4.CONTENTS:A replaces VOL4.CONTENTS:D
+MICKEY.PICTURE:A copied to MICKEY.PICTURE:D
+VOL10.CONTENTS:A replaces VOL10.CONTENTS:D
+VOL13.CONTENTS:A replaces VOL13.CONTENTS:D
+VOL16.CONTENTS:A copied to VOL16.CONTENTS:D
+VOL5.CONTENTS:A replaces VOL5.CONTENTS:D
+WISHES.BASIC:A copied to WISHES.BASIC:D
+HANGMAN.BASIC:A copied to HANGMAN.BASIC:D
+PICTURES.EXEC:A copied to PICTURES.EXEC:D
+PLUTO.PICTURE:A copied to PLUTO.PICTURE:D
+TTT1.BASIC:A copied to TTT1.BASIC:D
+VOL16.EXEC:A copied to VOL16.EXEC:D
+VOL6.CONTENTS:A replaces VOL6.CONTENTS:D
+SELECT16.EXEC:A copied to SELECT16.EXEC:D
+
+>VOL16
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 16  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  16,
+THE LATEST NEWSLETTER, AND FEEDBACK FROM MEMBERS:
+
+ON WHICH DRIVE [if other than "A"] IS VOL16 MOUNTED? [ A-G S ]:A
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST16  A 09/01/82 19:39    55    3 S    69 VOL$16
+BLACJAC2 BASIC    A 09/01/82 18:06   332   10 S    91 VOL$16
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$16
+HANGMAN  BASIC    A 09/01/82 18:11   190   12 S    87 VOL$16
+LEASES   BASIC    A 09/01/82 18:13   153    6 S    82 VOL$16
+MCONVERT BASIC    A 08/30/82 18:40   404   15 S   160 VOL$16
+MCONVERT EXEC     A 03/27/82 17:59    53    2 S    73 VOL$16
+MCONVERT INFO     A 02/26/82 16:35    84    2 S    70 VOL$16
+MICKEY   PICTURE  A 04/24/82 18:19   119   11 S   124 VOL$16
+NEWS     LETTER16 A 09/01/82 19:37    18    1 S    70 VOL$16
+PHONE    BASIC    A 09/01/82 20:13   340   13 S    80 VOL$16
+PICTURES BASIC    A 08/14/82 18:22    30    2 S    77 VOL$16
+PICTURES EXEC     A 08/14/82 19:10    15    1 S    60 VOL$16
+PLUTO    PICTURE  A 04/24/82 17:47   187   22 S   132 VOL$16
+SELECT16 EXEC     A 09/01/82 19:06    34    2 S    46 VOL$16
+SNOOPY   PICTURE  A 04/24/82 19:18   141   18 S   129 VOL$16
+TTT1     BASIC    A 09/01/82 18:15   107    5 S    93 VOL$16
+VOL1     CONTENTS A 06/02/82 19:34   218    9 S    71 VOL$16
+VOL10    CONTENTS A 06/02/82 18:27   250    9 S    72 VOL$16
+VOL11    CONTENTS A 06/07/82 19:52   192    8 S    71 VOL$16
+VOL12    CONTENTS A 06/07/82 19:30   192    8 S    73 VOL$16
+VOL13    CONTENTS A 06/07/82 19:39   196    8 S    72 VOL$16
+VOL14    CONTENTS A 06/07/82 19:21   179    9 S    74 VOL$16
+VOL15    CONTENTS A 09/01/82 18:23   226   10 S    77 VOL$16
+VOL16    CONTENTS A 09/01/82 19:12   101    4 S    78 VOL$16
+VOL16    EXEC     A 09/01/82 19:14   260    7 S    78 VOL$16
+VOL2     CONTENTS A 06/02/82 19:23   184    8 S    79 VOL$16
+VOL3     CONTENTS A 06/02/82 19:09   164    6 S    77 VOL$16
+VOL4     CONTENTS A 06/02/82 19:04   224    9 S    79 VOL$16
+VOL5     CONTENTS A 06/02/82 18:55   212   10 S    79 VOL$16
+VOL6     CONTENTS A 06/02/82 18:45   179    7 S    77 VOL$16
+VOL7     CONTENTS A 06/02/82 18:39   120    5 S    72 VOL$16
+VOL8     CONTENTS A 06/02/82 18:32    10    1 S    71 VOL$16
+VOL9     CONTENTS A 06/02/82 18:31    10    1 S    71 VOL$16
+WISHES   BASIC    A 09/01/82 18:18    72    3 S    75 VOL$16
+35 file(s), 248 block(s).
+▼ EWS.LETTER16:VOL$16                                      01/30/85 18:42 Page 1
+
+----------------------------------------------------------------------
+1 August 1982         N E W S   L E T T E R                  Volume 16
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+I just finished writing the volume 15 tome a couple of days ago.  So,
+I can't think of much more to add right now.  Maybe by the time I've
+got this one fully integrated and tested out something new will happen
+that will be worth talking about.  So, for now, PAUSE.......
+
+
+peace,
+
+
+Fred Bellomy
+(805) 965-0265 or 965-5555
+▼ File not found.
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 16.
+
+***************************************************************
+
+BLACJAC2.BASIC
+
+This is basically just another Blackjack program, except that the
+dealer sometimes deals from the bottom of the deck.  So, you've got
+to watch him/her like a hawk.  Just how you are supposed to do that
+on a computer I never did figure out.  I guess you'll just have to
+ask Hanief Edwards who did the conversion of this older program for
+OASIS.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ANGMAN.BASIC
+
+Carolyn Cannon reworked all of those other hangman programs I had
+converted and came up with this much improved version.  So, if you
+really are determined to hang around computer word games, use this
+one.  It's pretty good.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EASES.BASIC
+
+Jim Tillman of the MCONVERT fame has made a couple improvements
+to this program released earlier in volume 11.  It gives you a
+little more information for making lease/buy decisions.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+CONVERT.BASIC/EXEC/INFO
+
+Jim Tillman's masterpiece that converts MBASIC programs to OASIS
+BASIC was originally released on volume 11.  It had a number of
+known bugs and shortcomings.  Jim has reworked the released version
+so that it now works a little better.  Be sure to report any problems
+you have using it to him, so we can keep making it better.  The EXEC
+and INFO files are identical to the earlier releases.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HONE.BASIC
+
+found serious but easy to fix bug in the phone program i sent you earlier in
+june. i hope you have not yet distributed it. if you have, call me and I will
+give you the fix.  otherwise, use the version i am including on this disk.
+the exec which explains it, and the files associated with it, remain the same.
+Paul Schindler
+Sorry Paul, but it was released on volume 15 and all the copies are already
+made.  FB
+(415) 254-4923
+
+
+MEMBERS: Just replace your vol 15 version with this one.
+▼ ^
+ICKEY.PICTURE
+PICTURES.BASIC/EXEC
+PLUTO.PICTURE
+SNOOPY.PICTURE
+
+Here is a trio of new pictures all tied together with their own
+little program.  They require special printer setups, but that
+is explained in the program.  This was all submitted by Carolyn
+Cannon along with her other more serious stuff.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+TT1.BASIC
+
+          This program is a rewrite of TTT, a Tic Tac Toe program that
+          first appeared on Volume 2.  It has cursor addressing and the
+          playing field has been enlarged for better visibility.  It is
+          still simple-minded, but our six year old really enjoys it.
+          Tom & Carolyn Cannon
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OL1/VOL2/VOL3/VOL4/VOL5/VOL6/VOL7/VOL8/VOL9/VOL10/VOL11/VOL12/VOL13/VOL14/
+VOL15.CONTENTS
+
+This is a collection of brief descriptions of the contents of all the
+volumes released so far.  You asked for it, so here it is.  I printed
+out the whole collection for myself and find the "book" very useful.
+You might give some thought to doing the same.  At the same time, why
+not LIST to the printer the DISKFILE.LIBRARY file and then you'll have
+an alphabetical index to everything in the library as well.  After you
+have printed all this stuff out you will understand why I didn't do it
+and distribute the printed version.  Postage alone would have cost a
+fortune!  You will note that the text is substantially the same as
+that in the VOLnn.EXEC's.  There are a few modifications, but very few.
+FB
+
+
+TO PRINT THEM ALL NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ISHES.BASIC
+
+This is an elementary grade learning program.  It gives the student
+practice in using color words and short sentences.  Not much to it
+unless you happen to be about 8 or 9 years old.  Might be a fun way
+for kids to learn how to interact with computers, though.  I have
+no idea where it came from.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 16.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>

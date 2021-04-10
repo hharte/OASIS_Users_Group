@@ -1,0 +1,578 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: March 1982
+Volume: 11
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+EXPANDI.EXEC:A copied to EXPANDI.EXEC:D
+XFDCP.BASICOBJ:A copied to XFDCP.BASICOBJ:D
+XMLP.BASICOBJ:A copied to XMLP.BASICOBJ:D
+XSFD.BASICOBJ:A copied to XSFD.BASICOBJ:D
+XSSTD.BASICOBJ:A copied to XSSTD.BASICOBJ:D
+XFMIFW.BASICOBJ:A copied to XFMIFW.BASICOBJ:D
+XMMM.BASICOBJ:A copied to XMMM.BASICOBJ:D
+XFAIROAL.BASICOBJ:A copied to XFAIROAL.BASICOBJ:D
+XVDOTW.BASICOBJ:A copied to XVDOTW.BASICOBJ:D
+XVSCMC.BASICOBJ:A copied to XVSCMC.BASICOBJ:D
+XMCI.BASICOBJ:A copied to XMCI.BASICOBJ:D
+XSMWUT.BASICOBJ:A copied to XSMWUT.BASICOBJ:D
+XSND.BASICOBJ:A copied to XSND.BASICOBJ:D
+XFPOAL.BASICOBJ:A copied to XFPOAL.BASICOBJ:D
+SELECT11.EXEC:A copied to SELECT11.EXEC:D
+XMACDTR.BASICOBJ:A copied to XMACDTR.BASICOBJ:D
+XMACRTD.BASICOBJ:A copied to XMACRTD.BASICOBJ:D
+XMSE.BASICOBJ:A copied to XMSE.BASICOBJ:D
+XSNOR.BASICOBJ:A copied to XSNOR.BASICOBJ:D
+XMPOAT.BASICOBJ:A copied to XMPOAT.BASICOBJ:D
+XVA.BASICOBJ:A copied to XVA.BASICOBJ:D
+PHONENOS.DATA:A copied to PHONENOS.DATA:D
+XFDA.BASICOBJ:A copied to XFDA.BASICOBJ:D
+XFTOAL.BASICOBJ:A copied to XFTOAL.BASICOBJ:D
+XMTP.BASICOBJ:A copied to XMTP.BASICOBJ:D
+XMROQE.BASICOBJ:A copied to XMROQE.BASICOBJ:D
+XSGR.BASICOBJ:A copied to XSGR.BASICOBJ:D
+XSMVSD.BASICOBJ:A copied to XSMVSD.BASICOBJ:D
+XVFWT.BASICOBJ:A copied to XVFWT.BASICOBJ:D
+LOCAL.GROUPS:A copied to LOCAL.GROUPS:D
+VOL11.EXEC:A copied to VOL11.EXEC:D
+XFRD.BASICOBJ:A copied to XFRD.BASICOBJ:D
+XFEIROI.BASICOBJ:A copied to XFEIROI.BASICOBJ:D
+XSCSD.BASICOBJ:A copied to XSCSD.BASICOBJ:D
+XVRC.BASICOBJ:A copied to XVRC.BASICOBJ:D
+XFII.BASICOBJ:A copied to XFII.BASICOBJ:D
+XMD.BASICOBJ:A copied to XMD.BASICOBJ:D
+NEWS.LETTER11:A replaces NEWS.LETTER11:D
+XMMASSM.BASICOBJ:A copied to XMMASSM.BASICOBJ:D
+XMPOPE.BASICOBJ:A copied to XMPOPE.BASICOBJ:D
+LEASES.BASICOBJ:A copied to LEASES.BASICOBJ:D
+XFDR.BASICOBJ:A copied to XFDR.BASICOBJ:D
+XFFVORD.BASICOBJ:A copied to XFFVORD.BASICOBJ:D
+MCONVERT.INFO:A copied to MCONVERT.INFO:D
+XMAOTV.BASICOBJ:A copied to XMAOTV.BASICOBJ:D
+XMOOTV.BASICOBJ:A copied to XMOOTV.BASICOBJ:D
+XSPAC.BASICOBJ:A copied to XSPAC.BASICOBJ:D
+XSLCC.BASICOBJ:A copied to XSLCC.BASICOBJ:D
+$README.FIRST11:A copied to $README.FIRST11:D
+XFRPOAL.BASICOBJ:A copied to XFRPOAL.BASICOBJ:D
+XMCP.BASICOBJ:A copied to XMCP.BASICOBJ:D
+XMROPHIS.BASICOBJ:A copied to XMROPHIS.BASICOBJ:D
+XFRBOAL.BASICOBJ:A copied to XFRBOAL.BASICOBJ:D
+XSSR.BASICOBJ:A copied to XSSR.BASICOBJ:D
+XSLR.BASICOBJ:A copied to XSLR.BASICOBJ:D
+XVAGRFP.BASICOBJ:A copied to XVAGRFP.BASICOBJ:D
+XFMAT.BASICOBJ:A copied to XFMAT.BASICOBJ:D
+XMCC.BASICOBJ:A copied to XMCC.BASICOBJ:D
+PHONEASK.BASICOBJ:A copied to PHONEASK.BASICOBJ:D
+XVTDS.BASICOBJ:A copied to XVTDS.BASICOBJ:D
+XVATM.BASICOBJ:A copied to XVATM.BASICOBJ:D
+XMAOAP.BASICOBJ:A copied to XMAOAP.BASICOBJ:D
+XMLI.BASICOBJ:A copied to XMLI.BASICOBJ:D
+XMISR.BASICOBJ:A copied to XMISR.BASICOBJ:D
+XFRWFAI.BASICOBJ:A copied to XFRWFAI.BASICOBJ:D
+XFFVOAI.BASICOBJ:A copied to XFFVOAI.BASICOBJ:D
+XSER.BASICOBJ:A copied to XSER.BASICOBJ:D
+PHONEUPD.BASICOBJ:A copied to PHONEUPD.BASICOBJ:D
+XSSTDT.BASICOBJ:A copied to XSSTDT.BASICOBJ:D
+XVCW.BASICOBJ:A copied to XVCW.BASICOBJ:D
+XSMLR.BASICOBJ:A copied to XSMLR.BASICOBJ:D
+XSPD.BASICOBJ:A copied to XSPD.BASICOBJ:D
+XMITR.BASICOBJ:A copied to XMITR.BASICOBJ:D
+XMMI.BASICOBJ:A copied to XMMI.BASICOBJ:D
+XMPFOI.BASICOBJ:A copied to XMPFOI.BASICOBJ:D
+XSGMAD.BASICOBJ:A copied to XSGMAD.BASICOBJ:D
+XVDBTD.BASICOBJ:A copied to XVDBTD.BASICOBJ:D
+XMIGQ.BASICOBJ:A copied to XMIGQ.BASICOBJ:D
+EXPANDI.BASICOBJ:A copied to EXPANDI.BASICOBJ:D
+XMRROPN.BASICOBJ:A copied to XMRROPN.BASICOBJ:D
+XFEIT.BASICOBJ:A copied to XFEIT.BASICOBJ:D
+XSBD.BASICOBJ:A copied to XSBD.BASICOBJ:D
+XFLPOAL.BASICOBJ:A copied to XFLPOAL.BASICOBJ:D
+MCONVERT.MBASIC:A copied to MCONVERT.MBASIC:D
+MCONVERT.EXEC:A copied to MCONVERT.EXEC:D
+XMGCD.BASICOBJ:A copied to XMGCD.BASICOBJ:D
+XSCST.BASICOBJ:A copied to XSCST.BASICOBJ:D
+MEMBER11.FEEDBACK:A replaces MEMBER11.FEEDBACK:D
+XMPOF.BASICOBJ:A copied to XMPOF.BASICOBJ:D
+XFNIROI.BASICOBJ:A copied to XFNIROI.BASICOBJ:D
+XFSV.BASICOBJ:A copied to XFSV.BASICOBJ:D
+MCONVERT.BASICOBJ:A copied to MCONVERT.BASICOBJ:D
+
+>VOL11
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 11  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN AND "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  11
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE), THE VOLUME 11 NEWSLETTER,
+AND FEEDBACK FROM MEMBERS:
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST11  A 03/20/82 18:25    53    3 S    69 VOL$11
+EXPANDI  BASICOBJ A 03/27/82 19:52    56    2 S    80 VOL$11
+EXPANDI  EXEC     A 03/27/82 16:26    39    1 S    71 VOL$11
+LEASES   BASICOBJ A 03/27/82 17:22   163    5 S    73 VOL$11
+LOCAL    GROUPS   A 03/27/82 16:56    60    3 S    65 VOL$11
+MCONVERT BASICOBJ A 02/26/82 16:31   389   10 S    93 VOL$11
+MCONVERT EXEC     A 03/27/82 17:59    53    2 S    73 VOL$11
+MCONVERT INFO     A 02/26/82 16:35    84    2 S    70 VOL$11
+MCONVERT MBASIC   A 03/27/82 17:30   539   22 S    76 VOL$11
+MEMBER11 FEEDBACK A 03/27/82 17:02     9    1 S    64 VOL$11
+NEWS     LETTER11 A 03/27/82 18:30    72    4 S    72 VOL$11
+PHONEASK BASICOBJ A 02/25/82 16:32    33    2 S    81 VOL$11
+PHONENOS DATA     A 05/13/81 12:26     3   11 I    33 VOL$11
+PHONEUPD BASICOBJ A 02/25/82 16:39    55    2 S    76 VOL$11
+SELECT11 EXEC     A 03/27/82 18:00    92    5 S    46 VOL$11
+VOL11    EXEC     A 03/27/82 17:37   365   11 S    80 VOL$11
+XFAIROAL BASICOBJ A 03/23/82 17:18    52    2 S    72 VOL$11
+XFDA     BASICOBJ A 02/19/82 20:30    34    1 S    72 VOL$11
+XFDCP    BASICOBJ A 02/19/82 20:37    32    1 S    72 VOL$11
+XFDR     BASICOBJ A 02/19/82 20:41    27    1 S    72 VOL$11
+XFEIROI  BASICOBJ A 03/10/82 19:27    26    1 S    72 VOL$11
+XFEIT    BASICOBJ A 03/23/82 17:40   125    4 S    83 VOL$11
+XFFVOAI  BASICOBJ A 03/11/82 18:33    33    2 S    72 VOL$11
+XFFVORD  BASICOBJ A 03/23/82 16:14    33    2 S    72 VOL$11
+XFII     BASICOBJ A 03/11/82 18:41    33    2 S    72 VOL$11
+XFLPOAL  BASICOBJ A 03/23/82 16:15    41    2 S    72 VOL$11
+XFMAT    BASICOBJ A 03/23/82 16:28   113    3 S    72 VOL$11
+XFMIFW   BASICOBJ A 03/11/82 18:42    32    2 S    72 VOL$11
+XFNIROI  BASICOBJ A 03/11/82 18:44    29    1 S    72 VOL$11
+XFPOAL   BASICOBJ A 03/11/82 18:46    31    1 S    72 VOL$11
+XFRBOAL  BASICOBJ A 03/11/82 19:12    43    2 S    72 VOL$11
+XFRD     BASICOBJ A 03/16/82 18:32    33    2 S    72 VOL$11
+XFRPOAL  BASICOBJ A 03/11/82 18:48    31    1 S    72 VOL$11
+XFRWFAI  BASICOBJ A 03/11/82 18:38    33    2 S    72 VOL$11
+XFSV     BASICOBJ A 03/11/82 18:45    30    1 S    72 VOL$11
+XFTOAL   BASICOBJ A 03/21/82 21:22    33    1 S    74 VOL$11
+XMACDTR  BASICOBJ A 03/21/82 22:58    29    1 S    74 VOL$11
+XMACRTD  BASICOBJ A 03/23/82 16:33    34    2 S    72 VOL$11
+XMAOAP   BASICOBJ A 03/23/82 16:35    38    2 S    72 VOL$11
+XMAOTV   BASICOBJ A 03/23/82 17:15    59    2 S    74 VOL$11
+XMCC     BASICOBJ A 02/19/82 20:52    63    2 S    72 VOL$11
+XMCI     BASICOBJ A 03/23/82 17:22    49    2 S    72 VOL$11
+XMCP     BASICOBJ A 03/23/82 17:32   160    5 S    72 VOL$11
+XMD      BASICOBJ A 02/19/82 21:05    31    2 S    72 VOL$11
+XMGCD    BASICOBJ A 03/11/82 19:29    31    1 S    72 VOL$11
+XMIGQ    BASICOBJ A 03/21/82 23:04    44    2 S    75 VOL$11
+XMISR    BASICOBJ A 03/23/82 17:35    54    2 S    72 VOL$11
+XMITR    BASICOBJ A 03/23/82 17:36    32    1 S    75 VOL$11
+XMLI     BASICOBJ A 03/11/82 17:17    32    1 S    72 VOL$11
+XMLP     BASICOBJ A 03/23/82 17:50   176    5 S    78 VOL$11
+XMMASSM  BASICOBJ A 03/21/82 23:06    69    2 S    72 VOL$11
+XMMI     BASICOBJ A 03/23/82 17:59    69    2 S    72 VOL$11
+XMMM     BASICOBJ A 03/21/82 23:07    56    2 S    72 VOL$11
+XMOOTV   BASICOBJ A 03/11/82 20:26    29    2 S    72 VOL$11
+XMPFOI   BASICOBJ A 03/11/82 19:30    35    1 S    72 VOL$11
+XMPOAT   BASICOBJ A 03/23/82 18:09    70    3 S    72 VOL$11
+XMPOF    BASICOBJ A 03/21/82 23:08    79    3 S    72 VOL$11
+XMPOPE   BASICOBJ A 03/23/82 19:04   136    4 S    72 VOL$11
+XMROPHIS BASICOBJ A 03/11/82 19:12    74    3 S    97 VOL$11
+XMROQE   BASICOBJ A 03/11/82 18:17    27    1 S    72 VOL$11
+XMRROPN  BASICOBJ A 03/23/82 19:08    82    3 S    72 VOL$11
+XMSE     BASICOBJ A 03/11/82 19:37    64    2 S    72 VOL$11
+XMTP     BASICOBJ A 03/21/82 23:12    37    2 S    73 VOL$11
+XSBD     BASICOBJ A 03/13/82 01:24    38    1 S    72 VOL$11
+XSCSD    BASICOBJ A 02/19/82 19:53    42    2 S    72 VOL$11
+XSCST    BASICOBJ A 03/21/82 23:13    71    2 S    72 VOL$11
+XSER     BASICOBJ A 03/10/82 19:38    54    2 S    72 VOL$11
+XSFD     BASICOBJ A 03/11/82 18:26    45    2 S    98 VOL$11
+XSGMAD   BASICOBJ A 03/13/82 01:21    36    2 S    76 VOL$11
+XSGR     BASICOBJ A 03/23/82 19:18    54    2 S    72 VOL$11
+XSLCC    BASICOBJ A 03/16/82 16:41    35    1 S    72 VOL$11
+XSLR     BASICOBJ A 03/16/82 16:45    53    2 S    72 VOL$11
+XSMLR    BASICOBJ A 03/23/82 23:04   100    3 S    72 VOL$11
+XSMVSD   BASICOBJ A 03/21/82 23:14    57    2 S    72 VOL$11
+XSMWUT   BASICOBJ A 03/23/82 23:05    89    3 S    72 VOL$11
+XSND     BASICOBJ A 03/13/82 01:46    45    2 S    72 VOL$11
+XSNOR    BASICOBJ A 03/23/82 23:11    97    3 S    72 VOL$11
+XSPAC    BASICOBJ A 03/23/82 23:14    42    2 S    72 VOL$11
+XSPD     BASICOBJ A 03/13/82 01:27    30    1 S    72 VOL$11
+XSSR     BASICOBJ A 03/16/82 17:07    36    1 S    72 VOL$11
+XSSTD    BASICOBJ A 03/16/82 16:13    45    2 S    92 VOL$11
+XSSTDT   BASICOBJ A 03/23/82 23:19    67    3 S    89 VOL$11
+XVA      BASICOBJ A 03/23/82 23:45    48    2 S    79 VOL$11
+XVAGRFP  BASICOBJ A 03/23/82 23:46    53    2 S    72 VOL$11
+XVATM    BASICOBJ A 03/23/82 23:48    73    3 S    95 VOL$11
+XVCW     BASICOBJ A 03/24/82 00:00   110    3 S    72 VOL$11
+XVDBTD   BASICOBJ A 03/24/82 00:06    79    3 S    72 VOL$11
+XVDOTW   BASICOBJ A 02/19/82 20:39    52    2 S    77 VOL$11
+XVFWT    BASICOBJ A 03/16/82 17:32    76    3 S    72 VOL$11
+XVRC     BASICOBJ A 03/16/82 18:23    41    2 S    72 VOL$11
+XVSCMC   BASICOBJ A 03/16/82 21:38   179    5 S    75 VOL$11
+XVTDS    BASICOBJ A 03/24/82 00:12   106    3 S    72 VOL$11
+92 file(s), 246 block(s).
+▼ EWS.LETTER11:VOL$11                                      02/01/85 18:21 Page 1
+
+NEWSLETTER - Volume 11                             30 March 1982
+
+
+
+Dear Member;
+
+Greetings again.  As  it happens, I have held Volume 10 to send out with
+this one.   Frankly, I thought it would be ready a lot sooner than this,
+or I  would have sent 10 along around the first week in March.  Oh well,
+the road to hell is paved with good intentions, so they say.
+
+This volume (11) has got to be one of the best yet.  The MBASIC to OASIS
+BASIC  converter alone  make it  a winner.  Add to that  the 76 programs
+from "Some  Common BASIC  Programs" (Osbourne), and you have  one that's
+going to be hard to beat.
+
+Coming soon in the  near future (Volume 12 ??)  will be the complete set
+of programs published in "Practical BASIC Programs" again from Osbourne.
+Certainly we are  due for an updated membership  list, and that probably
+will be in Volume 12.
+
+I don't want  to make  your mouth water, so I  won't tell you everything
+people are  promising to  submit in the near future,  but there are some
+really  great  things coming!   I have  been urging everyone to send  us
+"utilities" for converting programs in other versions of BASIC to OASIS.
+Now we have our first one.  I think we should have one for CBASIC in the
+near  future, also.   Yes, I  know Phase One just announced  their's (at
+$250  !),  but we  were talking  about it long before they  made their's
+available.  I'm  sure there will be a "market" for both, as usual.  But,
+once again it will be hard to beat our "price."
+
+We still  need someone  to run  our dictionary through one of  the other
+commercial  spelling  checkers.  There  are definately some non-words in
+our  SPELCHEK dictionary.   It shouldn't  be such a big deal  to run our
+list against theirs.  Come on you guys.  Volunteer.
+
+If you  are  one  of  the  people  promising  great  things,  please  be
+encouraged to  get your  masterpiece finished and send it  in.  I do let
+hints slip now  and then when people call  asking about the availability
+of this or  that kind of program.  So,  someone is certainly waiting for
+your goodies (even if it is only me.).
+
+Speaking of goodies,  I still have 3 boxes of DSDD Wabash diskettes that
+I  want to  get rid  of at $35/box.  Also, I  have 30-40 TI 2716 EPROM's
+(the  multiple  voltage type)  for $8  each.  Wearing my other hat  (The
+INFO-MART) I  am a dealer for the Votrax TYPE-'N-TALK speech synthesizer
+($359) and the Microcompatible MICRO-CUE hardware spooler ($269 up).  We
+are also  dealing most of the popular CP/M software for any of you folks
+out  there  who  can't find  exactly what  you  want for operation under
+OASIS.
+
+Along this same  vain,  I  have  been  having discussions  with  several
+producers  of  commercial  OASIS  compatible  software  about  marketing
+ventures.  The discussions  have run the gamut from  discount offers for
+OUG members  to joint  national marketing efforts to the  creation of an
+OASIS  software supermarket  offering the  wares  of many OASIS software
+producers.  At the  moment our plans are still  in the early formulation
+stages, so  if you have any ideas or want to discuss a joint effort, get
+in  touch  with  me.  Any  such activity  envolving  commercial software
+probably would  be handled under the INFO-MART banner - and handled in a
+way  that  will  not detract  from the  great  achievements of the Oasis
+Users' Group.  So, let's talk.
+
+
+
+                                  Sincerely,
+
+
+                                  Fred L. Bellomy
+                                  (805) 965-0265
+                                  (805) 965-5555 (answering machine)
+
+▼ EMBER11.FEEDBACK:VOL$11                                  02/01/85 18:21 Page 1
+
+MEMBER FEEDBACK                                    20 March 1982
+
+
+There were no feedback files submitted since volume 10.  Lots of
+people called me, but no one sent in anything for this section.
+
+
+Fred L. Bellomy
+(805) 965-0265
+▼ THE FOLLOWING IS A SPECIAL MESSAGE ABOUT MAKING COPIES OF THE OUG
+LIBRARY FOR THIRD PARTIES, OR THE CREATION OF LOCAL USERS' GROUPS.
+
+▼ OCAL.GROUPS:VOL$11                                       02/01/85 18:21 Page 1
+
+20 March 1982
+
+SUBJECT:  "L O C A L"   U S E R S'   G R O U P S
+
+Dear Member:
+
+I've had  lots  of  inquiries about  members getting together and
+sharing  the  cost of  standing orders,  or  giving away software
+contained in the library to third parties.
+
+While it is true  that the majority of items  in the library were
+placed  in  the public  domain by  their  authors, our particular
+conversion  of  programs for  the library is copyrighted.  Almost
+everything in the library has undergone some refinement by me and
+other  members -  in some  cases our final versions are  not even
+recognizable as  the  originals.   To  what  ever extent  we  are
+entitled  to  copyright  the  results of  these, sometimes rather
+significant efforts, we have done so.
+
+Also, copyrighting the  library is  in part due to the  fact that
+there  are  indeed  many  items  now  in  the  library  that  are
+themselves copyrighted  and for  which we have only acquired  the
+right to distribute end-user copies to our members.
+
+IN A NUT SHELL,  THAT MEANS THAT NO ONE  MAY SELL ANYTHING IN THE
+LIBRARY, AND  THAT EACH MEMBER HAS AN END-USER LICENSE TO USE THE
+THINGS IN THE LIBRARY, ONLY.
+
+I'm trying to walk  a practical middle path that  will be fair to
+everyone concerned.  In  this regard, I have authorized  a number
+of people to  share their copy of the  library with other people,
+with the provision  that each of the other  people become members
+of  the Oasis  Users' Group  (by paying the $35 membership  fee).
+And,  I am  generally willing  to stretch this policy to  fit all
+kinds of special situations.
+
+This seems to  me  a  very  liberal  and fair  policy.   It is in
+everyone's  best  interests to  keep the  OUG  strong and viable.
+And, that means  the people who benefit from  it must support it.
+If we get too many free-loaders, either too little income will be
+coming in or the paying members will be paying too much.
+
+If you have  the  entire  library,  don't  give it  away  to your
+buddies, UNLESS  THEY ARE ALSO MEMBERS of the OASIS USERS' GROUP.
+The OUG library is being developed exclusively for the benefit of
+MEMBERS.  If they are not members, ask them to join and then give
+it to them.  That way everybody will be happy (and legal).
+
+The nature of  OASIS is such that we probably will never have the
+masses of  members  that  the  CP/M  or APPLE  groups  have.  Our
+universe  is smaller  and many  OASIS users don't even know  they
+have  it.  We  are  likely  to  remain  a relatively  small,  but
+certainly elite  group - even with the ever growing popularity of
+OASIS and OASIS-16.
+
+
+                                           Sincerely,
+
+                                           Fred L. Bellomy
+                                           OASIS USERS GROUP
+▼ ON'T FORGET YOU CAN MAKE A PRINTED COPY OF THE PREVIOUS INFORMATION
+BY LISTING THE FILES TO YOUR PRINTER (EG. LIST NEWS.LETTER11:A (P)).
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 11.
+
+***************************************************************
+
+
+EXPANDI.BASIC/EXEC
+
+At least once a month someone calls me to ask how they can increase
+the size of an INDEXED SEQUENTIAL file that has become full.  Finally
+one member suggested we should have a utility to expand the capacity
+of such files.  So, I took the basic algorhythm from Joe Trimble's
+FIND/ADD system and generalized it for any ISAM file.  I think it can
+be improved, but here is my first version.
+
+TO SEE THE HELP MESSAGE TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EASES.BASICOBJ
+
+This program will give you the financial data you need to make a
+lease/buy decision.  It was submitted by it's author, Jim Tillman,
+one of the partners in the CPA firm, Tillman, Giblin, and Riggs.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+CONVERT.BASICOBJ/EXEC/INFO/MBASIC
+
+Hold onto your hats, folks.  This is a biggie.  Jim Tillman,
+mentioned in the previous program description, and his partners
+put this gem together out of desperation when they were faced
+with the enormous task of converting all of their MBASIC programs
+to operate with their new OASIS system.  Jim says it saved them
+months of work. I took the set of programs Jim sent in and made
+a number of changes to make it easier for new people to use.  But
+basically, Jim gets all of the credit for the original creative
+work.
+
+I have run a couple of CBASIC programs through it, and SURPRISE,
+many of the MBASIC algorhythms work for CBASIC. Looking at the
+differences between BASIC-E and MBASIC suggests that it should
+not be too difficult to produce other conversion packages, starting
+with Jim's basic algorhythms.  If you are faced with the prospects
+of a massive conversion from one BASIC to OASIS BASIC, by all means
+consider working with me to get a new version for conversion of
+your particular BASIC.  I really don't think it's going to be all
+that hard, considering that we now have MCONVERT as a starting place.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HONEASK.BASICOBJ
+PHONENOS.DATA
+PHONEUPD.BASICOBJ
+
+Joe Trimble submitted this handy program for keeping track of who
+belongs to the phone numbers on your monthly bills.  A good idea
+that should be a big help for all those folks who have to check the
+monthly bills for unauthorized calls.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SBOURNE'S "SOME COMMON BASIC PROGRAMS" - FINANCIAL GROUP
+
+A group of 20 programs to handle a variety of financial problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (F,M,S, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+S is for Statistical, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Some Common Basic Programs."
+
+The FINANCIAL group follows:
+▼ XFAIROAL ANNUAL INTEREST RATE ON A LOAN
+XFDA     DEPRECIATION AMOUNT
+XFDCP    DISCOUNT COMMERCIAL PAPER
+XFDR     DEPRECIATION RATE
+XFEIROI  EFFECTIVE INTEREST RATE ON INVESTMENTS
+XFEIT    EARNED INTEREST TABLE
+XFFVOAI  FUTURE VALUE OF AN INVESTMENT
+XFFVORD  FUTURE VALUE OF REGULAR DEPOSITS (ANNUITY)
+XFII     INITIAL INVESTMENT
+XFLPOAL  LAST PAYMENT ON A LOAN
+XFMAT    MORTGAGE AMORTIZATION TABLE
+XFMIFW   MINIMUM INVESTMENT FOR WITHDRAWAL
+XFNIROI  NOMINAL INTEREST RATES ON INVESTMENTS
+XFPOAL   PRINCIPAL ON A LOAN
+XFRBOAL  REMAINING BALANCE ON A LOAN
+XFRD     REGULAR DEPOSITS
+XFRPOAL  REGULAR PAYMENT ON A LOAN
+XFRWFAI  REGULAR WITHDRAWALS FROM AN INVESTMENT
+XFSV     SALVAGE VALUE
+XFTOAL   TERM OF A LOAN
+
+TO TRY ONE NOW TYPE THE NAME OF THE PROGRAM ELSE HIT THE <CR> TO CONTINUE
+:
+
+SBOURNE'S "SOME COMMON BASIC PROGRAMS" - MATHEMATICAL GROUP
+
+A group of 27 programs to handle a variety of mathematical problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (F,M,S, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+S is for Statistical, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Some Common Basic Programs."
+
+The MATHEMATICAL group follows:
+▼
+XMGCD    GREATEST COMMON DENOMINATOR
+XMPFOI   PRIME FACTORS OF INTEGERS
+XMAOAP   AREA OF A POLYGON
+XMPOAT   PARTS OF A TRIANGLE
+XMAOTV   ANALYSIS OF TWO VECTORS
+XMOOTV   OPERATIONS ON TWO VECTORS
+XMACRTD  ANGLE CONVERSION: RADIANS TO DEGREES
+XMACDTR  ANGLE CONVERSION: DEGREES TO RADIANS
+XMCC     COORDINATE CONVERSION
+XMCP     COORDINATE PLOT
+XMPOPE   PLOT OF POLAR EQUATION
+XMPOF    PLOT OF FUNCTIONS
+XMLI     LINEAR INTERPOLATION
+XMCI     CURVILINEAR INTERPOLATION
+
+more-
+▼ XMISR    INTEGRATION: SIMPSON'S RULE
+XMITR    INTEGRATION: TRAPEZOIDAL RULE
+XMIGQ    INTEGRATION: GAUSSIAN QUADRATURE
+XMD      DERIVATIVE
+XMROQE   ROOTS OF QUADRATIC EQUATIONS
+XMRROPN  REAL ROOTS OF POLYNOMIALS: NEWTON
+XMROPHIS ROOTS OF POLYNOMIALS: HALF-INTERVAL SEARCH
+XMTP     TRIG POLYNOMIAL
+XMSE     SIMULTANEOUS EQUATIONS
+XMLP     LINEAR PROGRAMMING
+XMMASSM  MATRIX ADDITION, SUBRACTION, SCALAR MULTIPLICATION
+XMMM     MATRIX MULTIPLICATION
+XMMI     MATRIX INVERSION
+TO TRY ONE NOW TYPE THE NAME OF THE PROGRAM ELSE HIT THE <CR> TO CONTINUE
+:
+
+SBOURNE'S "SOME COMMON BASIC PROGRAMS" - STATISTICAL GROUP
+
+A group of 19 programs to handle a variety of statistical problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (F,M,S, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+S is for Statistical, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Some Common Basic Programs."
+
+The STATISTICAL group follows:
+▼
+XSPAC    PERMUTATIONS AND COMBINATIONS
+XSMWUT   MANNN-WHITNEY U TEST
+XSMVSD   MEAN, VARIANCE, STANDARD DEVIATION
+XSGMAD   GEOMETRIC MEAN AND DEVIATION
+XSBD     BINOMIAL DISTRIBUTION
+XSPD     POISSON DISTRIBUTION
+XSND     NORMAL DISTRIBUTION
+XSCSD    CHI-SQUARE DISTRIBUTION
+XSCST    CHI-SQUARE TEST
+XSSTD    STUDENT'S T-DISTRIBUTION
+XSSTDT   STUDENT'S T-DISTRIBUTION TEST
+XSFD     F-DISTRIBUTION
+XSLCC    LINEAR CORRELATION COEFFICIENT
+XSLR     LINEAR REGRESSION
+XSMLR    MULTIPLE LINEAR REGRESSION
+XSNOR    Nth ORDER REGRESSION
+XSGR     GEOMETRIC REGRESSION
+XSER     EXPONENTIAL REGRESSION
+XSSR     SYSTEM RELIABILITY
+TO TRY ONE NOW TYPE THE NAME OF THE PROGRAM ELSE HIT THE <CR> TO CONTINUE
+:
+
+SBOURNE'S "SOME COMMON BASIC PROGRAMS" - "VARIOUS" GROUP
+
+A group of 10 programs to handle a variety of problems.
+The names used in the OUG library all start with an "X", followed
+by one of four letters, (F,M,S, or V), to indicate the general
+catagory of program. F is for Financial, M is for Mathematical,
+S is for Statistical, and V is for Various kinds of programs.
+The rest of the name is composed of the first letters of the
+descriptive title used in the book, "Some Common Basic Programs."
+
+The "VARIOUS" group follows:
+▼ XVAGRFP  AVERAGE GROWTH RATE, FUTURE PROJECTIONS
+XVFWT    FEDERAL WITHHOLDING TAXES
+XVTDS    TAX DEPRECIATION SCHEDULE
+XVCW     CHECK WRITER
+XVRC     RECIPE COST
+XVSCMC   SURVEY CHECK (MAP CHECK)
+XVDOTW   DAY OF THE WEEK
+XVDBTD   DAYS BETWEEN TWO DATES
+XVATM    ANGLO TO METRIC
+XVA      ALPHABETIZE
+TO TRY ONE NOW TYPE THE NAME OF THE PROGRAM ELSE HIT THE <CR> TO CONTINUE
+:
+
+
+ELL, THAT'S  THE END  OF VOLUME 11.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (answering machine)
+
+***************************************************************
+
+>

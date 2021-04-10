@@ -1,0 +1,859 @@
+November 1984                   Volume: 41
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST41  A 05/03/84 18:16    60    3 S    65 VOL41
+ACCEPT41 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL41
+ASCIDUMP COMMAND  A 08/10/82 20:04     7    2 R   256 VOL41
+ASCIDUMP HELP     A 07/04/83 22:29     7    1 S    63 VOL41
+BASICBIG EXEC     A 10/21/84 18:16    50    2 S    68 VOL41
+BUILDSYS EXEC     A 10/21/84 18:16   102    4 S    64 VOL41
+COPYRITE BASIC    A 03/27/84 20:44    66    2 S   113 VOL41
+COPYRITE C        A 06/09/84 07:47    49    2 S    65 VOL41
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL41
+DIAL2    ASSEMBLE A 06/01/84 18:16   163    3 S    68 VOL41
+DIAL2    COMMAND  A 04/30/84 15:00     2    1 R   256 VOL41
+DIAL2$   EXEC     A 10/21/84 18:16   177    4 S    75 VOL41
+DIAL3    COMMAND  A 03/08/83 23:10    28    7 R   256 VOL41
+DIAL4    BASIC    A 10/21/84 18:16   144    8 S   142 VOL41
+DIAL4    EXEC     A 10/21/84 18:16    68    2 S    76 VOL41
+FORCASTD BASIC    A 10/21/84 18:16    27    1 S    47 VOL41
+FORCASTI BASIC    A 10/21/84 18:16    18    1 S    69 VOL41
+FORECAST A        A 10/21/84 18:16     8    1 D   125 VOL41
+FORECAST B        A 05/15/81 00:00     8    1 D   125 VOL41
+FORECAST BASIC    A 10/21/84 18:16   327   14 S   107 VOL41
+FORECAST C        A 05/23/81 00:00     8    1 D   125 VOL41
+FORECAST D        A 05/23/81 00:00     8    2 D   160 VOL41
+FORECAST E        A 05/25/81 00:00     8    2 D   160 VOL41
+FORECAST EXEC     A 10/21/84 18:16   146    3 S    72 VOL41
+FORECAST F        A 05/28/81 00:00     8    2 D   160 VOL41
+FORECAST G        A 06/03/81 00:00     8    2 D   160 VOL41
+FORECAST H        A 06/12/81 00:00     8    2 D   160 VOL41
+FORECAST J        A 06/12/81 00:00     8    1 D   125 VOL41
+FORECAST K        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST L        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST M        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST N        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST O        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST P        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST Q        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST R        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST S        A 06/22/81 00:00     8    2 D   160 VOL41
+FORECAST T        A 06/22/81 00:00     8    1 D   125 VOL41
+FORECAST U        A 06/22/81 00:00     8    1 D   125 VOL41
+FORECAST V        A 06/23/81 00:00     8    1 D   125 VOL41
+FORECAST W        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST X        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST Y        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST Z        A 06/24/81 00:00     8    2 D   160 VOL41
+FSORT    EXEC     A 10/21/84 18:16    34    1 S    66 VOL41
+HEXCMPR  BASIC    A 10/21/84 18:16   109    5 S   168 VOL41
+HEXCMPR  EXEC     A 10/21/84 18:16    67    2 S    68 VOL41
+LOCSECT  COMMAND  A 11/25/82 08:35    26    7 R   256 VOL41
+OASIS$$$ COMMAND  A 12/11/82 18:00    10    3 R   256 VOL41
+OUGBASIC EXEC     A 11/01/84 18:16   141    3 S    73 VOL41
+PAYOFF   BASIC    A 10/21/84 18:16    35    2 S    95 VOL41
+PFS      EXEC     A 10/21/84 18:16   228    7 S    76 VOL41
+PFS$AP   BASIC    A 06/13/84 13:33   463   18 S   159 VOL41
+PFS$AR   BASIC    A 06/13/84 14:28   683   23 S   152 VOL41
+PFS$RG   BASIC    A 06/13/84 14:21   559   24 S   156 VOL41
+SELECT41 EXEC     A 10/21/84 18:16    61    3 S    46 VOL41
+VOL41    CONTENTS A 10/21/84 18:16   184    8 S    66 VOL41
+VOL41    EXEC     A 10/21/84 18:16   487   12 S    73 VOL41
+VOL41    FEEDBACK A 10/21/84 18:16    90    4 S    65 VOL41
+VOL41    NEWS     A 10/21/84 18:16   219   12 S    65 VOL41
+WISH     LIST41   A 10/21/84 18:16   126    5 S    71 VOL41
+61 file(s), 244 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+DIAL4.EXEC:A copied to DIAL4.EXEC:D
+HEXCMPR.BASIC:A copied to HEXCMPR.BASIC:D
+PAYOFF.BASIC:A copied to PAYOFF.BASIC:D
+PFS$RG.BASIC:A copied to PFS$RG.BASIC:D
+VOL41.FEEDBACK:A copied to VOL41.FEEDBACK:D
+DIAL3.COMMAND:A copied to DIAL3.COMMAND:D
+FORCASTD.BASIC:A copied to FORCASTD.BASIC:D
+FORECAST.E:A copied to FORECAST.E:D
+FORECAST.J:A copied to FORECAST.J:D
+FORECAST.O:A copied to FORECAST.O:D
+FORECAST.T:A copied to FORECAST.T:D
+FORECAST.Y:A copied to FORECAST.Y:D
+HEXCMPR.EXEC:A copied to HEXCMPR.EXEC:D
+ASCIDUMP.HELP:A copied to ASCIDUMP.HELP:D
+DIAL2$.EXEC:A copied to DIAL2$.EXEC:D
+OASIS$$$.COMMAND:A copied to OASIS$$$.COMMAND:D
+PFS$AP.BASIC:A copied to PFS$AP.BASIC:D
+FORECAST.B:A copied to FORECAST.B:D
+FORECAST.G:A copied to FORECAST.G:D
+FORECAST.L:A copied to FORECAST.L:D
+FORECAST.Q:A copied to FORECAST.Q:D
+FORECAST.V:A copied to FORECAST.V:D
+LOCSECT.COMMAND:A copied to LOCSECT.COMMAND:D
+PFS.EXEC:A copied to PFS.EXEC:D
+VOL41.CONTENTS:A copied to VOL41.CONTENTS:D
+BASICBIG.EXEC:A copied to BASICBIG.EXEC:D
+COPYRITE.COMMAND:A copied to COPYRITE.COMMAND:D
+DIAL2.ASSEMBLE:A copied to DIAL2.ASSEMBLE:D
+FORECAST.EXEC:A copied to FORECAST.EXEC:D
+FSORT.EXEC:A copied to FSORT.EXEC:D
+OUGBASIC.EXEC:A copied to OUGBASIC.EXEC:D
+PFS$AR.BASIC:A copied to PFS$AR.BASIC:D
+SELECT41.EXEC:A copied to SELECT41.EXEC:D
+DIAL2.COMMAND:A copied to DIAL2.COMMAND:D
+FORECAST.D:A copied to FORECAST.D:D
+FORECAST.N:A copied to FORECAST.N:D
+FORECAST.S:A copied to FORECAST.S:D
+FORECAST.X:A copied to FORECAST.X:D
+WISH.LIST41:A copied to WISH.LIST41:D
+$README.FIRST41:A copied to $README.FIRST41:D
+COPYRITE.BASIC:A replaces COPYRITE.BASIC:D
+FORCASTI.BASIC:A copied to FORCASTI.BASIC:D
+FORECAST.A:A copied to FORECAST.A:D
+FORECAST.BASIC:A copied to FORECAST.BASIC:D
+FORECAST.F:A copied to FORECAST.F:D
+FORECAST.K:A copied to FORECAST.K:D
+FORECAST.P:A copied to FORECAST.P:D
+FORECAST.U:A copied to FORECAST.U:D
+FORECAST.Z:A copied to FORECAST.Z:D
+VOL41.NEWS:A copied to VOL41.NEWS:D
+BUILDSYS.EXEC:A copied to BUILDSYS.EXEC:D
+COPYRITE.C:A copied to COPYRITE.C:D
+VOL41.EXEC:A copied to VOL41.EXEC:D
+ACCEPT41.COMMAND:A copied to ACCEPT41.COMMAND:D
+ASCIDUMP.COMMAND:A copied to ASCIDUMP.COMMAND:D
+DIAL4.BASIC:A copied to DIAL4.BASIC:D
+FORECAST.C:A copied to FORECAST.C:D
+FORECAST.H:A copied to FORECAST.H:D
+FORECAST.M:A copied to FORECAST.M:D
+FORECAST.R:A copied to FORECAST.R:D
+FORECAST.W:A copied to FORECAST.W:D
+
+>VOL41
+♂OUG ver 2.0 09JUN84 Copyright Aylward Enterprises
+
+40      COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P       #$    $#   %"   &"   '"   ("   )"   *"   +"   ,#   -$    .%              /'          -0    ,2   +3   *3   )3   (3   '3   &3   %3   $2   #0    "%              !'          !:   ":   #:   $:   %:   &:   ':   (:   ):   *:   +:   ,;   -<    .=              /?          -H    ,J   +K   *K   )K   (K   'K   &K   %K   $K   #K   "K   !K   %c   $b   #`    "U              !W          #T    $S   %R   &R   'R   (R   )R   *R   +R   ,S   -T    .U              /W          -`    ,b   +c   *_       )_       0 0
+   ==================================================================
+   :           VOLUME 41 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   :  "It is easy to be a holy man on the top of a mountain."       :
+   :                                        Summerset Maugham       :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 41  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  41,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST41  A 05/03/84 18:16    60    3 S    65 VOL41
+ACCEPT41 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL41
+ASCIDUMP COMMAND  A 08/10/82 20:04     7    2 R   256 VOL41
+ASCIDUMP HELP     A 07/04/83 22:29     7    1 S    63 VOL41
+BASICBIG EXEC     A 10/21/84 18:16    50    2 S    68 VOL41
+BUILDSYS EXEC     A 10/21/84 18:16   102    4 S    64 VOL41
+COPYRITE BASIC    A 03/27/84 20:44    66    2 S   113 VOL41
+COPYRITE C        A 06/09/84 07:47    49    2 S    65 VOL41
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL41
+DIAL2    ASSEMBLE A 06/01/84 18:16   163    3 S    68 VOL41
+DIAL2    COMMAND  A 04/30/84 15:00     2    1 R   256 VOL41
+DIAL2$   EXEC     A 10/21/84 18:16   177    4 S    75 VOL41
+DIAL3    COMMAND  A 03/08/83 23:10    28    7 R   256 VOL41
+DIAL4    BASIC    A 10/21/84 18:16   144    8 S   142 VOL41
+DIAL4    EXEC     A 10/21/84 18:16    68    2 S    76 VOL41
+FORCASTD BASIC    A 10/21/84 18:16    27    1 S    47 VOL41
+FORCASTI BASIC    A 10/21/84 18:16    18    1 S    69 VOL41
+FORECAST A        A 10/21/84 18:16     8    1 D   125 VOL41
+FORECAST B        A 05/15/81 00:00     8    1 D   125 VOL41
+FORECAST BASIC    A 10/21/84 18:16   327   14 S   107 VOL41
+FORECAST C        A 05/23/81 00:00     8    1 D   125 VOL41
+FORECAST D        A 05/23/81 00:00     8    2 D   160 VOL41
+FORECAST E        A 05/25/81 00:00     8    2 D   160 VOL41
+FORECAST EXEC     A 10/21/84 18:16   146    3 S    72 VOL41
+FORECAST F        A 05/28/81 00:00     8    2 D   160 VOL41
+FORECAST G        A 06/03/81 00:00     8    2 D   160 VOL41
+FORECAST H        A 06/12/81 00:00     8    2 D   160 VOL41
+FORECAST J        A 06/12/81 00:00     8    1 D   125 VOL41
+FORECAST K        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST L        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST M        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST N        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST O        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST P        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST Q        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST R        A 06/14/81 00:00     8    2 D   160 VOL41
+FORECAST S        A 06/22/81 00:00     8    2 D   160 VOL41
+FORECAST T        A 06/22/81 00:00     8    1 D   125 VOL41
+FORECAST U        A 06/22/81 00:00     8    1 D   125 VOL41
+FORECAST V        A 06/23/81 00:00     8    1 D   125 VOL41
+FORECAST W        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST X        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST Y        A 06/24/81 00:00     8    1 D   125 VOL41
+FORECAST Z        A 06/24/81 00:00     8    2 D   160 VOL41
+FSORT    EXEC     A 10/21/84 18:16    34    1 S    66 VOL41
+HEXCMPR  BASIC    A 10/21/84 18:16   109    5 S   168 VOL41
+HEXCMPR  EXEC     A 10/21/84 18:16    67    2 S    68 VOL41
+LOCSECT  COMMAND  A 11/25/82 08:35    26    7 R   256 VOL41
+OASIS$$$ COMMAND  A 12/11/82 18:00    10    3 R   256 VOL41
+OUGBASIC EXEC     A 11/01/84 18:16   141    3 S    73 VOL41
+PAYOFF   BASIC    A 10/21/84 18:16    35    2 S    95 VOL41
+PFS      EXEC     A 10/21/84 18:16   228    7 S    76 VOL41
+PFS$AP   BASIC    A 06/13/84 13:33   463   18 S   159 VOL41
+PFS$AR   BASIC    A 06/13/84 14:28   683   23 S   152 VOL41
+PFS$RG   BASIC    A 06/13/84 14:21   559   24 S   156 VOL41
+SELECT41 EXEC     A 10/21/84 18:16    61    3 S    46 VOL41
+VOL41    CONTENTS A 10/21/84 18:16   184    8 S    66 VOL41
+VOL41    EXEC     A 10/21/84 18:16   487   12 S    73 VOL41
+VOL41    FEEDBACK A 10/21/84 18:16    90    4 S    65 VOL41
+VOL41    NEWS     A 10/21/84 18:16   219   12 S    65 VOL41
+WISH     LIST41   A 10/21/84 18:16   126    5 S    71 VOL41
+61 file(s), 244 block(s).
+▼ OL41.NEWS:VOL41                                          01/29/85 18:00 Page 1
+
+-----------------------------------------------------------------
+1 November 1984         N E W S   L E T T E R           Volume 41
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+
+
+
+VOL41: This  volume  has  two  big  packages: the  Microcomputing
+magazine, Personal  Financial  System, converted for  us by Farny
+LeGresley and  Chris Mallam, and a short term weather forecasting
+system  from  the same  two guys.   There  are three separate and
+different  Hayes Smartmodem  control programs, a cute CRT display
+that tells the world that Oasis is for professionals, and a whole
+bunch  of   new  utilities.   The  utilities  include:  ASCIDUMP,
+HEXCMPR, and  LOCSECT which are a sampling of programs from Henry
+Aylward's commercially available utility package.  I put together
+BASICBIG to  allow  extra  large  BASICOBJ  files to  be  edited,
+BUILDSYS to  create a new system disk with optimum file ordering,
+and  FSORT to  prepare sorted  FILELISTs when there are too  many
+files on your system for the regular Oasis FILELIST.COMMAND.  Joe
+Trimble threw in a program for calculating "baseball" pools and I
+submitted  the  EXEC  shell  I  use  for  introducing  new  basic
+programs.   Finally,  there  are  source  programs  for  the  OUG
+Copyright  display,  one in  basic and  one  in "C" from Aylward.
+A darned good collection this time.
+
+COMDEX: This year's  meeting no doubt will be of special interest
+to many  of our  members because of the big  changes at Phase One
+and  Otech  discussed  below.  Tim  Williams will  be  there with
+others from  Oasis Technologies.  Tim will make a short technical
+presentation about  what he has been doing and plans to do in the
+future with  both the 8 and 16 bit developments.  Representatives
+of  Oasis  Technologies  will  summarize  their  immediate  plans
+following   the   recent  reorganizations   and  realignments  of
+responsibilities; and will try to answer questions.
+
+The meeting will  be held at the Las Vegas MGM Grand Hotel in the
+Palace 5 conference room on Thursday, November 15 between 1 and 5
+PM.  The  agenda will is still tentative, but will look something
+like this:
+
+>>   1:00 Welcome and OUG report by FB
+>>   1:30 Where is Oasis now? by Tim Williams
+>>   2:00 Coffee break + Announcements by members
+>>   2:30 General Q/A session
+>>   3:00 New Product Showcase presentations
+>>   4:00 Technical clinics - ask the experts
+>>   5:00 Adjourn
+
+PHASE ONE  SYSTEMS:  As of  October 15th  they  are no longer the
+exclusive  distributor  for any  of the  several  versions of the
+OASIS operating system  created by Tim Williams.  On  that date a
+Federal  judge  in San  Francisco granted  Tim  Williams (and his
+company  Forth  Try  Inc.)  a preliminary  injunction prohibiting
+Phase One Systems Inc.  from further distribution of any of Tim's
+copyrighted software products.  Tim Williams (and Forth Try Inc.)
+had  previously  filed a  5 million  dollar  lawsuit against POS.
+Phase One in turn filed for Chapter 11 bankruptcy protection from
+its  creditors.   For  months both  organizations reportedly have
+been seesawing  between litigation and negotiation.  No less that
+a half  dozen concerned third parties have offered their services
+as mediators  in  an  effort  to  find win-win  solutions  to the
+disputes.   Apparently  none  of  these efforts  fully succeeded,
+because as we  go to press it seems  to be mainly the lawyers who
+are talking to one another.
+
+Tim Williams' other  company, Oasis Technologies, is now directly
+handling  all  business  and technical  activities related to the
+operating   systems    themselves,   including   implementations,
+technical  support,  promotion,  and  sales.   Things  are  a bit
+complex  for the  time being.   For example, the name Oasis  is a
+Phase   One   Systems  trade   mark  which  they  maintain  Oasis
+Technologies  will need  to acknowledge,  if  they refer to Tim's
+copyrighted  operating system  as Oasis.  Otech appears reluctant
+to do  this.   I  suppose  this  must eventually  lead  to a name
+change,  if  they  don't eventually  reach some agreement.  (Good
+lord, what would I do with all the stationary printed OUG?)
+
+Some of  the  drivers for  Oasis on  the 16-bit Altos and IBM  PC
+machines, and  the 8-bit  Tandy computers are owned by  Phase One
+Systems.   Otech presumably  cannot sell Oasis for these machines
+until  new  drivers have  been re-engineered.  Finally, Phase One
+Systems owns  the copyright for all of the reference manuals, and
+they currently may  be purchased only from Phase  One (they still
+have  about  2000 copies,  by the  way).   Might  be a  good idea
+to stock up,  if you are going to need some.   Otech tells me the
+new users Guide is  in final editing and will  be published soon,
+but it is not a full technical reference manual like the old ones
+Phase One has.  When the 2000 are gone no one could say what will
+happen.
+
+Howard Sidorsky told  me that he plans for Phase One Systems Inc.
+to continue doing business in areas related to Oasis, even though
+there will be  no affiliation with Tim Williams,  Forth Try Inc.,
+or Oasis  Technologies (the three have occasionally been referred
+to as the holy trinity).  Howard says that Phase One Systems will
+continue offering training classes; publishing the Oasis Software
+Directory  (which  I  think  has become  an excellent promotional
+piece this year,  both in graphic design and  contents); handling
+Oasis  related  mailings  using  their  20,000 name  mailing list
+(including 4000 that returned their license agreements); and will
+continue  distributing  Oasis  compatible POS  software including
+Control and Sort.
+
+The roots of this latest round of disputes go back several years.
+Relations between Phase One  and  Forth Try  principals,   Howard
+Sidorsky and Tim Williams,  were on occasion strained as early as
+1979, according to Kathleen Williams, Tim's wife. Since then, the
+original  contract between the two has been renegotiated at least
+twice, once in 1981 and again in 1983.  While the undercurrent of
+discontent was not always apparent to outside observers,  it must
+have been brewing for a long time.
+
+During this  three year  period Oasis,  once  a bright and rising
+star, has  been slowly sliding toward obscurity.  That it has not
+suffered more is a tribute to a large group of dedicated computer
+professionals who  recognize its superior technical qualities and
+have  been  willing to  buck the  popular trends to use the  more
+highly promoted, but inferior alternates.  These folks have stuck
+with Oasis despite complaints about long delays in the release of
+the  16-bit versions,  lack of effective promotional support, and
+uncertain technical support from the top at times.
+
+With the  public  clamoring  for  16-bit  systems  (albeit  often
+inadvisedly),  fueled  by  the release  of the  IBM  PC products,
+release  of  16-bit  Oasis  was  promised  by  Phase One  Systems
+originally for the  second quarter of 1981, but  was delayed time
+and time  again.  (The causes of this are hotly disputed by Otech
+and  POS.)  When  it  was  finally  released  late  in  1983  its
+performance   on  the   IBM  PC/XT  disappointed  many  and  some
+maintained  that   it  might  be  too  little  and  too  late  to
+effectively compete  with the flashy MS/DOS-UNIX front runners in
+the 16-bit arena.
+
+Sometimes overshadowing  the 16-bit  unavailability concerns, was
+the often  voiced dissatisfaction by software developers over the
+poor technical support  available to them for the  8-bit product.
+Users were forced to work around known bugs or to implement fixes
+themselves, as  many did.  In a number of cases manufacturers and
+software developers created their own technical support groups to
+offset what was otherwise unavailable from Phase One Systems.
+
+Diminishing awareness  in  the  marketplace,  apparently  due  to
+reduced media  advertising during this period, further eroded the
+fierce  loyalty which  continued to  be displayed by a number  of
+computer  manufacturers  and software  developers.  Lack of media
+awareness  and  inadequate  promotional  assistance from  POS for
+Oasis  compatible   products  has  been  the  single  most  often
+mentioned concern voiced by OUG members during the past couple of
+years.
+
+Tim Williams  recently   pointed  to  the  cover  of  a  brochure
+announcing a workshop on operating systems.  It mentioned several
+of the  major ones  and he jokingly said: "there  we are right on
+the cover: 'AND  OTHERS'." That pretty well sums  up the position
+Oasis  currently enjoys  as far  as  media awareness is concerned
+today, despite the  fact that the number of  microcomputers using
+Oasis and Unix right now is still comparable.
+
+OASIS TECHNOLOGIES:  In  talking to  everyone at Otech one cannot
+help  thinking   that  we  have  indeed  turned  a  corner.   The
+excitement level is high and there seems to be a clear commitment
+to  do what  must be  done to get Oasis back  on the track.  They
+definitely act like they mean business - attractive offices, lots
+of equipment, business suits, and even ties!
+
+During my  recent  visits  to  the  Otech  offices  in  Lafayette
+California we talked  about many things related to  Oasis.  I was
+especially  interested  to learn  that they  are  actively in the
+process    of    establishing   some    form   of   international
+distributor/tech-support network.  I was encouraged to learn that
+they are currently  negotiating for first round financing  in the
+range  of a  half million  dollars, and are planning a  major new
+promotional campaign.   Tim  says  he  is  working his  tail  off
+upgrading both  the 8  and 16 bit versions and  doing new/revised
+implementations (among other things).  During the days I spent at
+Otech   there  was   a  steady   stream   of  people  from  large
+organizations  coming  to work  out new  deals  with them, and it
+seemed like  the phones  never stopped ringing.  I was  impressed
+and my personal optimism has never been higher!
+
+CARAVAN: has  been   used  only  rarely  by  people  outside  the
+continental United  States.  I've always thought it was primarily
+the high  cost.  But,  while in Europe I learned  that is not the
+case.  It turns  out that the standard modem  carrier frequencies
+there  and  here  are not  compatible!  (The  September  issue of
+Personal  Computing  had  a  good  article  on  the compatibility
+problems)
+
+A couple of  our  ingenious  members  have  hooked up  Bell  212A
+compatible modems  to their  phone lines in Europe and  find they
+work just  fine for talking to machines in the U.S.  (but not for
+other machines  in any of the European countries).  Roland Ressel
+in  Hof  Germany (phone  09281-64160) is  attempting  to set up a
+bulletin  board  service for  German speaking  Oasis  users and I
+learned  that one  or more  of  the telecommunication networks in
+Europe has been interconnected with one or more of their American
+counterparts.   I am  currently investigating several options for
+opening  up  better  communications  with  our European  cousins.
+Several of  you here in the States have indicated that you are in
+the  process  of  or planning  to establish  your  own local BBS.
+Please keep us informed of your progress.
+
+
+
+Peace,
+
+
+Fred Bellomy
+(805) 965-0265 and (805) 965-5415 - CARAVAN, on-line information.
+
+-----------------------------------------------------------------
+end of                  N E W S   L E T T E R           Volume 41
+-----------------------------------------------------------------
+▼ OL41.FEEDBACK:VOL41                                      01/29/85 18:00 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL41.FEEDBACK                                    1 November 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+06/09/84,03:26:08, 55,X,DAVE KLOTZMAN,
+
+Fred:
+
+I am about  to  upload  the  latest  DIAL.EXEC.  I  will  call it
+DIAL2$.EXEC  as  per  your  DIAL-numbering  sys.   The  auto-dial
+feature has saved me hours already!
+
+"My" DIAL.COMMAND kinda  assumes that the user has ver 5.6 of the
+TERMINAL  command.   If  they  don't, and  the non-supported "GO"
+option causes problems,  just remove the "(GO" from  the assembly
+code, or  else use  SED to change those three  bytes to spaces in
+the COMMAND!
+
+Enjoying Europe?   Heard  about any  new bugs regarding the COMMA
+option?????????
+
+-- DAVE KLOTZMAN
+
+-----------------------------------------------------------------
+
+                                        235 Charlotte #24
+                                        Ottawa, Ontario
+                                        Canada K1N 8L4
+
+
+Dear Fred,
+
+So, here is another  program which I don't use:  It is a complete
+personal  accounting  package  called  Personal Financial  System
+(PFS).   There  are  two  minor  problems  which  bother me,  but
+normally wouldn't bother  most people: It won't let  you overdraw
+an account; but I did fix the editing procedure so that it works.
+I also find that the report program won't work - probably because
+it is using the other date format.
+
+Well, enough of this  drivel, I must go out  and finally get this
+posted.    I  apologize   for  sending  software  not  thoroughly
+debugged; however,  at the rate I am going, and since you like to
+muck  about  with  these things  anyway, I  send  it in less than
+perfect form.
+
+So, as Forrest Myers used to say,
+
+                                        many happy RETURNS,
+
+                                        Chris Mallam
+-----------------------------------------------------------------
+
+
+16 June 1984
+                                            235 Charlotte # 24
+                                            Ottawa, Ontario
+                                            Canada K1N 8L4
+                                            06/20/84 at 18:16
+
+
+     Dear Fred,
+
+     i do believe  that i  have got located all the  difficulties
+with  PFS  and rectified  them.  The  date  thing was the primary
+offender.   i also  removed all  references  to toggling back and
+forth  between  page 1  and page  2,  which my terminal supports.
+There really are a lot of changes to be made to these programs to
+customize them to the individual user.  i certainly hope that the
+membership work with copies rather than originals of the program.
+Note  that if  you detach  everything except the console and  the
+drives,  the  programs  will all  fit in  Basic  in a single user
+system.  Note  also that the system line editor can be used to do
+the job.  (PFS$AR may be too big for some systems - like mine)
+
+     If anyone comes  up with a patch to Oasis to support the ISO
+date standard  (YYYY-MM-DD), i would certainly like to hear about
+it.  It  is perfectly logical to list the most significant digits
+on the left and the least significant digits on the right.
+
+     Well, the post  office closes  in 15 minutes, and i  want to
+get this off today!
+
+     Chris Mallam
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL41.FEEDBACK                             1 November 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST41:VOL41                                         01/29/85 18:00 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+WISH LIST #41 - I wish somebody would ............1 November 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+77. A  utility  for  managing  multiple  jobs  running in several
+different user partitions at once using a single console for  the
+control of all jobs.
+
+76. A financial planning package.
+
+75. A modification to the REPAIR.COMMAND which allows it to stop
+each time it finds a problem, giving us time to see what's going
+on.  Also, a utility that automatically saves the corrupted file
+segments, then goes ahead and FIXes the misallocations, and then
+reports all of the actions which have been taken.
+
+74. A generalized report generator.
+
+73. More tutorial contributions plus an EXEC to integrate them.
+
+72. Evaluations of public domain libraries for very good packages
+and conversion of them for operation under Oasis.
+
+71. File library  utility  for  combining (and un-combining) many
+small files into one for better utilization of disk space.
+
+70. A version of FILELIST which will allow us to specify which drives
+to include in the combined list without attaching only to ones we want.
+
+69. An Oasis-8 shell to run under Oasis-16 so that old software
+can be run without modification.
+
+68. A SUPER <esc>Q that will allow us to break out of a system
+lockup (impossible???).
+
+67. A set of "standard" business letters in SCRIPT format ready
+to accept address information in an interactive mode.
+
+66. Custom dictionary files for special areas like law, medicine,
+engineering, etc. to work with the PROOF spelling checker.
+
+65. A  program  for  recording  and  analyzing a  tennis player's
+performance.   Statistically evaluated  faults might help players
+(like me) improve.
+
+64. OASIS implemented on MANY more Z80 machines.
+
+63. Programs  that   integrate  logical  groups  of  OUG  library
+programs.
+
+62. Someone to write reviews of the contents of the OUG Library.
+
+61. A truly portable "lap-sized" Oasis compatible computer.
+
+60. A MOUSE input for CONIN to work with menu screens or windows,
+together  with the  necessary software  to make it work with  the
+keyboard (through an RS232C port?).
+
+59. WASTEBASKET  routine  for  purging no  longer wanted files on
+active  disks,  but  keeping  them  available  in  some  sort  of
+"history" file(s) on a separate disk or series of disks - maybe a
+modification of PURGE.EXEC.
+
+58. I  need  faster  means  for  manufacturing new  volumes.  The
+combination of INITDISK and BACKUP takes too long now.  How about
+one command that does both functions in one pass?  I've been told
+it can't be done!!
+
+56. We  must   develop  a  networking  (LAN)  and/or  distributed
+processing capability under Oasis.
+
+55. Windows for running multiple applications simultaneously from
+one terminal in multiple partitions.
+
+53. We need a chart showing how  Oasis  Basic compares  with  the
+others.
+
+52. We need a method for RESTORING around a bad sector (or fixing
+it) in an ARCHIVE file.
+
+51. As we  begin to  get more people using Oasis-16  we will need
+some new utilities  for moving things back and  forth between the
+two versions.   In  particular,  we  will  need new  versions  of
+SEND/RECEIVE (GIVE/GET??).
+
+50. We  need  a diskette  format compatibility/interchangeability
+summary.  8"  double density  and all 5.25" format diskettes  are
+problems. (in preparation, but need your inputs).
+
+49. We need  class code source for any devices not now covered in
+the library (see volumes 18 and 34).
+
+48. Someone  to  collect and  summarize information about all the
+various commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+43. A utility for assigning synonyms for commands would be nice.
+
+39. We  need the  compliment of  GETFILE  (PUTFILE?) for CP/M and
+other operating systems.
+
+36. More  people  to  write articles  about OASIS  or  letters to
+publications  about  such  articles  they have  seen.  More press
+releases  about  your  own OASIS  compatible commercial software.
+Etc.
+
+30. A  utility  for  automatically figuring  out the optimum disk
+ATTACH  values  for HDL,  STP, and  STS for all of the  different
+systems now operating under OASIS.
+
+29. A  list  of  the 500  most frequently  used  words in English
+writing  for use  with Chapman's latest spelling checker's CUSTOM
+dictionaries.
+
+27. A grammatical error checker.
+
+26. Compilers for Tiny C, Pascal, Fortran, PL/1, ADA, LISP, etc.
+
+23. A spelling  checker that keeps track of frequently misspelled
+words and automatically corrects them.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+END of WISH LIST as of 1 November 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 41.
+
+*****************************************************************
+
+
+ASCIDUMP.COMMAND/HELP
+
+This is a  utility for  doing and ASCII dump of  any file on your
+system.  It should proove to be a valuable debugging tool for you
+system  programmers who  need to  inspect  and modify COMMAND and
+BASICCOM files.   There  is  no  documentation,  but it  is  very
+straightforward to use.  Just enter ASCIDUMP followed by the file
+name.   The output  file will  have the same name with  file type
+SECTORS.  It  was submitted  by Henry Aylward and is  a part of a
+utilities package  which he offers for sale.  (808) 969-2589 (See
+also the companion utility, HEXCMPR)
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ASICBIG.EXEC
+
+This is a utility  for bringing BASIC or BASICOBJ  files into the
+interpreter which  are too  large to fit using the  standard way.
+This  trick  was originally  suggested by  Joel  Lefette of Oasis
+Technologies.  On  my NNC 520 I go from a maximum space available
+of 15078 to 21105 bytes for about a 6K increase.  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+UILDSYS.EXEC
+
+A utility for  copying all  the Oasis system files from  a source
+disk to a  destination disk in the order  which will make the new
+system  run the  fastest under  most  conditions.  I adapted this
+from an idea I got from an EXEC they use at NNC for preparing new
+system disks to go out with the machines they sell.  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+OPYRITE.C/COMMAND/BASIC
+
+The copyright notice program I had been using didn't work on lots
+of machines  that couldn't handle half intensity and it was a bit
+slow.   So, Henry  Aylward rewrote  it in "C" and I  will use his
+version from now  on.  The source for both  versions are included
+for information.
+
+WANT LIST THE "C" VERSION NOW? [Y/N]:N
+
+IAL2.ASSEMBLE/COMMAND
+DIAL2$.EXEC
+
+This is  a  set of  programs for  controlling the use of a  Hayes
+Smart modem.   Submitted by Dave Klotzman, it contains a facility
+for   storing   frequently   called  numbers   and  dialing  them
+automatically.   He revised  the DIAL command originally released
+on  volume  33 to  improve its  performance.  It will need to  be
+customized for  your set  of phone numbers and system  parameter.
+It does not have a HELP option, but is fairly easy to figure out.
+(303) 473-5880.
+WANT TO LIST DIAL2$. EXEC NOW? [Y/N]:N
+WANT TO LIST DIAL2. ASSEMBLE NOW? [Y/N]:N
+
+IAL3.COMMAND
+
+Yet another Hayes  Smartmodem dialer/controller, but this one has
+an excellent  HELP function.  Henry Aylward contributed it from a
+collection of  utilities he sells, so no source code is provided.
+Contact him at (808) 696-2589.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+IAL4.BASIC/EXEC
+
+Again from Henry Aylward (808) 696-2589 comes a second version of
+a  Hayes  Smartmodem dialer/controller,  but one written in BASIC
+with  an  EXEC   (which  must  be  customized  for   your  system
+configuration.  This one has a particularly nice menu.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ORECAST.A/B/BASIC/D/E/EXEC/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z
+FORCASTD.BASIC
+FORCASTI.BASIC
+
+This is a  short term weather forcasting program written by farny
+LeGresley  (416)  987-4511 and  Chris Mallam (613) 236-0374.  The
+two  last   BASIC  programs  have  some  mysterious  maintainance
+function I haven't been able to figure out - don't seem needed?
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+SORT.EXEC
+
+Utility for generating  a sorted list of diskfiles when there are
+too  many  for  the  standard  FILELIST  COMMAND  to handle  with
+sorting.  It  uses the QISORT package and provides an output file
+called SELECTED.SORTED:S.   I put it together out of despiration.
+FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+EXCMPR.BASIC/EXEC
+
+This is a  companion utility  for use with the ASCIDUMP  program.
+This one  allows you  to do a hex by  hex comparison of two files
+that you  suspect may  have differences.  Should be a  great tool
+for  debugging  after  programs have  been compiled or assembled.
+There is no  documentation, but the HELP option  should be enough
+for anyone who  needs this to figure it  out.  It was contributed
+by  Henry  Aylward from  a  package  he  sells  so no  source  is
+provided.  (808) 696-2589.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+OCSECT.COMMAND
+
+This is  another  utility from  Henry Aylward (808) 696-2589 from
+the package he sells.  This one allows you to locate the relative
+sector number  for any  given combination of cylinder, head,  and
+sector position on a track.  Not for everyone, but some will find
+it useful, no doubt.  It has a good HELP option.
+
+WANT MORE INFO NOW? [Y/N]:N
+WANT TO SEE A DEMO NOW? [Y/N]:N
+
+ASIS$$$.COMMAND
+
+From Henry Aylward  again comes this cute little display.  Sorry,
+but there is no source for this either.  Might be good for shows.
+
+WANT TO SEE IT NOW? [Y/N]:N
+
+UGBASIC.EXEC
+
+This is the  general  EXEC  I  am  now using  to  introduce BASIC
+programs in  the library now.  If you plan to submit programs, it
+might save you some time in putting together an integrating EXEC.
+Most all of the possible options are covered.  All you have to do
+is customize it for your programs.  See PFS.EXEC for an example.
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+AYOFF.BASIC
+
+This is a program  that Joe Trimble uses to  decide how much each
+of several winners in a "baseball" pool are going to get.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+FS.EXEC
+PFS$AP/PFS$AR/PFS$RG.BASIC
+
+This is  a Personal  Financial System  (PFS)  designed for use by
+families  at  home.   It includes  both accounts receivables (for
+handling  your  paychecks  and  other  sources  of  income)  and,
+accounts payable (for  paying bills) modules as well  as a report
+generator (to show  you how much you haven't  got, etc.).  It was
+originally written by  James McClure in CBASIC and  was published
+as a  three  part series  in the  June  to August 1979 issues  of
+Microcomputing magazine.  The articles are very complete and well
+written.  If  you  plan  to  use  PFS, better  get  a copy of the
+articles as  there  is  no  other  documentation for  this  Oasis
+release.  It  was converted  for Oasis by Farnie LeGresley  (416)
+ 987-4511 and Chris Mallam (613) 236-0374.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 41.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>
+

@@ -1,0 +1,514 @@
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST24  A 05/15/83 21:39    59    3 S    65 VOL24
+ADD      BASICCOM A 11/09/82 18:03     8    2 SR  254 VOL24
+CONTENTS BASIC    A 05/19/83 22:08   425   17 S   102 VOL24
+CONTENTS BASICCOM A 05/19/83 22:09    28    7 SR  254 VOL24
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL24
+DISKFILE CODING   A 05/16/83 22:16    85    4 S    70 VOL24
+DISKFILE CONTENTS A 05/22/83 23:26  4558  159 S    65 VOL24
+EDITBIG  EXEC     A 05/22/83 23:26    87    3 S    71 VOL24
+FIND     BASICCOM A 05/15/83 21:58     4    1 SR  254 VOL24
+HOWMANY  COMPUTER A 05/16/83 21:59    39    2 S    65 VOL24
+HOWMANY  OASIS    A 05/18/83 22:10    54    3 S    65 VOL24
+LIBRARY  EXEC     A 05/19/83 22:02   303   10 S    81 VOL24
+MEMBER24 FEEDBACK A 05/16/83 21:56    68    3 S    65 VOL24
+NEWLIB   BASICCOM A 09/10/82 20:30     4    1 SR  254 VOL24
+NEWS     LETTER24 A 05/10/83 17:56   139    7 S    65 VOL24
+RSEARCH  EXEC     A 05/16/83 22:08    11    1 S    30 VOL24
+RSEARCH1 BASIC    A 05/16/83 21:51   244   10 S   144 VOL24
+SELECT24 EXEC     A 05/16/83 22:07    20    1 S    46 VOL24
+VOL24    CONTENTS A 05/22/83 22:13    91    5 S    65 VOL24
+VOL24    EXEC     A 05/16/83 22:09   215    7 S    73 VOL24
+20 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+CONTENTS.BASICCOM:A copied to CONTENTS.BASICCOM:D
+HOWMANY.OASIS:A copied to HOWMANY.OASIS:D
+MEMBER24.FEEDBACK:A copied to MEMBER24.FEEDBACK:D
+RSEARCH.EXEC:A copied to RSEARCH.EXEC:D
+RSEARCH1.BASIC:A copied to RSEARCH1.BASIC:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+SELECT24.EXEC:A copied to SELECT24.EXEC:D
+$README.FIRST24:A copied to $README.FIRST24:D
+CONTENTS.BASIC:A copied to CONTENTS.BASIC:D
+EDITBIG.EXEC:A copied to EDITBIG.EXEC:D
+FIND.BASICCOM:A copied to FIND.BASICCOM:D
+HOWMANY.COMPUTER:A copied to HOWMANY.COMPUTER:D
+VOL24.CONTENTS:A copied to VOL24.CONTENTS:D
+ADD.BASICCOM:A copied to ADD.BASICCOM:D
+DISKFILE.CONTENTS:A copied to DISKFILE.CONTENTS:D
+LIBRARY.EXEC:A copied to LIBRARY.EXEC:D
+VOL24.EXEC:A copied to VOL24.EXEC:D
+DISKFILE.CODING:A copied to DISKFILE.CODING:D
+NEWLIB.BASICCOM:A copied to NEWLIB.BASICCOM:D
+NEWS.LETTER24:A copied to NEWS.LETTER24:D
+
+>VOL24
+=================================================================
+:                                                                :
+:           VOLUME 24 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Innovate, automate, immigrate, or evaporate........"         :
+:                                                                :
+:                  Anonymous advice for American businesses.     :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL24 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST24  A 05/15/83 21:39    59    3 S    65 VOL24
+ADD      BASICCOM A 11/09/82 18:03     8    2 SR  254 VOL24
+CONTENTS BASIC    A 05/19/83 22:08   425   17 S   102 VOL24
+CONTENTS BASICCOM A 05/19/83 22:09    28    7 SR  254 VOL24
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL24
+DISKFILE CODING   A 05/16/83 22:16    85    4 S    70 VOL24
+DISKFILE CONTENTS A 05/22/83 23:26  4558  159 S    65 VOL24
+EDITBIG  EXEC     A 05/22/83 23:26    87    3 S    71 VOL24
+FIND     BASICCOM A 05/15/83 21:58     4    1 SR  254 VOL24
+HOWMANY  COMPUTER A 05/16/83 21:59    39    2 S    65 VOL24
+HOWMANY  OASIS    A 05/18/83 22:10    54    3 S    65 VOL24
+LIBRARY  EXEC     A 05/19/83 22:02   303   10 S    81 VOL24
+MEMBER24 FEEDBACK A 05/16/83 21:56    68    3 S    65 VOL24
+NEWLIB   BASICCOM A 09/10/82 20:30     4    1 SR  254 VOL24
+NEWS     LETTER24 A 05/10/83 17:56   139    7 S    65 VOL24
+RSEARCH  EXEC     A 05/16/83 22:08    11    1 S    30 VOL24
+RSEARCH1 BASIC    A 05/16/83 21:51   244   10 S   144 VOL24
+SELECT24 EXEC     A 05/16/83 22:07    20    1 S    46 VOL24
+VOL24    CONTENTS A 05/22/83 22:13    91    5 S    65 VOL24
+VOL24    EXEC     A 05/16/83 22:09   215    7 S    73 VOL24
+20 file(s), 247 block(s).
+▼ Welcome  to  VOLUME 24  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  above  is  a  listing  of  the  contents  of VOLUME  24.
+The latest newsletter and feedback from members follows:
+
+▼ EWS.LETTER24:VOL24                                       01/29/85 17:33 Page 1
+
+-----------------------------------------------------------------
+15 May 1983           N E W S   L E T T E R             Volume 24
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+VOL24: This  disk   contains  two  new  capabilities  most  often
+mentioned  by our  members as  badly needed: a better system  for
+keeping track of  what is available in the  library and the first
+effort at a  simple file search package.  Both  were submitted by
+Hanief Edwards,  to whom  I am personally very grateful.   I know
+you  are  going  to appreciate  them too.   (Don't  forget to let
+Hanief have some feedback (614) 855-9618)
+
+BACKLOG: Boy, am I  backlogged!!  There must be 6  or 7 excellent
+new  volumes laying  here on  the disk in front of  me: a process
+control system, a  doctor's office system, the first  two modules
+of  an OASIS  version of  the  Osborne Accounting System, another
+database management  package, and  the list goes on and  on.  The
+one thing I  can say in my own  defense is that much of the stuff
+has already had  it's initial checkout and it  will not take much
+more effort to get it ready for release.
+
+PRESS RELEASES:  The  press release  system included on volume 22
+was put  to  good  use  last  month.  I  sent  out a notice about
+CARAVAN, our new  bulletin board system.  A few  of the addresses
+were bad and the envelops were returned.  Also, about twenty more
+publications have been  added to the original list.   The list is
+being continually updated.   If you are planning a  release, give
+me a call  and we'll work out some  way for you to get the latest
+address list.
+
+PUBLISHING: Don't  over look  the PR  value  of having an article
+published.     Technical    articles    are    always    personal
+advertisements,  and  can  have  significant commercial  value as
+well.  When you  write about something, you let  the readers know
+that you are one of the people who knows about it.  If you happen
+to mention  a product,  such as your own OASIS  software package,
+you  build product  awareness that  might  have cost thousands of
+dollars in media advertising.
+
+PHASE ONE: Apparently Phase One has about one to three percent of
+the microcomputer  operating system market (See the HOWMANY.OASIS
+file on this volume).  An informed source says that OASIS is just
+about   holding its  own  in   the  share-of-the-market  battles.
+Apparently they are still having financial problems of some kind.
+My  sources  say  that  more  than  one  group  has explored  new
+financial   involvements   with   Phase   One,   but  no   formal
+announcements  have been  made by  anyone.   One of my informants
+tells of "massive  discontent" among the OASIS dealers  - so what
+else is  new.  Linda Varga, who took over some of Jerry Weltner's
+jobs just got  canned along with others.  The  cast of characters
+change so  often  up there  that you  need  a score card to  keep
+track.  Something's happening, but who knows what.
+
+Several of you have  asked questions like "What happens  if Phase
+One goes  under?".  Others of you have confided that you wouldn't
+mind  buying  out Phase  One.  I'm  on your side.  Tim and  Chris
+Williams  have created  one hellava  great  product, and with the
+proper promotion  it  could  enjoy  a  much larger  share  of the
+market.  I'm  not  an  expert  in such matters, but that's how it
+seems in my simple minded view.
+
+Naturally we would all  like to know that OASIS  will continue to
+be supported/upgraded  by the developer.  But, even if there were
+no  further  improvements/corrections  made to  OASIS, most of us
+will  keep using  it for  development, because it is already  the
+best  (at least  in the  8-bit world).  And, our customers  could
+care less what  O/S is hidden under the  applications we put out.
+I just reread these paragraphs and it sounds like a pep talk, but
+I felt like  I had to say something  counter the "gloom and doom"
+talk  that  Phase One's  recent activities/inactivities have been
+stimulating.  Enuff.
+
+SOFTWARE REVIEWERS:  Our next  press release will ask publication
+editors  if  they  are  interested in  reviewing OASIS compatible
+software.  At the same time we will offer to refer people to them
+who are  capable of  doing a review in the  event that they don't
+presently have the capability.  The object is three fold.  First,
+we'll get a  better idea of which publications  have any interest
+in OASIS.  Second,  we may actually stimulate a  few more reviews
+of OASIS  products.  And third, we'll hit them one more time with
+an interesting  piece  of  paper  that  mentions OASIS  in  every
+paragraph.  If we  get any takers, I may  ask for more volunteers
+to help out.
+
+CONFUSION: Yesterday I  got a call that went something like this:
+RINGGGGG.....   Oasis  Users Group.   This is Fred.....  Hi Fred.
+What did you think of it?......  Ahhhh....  You did get it didn't
+you?....  Well I'm...   I put it in the  mail three days ago.  It
+must  have gotten  there by  now....  HOLD IT.  WHO IS  THIS?....
+George...   George who?....   George Walton...  Ahhh....  George,
+I'm afraid  I can't  remember what we were talking  about...  You
+remember, I  told  you I'd  send it  to  you as soon as  I got it
+checked out  under 5.6.  Remember, at COMDEX....  Ohhh Yea.  Last
+year in Atlantic City....  etc.  etc.  You get the idea.
+
+There are now so many things going on with our members that it is
+just about impossible  for me to keep track  of everything.  With
+so many  special projects and deals cooking all at the same time,
+I am easily  confused.  So when you call  next time, please don't
+assume  that  I will  be offended  if you give me a  one sentence
+summary of the earth shaking conversation we had just last month.
+If I'm not working this minute on your masterpiece, I'll no doubt
+appreciate having my memory jogged a bit.
+
+SOFTCON: Speaking of COMDEX, I just got a piece in the mail about
+the new  software show,  SOFTCON (I don't know about  the name...
+sounds like  a con involving software!).  It is being done by one
+of the  outfits that  does many of the other  BIG shows, and they
+are  touting it  as THE  SOFTWARE EVENT - being to  software what
+COMDEX is  to hardware.  I'm inclined to agree that it's time for
+such a major  specialized annual show.  The first  one will be in
+New  Orleans next  Feb 21-23.   They are planning 1000 booths  at
+$1200  for a  10 by  10 display space module.  (You  can get more
+info about  SOFTCON by  calling 800-343-2222) This may well  be a
+better place to peddle software than COMDEX.
+
+In any case it gives me a reason to again raise the question of a
+cooperative OUG  sponsored booth at one or both shows.  If we are
+going to  do anything, we had better start the planning now.  So,
+if you are interested, give me a call.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .        N E W S   L E T T E R             Volume 24
+-----------------------------------------------------------------
+▼ EMBER24.FEEDBACK:VOL24                                   01/29/85 17:33 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER24.FEEDBACK                                     16 May 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+03/22/82
+
+Fred:
+
+In reponse to two of the items on one of your recent wishlists, I
+have come up with the following:
+
+1. LIBRARY.EXEC / CONTENTS.BASICOBJ
+
+This preliminary copy  of a  program I am working on,  merges new
+*.CONTENTS  files  from  the  group  (or any  similarly formatted
+files) and merges them into a master DISKFILE.CONTENTS file.  The
+master  file ends  up as  a complete list of descriptions  of all
+programs on your system!
+
+To run a  sample type LIBRARY.  In response to the prompt for the
+new entry file, type VOLM1.CONTENTS or VOLM2.CONTENTS.
+
+An extra feature  is the  ability to create subject files,  which
+may then be listed out separately.
+
+2. STANDARD INPUT/PROMPT FUNCTION
+
+I use    a    standard    input   prompt    function   throughout
+CONTENTS.BASICOBJ.  Let me  know if this is what  you had in mind
+for a standard input/prompt line function.
+
+
+Regards,
+
+Hanief
+
+-----------------------------------------------------------------
+
+03/27/83
+
+Dear Fred:
+
+I am enclosing  5 programs on this disk for submission to the OUG
+library.
+
+First, EDITBIG.EXEC  is  a  modified  version  of an  earlier OUG
+release on  volume 19.   I have changed EDITBIG to  automatically
+continue segmenting a file.  It does this by first displaying the
+directory  entry, and  then prompting  for  the number of records
+making up the file.  As each segment is filed, a check is made to
+see if  all  records  have  been  edited.  Only  when  the edited
+records equal  or exceed the original record count will it prompt
+for final segment.
+
+Second, RSEARCH.BASICOBJ is a fixed version of an earlier program
+I sent to you.  I found 2 input errors and fixed it here.
+
+Finally, I  have  made more  changes to LIBRARY/CONTENTS programs
+sent earlier.  For more information on this see the separate file
+called DISKFILE.CODING.
+
+Regards,
+
+Hanief
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER24.FEEDBACK                              16 May 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ OWMANY.OASIS:VOL24                                       01/29/85 17:33 Page 1
+
+OASIS POPULARITY
+
+following data  appeared  in Information  Systems News on 4/4/83.
+It  is the  worldwide installed  base  estimate for various micro
+operating systems.   Although OASIS appears last, at least it was
+included--for which I take credit.  Paul Schindler
+
+O/s # of terminals or PCs
+
+Apple DOS   700,000
+TRS DOS     700,000
+CPM,MPM     500,000
+MS DOS      300,000
+P-system    200,000
+UNIX        200,000
+PICK        120,000
+OASIS        90,000
+
+Figures per Software Access International Inc, Mt. View,
+Calif. a micro software consulting firm. (415) 969-5525
+
+============================================================
+
+I contacted Bill  Coggshall at SAI and he explained the numbers a
+bit more.  Based on what he told me, I suggest the following as a
+better reflection of reality:
+
+OPERATING SYSTEM    # CPU's/ %    # of users(terminals)/%
+----------------    ----------    -----------------------
+
+CP/M,M/PM            700,000/24%    1,300,000/36%
+Apple DOS            700,000/24%      700,000/19%
+TRS DOS              700,000/24%      700,000/19%
+MS DOS               300,000/10%      300,000/8%
+P-system             200,000/7%       200,000/6%
+UNIX                 200,000/7%       200,000/6%
+PICK                 120,000/4%       120,000/3%
+OASIS                 35,000/1%       105,000/3% (2.9%)
+
+Bill said he got   a  30K estimate of installations  from someone
+at one of the Phase One show booths, who also told him that there
+were about 2 to 4 users per installation.  He got the higher CP/M
+number  from a  public statement  made by John Rowley of  Digital
+Research recently.   I got  the estimate of 700,000 machines  for
+CP/M from the May 83 issue of Microsystems.  Joel Laffitte who is
+our  new  contact  at Phase One just told me they have sold about
+35,000 copies of OASIS.  He also said that DEC did a market study
+"a few years ago" and gave OASIS about 4% of the total market.  I
+don't  know  how to get any better numbers. So, looks like  we're
+at the  bottom no matter how you look at it.  Most of the numbers
+don't surprise me except the three just above OASIS.  Anyone have
+any better estimates?
+
+FB 5/16/83
+▼ OWMANY.COMPUTER:VOL24                                    01/29/85 17:33 Page 1
+
+HOWMANY.COMPUTER
+
+I have done an analysis of the kinds of computers people say they
+are using  with OASIS.  It is, of course, only based on a 487 OUG
+member  sample,  and  that is  only about  2%  of the total OASIS
+installation base.
+
+Here are the results:
+
+COMPUTER              # in OUG     % of OUG     # installed
+--------------------  --------     --------     -----------
+
+Altos                   134           28%          8,255
+Unknown                 131           27%          8,070
+ONYX                     44            9%          2,710
+Digital Grouup           34            7%          2,094
+TRS-80 Mod II            33            7%          2,033
+IBC                      24            5%          1,478
+Northstar                11            2%            678
+Digital Microsystems     10            2%            616
+NNC                       9            2%            554
+CCS                       9            2%            554
+Billings                  8            2%            493
+Cromemco                  6            1%            370
+Dynabyte                  6            1%            370
+SDS                       6            1%            370
+Systems Group             6            1%            370
+Godbout                   5            1%            308
+Vector Graphics           3            1%            185
+Misc.                     8            2%            493
+ALL TYPES               487          100%         30,000
+
+Of course the "Total # Installed"  is nothing  more  than a gross
+projection based  on the 30,000 total installed base estimate and
+the percentages of different machines owned by OUG members.  But,
+that's probably  a reasonably good overall picture of the general
+situation.  And,  no one is likely to give us the actual numbers!
+Also,  many  members own  several machines  and  the numbers only
+reflect the first one listed.  FB
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+HE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 24.
+
+*****************************************************************
+
+
+EDITBIG.EXEC
+
+EDITBIG.EXEC is a modified  version of an earlier OUG  release on
+volume  19.   I  have  changed EDITBIG  to automatically continue
+segmenting  a  file.   It  does  this  by  first  displaying  the
+directory  entry, and  then prompting  for  the number of records
+making up the file.  As each segment is filed, a check is made to
+see if  all  records  have  been  edited.  Only  when  the edited
+records equal  or exceed the original record count will it prompt
+for final  segment.
+
+A nice enhancement from Hanief Edwards (614) 855-9618.
+
+
+
+WANT MORE INFO NOW? [Y/N]:N
+
+IBRARY.EXEC
+CONTENTS.BASIC/BASICCOM
+DISKFILE.CODING/CONTENTS
+ADD/FIND/NEWLIB.BASICCOM
+
+This is a vast improvement in the ways we keep track of things in
+the  OUG  library.       It  was  put together by  Hanief Edwards
+                          (614) 855-9618
+by  using  the original VOLnn.CONTENTS files as a starting point.
+By   adding   a   coded   line   at  the  top  of  each   program
+description,  he was  able to  merge all of the individual  files
+together into  one alphabetically organized file of descriptions.
+His new  programs  for  finding  things  allows you  to  list all
+programs in  the library  that have names starting with  the same
+first characters (Try ADD for example).
+
+▼ The programs  also  allow  you  to  merge  in  each new  volume's
+VOLnn.CONTENTS file  and to  prepare 9 separate subject files  at
+the same  time.  The  master DISKFILE.CONTENTS file is long  (now
+about 4500  lines) so the printed version is about an inch thick.
+In preparing  to release this version of the merged CONTENTS file
+I spent  two full  days going through it to  catch as many of the
+errors and  inconsistencies  as  possible.   I  also ran  it  all
+through the SCRIPT processor to make it look pretty.
+
+Then to  finish  it off,  he integrates  his  new system with Joe
+Trimble's DISKFILE.LIBRARY  system.  The new LIBRARY.EXEC ties it
+all together.  It is really quite elegant.  Try it I think you'll
+like it.  FB
+
+I have  deviated from  our policy  of  only including ASCII BASIC
+file  in  the library  (and of  not  repeating previously release
+programs) to make  this a complete system self  contained on this
+volume and because  the CONTENTS.BASIC program is so  big that it
+wont even run on my single user BASIC interpreter!
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+SEARCH.EXEC
+RSEARCH1.BASIC
+
+Again from Hanief Edwards (614) 855-9618, this new program allows
+you to search  through any ASCII sequential file  to locate those
+records containing any specified search string.  So, for example,
+if you wanted  to know which members in  the OUG have Freedom 100
+terminals,   you  could   search  the  MEMBERS.ADDRESS  file  for
+"Freedom" and out  would come a new file  (name specified by you)
+containing all  of the  records in the input file  that mentioned
+"Freedom".
+
+While I   am  personally   most  grateful  for  this  new  search
+capability,  this  program  also  allows  you  to  make wholesale
+changes  to records  in files,  merge records from more than  one
+file, and  to delete  or extract records form one  or more files.
+These  other capabilities  are important  in  their own right and
+make this a valuable many-use utility.
+
+▼ This is a giant leap forward for us, but it still falls far short
+of what I would eventually like to see.  I have already made some
+major  modifications to  the code originally submitted by Hanief,
+and will  probably work on it more myself.  If you feel inclined,
+take  a  look at  it and  see if you can't make  it a little more
+elegant, yourself.  An assembly version would be nice, too.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 24.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+
+****************************************************************
+
+>
+

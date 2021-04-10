@@ -1,0 +1,879 @@
+>VOL25
+==================================================================
+:                                                                :
+:           VOLUME 25 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Those who speak of the incompatibility of science and        :
+:  religion either make science say that which it never said     :
+:  or make religion say that which it never taught."             :
+:                                               Pope Pius XI     :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL25 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 25  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  25,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST25  A 04/21/83 22:12    59    3 S    65 VOL25
+ADDRESS  GENMENU  A 03/11/83 09:17    31    1 S    66 VOL25
+ADJDATE  BASIC    A 05/03/83 02:07    47    3 S    90 VOL25
+^YLWARD  PROGRAMS A 05/30/83 03:07   200   10 S    66 VOL25
+BIOM     EXEC     A 05/23/83 23:00    47    2 S    70 VOL25
+BIOMATE  BASIC    A 05/01/83 00:51   377   18 S   160 VOL25
+BIOMENU  BASIC    A 05/23/83 22:45   190    8 S   107 VOL25
+BIOMENU  GENMENU  A 05/23/83 22:56    29    1 S    79 VOL25
+BIOPRINT BASIC    A 05/01/83 00:52   362   17 S   160 VOL25
+CH       BASIC    A 04/16/83 21:40   121    8 S   173 VOL25
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL25
+DATAMSTR BASIC    A 05/25/83 22:28   250   10 S   127 VOL25
+DATAMSTR BASICCOM A 05/25/83 22:29    12    3 SR  254 VOL25
+DATAMSTR BASICOBJ A 05/25/83 22:28   251    7 S   123 VOL25
+DATAMSTR GENMEUN  A 03/27/83 16:54    37    1 S    74 VOL25
+FIND     BASIC    A 05/02/83 22:54    56    3 S    83 VOL25
+GENMDEMO EXEC     A 05/25/83 22:23    74    2 S    56 VOL25
+GENMENU  BASICCOM A 03/27/83 10:55    19    5 SR  254 VOL25
+GENMENU  DOCUMENT A 05/28/83 23:56   450   19 S    90 VOL25
+GENMENU  EXEC     A 05/29/83 00:00     5    1 S    12 VOL25
+GENSCRN  BASICUSR A 02/14/83 11:38     2    1 R   256 VOL25
+GETSECT  C        A 09/02/82 00:06    32    1 S    69 VOL25
+LOOK     C        A 05/22/83 22:00    56    2 S    67 VOL25
+LOOK     COMMAND  A 04/04/83 03:17    19    5 R   256 VOL25
+MEMBER25 FEEDBACK A 05/25/83 22:08   128    6 S    65 VOL25
+MENUBASE BASIC    A 05/29/83 00:44   227    9 S   127 VOL25
+NEWS     LETTER25 A 05/30/83 04:54   169    9 S    65 VOL25
+PLOTTER  BASIC    A 05/29/83 02:31   283   11 S    90 VOL25
+PUTSECT  C        A 04/04/83 02:43    34    1 S    69 VOL25
+QUIP1    DATA     A 04/11/83 21:56    25    5 S   902 VOL25
+SAMPLE1  BASICCOM A 03/27/83 19:23    12    3 SR  254 VOL25
+SAMPLE2  BASICCOM A 03/27/83 19:23    16    4 SR  254 VOL25
+SCIFI    BASIC    A 05/20/83 22:22   193    9 S   110 VOL25
+SCRIPAT3 EXEC     A 05/03/83 02:13    33    1 S    64 VOL25
+SECTED   C        A 05/22/83 22:01   183    5 S    76 VOL25
+SECTED   COMMAND  A 04/04/83 02:36    32    8 R   256 VOL25
+SELECT25 EXEC     A 05/30/83 04:11    43    2 S    46 VOL25
+TESTDEV  C        A 12/15/82 11:10    25    1 S    66 VOL25
+UNP      C        A 05/22/83 22:00   122    4 S    72 VOL25
+UNP      COMMAND  A 04/04/83 03:04    37   10 R   256 VOL25
+VOL25    CONTENTS A 05/30/83 04:53   224    9 S    65 VOL25
+VOL25    EXEC     A 05/30/83 04:57   485   14 S    73 VOL25
+WISH     LIST25   A 05/29/83 03:49   117    5 S    75 VOL25
+43 file(s), 248 block(s).
+NEWS.LETTER25:VOL25                                       01/31/85 07:46 Page 1
+
+-----------------------------------------------------------------
+29 May 1983             N E W S   L E T T E R           Volume 25
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+VOLUME 25:  This is  going out  with volume 24 because I  hate to
+send a  free volume  by itself.  Volume 25 is  another milestone.
+It  contains  the first  contributions written  in  "C".  The "C"
+programs were submitted by Sandy Watson's 20 year old son, Scott,
+who is  a software  genius.  Both the source code  as well as the
+compiled COMMANDs  are included, because many of you will not yet
+have "C" compilers (I hope to soon have an OASIS version based on
+the  Dr.  Dobbs  "C" compiler  in the public domain.  Two  of our
+members are working on the conversion right now.)
+
+This volume  is   also  note  worthy  because  of  the  new  Menu
+Generating utility/system  from Henry  Aylward.  With GENMENU you
+can  create  professional looking,  direct cursor controlled menu
+selection programs  for use with any multiple choice application.
+When you check  out the biorhythm programs on  this volume you'll
+see what  I mean.   It's really elegant.  I'm looking  forward to
+future submissions which use it.
+
+There is also a game called CHase, some more sayings for use with
+QUIP, and  a program for automatically generating science fiction
+story outlines.  All in all a pretty good collection this time.
+
+PROCESSING: I keep  thinking the job of putting these new volumes
+together will  get easier as time goes on.  Quite the contrary is
+true!  As I  get more stuff from you  all, the process of keeping
+all of the various versions sorted out gets MORE complicated.  It
+is not unusual  for an author to revise  submissions once or more
+before they actually get assigned to an OUG library volume.  And,
+I have to  try to keep track of  what has already gotten into the
+library and the status of revised versions for some of them.
+
+Then there is  the delightful  fact that we are getting  more and
+more  substantial  contributions,  the check-out  of which is far
+from trivial.   I am  really quite reluctant to release  anything
+that  I  don't  at  least  understand,  and  usually  I  exercise
+everything to  make sure  it is all there and  easy to use.  That
+means much  of  what  is  submitted  by members  will  need to be
+modified at  least a  little by me, and often  quite a bit.  This
+whole thing is  stretching my mind more and  more as we go along.
+(Most of the time I love it!)
+
+COMMERCIAL UTILITIES: There are a number of our members out there
+who have  developed collections of utilities for sale.  Earlier I
+mentioned some of the things Bill Berne from Quantumn Information
+has for sale.  Bob Bortz of BRB Software which produces the BASIC
+program generator, BPGEN,  contacted me to offer a  $100 discount
+to any  member purchasing  BPGEN in the immediate future.   Other
+members  have mentioned  there willingness to extend discounts to
+our members,  too.   (wouldn't  be  a  bad idea  when  purchasing
+software from  any  of  the  OUG  members to  ask  about possible
+discounts)
+
+On this volume  is  a  file  that  lists the  offerings  of Henry
+Aylward, the  contributor   of  GENMENU.   I  do  not   have  the
+opportunity to evaluate  most of the commercial software  that is
+mentioned from  time to  time.  So, I can't offer  any first hand
+advice.  However,  other members  may have used just the  package
+you are considering.  One possibility, is to check the membership
+information  file for  mention of  the software in which you  are
+interested  (use  the  RSEARCH utility  on volume 24).  Generally
+speaking,  people   are  willing  to  share  their  own  personal
+experiences with products.   So far, this is the  only way anyone
+has suggested  for dealing  with the product review dilemma.   If
+you have another idea, let me know.
+
+OSBORNE ACCOUNTING:  Yep!   It's  finally happening.   One of our
+members has  nearly completed the (intellegent) conversion of the
+Osborne accounting  system for use under Oasis.  I now have in my
+hot little  hands  the  first  two  modules: General  Ledger  and
+Payroll.  The Accounts Payable/Receivable modules are expected by
+the middle of  the summer.  I'm not sure  just which volumes they
+will  be on,  but  soon  (maybe  volume  28 will  have  the first
+module).  I  am also  promised another unique and original  total
+accounting  system written  in RMCOBOL,  but at this point it  is
+just  a promise  and you  know how that goes.  The  conversion of
+BusinessMaster seems to have gotten side tracked again (and again
+and again).
+
+NEW OUG  COMPUTER:   I  am  currently  evaluating  various  Oasis
+compatible computers for use in my expanding operation.  The ones
+which look good for my requirements are made by Godbout, NNC, and
+IBC.  There  are pro's  and con's for each of  the systems I have
+looked  at,  and the  decision is  not an easy one.  If  you have
+strong  feelings  about any  of these  three  companies and their
+machines, I'd  love to hear them.  I should be able to afford the
+new stuff in a month or so, if everyone pays their bills on time.
+
+The new machine  will allow  us to offer 300/1200 baud  access to
+CARAVAN, our  message system,  and will make it possible  to keep
+the  entire library  on-line for  downloading  by people who have
+"non-standard"   disk/tape   format   requirements.    Some   new
+accounting means  will have  to be developed so that  downloaders
+contribute  their  fair  share  to  running  the  OUG,  but  that
+shouldn't be  too difficult to work out.  It will take some time,
+no doubt, but  that's what is in the  offing.  Any thoughts along
+these lines?
+
+GREAT EQUALIZERS:  Like  guns,  computers  are great  equalizers.
+That profound thought came to me the other day as I pondered ways
+we  might use  our technology  to help solve some of  the world's
+problems.   When  two  people  face  each  other  with guns,  the
+importance   of   their   relative  physical   sizes  just  about
+disappears.   When  two  people have  access to  a  computer, the
+importance  of their  relative intellectual prowess is diminished
+in a similar way.  I know the analogy is not perfect, but I think
+it helps make  the point that computers do  help distribute power
+among the people.
+
+At one point it was only the highly educated accountants or their
+wealthy  patrons  who  could optimize  their financial investment
+strategies.  Now, thousands  of "little  guys"  with Apples and a
+hundred dollars worth of software can play the game like the "big
+boys." Only a  few years ago, word processors  were restricted to
+the offices  of Fortune  500 executives or major politicians  who
+wanted  to  send  "personal"  letters  with pinpoint  accuracy to
+thousands  of carefully  selected target individuals.  Now any of
+us can  buy the same cross correlated mailing lists and construct
+our own  "personal" messages to any group we choose.  And, if the
+increasing  volume  of mail  reported by  our  politicians is any
+^easure, more of us are doing it all the time.
+
+Considering that  we  are  still only  at the  beginning  of this
+technological  revolution,  it  is stimulating  to think where it
+might all lead.   Ultimately, the gap between the  exploiters and
+the  exploited  must  narrow.   Those  of  us  who  already  know
+computers are going  to play an important role  in this process -
+one way or another.
+
+OASIS MANUALS: Someone out  there sent me a couple  photo reduced
+copies  of the  complete set  of Oasis manuals.  They are  really
+quite handy.  I've  checked the copyright rules and  it is OK for
+anyone to make  a few copies of their  manuals for their own use,
+so  I'll just  pretend I  made these for myself.  Thanks  for the
+"help," whoever you are.
+
+MAILING LISTS: One of  our members sent me a  copy of his list of
+people  inquiring  about  his  Oasis  compatible products.   I am
+interested in getting  the word about the OUG  out to more of the
+estimated  35,000  Oasis  installations which  now exist.  If you
+have  a mailing  list  of  people  not  now members  of  OUG, I'd
+appreciate the opportunity to send some OUG info to them.  If you
+are willing, let me know.
+
+Well, that's it  for volume  25.  The ink isn't even  dry on this
+letter and  I am already thinking about volume 26.  It's just one
+adventure after another.  Thanks for making it possible.
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 25
+-----------------------------------------------------------------
+MEMBER25.FEEDBACK:VOL25                                   01/31/85 07:46 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER25.FEEDBACK                                     15 May 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+NOTES: From Henry W. Aylward, PE
+
+    1. To  create  GENMENU  REFERENCE  MANUAL ==>  SCRIPT GENMENU
+    DOCUMENT (P.  Next please read the documentation before using
+    the program  to generate BASIC program menus.  Use SAMPLE for
+    a demonstration of what is happening.
+
+    2. The  BIOMENU, BIOPRINT,  and BIOMATE programs were written
+    using DATAMSTR to generate the basic core program code.
+
+    3. Actual  time to  convert to structure programing technique
+    was 6 hours as follows:
+
+       a. Three (3)  hours trying to understanding the User Group
+       Program version.  I had a difficult time understanding the
+       code  because  of short  variable names, mixing of integer
+       and  floating   point  numbers,  lack  of  labels,  double
+       assignment  of  variables,  and  overall mixup  of program
+       logic.  I gave up trying to retain as much of the original
+       code as possible.  It was taking too long.  Except for the
+       THEORY print  out, the  only code I retained was  the Sine
+       wave function, Long.day, short.day and month variables.
+
+       b. Two  (2)  hours to  create, and bebug BIOMENU, BIOPRINT
+       and BIOMATE.
+
+       c. An addition  week was  used to fully test the  program.
+       Two  cosmetic  bugs were  corrected.  They were the proper
+       location  for  page  number  and  correct spacing  for the
+       birthdate contained within the top header string.
+
+    4. The programing technique I used is my own style.  Develope
+    your own by using the structure I suggest.
+
+    5. Good  quality  programs with  professional displays can be
+    written by  anyone once you are given a sample codes of such.
+    The  key  to the  computer is  in the language and data  file
+    formats the language supports.
+
+    6. Strongly reccomend that you remove certain subroutines and
+    functions by saving  the program in BASIC format.   Then load
+    them into the EDITOR and use the EDITOR command "PUT" to save
+    that subroutine or function into you BASIC Library for future
+    use.  Use  the Editor Command "GET" to use that function into
+    your BASIC  format.  You  will have to UNNUMBER before  "GET"
+    will   work.    NUMBER;   FILE;  and   load  into  the  BASIC
+    interperter.
+
+    7. I hope I  will see other BASIC programs  in the user group
+    written with the  same quality as I have  presented.  Try not
+    to  just  write  programs to  just make  them  work but write
+    programs that are also self documenting; logically layed out;
+    default  conditions for  wrong inputs and or re-request input
+    when input is not in the proper format.
+
+    8. To use the bio-rhythm program just type in RUN BIOMENU and
+    answer a few questions when prompted to do so.
+
+    Henry W. Aylward, PE
+    86-933 Pahano Loop
+    Waianae, HI 96792
+    (808) 696-2589
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                        04/14/83
+   Fred,
+
+I've included "SECTED" & "UNP" plus thier respective sources, and
+sub-functions used.   I've also put CH.BASIC    on the disk, tho,
+it's not  finished, I've stoppped working on it, because BASIC is
+TOO SLOW,  ( when ever I've got nothing to do (hah!), I'll try to
+finish  the  version I've  started writing  in  C).  CH is public
+domain, the  rights to  the others are retained by  myself and my
+company  (Artfull  Industrial  Software),  but  may be  used (and
+distributed) by the OUG and its members.  (whew!)
+
+Rules for CHase:
+
+First, put  your  terminal  in  Reverse  Video, if  your terminal
+doesn't print "FON"ed charecters in half intensity, your going to
+have to modify the program, but most that I've seen do.
+
+Enter the dificulty you  wish.  The lower the number  the harder.
+^ry 10  your first time.  When the program asks  for CW, it wants
+to know  what character  you want to use to  rotate your "turret"
+clock-wise, suprisingly  enough, when it askes "CC?" it wants the
+character  that  will  turn  the "turret"  counter clockwise, and
+"FIRE?" is  the key  that will fire thine pistol.   I use the key
+group "Q,  W, E" with Q E rotating and W firing.  You may want to
+use, Q W and the RETURN key or SPACE bar.
+
+
+                                      Faithfully yours,
+                                      (signed) Scott Watson
+
+PS:  You may want to mention that SECTED is self documenting, and
+UNP supports  the help command, (HELP UNP or UNP HELP).  Also, if
+you know anyone that needs any contracting done, I'd apreciate it
+if you could steer  'em my  way.
+Thanx alot.
+
+Folks,
+
+Have any of you  been able to use the  STRUCTURE feature in OASIS
+tiny C  to make a two dimensional array?  I've wasted a good half
+a day  or so,  getting varying results, but no  good ones.  While
+I'm on  the subject,  Phase One's tiny C looks  an awful lot like
+the one in Doctor Dobbs.  Do any of you know if they are related?
+Also, would  any body  be intrested in a LISP  interpretter?  Its
+more for  fun than  anything else, but I may  be writing one as a
+practical  exersize.  Also,  (not that  I  care) has anyone heard
+anything about phase one's PASCAL?
+
+               (There are aprox. 90,000 Oasis systems in use!)
+
+                               - Scott Watson
+                                 16835 Algonquin #207
+                                 Huntington Beach, Ca.
+                                                  92649
+                                 (714) 895-8000 (office)
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER25.FEEDBACK                           15 May    1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WISH.LIST25:VOL25                                         01/31/85 07:46 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #25 - I wish somebody would.....................   28 May 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+45. We need more people to report the results of running our benchmarks
+against all of the OASIS maachines that are now around.
+
+44. We need an OASIS "Shell" like those that are beginning to show up
+for CP/M.  I know OASIS is already "user friendly", but a menu system
+that displayed everything you can do and tied in the HELP displays
+would help new users.  I'm thinking of something that goes further than
+the OASIS.EXEC in volume 3.
+
+43. A utility for assigning synonyms for commands would be nice.
+
+42. BASIC routines for automatically serializing programs
+    to the actual machine on which it is first run.
+
+41. Improvements to any and all programs in the library - especially
+    the utilities and other "serious" programs.
+
+40. People to keep an eye on Phase One's activities (or lack there of),
+    to track down rumors, and to watch for information in the press of
+    special interest to OASIS users.
+
+39. We need a utility for converting all upper case text to upper/lower
+    case with capitalization following periods, etc.
+
+39. We need the compliment of GETFILE (PUTFILE?) for CP/M and other
+    formats.
+
+38. The equivelent of the BASIC PRINT USING "!" for use in EXEC routines.
+
+36. More people to write articles about OASIS or letters to publications
+    about such articles they have seen.  More press releases about your
+    own OASIS compatible commercial software. Etc.
+
+35. More demonstration packages of commercial software for our collection
+    of those available to members.
+
+34. A CP/M emulator.
+
+33. New integrated way to find and use things in the OUG/personal library
+    (a la APPLE/LISA) - beyond subject collections and CONTENTS files.
+
+32. Major improvements to the way we introduce/review the contents of
+    new volumes - alternatives to the VOLnn.EXECs.
+
+30. A utility for automatically figuring out the optimum disk ATTACH
+    values for HDL, STP, and STS for all of the different systems
+    now operating under OASIS.
+
+29. A list of the 500 most frequently used words in English writing
+    for use with Chapman's latest spelling checker's CUSTOM dictionairies.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+25. People to search through other users groups libraries for worthwhile
+things to  convert for operation under OASIS which we do not yet have in
+the OUG library.
+
+24. A synchronous communication program.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again every time.
+
+22. A  screen  oriented  editor (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+^ir and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+
+13. We badly need  a modification to SYSTEM.NUCLEUS that  will implement
+the BREAK  function.  Phase One hasn't been responsive to the pleas from
+(at least) several members.  This may be hardware dependent.
+
+11. We need  lots more  applications to run against the  dictionary data
+base.
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+9. We need a data base system for maintaining a commercial software
+directory - again one that can be released into the OUG library, and one
+that will accommodate much more detail about the programs than is now
+included in the Software Directories issued by Phase One.
+
+7. A decompiler for BASICCOM and a disassembler for COMMAND would be handy.
+
+6. We need  a conversion  routine or detailed procedure for converting
+ASSEMBLY language  code from other Z80 systems to OASIS.
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification) We also need someone to review
+the current version of MCONVERT to see if the number of exceptions can't
+be reduced significantly.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 28 May 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+AYLWARD.PROGRAMS:VOL25                                    01/31/85 07:46 Page 1
+
+-----------------------------------------------------------------
+
+                    COMMERCIAL UTILITY PROGRAMS
+
+There  is  a high level of interest in utilities of all kinds and
+several of our members  have  sent  me  information  about  their
+collections.  Here is what one of the  authors  of things on this
+volume have to offer. Contact him directly for more information.
+
+-----------------------------------------------------------------
+
+               AYLWARD ENTERPRISES PROGRAMS IN OASIS
+
+
+               Program Set #1==> $125.00 with source
+
+
+    1. $MAC80.Exec: Menu  drive exec program for the developement
+    of Assemble, Basic, and Cobol Programs.  By one line command,
+    edit, compile and link accordingly these type of languages.
+
+    2. CLASS80.Assemble:  Class   driver  of  Ampex  Dialogue  80
+    series.
+
+    3. DIAL.Command:  Written  in C-language.   Has Help message.
+    Send any  DC Hayes  Smartmodem command of the command  string
+    interperter.   Includes  hangup, auto  dial, and auto answer.
+    Use as stand alone or interface with your own custom address,
+    call, etc.  programs.
+
+    4. CONVERTN.Basic:  Convert  from  one base  number system to
+    another of  the following bases: Hexadecimal, Octal, Decimal,
+    ASCII.  Show the character of ASCII in full 256 range.
+
+    5. CRT.Exec: Evoke the CRT function of Exec from the keyboard
+    to turn on or off Revese Vedio, Bink, and Underline.
+
+    6. FORMAT.Exec: To  initailize disk from a menu.  Support two
+    floppy  drives  at  one time.   With auto  verify  or not and
+    relable.
+
+    7. GENMENU.Basiccom: Create  Basic program menus for linking,
+    chaining, or  gosubs via a 79x22 line full screen editor.  In
+    less than  10  minutes  from  start  to a  finish  basic menu
+    program.  No tricks.   Use text files to save  screen for use
+    by OASIS editor  or reuse by this program.   THIS IS THE SAME
+    VERISON  THAT   IS  IN  DATA  MASTER  Program  Generator  and
+    developement system.
+
+    8. KEY.Basic: Loads programable keys of Dialogue 80 Terminal.
+    Source  helps you  to program  you  termainal keys of similar
+    fashion.
+
+    9. KEYLOAD.Command:  Load   each  programable  key  from  the
+    command line, once at a time.  Written in C-language.
+
+    10. SMODEM.Basic:  Exec  driven  basic  program for  DC Hayes
+    Smartmodem.   Has  help menu  and checks  to  see if modem is
+    attached to comm line.  You can attach smodem to comm line as
+    an option.  Menu driven, comes up in originate mode.  You can
+    change  to answer  mode with  one  command line input.  Shows
+    last  number dialed  and last smarthmodem command sent.  This
+    helps you to understand the smarthmodem commands.  Has option
+    if  connection  is made  to take  you  automatically to OASIS
+    Terminal Command.  Comes  with a CALL Exec program  for quick
+    calls of frequently used numbers.
+
+    Program Set 1 List * Generate Menu, Smodem, Dial, $MAC80, FOR
+    Price $125.00 as listed.  Henry W. Aylward, PE
+
+    $MAC80   EXEC       $README  FIRST      ADDRESS  GENMENU
+    ASCII    NUMCODE    CALL     EXEC       CLASS80  ASSEMBLE
+    CONOUT   C          CONOUT   OBJECT     CONVERTN BASIC
+    CONVERTN BASICCOM   CONVERTN BASICOBJ   CONVERTN EXEC
+    CRT      EXEC       DATAMSTR BASICCOM   DIAL     C
+    DIAL     COMMAND    DIALP    C          DIALP    COMMAND
+    FORMAT   EXEC       GENMENU  BASICCOM   GENMENU  DOCUMENT
+    GENSCRN  BASICUSR   INTERCPT DOCUMENT   KEYBLNK  BASIC
+    KEYBLNK  BASICOBJ   KEYBLNK  LIST       KEYBSTD  LIST
+    KEYEXEC  LIST       KEYLOAD  C          KEYLOAD  COMMAND
+    KEYSYS   BASICCOM   KEYSYS   BASICOBJ   KEYSYS   LIST
+    MENUBASE BASIC      OASIS    CINCLUDE   PROGRAM  SET2LIST
+    PROGRAM  SET3LIST   SLEEP    C          SLEEP    OBJECT
+    SMODEM   BASIC      SMODEM   BASICCOM   SMODEM   BASICOBJ
+    SMODEM   EXEC
+
+-----------------------------------------------------------------
+
+               AYLWARD ENTERPRISES PROGRAMS in OASIS
+
+
+               Program Set #2==> $125.00 with source
+
+
+    1. ASCIDUMP.comamnd:  Works just  like OASIS DUMPDISK Command
+    except  that the  listing is  put to a text file  without the
+    Sector, Cylinder, Head,  ect.  This text can then  be used by
+    our HEXCMPR program.
+
+    2. AYLWARD.Macro: For  C-language programs to place the Name,
+    version,  date,  copyright, etc.   information at begining of
+    C-langauage programs.
+
+    3. BAVARGEN.Basic: After saving a XREF.Command in OASIS Basic
+    Interperter   via  our   intercept  program,  BAsic  VARiable
+    GENerator will  remove all unwanted program listing and cross
+    reference line  numbers leaving only the Lables and Variables
+    used in the Basic program.  Useful for documenting Lables and
+    Variables used in you programs.
+
+    4. CALLMSG.Basic:  As  part  of Phone  Message program.  This
+    program allows the user to see his/hers phone message.  It is
+    has option to  use smarthmoden to call by  just selecting the
+    phonemage  number.   The  date  and time  and action required
+    spaces for messages.
+
+    5. HEXCMPR.Basic:  After   ASCIDUMP  any  program,  the  dump
+    listing  of two  programs can  be compared to find where  the
+    bytes do  not  matach.   Program  keeps  track of  number  of
+    mismatches, stops  and point  to the exact byte by  that does
+    not match.  Addressing  is in hexadecimal.  Nice to  check if
+    your clients  modified your  program or if the program  has a
+    byte error.
+
+    6. PHONEMSG.Basic:   The  input   program  for  saving  phone
+    messages.  Once  the user's  name is enter, the current  date
+    and time is log in.  There is room for action required field,
+    Company  Name,  and phone  number.  Program will not continue
+    unless phone number is enter.  I had phone messages without a
+    phone number.  Nice way to for getting the phone number.
+
+    7. PRIV6.Command, PRIV7.Command: Change privlege level to six
+    or seven.
+
+    8. A  GROUP of  C-LANGUAGE library functions.  Sleep, Reverse
+    string,  integer  to  alpha conversion,  INP function to test
+    control  key  entered, Peek,  Poke, etc.  Useful for building
+    C-language library of functions.
+
+
+    9. WORDCNT.Command:  Word   count.   Written  in  C-language.
+    Counts all  the words,  characters and lines in a  text file.
+    Nice for people who charge by per typed word.
+
+    10. CDS.Command:  Change  Disk  S.  To  allow changing of the
+    system disk.  Like a warm boot.
+
+    11. INTERCEPT.Drive:  A  class  32 device  drive for printer.
+    This program  when used with the attach command, i.e.  ATTACH
+    PRINTER1 32, will intercept what supposed to goto the printer
+    to a  disk text file.  You chose the file name, file type and
+    drive the  text file  will be saved to.  Used  with the Basic
+    Variable Generator program.
+
+    Program Set 2 List *  C language function library and
+    ASCIDUMP Command with Hexcmpr and Phone Message.
+    Price $125.00 as listed.  Henry W. Aylward, PE
+
+    ASCIDUMP COMMAND    ASCII    CINCLUDE   AYLWARD  MACRO
+^   AYLWARD  NOTICE     BAVARGEN BASICCOM   BAVARGEN BASICOBJ
+    BAVARGEN EXEC       BAVARGEN VARIABLE   CALLMSG  BASICCOM
+    CALLMSG  BASICOBJ   CDS      C          CDS      COMMAND
+    CDS      OBJECT     CHARDY   C          CHARDY   OBJECT
+    CHARIN   C          CHARIN   OBJECT     CONIN    C
+    CONIN    OBJECT     CONOUT   C          CONOUT   OBJECT
+    CTRLINE  C          CTRLINE  OBJECT     CTRPAGE  C
+    CTRPAGE  OBJECT     DIAL     C          ECHO     ASSEMBLE
+    ECHO     C          ECHO     COMMAND    ECHOASM  C
+    ECHOASM  COMMAND    FREE     MACRO      FREE     NOTICE
+    HARRIS   MACRO      HARRIS   NOTICE     HENRY    AUTHOR
+    HENRY    MACRO      HENRY    NOTICE     HEXCMPR  BASICCOM
+    HEXCMPR  BASICOBJ   HEXCMPR  EXEC       HUGH     AUTHOR
+    HUGH     PHONEMSG   INP      C          INP      OBJECT
+    INTERCPT DOCUMENT   ITOA     C          ITOA     OBJECT
+    KEYBLNK  BASIC      KEYLOAD  C          KEYLOAD  COMMAND
+    KEYSYS   BASICOBJ   LOCSECT  C          LOCSECT  COMMAND
+    OASIS    CINCLUDE   OCS      C          OCS      COMMAND
+    OCS      OBJECT     OLDSTATE SECTORS    OUTPORT  C
+    OUTPORT  OBJECT     PEEK     C          PEEK     OBJECT
+    PHONEMSG BASICCOM   PHONEMSG BASICOBJ   PHONEMSG DOCUMENT
+    PHONEMSG EXEC       PMSG     BASICCOM   PMSG     BASICOBJ
+    POKE     C          POKE     OBJECT     PRINT    CINCLUDE
+    PRIV6    ASSEMBLE   PRIV6    COMMAND    PRIV7    ASSEMBLE
+    PRIV7    COMMAND    README   FIRST      REVSTRNG C
+    REVSTRNG OBJECT     SLEEP    C          SLEEP    OBJECT
+    STATE    SECTORS    STDIO    CINCLUDE   SWAPA    C
+    SWAPA    OBJECT     SWAPI    C          SYSTEM   DEV32
+    TESTCLP  C          TESTCLP  COMMAND    TESTCLP  OBJECT
+    TSTARRAY C          TSTARRAY COMMAND    TSTARRAY OBJECT
+    TSTITOA  C          TSTITOA  COMMAND    TSTITOA  OBJECT
+    TSTRVSTR C          TSTRVSTR COMMAND    TSTRVSTR OBJECT
+    TSTSWAPA C          TSTSWAPA COMMAND    TSTSWAPA OBJECT
+    WORDCNT  C          WORDCNT  COMMAND    WORDCNT  OBJECT
+
+-----------------------------------------------------------------
+
+I cannot vouch for the value of any of this stuff.  In fact I have
+not even seen any of it.  So, let the buyer beware.  FB
+
+-----------------------------------------------------------------
+^ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+Note that these programs must be compiled before they will run as
+the  control  program,  BIOMENU,  CHAINs  out  to  the two  other
+programs,  BIOMATE  and  BIOPRINT.  The  BIOM.EXEC is included to
+make the compilations semi-automatic, if needed.
+
+WANT TO TRY IT NOW? [Y/N]:NENTS ABOUT THE PROGRAMS ON VOLUME 25.
+
+*****************************************************************
+
+
+ADJDATE.BASIC
+
+THIS PROGRAM ALLOWS BIRTHDATES BEFORE 01/01/01 TO BE SAVED BY THE
+INTERNAL  OASIS DATE  DAY FUNCTIONS.  Submitted by Hanief Edwards
+(614)855-9618.   IT CONSISTS  OF TWO SUBMODULES.  ONE ENCODES THE
+DATE.  THE OTHER  DECODES THE DATE.  USERS MAY  FIND IT USEFUL TO
+INCORPORATE THE MODULES INTO THEIR OWN PROGRAMS.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+BIOM.EXEC
+BIOMATE.BASIC
+BIOMENU.BASIC
+BIOPRINT.BASIC
+
+Biorhythm programs for one or two people are "old hat" to most of
+us by now.   Not only is the theory  fully discredited, but we've
+seen  so many  of them  now that it's getting boring.   These are
+some new  versions of  programs previously released on volumes  2
+and 13.   Henry Alyard  used them to demonstrate how  you can use
+his new  GENMENU utility.   These versions are quite elegant  and
+can serve  as models  for future programs written in  BASIC which
+require  selection  of  multiple options.   I am  excited  by the
+possibilities which this new capability opens for our members who
+want to write really professional looking programs.  I may try to
+use  this capability  at  some  point  in  the future  for  a new
+approach to  introducing each new volume.  I hope some of you are
+motivated  to  rewrite  other  previously  released  OUG  library
+programs using this fancy new capability.  FB
+^
+Rules for CHase:
+
+First, put  your  terminal  in  Reverse  Video, if  your terminal
+doesn't print "FON"ed characters in half intensity, your going to
+have to modify the program, but most that I've seen do.  version,
+but it's not finished.  I've stopped working on it, because BASIC
+Enter the difficulty  you wish.  The lower the number the harder.
+Try 10 your  first time.  When the program  asks for CW, it wants
+to know  what character  you want to use to  rotate your "turret"
+clock-wise, surprisingly  enough, when it asks "CC?" it wants the
+character  that  will  turn  the "turret"  counter clockwise, and
+"FIRE?" is  the key  that will fire thine pistol.   I use the key
+group "Q,  W, E" with Q E rotating and W firing.  You may want to
+use, Q W and the RETURN key or SPACE bar.  Scott Watson.
+
+WANT TO TRY IT NOW? [Y/N]:N
+^
+There is   a    demonstration   routine   included   which   will
+automatically step you through the operation of GENMENU and there
+is  a fairly  extensive users manual, GENMENU.DOCUMENT, in SCRIPT
+format.   At  this  point  you  may  elect  to  run  the demo  or
+read/print the users manual.  For more info on the full system or
+on the use of the GENMENU portion call  its author, Henry Aylward
+in Hawaii (808) 696-2509.
+DATAMSTR.BASIC/BASICCOM/GENMENU
+The system is not  as automatic as I would  prefer to see, but it
+does work  fine.  After running the GENMENU utility to layout the
+new menu for  your program(s), you will have  a new BASIC program
+segment that contains  the menu data.  You must  then append that
+to  a  "shell" called  MENUBASE.BASIC and  then  edit the "shell"
+containing  your new  menu to  put in the references to  your own
+SUBROUTINES or  BASICCOM program segments.  Improvements would be
+welcome.  FB
+
+WANT TO TRY THE DEMO NOW? [Y/N]:N
+WANT TO SEE THE USERS MANUAL NOW? [Y/N]:N
+
+FIND.BASIC
+
+This is  a  program  that  works  with  the  DISKFILE.LIBRARY and
+DISKFILE.CONTENTS systems.  It was previously released on volumes
+and  6.  Hanief Edwards has made some minor cosmetic changes in
+this version.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+LOOK.C/COMMAND
+
+Look at  a  block  of memory  in DEBUG  format.   We've had other
+programs to  do this, but this one is among the first OUG library
+contributions written in  "C".  It was submitted by  Scott Watson
+of  NNC  Computers.   Unfortunately, there  is no instruction for
+using it, but it is easy to figure out.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+PLOTTER.BASIC
+
+PLOTTER PRODUCES A  GRAPH AND  STATISTICS FROM DATA WHICH MAY  BE
+ENTERED  FROM  THE  KEYBOARD OR  DATA FILES.   DATA  ITEMS CAN BE
+CHANGED  AND  REDISPLYED  QUICKLY.   Submitted by  Hanief Edwards
+(614)855-9618.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+QUIP1.DATA
+
+Here are  some more  really nifty  quips or sayings for use  with
+Gary Bergman's  QUIP program  released on volume 22.  These  came
+from the UCSB  computer collection.  Some of the  items are a bit
+irreverent  - remember  how it  was in OUR student days?   To use
+them you will  need to rename the original  batch something other
+than QUIP.DATA and then rename these QUIP.DATA.  Enjoy.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+SCIFI.BASIC
+
+I ran  across  an interesting  flow chart  in an old issue of  my
+favorite   magazine,   OMNI,   and   got   intrigued  about   the
+possibilities  of automatically  writing science fiction stories.
+So when  I should  have been working on our  next volume, I wrote
+this little ditty.
+
+I think it could  be greatly enhanced and would  invite anyone so
+inclined to  take a crack at it.  For example, each element could
+be expanded to  a sentence, or whole paragraphs  might be brought
+in at  various points,  etc, etc.  The larger problem  of machine
+generation  of fiction  is even  more  fascinating.  I imagine we
+will have  machine AIDED  writing tools for fiction writers  long
+before  the   machines  themselves  actually  do  any  reasonable
+"creation." FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+SCRIPAT3.EXEC
+
+THIS IS AN UPDATE  TO AN EARLIER SCRIPT COMMAND  PATCH WHICH ALSO
+ALLOWS BOLDFACING.   SOME USERS HAVE ASKED TO INCREASE THE NUMBER
+OF OVERSTRIKES  FOR BOLDFACING.  ALSO THE EARLIER PATCH REQUESTED
+CLASS  CODE 17.   A CLASS  CODE OF 18 PRODUCED BETTER  RESULTS ON
+PAGE EJECTS.  Submitted by Hanief Edwards (614)855-9618.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+SECTED.C/COMMAND
+GETSECT.C
+PUTSECT.C
+
+Once again,  this  is not  the first  disk  sector editor we have
+seen, but  it is  the first one written in  "C".  Scott Watson is
+the author of  this one too.  This one  uses full screen editing.
+There is no HELP feature, but it is fairly self explanatory.  You
+simply  type  SECTED  nn <fd>,  where nn  is  the starting sector
+number and <fd> is the drive.  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+UNP.C/COMMAND
+TESTDEV.C
+
+UNPacks a  file generated  by word processors like SpellBinder or
+MagicWand and puts it into a normal ASCII file.  Once again, this
+is written in  "C" and was submitted by  Scott Watson.  I hope to
+see many more programs written in "C".  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 25.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

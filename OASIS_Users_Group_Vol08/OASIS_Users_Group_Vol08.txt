@@ -1,0 +1,70 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: October 1981
+Volume: 8
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 10/25/81 18:56    33    2 S    71 VOL$8
+SPELLING SIZE6    A 10/16/81 02:54  5664   71 I     1 VOL$8
+SPELLING SIZE7    A 10/16/81 02:54  6630   86 I     1 VOL$8
+SPELLING SIZE8    A 10/16/81 02:54  6126   87 I     1 VOL$8
+VOL8     EXEC     A 10/25/81 18:55     8    1 S    61 VOL$8
+5 file(s), 247 block(s).
+
+>M D SYSTEM3
+
+>COPYFILE *.*:A = = D(NOQ
+VOL8.EXEC:A copied to VOL8.EXEC:D
+$README.FIRST:A copied to $README.FIRST:D
+SPELLING.SIZE6:A copied to SPELLING.SIZE6:D
+SPELLING.SIZE7:A copied to SPELLING.SIZE7:D
+SPELLING.SIZE8:A copied to SPELLING.SIZE8:D
+
+>VOL8
+Disk A(1) Changed - M
+HIS VOLUME DOES NOT CONTAIN A NEWS LETTER, NOR ANY PROGRAMS.
+IT ONLY CONTAINS A PART OF THE DICTIONARY DATA BASE.
+
+>LIST $README FIRST A
+EADME.FIRST:VOL$8                                       01/29/85 16:50 Page 1
+
+This diskette only contains three segments of the spelling dictionary.
+It will need to be copied to the same disk containing the rest of the
+segments from volumes 7 and 9.  Note that the complete dictionary
+in 14 segments requires 592 blocks so that it will not all fit on even
+a double density diskette.
+
+Each segment is an indexed file which was made about 10-20% larger
+than necessary for the present size of the dictionary.  That means
+that it could be shortened to just about fit on one double density 8
+inch diskette.  But, I'll leave that up to you, if you are so inclined.
+
+
+**********************     N  O  T  E     **********************
+ALL COMMERCIAL RIGHTS FOR ALL SOFTWARE CONTAINED ON THIS DISKETTE
+ARE RESERVED FOR THE AUTHORS, UNLESS EXPLICITLY STATED OTHERWISE.
+
+Basically, that means that software contributed by authors to the
+OUG library is intended to be used by end users only.  In some cases
+this condition is noted in the program listing.  In other cases the
+OUG has acquired distributorship rights to software that only allows
+copies to be "sold" to end users.  In these cases, copies are given
+to members who contribute the agreed upon service fee for copying.
+The Marin Scientific Instruments dictionary data base fits into
+this catagory.
+
+Because software is contributed by members and I cannot personally
+investigate the copyright status of each item, you must assume the
+possibility that a mistake may have been made by someone along the
+way.  If you should discover that some program has gotten into our
+library that you think should not be there, please contact me right
+away [(805) 965-0265] and I'll try to contact the authors.
+
+Thanks,  Fred L. Bellomy, P.O. Box 2400, Santa Barbara, CA 93120
+
+>

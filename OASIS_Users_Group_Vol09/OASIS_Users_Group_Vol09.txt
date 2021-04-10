@@ -1,0 +1,75 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: October 1981
+Volume: 9
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 10/25/81 18:57    33    2 S    71 VOL$9
+SPELLING SIZE10   A 10/25/81 16:44  4112   66 I     1 VOL$9
+SPELLING SIZE11   A 10/25/81 16:44  2736   48 I     1 VOL$9
+SPELLING SIZE12   A 10/25/81 16:35  1682   31 I     1 VOL$9
+SPELLING SIZE14   A 10/26/81 16:41   448   10 I     1 VOL$9
+SPELLING SIZE2    A 10/15/81 17:18    64    2 I     1 VOL$9
+SPELLING SIZE3    A 10/26/81 16:41   653    7 I     1 VOL$9
+SPELLING SIZE9    A 10/25/81 16:44  5370   81 I     1 VOL$9
+VOL9     EXEC     A 10/27/81 17:23     8    1 S    61 VOL$9
+9 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+SPELLING.SIZE2:A copied to SPELLING.SIZE2:D
+SPELLING.SIZE10:A copied to SPELLING.SIZE10:D
+$README.FIRST:A replaces $README.FIRST:D
+SPELLING.SIZE12:A copied to SPELLING.SIZE12:D
+SPELLING.SIZE9:A copied to SPELLING.SIZE9:D
+SPELLING.SIZE14:A copied to SPELLING.SIZE14:D
+SPELLING.SIZE3:A copied to SPELLING.SIZE3:D
+SPELLING.SIZE11:A copied to SPELLING.SIZE11:D
+VOL9.EXEC:A copied to VOL9.EXEC:D
+
+>VOL9
+HIS VOLUME DOES NOT CONTAIN A NEWS LETTER, NOR ANY PROGRAMS.
+IT ONLY CONTAINS A PART OF THE DICTIONARY DATA BASE.
+
+>LIST $README FIRST A
+EADME.FIRST:VOL$9                                       01/30/85 13:55 Page 1
+
+This diskette only contains seven segments of the spelling dictionary.
+It will need to be copied to the same disk containing the rest of the
+segments from volumes 7 and 8.  Note that the complete dictionary
+in 14 segments requires 592 blocks so that it will not all fit on even
+a double density diskette.
+
+Each segment is an indexed file which was made about 10-20% larger
+than necessary for the present size of the dictionary.  That means
+that it could be shortened to just about fit on one double density 8
+inch diskette.  But, I'll leave that up to you, if you are so inclined.
+
+
+**********************     N  O  T  E     **********************
+ALL COMMERCIAL RIGHTS FOR ALL SOFTWARE CONTAINED ON THIS DISKETTE
+ARE RESERVED FOR THE AUTHORS, UNLESS EXPLICITLY STATED OTHERWISE.
+
+Basically, that means that software contributed by authors to the
+OUG library is intended to be used by end users only.  In some cases
+this condition is noted in the program listing.  In other cases the
+OUG has acquired distributorship rights to software that only allows
+copies to be "sold" to end users.  In these cases, copies are given
+to members who contribute the agreed upon service fee for copying.
+The Marin Scientific Instruments dictionary data base fits into
+this catagory.
+
+Because software is contributed by members and I cannot personally
+investigate the copyright status of each item, you must assume the
+possibility that a mistake may have been made by someone along the
+way.  If you should discover that some program has gotten into our
+library that you think should not be there, please contact me right
+away [(805) 965-0265] and I'll try to contact the authors.
+
+Thanks,  Fred L. Bellomy, P.O. Box 2400, Santa Barbara, CA 93120
+
+>

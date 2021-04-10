@@ -1,0 +1,1605 @@
+November 1982                   Volume: 18
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST18  A 11/01/82 18:14    57    3 S    66 VOL$18  
+AN00$002 APPLNOTE A 11/06/82 21:20    35    1 S    76 VOL$18  
+AN00$003 APPLNOTE A 11/06/82 21:20    30    1 S    76 VOL$18  
+AN00$004 APPLNOTE A 11/06/82 21:20    52    2 S    77 VOL$18  
+AN00$005 APPLNOTE A 11/06/82 21:21    65    2 S    77 VOL$18  
+AN00$006 APPLNOTE A 11/06/82 21:21    60    2 S    76 VOL$18  
+AN00$007 APPLNOTE A 11/06/82 21:22    67    3 S    78 VOL$18  
+AN00$008 APPLNOTE A 11/06/82 21:22    49    2 S    78 VOL$18  
+AN00$009 APPLNOTE A 11/06/82 21:22    46    1 S    75 VOL$18  
+AN02$001 APPLNOTE A 11/06/82 21:22    47    2 S    78 VOL$18  
+CLASS    CODES    A 11/06/82 19:34   121    4 S    63 VOL$18  
+CLASS    MACLIB   A 10/11/82 17:50   574    9 S    85 VOL$18  
+CLASS1   ASSEMBLE A 01/05/80 15:36    27    1 S    53 VOL$18  
+CLASS10  ASSEMBLE A 10/31/80 13:43   114    2 S    48 VOL$18  
+CLASS11  ASSEMBLE A 02/25/80 13:55    25    1 S    37 VOL$18  
+CLASS12  ASSEMBLE A 04/11/80 17:28    32    1 S    45 VOL$18  
+CLASS13  ASSEMBLE A 05/10/80 00:03    66    2 S    41 VOL$18  
+CLASS14  ASSEMBLE A 04/03/80 17:50    46    1 S    38 VOL$18  
+CLASS15  ASSEMBLE A 03/31/80 18:29    36    1 S    64 VOL$18  
+CLASS2   ASSEMBLE A 01/05/80 15:37    24    1 S    33 VOL$18  
+CLASS20  ASSEMBLE A 04/04/80 17:11    46    1 S    55 VOL$18  
+CLASS21  ASSEMBLE A 03/31/80 18:06    44    1 S    53 VOL$18  
+CLASS22  ASSEMBLE A 05/18/81 18:35    78    2 S    51 VOL$18  
+CLASS23  ASSEMBLE A 04/29/80 17:01    67    2 S    41 VOL$18  
+CLASS24  ASSEMBLE A 07/07/80 14:32    95    2 S    52 VOL$18  
+CLASS25  ASSEMBLE A 04/08/80 12:40    31    1 S    42 VOL$18  
+CLASS26  ASSEMBLE A 04/08/80 12:55   109    3 S    62 VOL$18  
+CLASS27  ASSEMBLE A 10/20/80 17:17   134    4 S    57 VOL$18  
+CLASS27A ASSEMBLE A 12/24/80 14:27   136    4 S    57 VOL$18  
+CLASS28  ASSEMBLE A 05/24/82 12:18    33    1 S    53 VOL$18  
+CLASS29  ASSEMBLE A 05/17/81 14:15   104    3 S    44 VOL$18  
+CLASS3   ASSEMBLE A 01/05/80 15:37    21    1 S    48 VOL$18  
+CLASS30  ASSEMBLE A 09/30/80 20:30    93    3 S    56 VOL$18  
+CLASS31  ASSEMBLE A 07/06/82 17:41   156    4 S    58 VOL$18  
+CLASS32  ASSEMBLE A 09/24/81 12:52    37    1 S    47 VOL$18  
+CLASS33  ASSEMBLE A 06/15/81 14:52    50    1 S    41 VOL$18  
+CLASS34  ASSEMBLE A 07/03/81 12:48    32    1 S    66 VOL$18  
+CLASS35  ASSEMBLE A 01/13/82 18:13    32    1 S    52 VOL$18  
+CLASS35A ASSEMBLE A 11/06/82 19:09    36    2 S    63 VOL$18  
+CLASS36  ASSEMBLE A 05/05/82 13:23    97    3 S    47 VOL$18  
+CLASS37  ASSEMBLE A 04/23/82 12:28   147    4 S    51 VOL$18  
+CLASS39  ASSEMBLE A 08/23/82 16:34    80    2 S    44 VOL$18  
+CLASS4   ASSEMBLE A 09/24/80 11:59    28    1 S    53 VOL$18  
+CLASS5   ASSEMBLE A 04/11/80 17:25    32    1 S    45 VOL$18  
+CLASS6   ASSEMBLE A 03/26/82 16:23    33    1 S    44 VOL$18  
+CLASS7   ASSEMBLE A 07/30/81 14:01   148    3 S    58 VOL$18  
+CLASS7A  ASSEMBLE A 11/06/82 19:16    34    1 S    58 VOL$18  
+CLASS7B  ASSEMBLE A 11/06/82 19:16    43    1 S    53 VOL$18  
+CLASS8   ASSEMBLE A 03/29/80 16:08    26    1 S    41 VOL$18  
+CLASS9   ASSEMBLE A 03/03/80 13:28    25    1 S    44 VOL$18  
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL$18  
+DEV99    ASSEMBLE A 05/27/82 19:05   224    6 S    68 VOL$18  
+DEV99    EXEC     A 05/28/82 18:59    17    1 S    67 VOL$18  
+LONELY   EXEC     A 09/20/82 18:46     9    1 S    63 VOL$18  
+LONELY   HEARTS   A 09/20/82 19:19     6    1 S   133 VOL$18  
+LONELY   SCRIPT   A 11/06/82 21:36    24    1 S    57 VOL$18  
+MEMBER18 FEEDBACK A 11/06/82 21:56   107    5 S    65 VOL$18  
+NEWS     LETTER18 A 11/08/82 05:05    92    5 S    65 VOL$18  
+PROOF    COMMAND  A 11/07/82 16:57    26    7 R   256 VOL$18  
+PROOF    NOTES    A 04/04/82 18:21   173    7 S    83 VOL$18  
+PROOFCNV COMMAND  A 10/02/82 17:26    23    6 R   256 VOL$18  
+PROOFCON EXEC     A 04/04/82 18:34    52    2 S    72 VOL$18  
+SELECT18 EXEC     A 11/07/82 17:49   115    6 S    46 VOL$18  
+SOFTWARE RULES    A 11/01/82 20:02    86    5 S    72 VOL$18  
+STARTRAK BASIC    A 06/07/82 19:52   412   19 S   138 VOL$18  
+STARTRAK EXEC     A 09/01/82 19:12     8    1 S    20 VOL$18  
+SYSTEM   CLASS1   A 06/22/81 11:45     2    1 R   256 VOL$18  
+SYSTEM   CLASS10  A 06/22/81 11:46     3    1 R   256 VOL$18  
+SYSTEM   CLASS11  A 06/22/81 11:47     2    1 R   256 VOL$18  
+SYSTEM   CLASS12  A 06/22/81 11:49     3    1 R   256 VOL$18  
+SYSTEM   CLASS13  A 06/22/81 11:49     2    1 R   256 VOL$18  
+SYSTEM   CLASS14  A 06/22/81 11:50     2    1 R   256 VOL$18  
+SYSTEM   CLASS15  A 06/22/81 11:51     2    1 R   256 VOL$18  
+SYSTEM   CLASS16  A 06/22/81 11:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS17  A 06/22/81 11:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS18  A 06/22/81 11:53     2    1 R   256 VOL$18  
+SYSTEM   CLASS19  A 06/22/81 11:54     2    1 R   256 VOL$18  
+SYSTEM   CLASS2   A 06/22/81 11:55     2    1 R   256 VOL$18  
+SYSTEM   CLASS20  A 06/22/81 11:56     2    1 R   256 VOL$18  
+SYSTEM   CLASS21  A 06/22/81 11:57     2    1 R   256 VOL$18  
+SYSTEM   CLASS22  A 06/22/81 11:58     3    1 R   256 VOL$18  
+SYSTEM   CLASS23  A 06/22/81 11:58     2    1 R   256 VOL$18  
+SYSTEM   CLASS24  A 06/22/81 12:00     3    1 R   256 VOL$18  
+SYSTEM   CLASS25  A 06/22/81 12:01     2    1 R   256 VOL$18  
+SYSTEM   CLASS26  A 06/22/81 12:02     3    1 R   256 VOL$18  
+SYSTEM   CLASS27  A 06/22/81 12:03     3    1 R   256 VOL$18  
+SYSTEM   CLASS27A A 12/24/80 14:34     3    1 R   256 VOL$18  
+SYSTEM   CLASS28  A 06/22/81 12:04     2    1 R   256 VOL$18  
+SYSTEM   CLASS29  A 06/22/81 12:05     3    1 R   256 VOL$18  
+SYSTEM   CLASS3   A 06/22/81 12:06     2    1 R   256 VOL$18  
+SYSTEM   CLASS30  A 06/22/81 12:07     3    1 R   256 VOL$18  
+SYSTEM   CLASS31  A 05/18/81 18:20     3    1 R   256 VOL$18  
+SYSTEM   CLASS32  A 04/04/82 17:47     2    1 R   256 VOL$18  
+SYSTEM   CLASS33  A 06/22/81 12:09     2    1 R   256 VOL$18  
+SYSTEM   CLASS34  A 04/04/82 17:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS35  A 11/06/82 18:10     2    1 R   256 VOL$18  
+SYSTEM   CLASS36  A 09/03/82 17:31     3    1 R   256 VOL$18  
+SYSTEM   CLASS37  A 11/06/82 18:28     3    1 R   256 VOL$18  
+SYSTEM   CLASS39  A 09/03/82 17:40     3    1 R   256 VOL$18  
+SYSTEM   CLASS3A  A 09/03/82 17:31     2    1 R   256 VOL$18  
+SYSTEM   CLASS4   A 06/22/81 12:11     2    1 R   256 VOL$18  
+SYSTEM   CLASS5   A 06/22/81 12:12     2    1 R   256 VOL$18  
+SYSTEM   CLASS6   A 06/22/81 12:13     2    1 R   256 VOL$18  
+SYSTEM   CLASS7   A 07/30/81 14:33     3    1 R   256 VOL$18  
+SYSTEM   CLASS7A  A 11/06/82 17:33     2    1 R   256 VOL$18  
+SYSTEM   CLASS7B  A 04/04/82 17:48     3    1 R   256 VOL$18  
+SYSTEM   CLASS8   A 06/22/81 12:16     2    1 R   256 VOL$18  
+SYSTEM   CLASS9   A 06/22/81 12:17     2    1 R   256 VOL$18  
+SYSTEM   CLASS99  A 05/19/82 07:27     3    1 R   256 VOL$18  
+SYSTEM   DEV99    A 05/27/82 19:09     4    1 R   256 VOL$18  
+TWEETY   NOTES    A 09/01/82 18:24    22    1 S    63 VOL$18  
+TWEETY   PICTURE  A 11/06/82 19:24   102    7 S    77 VOL$18  
+VOL18    CONTENTS A 11/07/82 17:46   106    4 S    65 VOL$18  
+VOL18    EXEC     A 11/08/82 04:07   236    7 S    73 VOL$18  
+WISH     LIST18   A 11/07/82 19:48    91    4 S    72 VOL$18  
+115 file(s), 240 block(s).
+
+>COPYFILE *.*:A = = Q (NOQ,REPL
+Disk not attached.
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+CLASS.MACLIB:A copied to CLASS.MACLIB:D
+CLASS25.ASSEMBLE:A copied to CLASS25.ASSEMBLE:D
+SYSTEM.CLASS10:A copied to SYSTEM.CLASS10:D
+SYSTEM.CLASS19:A copied to SYSTEM.CLASS19:D
+SYSTEM.CLASS34:A copied to SYSTEM.CLASS34:D
+CLASS11.ASSEMBLE:A copied to CLASS11.ASSEMBLE:D
+CLASS35.ASSEMBLE:A copied to CLASS35.ASSEMBLE:D
+COPYRITE.NOTICE:A copied to COPYRITE.NOTICE:D
+PROOF.COMMAND:A copied to PROOF.COMMAND:D
+PROOF.NOTES:A copied to PROOF.NOTES:D
+SOFTWARE.RULES:A copied to SOFTWARE.RULES:D
+SYSTEM.CLASS20:A copied to SYSTEM.CLASS20:D
+SYSTEM.CLASS29:A copied to SYSTEM.CLASS29:D
+CLASS21.ASSEMBLE:A copied to CLASS21.ASSEMBLE:D
+STARTRAK.EXEC:A copied to STARTRAK.EXEC:D
+SYSTEM.CLASS15:A copied to SYSTEM.CLASS15:D
+SYSTEM.CLASS30:A copied to SYSTEM.CLASS30:D
+SYSTEM.CLASS39:A copied to SYSTEM.CLASS39:D
+SYSTEM.CLASS7A:A copied to SYSTEM.CLASS7A:D
+CLASS31.ASSEMBLE:A copied to CLASS31.ASSEMBLE:D
+CLASS7B.ASSEMBLE:A copied to CLASS7B.ASSEMBLE:D
+LONELY.SCRIPT:A copied to LONELY.SCRIPT:D
+SYSTEM.CLASS25:A copied to SYSTEM.CLASS25:D
+CLASS26.ASSEMBLE:A copied to CLASS26.ASSEMBLE:D
+PROOFCNV.COMMAND:A copied to PROOFCNV.COMMAND:D
+SYSTEM.CLASS11:A copied to SYSTEM.CLASS11:D
+SYSTEM.CLASS35:A copied to SYSTEM.CLASS35:D
+$README.FIRST18:A copied to $README.FIRST18:D
+CLASS1.ASSEMBLE:A copied to CLASS1.ASSEMBLE:D
+CLASS12.ASSEMBLE:A copied to CLASS12.ASSEMBLE:D
+CLASS27A.ASSEMBLE:A copied to CLASS27A.ASSEMBLE:D
+CLASS36.ASSEMBLE:A copied to CLASS36.ASSEMBLE:D
+SYSTEM.CLASS21:A copied to SYSTEM.CLASS21:D
+CLASS2.ASSEMBLE:A copied to CLASS2.ASSEMBLE:D
+CLASS22.ASSEMBLE:A copied to CLASS22.ASSEMBLE:D
+LONELY.EXEC:A copied to LONELY.EXEC:D
+SYSTEM.CLASS16:A copied to SYSTEM.CLASS16:D
+SYSTEM.CLASS31:A copied to SYSTEM.CLASS31:D
+SYSTEM.CLASS7B:A copied to SYSTEM.CLASS7B:D
+TWEETY.PICTURE:A copied to TWEETY.PICTURE:D
+CLASS3.ASSEMBLE:A copied to CLASS3.ASSEMBLE:D
+CLASS32.ASSEMBLE:A copied to CLASS32.ASSEMBLE:D
+LONELY.HEARTS:A copied to LONELY.HEARTS:D
+SYSTEM.CLASS26:A copied to SYSTEM.CLASS26:D
+VOL18.EXEC:A copied to VOL18.EXEC:D
+AN00$002.APPLNOTE:A copied to AN00$002.APPLNOTE:D
+CLASS27.ASSEMBLE:A copied to CLASS27.ASSEMBLE:D
+CLASS4.ASSEMBLE:A copied to CLASS4.ASSEMBLE:D
+SYSTEM.CLASS1:A copied to SYSTEM.CLASS1:D
+SYSTEM.CLASS12:A copied to SYSTEM.CLASS12:D
+SYSTEM.CLASS27A:A copied to SYSTEM.CLASS27A:D
+SYSTEM.CLASS36:A copied to SYSTEM.CLASS36:D
+SYSTEM.CLASS99:A copied to SYSTEM.CLASS99:D
+AN00$003.APPLNOTE:A copied to AN00$003.APPLNOTE:D
+AN02$001.APPLNOTE:A copied to AN02$001.APPLNOTE:D
+CLASS13.ASSEMBLE:A copied to CLASS13.ASSEMBLE:D
+CLASS37.ASSEMBLE:A copied to CLASS37.ASSEMBLE:D
+CLASS5.ASSEMBLE:A copied to CLASS5.ASSEMBLE:D
+STARTRAK.BASIC:A copied to STARTRAK.BASIC:D
+SYSTEM.CLASS2:A copied to SYSTEM.CLASS2:D
+SYSTEM.CLASS22:A copied to SYSTEM.CLASS22:D
+AN00$004.APPLNOTE:A copied to AN00$004.APPLNOTE:D
+CLASS23.ASSEMBLE:A copied to CLASS23.ASSEMBLE:D
+CLASS6.ASSEMBLE:A copied to CLASS6.ASSEMBLE:D
+SYSTEM.CLASS17:A copied to SYSTEM.CLASS17:D
+SYSTEM.CLASS3:A copied to SYSTEM.CLASS3:D
+SYSTEM.CLASS32:A copied to SYSTEM.CLASS32:D
+AN00$005.APPLNOTE:A copied to AN00$005.APPLNOTE:D
+CLASS33.ASSEMBLE:A copied to CLASS33.ASSEMBLE:D
+CLASS7.ASSEMBLE:A copied to CLASS7.ASSEMBLE:D
+DEV99.ASSEMBLE:A copied to DEV99.ASSEMBLE:D
+SYSTEM.CLASS27:A copied to SYSTEM.CLASS27:D
+SYSTEM.CLASS4:A copied to SYSTEM.CLASS4:D
+AN00$006.APPLNOTE:A copied to AN00$006.APPLNOTE:D
+CLASS28.ASSEMBLE:A copied to CLASS28.ASSEMBLE:D
+CLASS8.ASSEMBLE:A copied to CLASS8.ASSEMBLE:D
+MEMBER18.FEEDBACK:A copied to MEMBER18.FEEDBACK:D
+SYSTEM.CLASS13:A copied to SYSTEM.CLASS13:D
+SYSTEM.CLASS37:A copied to SYSTEM.CLASS37:D
+SYSTEM.CLASS5:A copied to SYSTEM.CLASS5:D
+SYSTEM.DEV99:A copied to SYSTEM.DEV99:D
+AN00$007.APPLNOTE:A copied to AN00$007.APPLNOTE:D
+CLASS.CODES:A copied to CLASS.CODES:D
+CLASS14.ASSEMBLE:A copied to CLASS14.ASSEMBLE:D
+CLASS9.ASSEMBLE:A copied to CLASS9.ASSEMBLE:D
+DEV99.EXEC:A copied to DEV99.EXEC:D
+PROOFCON.EXEC:A copied to PROOFCON.EXEC:D
+SELECT18.EXEC:A copied to SELECT18.EXEC:D
+SYSTEM.CLASS23:A copied to SYSTEM.CLASS23:D
+AN00$008.APPLNOTE:A copied to AN00$008.APPLNOTE:D
+CLASS24.ASSEMBLE:A copied to CLASS24.ASSEMBLE:D
+SYSTEM.CLASS18:A copied to SYSTEM.CLASS18:D
+SYSTEM.CLASS33:A copied to SYSTEM.CLASS33:D
+SYSTEM.CLASS7:A copied to SYSTEM.CLASS7:D
+VOL18.CONTENTS:A copied to VOL18.CONTENTS:D
+WISH.LIST18:A copied to WISH.LIST18:D
+AN00$009.APPLNOTE:A copied to AN00$009.APPLNOTE:D
+CLASS10.ASSEMBLE:A copied to CLASS10.ASSEMBLE:D
+CLASS34.ASSEMBLE:A copied to CLASS34.ASSEMBLE:D
+SYSTEM.CLASS28:A copied to SYSTEM.CLASS28:D
+SYSTEM.CLASS6:A copied to SYSTEM.CLASS6:D
+SYSTEM.CLASS8:A copied to SYSTEM.CLASS8:D
+TWEETY.NOTES:A copied to TWEETY.NOTES:D
+CLASS20.ASSEMBLE:A copied to CLASS20.ASSEMBLE:D
+CLASS29.ASSEMBLE:A copied to CLASS29.ASSEMBLE:D
+CLASS35A.ASSEMBLE:A copied to CLASS35A.ASSEMBLE:D
+SYSTEM.CLASS14:A copied to SYSTEM.CLASS14:D
+SYSTEM.CLASS3A:A copied to SYSTEM.CLASS3A:D
+SYSTEM.CLASS9:A copied to SYSTEM.CLASS9:D
+CLASS15.ASSEMBLE:A copied to CLASS15.ASSEMBLE:D
+CLASS30.ASSEMBLE:A copied to CLASS30.ASSEMBLE:D
+CLASS39.ASSEMBLE:A copied to CLASS39.ASSEMBLE:D
+CLASS7A.ASSEMBLE:A copied to CLASS7A.ASSEMBLE:D
+NEWS.LETTER18:A copied to NEWS.LETTER18:D
+SYSTEM.CLASS24:A copied to SYSTEM.CLASS24:D
+
+>VOL18
+
+==================================================================
+:                                                                :
+:           VOLUME 18 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Praise is like champagne; it should be served while it is    :
+:                                       it is still bubbling"    :
+:                                               ROBINS READER    :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL18 MOUNTED? [ A-G S ]:
+
+
+
+
+
+                            XXXXXXXXXXXXXXXXXXXXXXX
+                       XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+                    XXXX                                XXXX
+                XXXX                                        XXXX
+             XXX                                                XXX
+           XX                                                      XX
+         XX                                                          XX
+        XX                                                            XX
+       XX                                                              XX
+      XX                                                        X       XX
+     XX                                                   XX     XX      XX
+    XX                                                      XXX    XX     XX
+   XX      XX   XX                                             XX         XX
+   XX    XX   XX                                                 XX        XX
+  XX    X    X                                                    XX       XX
+  XX   X    X                                                               X
+  X   X    X                                                                X
+  X       X              8                                 8                X
+  X                       8                               8                 X
+  X                  8     8                             8   8              X
+  X                   8  8  8                           8  8   8            X
+  X                    8  8  8                         8  8  88             X
+  X                     8  8  8                       XXXX  8               X
+  X                      8 XXXX                       XXXXX8                X
+  XX                      XXXXXX                    XXXXXXXX               XX
+  XX                     XXXXXXXX                  XXXXXXXXXX              XX
+  XX                    XXXXXXXXXX                XXXXXXXXXXXX             XX
+   XX                  XXXXXXXXXXXX               XXXXXXXXXXXXX           XX
+    XX                 XXXXXXXXXXXXX             XXXXXXXXXXXXXX          XX
+    XX                XXXXXXXXXXXXXX            XXXXXXXXXXXXXXX          XX
+    XX                XXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX          XX
+     XX              XXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX         XX
+      XX             XXXXXXXXXXXXXXX           XXXXXXX    XXXXX        XX
+       XX            XXXXXXX   XXXXX           XXXXXX      XXXX       XX
+       XX            XXXXXX     XXX            XXXXX       XXXX       XX
+        XX           XXXXX  88  XXXX           XXXX   88   XXX       XX
+        XX           XXXX  8888  XX            XXXX  8888  XXX       XX
+         XX          XXXX  8888 XXX            XXXX  8888 XXX       XX
+          XX         XXXXX  88 XXX              XXXX  88 XXX       XX
+            XX        XXXX    XXX               XXXX    XXX       XX
+             XXX       XXXXXXXXX                 XXXXXXXXX       XXX
+             XX          XXXXX      XXXXXXXXXXX    XXXXX           XX
+            XXX           XX    XXXX           XXX  XX             XXX
+            XX                XX XXXXX          XXXXX                XX
+            XX               X  XX    XXXX  XXXX  XXXX   XXXX        XX
+            XX                    XXX     XX     XX   XXX    X       XX
+            XX                       XXX     XXX                    XX
+             XX                         XXXXX                     XXX
+               XX                                               XXX
+                XXXXX                                        XXXX
+                     XXXXXXXXXXX                     XXXXXXXX
+                                XXXX             XXXX
+                                   XX           XX
+                                    XX         XX
+                                    XX         XX
+                                    XX         XX
+                                     XX       XX
+                                      XX      XX
+                                      XX      XX
+                                   XXXXX       XXXX
+                                 XX                XX
+                               XX X XX        XX X XX
+                              XX  XX             XX XX
+                             XX  XX               XX XX
+                            XX   XX               XX  XX
+                           XX   XX                 XX  XX
+                         XX    XX                   XX  XX
+                        XX    XX                    XX   XX
+                       XX    XX                     XX   XX
+                      XX    XX                       XX   XX
+                      XX    XX                       XX   XX
+                      XX  XX                         XX   XX
+                      XX  XX                         XX   XX
+                       XX XX                         XX  XX
+                        XXXX                         XXXX
+                          XX                         XX
+                          XX                         XX
+                          XX                         XX
+                          XX                         XX
+                          XX                        XX
+                          XX                       XX
+                           XX                     XX
+                           XX                     XX
+                            XX                   XX
+                             XX                 XX
+                             XX     XXXXX     XX
+                              XX  XX     XX  X
+                               X  X       X  X
+           XXXXXXX             X  X       X  X
+     XXXXXX       XXXX         X  X       X  X           XXXXXX
+   XXX                XXXXX    X  X       X  X      XXXXX      XXXXXX
+ XXX     XXXX              XXXXX  X       X  X  XXXX                 XXX
+XX     XX  XX                     X     XXX  XXX              XXX      XX
+XX    X  XX                       XX   XX                      XXXX     XX
+ X   X XX                         XX   XX                        XXXX    XX
+  X X X                        XXXX     XXXX                       X XX   X
+  XX  X                    XXXX             XXX                     X X   X
+  XX X                  XXX                    XXX                   X X  X
+   X XX               XX                         XXX                 X X  X
+       X           XXX                              XX               X X X
+        XXXXXXXXXXX                                   XXXX          XXXXX
+************************ OASIS USERS' GROUP VOL 18 **************************
+
+
+
+
+
+
+
+
+
+
+Welcome  to  Volume 18  of a  very  rapidly expanding library of
+OASIS compatible public domain and/or "END-USER-ONLY" software.
+The  following  is  a  listing  of  the  contents  of Volume  18,
+the latest newsletter, and feedback from members:
+
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST18  A 11/01/82 18:14    57    3 S    66 VOL$18  
+AN00$002 APPLNOTE A 11/06/82 21:20    35    1 S    76 VOL$18  
+AN00$003 APPLNOTE A 11/06/82 21:20    30    1 S    76 VOL$18  
+AN00$004 APPLNOTE A 11/06/82 21:20    52    2 S    77 VOL$18  
+AN00$005 APPLNOTE A 11/06/82 21:21    65    2 S    77 VOL$18  
+AN00$006 APPLNOTE A 11/06/82 21:21    60    2 S    76 VOL$18  
+AN00$007 APPLNOTE A 11/06/82 21:22    67    3 S    78 VOL$18  
+AN00$008 APPLNOTE A 11/06/82 21:22    49    2 S    78 VOL$18  
+AN00$009 APPLNOTE A 11/06/82 21:22    46    1 S    75 VOL$18  
+AN02$001 APPLNOTE A 11/06/82 21:22    47    2 S    78 VOL$18  
+CLASS    CODES    A 11/06/82 19:34   121    4 S    63 VOL$18  
+CLASS    MACLIB   A 10/11/82 17:50   574    9 S    85 VOL$18  
+CLASS1   ASSEMBLE A 01/05/80 15:36    27    1 S    53 VOL$18  
+CLASS10  ASSEMBLE A 10/31/80 13:43   114    2 S    48 VOL$18  
+CLASS11  ASSEMBLE A 02/25/80 13:55    25    1 S    37 VOL$18  
+CLASS12  ASSEMBLE A 04/11/80 17:28    32    1 S    45 VOL$18  
+CLASS13  ASSEMBLE A 05/10/80 00:03    66    2 S    41 VOL$18  
+CLASS14  ASSEMBLE A 04/03/80 17:50    46    1 S    38 VOL$18  
+CLASS15  ASSEMBLE A 03/31/80 18:29    36    1 S    64 VOL$18  
+CLASS2   ASSEMBLE A 01/05/80 15:37    24    1 S    33 VOL$18  
+CLASS20  ASSEMBLE A 04/04/80 17:11    46    1 S    55 VOL$18  
+CLASS21  ASSEMBLE A 03/31/80 18:06    44    1 S    53 VOL$18  
+CLASS22  ASSEMBLE A 05/18/81 18:35    78    2 S    51 VOL$18  
+CLASS23  ASSEMBLE A 04/29/80 17:01    67    2 S    41 VOL$18  
+CLASS24  ASSEMBLE A 07/07/80 14:32    95    2 S    52 VOL$18  
+CLASS25  ASSEMBLE A 04/08/80 12:40    31    1 S    42 VOL$18  
+CLASS26  ASSEMBLE A 04/08/80 12:55   109    3 S    62 VOL$18  
+CLASS27  ASSEMBLE A 10/20/80 17:17   134    4 S    57 VOL$18  
+CLASS27A ASSEMBLE A 12/24/80 14:27   136    4 S    57 VOL$18  
+CLASS28  ASSEMBLE A 05/24/82 12:18    33    1 S    53 VOL$18  
+CLASS29  ASSEMBLE A 05/17/81 14:15   104    3 S    44 VOL$18  
+CLASS3   ASSEMBLE A 01/05/80 15:37    21    1 S    48 VOL$18  
+CLASS30  ASSEMBLE A 09/30/80 20:30    93    3 S    56 VOL$18  
+CLASS31  ASSEMBLE A 07/06/82 17:41   156    4 S    58 VOL$18  
+CLASS32  ASSEMBLE A 09/24/81 12:52    37    1 S    47 VOL$18  
+CLASS33  ASSEMBLE A 06/15/81 14:52    50    1 S    41 VOL$18  
+CLASS34  ASSEMBLE A 07/03/81 12:48    32    1 S    66 VOL$18  
+CLASS35  ASSEMBLE A 01/13/82 18:13    32    1 S    52 VOL$18  
+CLASS35A ASSEMBLE A 11/06/82 19:09    36    2 S    63 VOL$18  
+CLASS36  ASSEMBLE A 05/05/82 13:23    97    3 S    47 VOL$18  
+CLASS37  ASSEMBLE A 04/23/82 12:28   147    4 S    51 VOL$18  
+CLASS39  ASSEMBLE A 08/23/82 16:34    80    2 S    44 VOL$18  
+CLASS4   ASSEMBLE A 09/24/80 11:59    28    1 S    53 VOL$18  
+CLASS5   ASSEMBLE A 04/11/80 17:25    32    1 S    45 VOL$18  
+CLASS6   ASSEMBLE A 03/26/82 16:23    33    1 S    44 VOL$18  
+CLASS7   ASSEMBLE A 07/30/81 14:01   148    3 S    58 VOL$18  
+CLASS7A  ASSEMBLE A 11/06/82 19:16    34    1 S    58 VOL$18  
+CLASS7B  ASSEMBLE A 11/06/82 19:16    43    1 S    53 VOL$18  
+CLASS8   ASSEMBLE A 03/29/80 16:08    26    1 S    41 VOL$18  
+CLASS9   ASSEMBLE A 03/03/80 13:28    25    1 S    44 VOL$18  
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL$18  
+DEV99    ASSEMBLE A 05/27/82 19:05   224    6 S    68 VOL$18  
+DEV99    EXEC     A 05/28/82 18:59    17    1 S    67 VOL$18  
+LONELY   EXEC     A 09/20/82 18:46     9    1 S    63 VOL$18  
+LONELY   HEARTS   A 09/20/82 19:19     6    1 S   133 VOL$18  
+LONELY   SCRIPT   A 11/06/82 21:36    24    1 S    57 VOL$18  
+MEMBER18 FEEDBACK A 11/06/82 21:56   107    5 S    65 VOL$18  
+NEWS     LETTER18 A 11/08/82 05:05    92    5 S    65 VOL$18  
+PROOF    COMMAND  A 11/07/82 16:57    26    7 R   256 VOL$18  
+PROOF    NOTES    A 04/04/82 18:21   173    7 S    83 VOL$18  
+PROOFCNV COMMAND  A 10/02/82 17:26    23    6 R   256 VOL$18  
+PROOFCON EXEC     A 04/04/82 18:34    52    2 S    72 VOL$18  
+SELECT18 EXEC     A 11/07/82 17:49   115    6 S    46 VOL$18  
+SOFTWARE RULES    A 11/01/82 20:02    86    5 S    72 VOL$18  
+STARTRAK BASIC    A 06/07/82 19:52   412   19 S   138 VOL$18  
+STARTRAK EXEC     A 09/01/82 19:12     8    1 S    20 VOL$18  
+SYSTEM   CLASS1   A 06/22/81 11:45     2    1 R   256 VOL$18  
+^YSTEM   CLASS10  A 06/22/81 11:46     3    1 R   256 VOL$18  
+SYSTEM   CLASS11  A 06/22/81 11:47     2    1 R   256 VOL$18  
+SYSTEM   CLASS12  A 06/22/81 11:49     3    1 R   256 VOL$18  
+SYSTEM   CLASS13  A 06/22/81 11:49     2    1 R   256 VOL$18  
+SYSTEM   CLASS14  A 06/22/81 11:50     2    1 R   256 VOL$18  
+SYSTEM   CLASS15  A 06/22/81 11:51     2    1 R   256 VOL$18  
+SYSTEM   CLASS16  A 06/22/81 11:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS17  A 06/22/81 11:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS18  A 06/22/81 11:53     2    1 R   256 VOL$18  
+SYSTEM   CLASS19  A 06/22/81 11:54     2    1 R   256 VOL$18  
+SYSTEM   CLASS2   A 06/22/81 11:55     2    1 R   256 VOL$18  
+SYSTEM   CLASS20  A 06/22/81 11:56     2    1 R   256 VOL$18  
+SYSTEM   CLASS21  A 06/22/81 11:57     2    1 R   256 VOL$18  
+SYSTEM   CLASS22  A 06/22/81 11:58     3    1 R   256 VOL$18  
+SYSTEM   CLASS23  A 06/22/81 11:58     2    1 R   256 VOL$18  
+SYSTEM   CLASS24  A 06/22/81 12:00     3    1 R   256 VOL$18  
+SYSTEM   CLASS25  A 06/22/81 12:01     2    1 R   256 VOL$18  
+SYSTEM   CLASS26  A 06/22/81 12:02     3    1 R   256 VOL$18  
+SYSTEM   CLASS27  A 06/22/81 12:03     3    1 R   256 VOL$18  
+SYSTEM   CLASS27A A 12/24/80 14:34     3    1 R   256 VOL$18  
+SYSTEM   CLASS28  A 06/22/81 12:04     2    1 R   256 VOL$18  
+SYSTEM   CLASS29  A 06/22/81 12:05     3    1 R   256 VOL$18  
+SYSTEM   CLASS3   A 06/22/81 12:06     2    1 R   256 VOL$18  
+SYSTEM   CLASS30  A 06/22/81 12:07     3    1 R   256 VOL$18  
+SYSTEM   CLASS31  A 05/18/81 18:20     3    1 R   256 VOL$18  
+SYSTEM   CLASS32  A 04/04/82 17:47     2    1 R   256 VOL$18  
+SYSTEM   CLASS33  A 06/22/81 12:09     2    1 R   256 VOL$18  
+SYSTEM   CLASS34  A 04/04/82 17:52     2    1 R   256 VOL$18  
+SYSTEM   CLASS35  A 11/06/82 18:10     2    1 R   256 VOL$18  
+SYSTEM   CLASS36  A 09/03/82 17:31     3    1 R   256 VOL$18  
+SYSTEM   CLASS37  A 11/06/82 18:28     3    1 R   256 VOL$18  
+SYSTEM   CLASS39  A 09/03/82 17:40     3    1 R   256 VOL$18  
+SYSTEM   CLASS3A  A 09/03/82 17:31     2    1 R   256 VOL$18  
+SYSTEM   CLASS4   A 06/22/81 12:11     2    1 R   256 VOL$18  
+SYSTEM   CLASS5   A 06/22/81 12:12     2    1 R   256 VOL$18  
+SYSTEM   CLASS6   A 06/22/81 12:13     2    1 R   256 VOL$18  
+SYSTEM   CLASS7   A 07/30/81 14:33     3    1 R   256 VOL$18  
+SYSTEM   CLASS7A  A 11/06/82 17:33     2    1 R   256 VOL$18  
+SYSTEM   CLASS7B  A 04/04/82 17:48     3    1 R   256 VOL$18  
+SYSTEM   CLASS8   A 06/22/81 12:16     2    1 R   256 VOL$18  
+SYSTEM   CLASS9   A 06/22/81 12:17     2    1 R   256 VOL$18  
+SYSTEM   CLASS99  A 05/19/82 07:27     3    1 R   256 VOL$18  
+SYSTEM   DEV99    A 05/27/82 19:09     4    1 R   256 VOL$18  
+TWEETY   NOTES    A 09/01/82 18:24    22    1 S    63 VOL$18  
+TWEETY   PICTURE  A 11/06/82 19:24   102    7 S    77 VOL$18  
+VOL18    CONTENTS A 11/07/82 17:46   106    4 S    65 VOL$18  
+VOL18    EXEC     A 11/08/82 04:07   236    7 S    73 VOL$18  
+WISH     LIST18   A 11/07/82 19:48    91    4 S    72 VOL$18  
+115 file(s), 240 block(s).
+
+NEWS.LETTER18:VOL$18                                      01/29/85 16:39 Page 1
+
+-----------------------------------------------------------------
+6 November 1982         N E W S   L E T T E R           Volume 18
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+Well, lots of you have been asking for source code for all of the
+class codes.   This volume has 'em - contributed by Phase One.  I
+have  pulled  all  of the  previously released member contributed
+ones together in this volume so you only have to look one place -
+at  least  up to  this point.   We definitely will be adding  new
+drivers in the future, I'm sure!  
+
+Also included in this  volume in Bob Chapman's latest  version of
+the spelling checker,  now called PROOF, together with  a program
+for converting  the old  dictionary files for use with  the newer
+and much  improved version of the ever evolving spelling checker.
+It is much faster!  It also has some innovative features now that
+are found in  no other spelling program anywhere.   Look over the
+new  documentation and  you'll  see  what  I  mean.  Bob  is  now
+interested  in  talking  with  people  interested  in  selling  a
+commercial  version of  his software.   He has put a lot  of work
+into this  effort and deserves a little financial reward.  If you
+are selling  systems, why not consider including a copy of PROOF?
+Give Bob a call at (416) 845-2203 when you see the possibilities.
+
+You will  see after  reading the  PROOF.NOTES  file that we could
+speed up  considerably PROOF  if we had an in  memory list of the
+most frequently encountered  words.  If anyone has access  to the
+first few hundred words in a standard word frequency list, get in
+touch.  
+
+While we are on the subject of text editing software, I wish some
+ambitious  member(s)  would  consider  putting together  a screen
+oriented editor  (like  MagicWand  etc.).   I  know it  is  not a
+trivial problem,  but several of you have told me you are looking
+for a  non-trivial programming project to take on.  Or, how about
+a new program  (like GRAMATEX) that checks for  gramatical errors
+or other poor English usage.  We also need a spread program (like
+VISACALC).  The  member who  is working on one for  us has gotten
+^ogged down, and  it looks like it might  be a while before he is
+able  to  finish his.   Maybe you  could  finish your own version
+before he gets his done.  
+
+Or, how about  one of you Wiz Kids putting together a really fast
+general  purpose SORT  for us.   Joe's is great, but it  could be
+just a tad faster (or maybe a lot faster!).  
+
+Quite a number of you have asked me about investment programs.  I
+know  there  would be  considerable interest  in  any really good
+programs we could  come up with.  But, I  don't know enough about
+the stock market (etc.) to know what to look for.  Recently I did
+come across a package of programs and investment data produced by
+a  guy  named Thomas  V.  Lenz.   I bought the book with  all the
+listings and  then contacted Lenz.  We could get the programs and
+the  historic stock  market data  in machine readable form if  we
+wanted to  take on  the project of converting it  from the TRS-80
+Model  I  or  II  format.   We  have  a  member  who has  already
+volunteered to  do the  physical conversion and I doubt  that the
+BASIC to  BASIC conversion would be that difficult.  I just don't
+know if it is worth it.  What we need now is an interested member
+to look  over the  program notes and listings to  see if it makes
+any sense to proceed.  If you are that person, get in touch.  
+
+Coming next volume  also are some goodies.  Phase One gave us all
+of their  software patches and notes.  Some of them even apply to
+versions 5.5.   One  of  our  members  put together  a  real disk
+compression utility  that works great.  I'm waiting on the source
+to go  along with  the COMMAND he already sent.   I would imagine
+that  our  press  release system  should be  ready  by then, too.
+Beyond that,  who knows?  (You know, .  .  .  .  .  .  if you are
+still sitting on something you promised, long long ago.) 
+
+So, that's it for volume 18.  I guess I said most everything that
+had to be said right now in volume 17.  This one comes just about
+a week after I finished writing 17.  
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 18
+-----------------------------------------------------------------
+
+MEMBER18.FEEDBACK:VOL$18                                  01/29/85 16:39 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER18.FEEDBACK                                  This date 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                             Oakville, Ontario
+                                             October 18,1982
+
+Dear Fred,
+
+It is with  great relief  that I am finally writing  this letter.
+It has been  5 months since I started  to work on improvements to
+the  PRUFEDIT  program  with  summer  holidays, weekends,  flying
+trips,  etc.   all  taking  their  toll  of  the time  available.
+However, I  think  that  I  have  come up  with  some significant
+enhancements that  increase the speed and utility of the program.
+I have changed the name to PROOF, it being shorter and simpler to
+type.  It also  relates more directly to the  output file type of
+PROOFED.  This  has been a fascinating journey, to say the least.
+I  have tried  and rejected  about half a dozen different  filing
+algorithms  (with conversion  of all  of  the SPELLING files each
+time!)  until finally  settling on  a  double hashing scheme that
+seems  to  find  records considerably  faster than OASIS's method
+(the  OASIS algorithm  leads to  too much 'bunching up' of  words
+into tight groups).   Speed is also increased by  loading a short
+word list  into memory  and checking it first.  If  someone had a
+list  of the  most commonly  used (or misspelled) words it  could
+form the nucleus of the in-memory dictionary.  The in-memory list
+can be customized by the user to his own needs.  
+
+The new  dictionary  files  have  been named  SPELLING.GROUPnn to
+distinguish them  from the SIZEnn files.  They are ordinary OASIS
+DIRECT files and can be listed with the LIST command.  
+
+I have not  included the source code for this program for several
+reasons.  First is the amount of work that I have done, second is
+the fact that  it totals some 23 pages  of fairly dense code, and
+third, (due  to OASIS's flexibility) it should run on any machine
+using  OASIS  without the  need for  customization.   If the last
+proves incorrect then I will endeavor to make alterations.  
+
+For those OASIS  users who  are assembly hackers I have  patch to
+DEBUG to  allow you to work in any area of memory, 'protected' or
+not.  You  should be familiar with PATCH to use this and DON'T do
+it to your original system disk.  The patch works with DEBUG 5.5A
+03JUN81 which is  the latest version that I  am aware of.  It may
+or may not work with other versions.  
+
+Here it is:
+
+>RENAME DEBUG.OVERLAY1:S (NOWRITE
+>PATCH DEBUG.OVERLAY1:S
+V 2423 38 11
+R 2423 00 00
+V 242F 38 05
+R 242F 00 00
+E
+>RENAME DEBUG.OVERLAY1:S (WRITE
+^
+When the above is executed DEBUG will operate on any area of memo
+
+Happy computing!
+
+Bob Chapman
+465 Lakeshore Road West
+Oakville, Ontario
+Canada    L6K 1G4
+
+416-845-2203
+    827-4173
+
+P.S. After  our  telephone  conversation  of this  morning I have
+included an EXEC  and a conversion program to  convert the SIZEnn
+files to  GROUPnn files.  If there are any problems please let me
+know.  BC 
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                             Oakville,Ontario
+                                             October 24,1982
+
+Dear Fred,
+
+I guess I just  get too excited when I  finish a program and send
+it off  in  a great  hurry only  to  find some bugs in  it later.
+PROOF had  a problem  when it was printing text  if the length of
+the record exceeded the printer's line length.  It also wanted to
+look up  the possessive form of a noun (eg.  printer's), thinking
+it had a contraction.  Both these problems have been fixed and as
+well  I  have added  a  routine  to  drop  trailing s's  (on  the
+assumption that the word is plural) and rechecking the dictionary
+before reporting  an error.  This routine has logic to compensate
+for certain irregular  plural forms (eg.  baby and  babies- babys
+should be reported  as an error) but will  introduce a few errors
+with words like  datum (datums would pass) where  the plural form
+is  data.  However,  the  benefit  in  not  having to  store  the
+singular  and  plural  form of  every noun  in  the dictionary is
+probably worth the errors created.  
+
+I hope  this  diskette  arrives in  time for  you  to replace the
+previous copy of PROOF.  
+
+May all your bugs be little ones, 
+
+Bob Chapman 
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+SOFTWARE.RULES:VOL$18                                     01/29/85 16:39 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+    GUIDE FOR SUBMITTING SOFTWARE CONTRIBUTIONS TO THE OUG LIBRARY
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+The following "rules" are presented in an attempt to get some reasonable
+degree of  uniformity in the quality of things submitted to the library.
+They must be  considered preliminary forever.  We will  change the rules
+any time  the  situation seems  to warrant  it.   But, for now keep  the
+following things in  mind as you prepare stuff  for the OUG Library.  FB
+9/1/81 
+
+
+1. Assume  console units  (terminals) have direct cursor addressing, and
+24 lines of 72 columns.  
+
+2. If the software is hardware dependent, make it very, very clear.  
+
+3. If you want  to reserve the commercial rights  to your software, make
+it clear  by including a comment in the code such as "Permission to use,
+but  not to  sell.",  "Commercial  rights  reserved."  or best  of  all:
+"Copyright 1982 XYZ Software Company." 
+
+4. Generally  speaking,  we  will only  include programs  for  which the
+source code is  included.  There will be exceptions  made when there are
+overriding commercial considerations involved.  
+
+5. Be sure to check out all of the different conditions included in your
+program -  better you than some unsuspecting user!  Better yet, get some
+"unsuspecting user"  of  your own  to try  it  out and pay attention  to
+anything  in  the test  that causes  even the slightest bit of  trouble.
+Think SMART when writing.  Think DUMB when testing.  
+
+6. Try to anticipate all of the different possible ways a new user might
+want to use your program and make it as general as possible.  
+^
+7. Include the author's  name (if known) and the  name(s) of anyone else
+involved  in  converting/modifying the  program and  the  name and phone
+number(s) of people  who would be willing to  talk to a new user that is
+having trouble,  etc.  This information should be put both in the source
+as REMarks and in the EXEC HELP section.  
+
+8. Where ever  it makes sense, write a short EXEC to explain and run the
+program  automatically.   The   EXEC  should  be  safe.   That   is,  an
+unsuspecting new user  should not be able to  accidentally do any damage
+to any  part of his existing system (easily).  The EXEC should include a
+HELP  section so  that when  it is executed with out  variables the user
+will  automatically see  the HELP  info.  The HELP section should  be as
+complete as  necessary  to  make  the  purpose and  correct  use of your
+program  obvious to  even a  relatively novice new user.  It  should tie
+everything in  the package  together - I end up  writing a lot of EXEC's
+for that purpose of much of the things submitted.  
+
+9. The  major  logic flows  of the  program should be noted by  imbedded
+remarks, and the more the merrier!  
+
+10. When  a  previously  released program  is slightly  modified  or has
+errors corrected,  it will  be re-released on the next  volume under the
+SAME name.  
+
+11. When a  new program is released that does almost the same thing as a
+previously  released  program or  when wholesale  changes  are made to a
+previously released  program, the  new program will be given  a new name
+that shows  some relationship to the earlier name.  For example: WUMPUS2
+is a greatly enhanced version of WUMPUS.  
+
+12. Exceptions to these guidelines may be taken by anyone at anytime for
+any good reason.  (But, I'm keeping an eye on you).  
+
+13. All files related to the same process should ALL be given names that
+start  with the  same three  characters, if possible - to  make them all
+file in approximately the same place in our enormous and growing list of
+OUG  library  files.   Within this  limitation, all  names  should be as
+mnemonic as possible.  
+
+14. Don't use any more files than necessary in your package.  Naturally,
+we don't want  files that are so big  that some people with limited user
+memory can't work  with them, but on the  other hand, we also don't want
+ten  single  block files  when one  file of ten blocks would  do just as
+well.  As our library grows, it gets harder and harder to find things.  
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Let's hear more ideas about guidelines.                   November 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+WANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:2
+
+                             OASIS APPLICATION NOTE                AN00-004
+
+
+
+    From:          Phase One Systems, Incorporated
+                   7700 Edgewater Drive, Suite 830
+                   Oakland, California 94621
+
+    Distribution:  All Multi User OASIS Users 
+
+    Subject:       EXEC Language program to execute a background or phantom
+                   user job that may require the printer.  
+
+    Date:          November 3, 1980 
+
+    Purpose:       To  provide  the  listing of  the EXEC  program  and the
+                   procedure  for  using the  program to start a background
+                   task for a job that may need the printer.  
+
+    Implementation: 
+
+                   Create the  following two  programs by using the EDIT or
+                   TEXTEDIT  command.    After  these  programs  have  been
+                   created   make  sure   that:  1)  a  user  partition  is
+                   available;  2)  that  no  active  user  has  the printer
+                   attached to his partition.  
+
+                   To use these  programs to  invoke a file listing to  the
+                   printer for example you would merely type the command: 
+
+                             >BACKGRND LIST fn ft fd ( PRINT
+
+    File BACKGRND.EXEC
+
+    0010 &CONTROL OFF
+    0020 START PRINT &1 &2 &3 &4 &5 &6 &7 &8 &9 &10 &11 &12 &13 &14
+    0030 &QUIT
+
+    File PRINT.EXEC
+
+    0010 &ESC P
+    0020 ATTACH PRINTER SIO4 ( B1200 ENAB1 L80 P60
+    0030 &1 &2 &3 &4 &5 &6 &7 &8 &9 &10 &11 &12 &13 &14
+
+                                      - 1 -
+
+                             OASIS APPLICATION NOTE                AN00-005
+
+
+
+    From:          Phase One Systems, Incorporated
+                   7700 Edgewater Drive, Suite 830
+                   Oakland, California 94621
+
+    Distribution:  All Multi User OASIS Users 
+
+    Subject:       EXEC Language program to invoke multi-user mode.  
+
+    Date:          January 1, 1981 
+
+    Purpose:       To  provide  the  listing of  the EXEC  program  and the
+                   procedure for using the program to start multi-user mode
+                   for a system with multiple banks of memory.  
+
+    Implementation: 
+
+                   Create the  following  program  by  using  the  EDIT  or
+                   TEXTEDIT  command.  After  this program has been created
+                   merely  add  the  account IPL  to the systems accounting
+                   structure.  If  the multi user spooler is to be used you
+                   must have  a PRINTER1 attached before invoking this EXEC
+                   (use the SYSGEN command).  
+
+                   You should   customize  this   procedure  for  your  own
+                   computer   and   its   operating  configuration.    This
+                   particular EXEC is used on a system with a common memory
+                   of 16K and four banks of 48K memory each.  
+
+    File IPL.EXEC:S
+
+    0005 &CONTROL OFF
+    0010 &TYPE
+    0020 &TYPE Do you wish multi user mode \
+    0030 &READ &ANS
+    0040 &IF &ANS EQ N LOGOFF
+    0050 &TYPE
+    0060 &TYPE Do you wish the spooler to be started \
+    0070 &READ &ANS
+    0080 &TYPE
+    0090 &TYPE Please wait about 15 seconds ... \
+    0100 &ESC O OFF
+    0110 &IF &ANS EQ Y LOAD SPOOLER ; LOAD MULTI USER SPOOLER
+    0120 SET MEMORY 2 1 1 ; ALLOCATE MEMORY FOR SECOND USER TO BANK 1
+    0130 SET MEMORY 3 1 2 ; ALLOCATE MEMORY FOR THIRD USER TO BANK 2
+    0140 SET MEMORY 4 1 3 ; ALLOCATE MEMORY FOR FOURTH USER TO BANK 3
+    0150 &IF &ANS EQ Y SET MEMORY 5 3500 3 ; ALLOCATE SPACE FOR SPOOLER
+    0160 &IF &ANS EQ Y SPOOLER INIT ; SPOOLER STARTED IN HIGHEST PARTITION
+    0170 START 2 ; START USER 2
+    0180 START 3 ; START USER 3
+    0190 START 4 ; START USER 4
+    0200 &ESC O ON
+    0210 &TYPE
+    0220 LOGOFF
+
+
+                                      - 1 -
+
+                             OASIS APPLICATION NOTE                AN00-006
+
+
+
+    From:          Phase One Systems, Incorporated
+                   7700 Edgewater Drive, Suite 830
+                   Oakland, California 94621
+
+    Distribution:  All Multi User OASIS Users 
+
+    Subject:       EXEC Language program to invoke single-user mode.  
+
+    Date:          January 1, 1981 
+
+    Purpose:       To  provide  the  listing of  the EXEC  program  and the
+                   procedure for using the program to return to single-user
+                   mode from multi-user mode.  
+
+    Implementation: 
+
+                   Create the  following  program  by  using  the  EDIT  or
+                   TEXTEDIT command.  
+
+                   You should   customize  this   procedure  for  your  own
+                   computer   and   its   operating  configuration.    This
+                   particular EXEC is used on a system with a common memory
+                   of 16K and four banks of 48K memory each.  
+
+    File SINGLE.EXEC:S
+
+    0010 &CONTROL OFF
+    0020 &TYPE
+    0030 SHOW USERS
+    0040 &TYPE
+    0050 &TYPE Okay to return to single user mode [Y/N] \
+    0060 &READ &ANS
+    0070 &IF &ANS NE Y &QUIT
+    0080 SPOOLER QUIT
+    0090 &NBR = 2
+    0100 &WHILE &NBR LE 5 ; FIVE PARTITIONS DEFINED
+    0110      STOP &NBR
+    0120      &IF &RETCODE GT 0 &GOTO -DEALLOC
+    0130      &NBR = &NBR + 1
+    0140      &REPEAT
+    0150 -DEALLOC
+    0160 &NBR = &NBR - 1
+    0170 &WHILE &NBR GT 1
+    0180      SET MEMORY &NBR
+    0190      &NBR = &NBR - 1
+    0200      &REPEAT
+    0210 UNLOAD SPOOLER
+    0220 &QUIT
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+                                      - 1 -
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:3
+
+                             OASIS APPLICATION NOTE                AN02-001
+
+
+
+    From:          Phase One Systems, Incorporated
+                   7700 Edgewater Drive, Suite 830
+                   Oakland, California 94621
+
+    Distribution:  All OASIS, Digital Microsystems, DSC-3 & DSC-4 Users 
+
+    Subject:       Double sided OASIS system disks 
+
+    Date:          January 22, 1981 
+
+    Purpose:       To describe  a procedure for using a double sided system
+                   disk with  the OASIS  operating system on the DSC-3  and
+                   DSC-4  computer  systems,  assuming  that you  have disk
+                   drives capable of double sided operation (Shugart 850). 
+
+    Implementation: 
+
+        1. Create  a   single  sided  system  disk  making  sure  that  the
+           SYSTEM.NUCLEUS is  the first file copied to the disk.  It is not
+           necessary to  include more than the system programs (files whose
+           name is SYSTEM), the ATTACH.COMMAND, and the following IPL.EXEC.
+
+        2. Using the  system editor (EDIT) or text editor (TEXTEDIT) create
+           the file IPL.EXEC with the following record in it: ATTACH S 1 
+
+        3. Create  a double  sided system  disk including all of the  files
+           that you  wish  to  have  on  your production  use  system disk.
+           Although  it  is not  important that  the  SYSTEM.NUCLEUS be the
+           first file  on the  disk better performance will be  seen if the
+           NUCLEUS, CSI, and EXECLANG files are all near the directory.  
+
+        Boot the single  sided disk as you normally do.  When it ask you to
+        "Mount  disk  now" replace  the single  sided  system disk with the
+        double  sided system  disk and  hit the return key on  the console.
+        The  operating  system will  locate the  files it needs on the  new
+        system disk and return to the CSI prompt.  
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 18.
+
+***************************************************************
+
+ 
+AN00$002 to AN00$009.APPLNOTE
+AN02$001.APPLNOTE
+
+Phase One has supplied us with a complete set of their application
+notes series.  Five relate to BASIC programming, three will be of
+interest to members with multi-user OASIS, and one is of interest
+only to members with the Digital Microsystems DSC-3 or DSC-4 system.
+
+You have the option of reading all of the notes in any of the groups
+at this point, if you want.
+
+           1.  BASIC programming notes.
+           2.  Multi-user notes.
+           3.  DSC system users.
+           4.  None.
+
+SELECT ONE. [1-4 or <cr>]:4
+
+
+
+
+                                      - 1 -
+
+ 
+CLASS.CODES
+CLASS1 to CLASS39.ASSEMBLE
+CLASS.MACLIB
+DEV99.ASSEMBLE/EXEC
+SYSTEM.CLASS1 to CLASS99
+
+Again, thanks to Phase One, we finally have all of the available
+class codes in the library - including the SOURCE code for them.
+We also have the latest version of the CLASS.MACLIB which you
+might want to compare with the one you currently have.  Obviously,
+not all terminals and printers are represented in the collection.
+So, we need anything you are using that is even just different
+from the ones we now have.  One of the most frequent subjects for
+your phone calls is the availability of drivers for some funny
+setup.  Sometimes even a "normal" device doesn't seem to work
+with any of the available CLASS codes.  So if you fix a glitch,
+tell us how you did it.
+
+ 
+Want to see a complete list of the terminals/printers now covered
+by any of the drivers in our collection? [Y/N]
+:Y
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CLASS.CODES:VOL$18                                        01/29/85 16:40 Page 1
+
+CLASS CODES AVAILABLE AS OF 1 NOVEMBER 1982
+
+
+LISTING IN ALPHABETICAL ORDER BY DEVICE
+Code Terminal
+==== ===================================
+2    ADDS 580 Envoy
+15   ADDS Regent 20
+40   ADDS Viewpoint (not implemented)
+38   Altos 1 (Wyse) (not implemented)
+1    Beehive B100
+10   DEC VT-100
+22   DEC VT-52
+39   DEC VT52 (Uses ESC,ESC for system control) (Untested)
+21   Data Media
+14   Elbitt
+37   Falco Data Products TS-1 (Untested)
+6    Hazeltine 1500
+32   Hazeltine Modular One
+10   Heath H19 (ANSI)
+29   Heath H19 (Heath mode) (Uses ESC,ESC for system control)
+22   IBM 3101 (Uses ESC,ESC for system control)
+20   Informer 304
+11   Infoton 100
+24   Intertube
+33   Kontron PSI80 (VDM)
+3    Lear Siegler ADM 3A
+35   Lear Siegler ADM 5
+35A  Lear Siegler ADM 5 (alternate)
+99   NEC Spinwriter
+9    Perkin Elmer BANTOM
+8    Perkin Elmer FOX
+16   Reserved by Phase One
+17   Reserved by Phase One
+18   Reserved by Phase One
+19   Reserved by Phase One
+23   S D Systems VDB 8024 (VDM)
+41   Seiko (not implemented)
+4    Soroq IQ 120
+5    Special (VDM)
+13   Tandy Radio Shack TRS80 II (VDM)
+27   Tektronix 40
+27A  Tektronix 40 (variation)
+26   Teleray 1000 Series
+36   Televideo TVI910
+7    Televideo TVI912/920
+7B   Televideo TVI920 (for MagicWand)
+7A   Televideo TVI920C
+31   Televideo TVI950 (Uses ESC,ESC for system control)
+12   Vector Graphic Flashwriter (VDM)
+28   Visual 200
+34   Visual 200 (SD Systems)
+25   Volker-Craig VC404
+30   Zentec Zepher
+
+
+
+
+LISTING IN CLASS CODE ORDER
+Code Terminal
+==== ===================================
+1    Beehive B100
+2    ADDS 580 Envoy
+3    Lear Siegler ADM 3A
+4    Soroq IQ 120
+5    Special (VDM)
+6    Hazeltine 1500
+7    Televideo TVI912/920
+7A   Televideo TVI920C
+7B   Televideo TVI920 (for MagicWand)
+8    Perkin Elmer FOX
+9    Perkin Elmer BANTOM
+^0   Heath H19 (ANSI)
+10   DEC VT-100
+11   Infoton 100
+12   Vector Graphic Flashwriter (VDM)
+13   Tandy Radio Shack TRS80 II (VDM)
+14   Elbitt
+15   ADDS Regent 20
+16   Reserved by Phase One
+17   Reserved by Phase One
+18   Reserved by Phase One
+19   Reserved by Phase One
+20   Informer 304
+21   Data Media
+22   IBM 3101 (Uses ESC,ESC for system control)
+22   DEC VT-52
+23   S D Systems VDB 8024 (VDM)
+24   Intertube
+25   Volker-Craig VC404
+26   Teleray 1000 Series
+27   Tektronix 40
+27A  Tektronix 40 (variation)
+28   Visual 200
+29   Heath H19 (Heath mode) (Uses ESC,ESC for system control)
+30   Zentec Zepher
+31   Televideo TVI950 (Uses ESC,ESC for system control)
+32   Hazeltine Modular One
+33   Kontron PSI80 (VDM)
+34   Visual 200 (SD Systems)
+35   Lear Siegler ADM 5
+35A  Lear Siegler ADM 5 (alternate)
+36   Televideo TVI910
+37   Falco Data Products TS-1 (Untested)
+38   Altos 1 (Wyse) (not implemented)
+39   DEC VT52 (Uses ESC,ESC for system control) (Untested)
+40   ADDS Viewpoint (not implemented)
+41   Seiko (not implemented)
+99   NEC Spinwriter
+
+
+NOTE: Only numerical class codes seem to work.  So, if you want
+to use one of the variations, you will need to rename it to
+some unused number (eg CLASS7A could be CLASS88, etc.).
+
+If you modify any of the existing class codes or write new ones
+of your own, they will need to be assembled and linked to the
+system (eg ASM CLASS42 ( / SYSTEM) for CLASS42.ASSEMBLE).
+Phase One has supplied us with the latest CLASS.MACLIB, so you
+might try it instead of the one you now have.  Be sure to
+send us anything new you do.
+
+ 
+LONELY.EXEC/HEARTS/SCRIPT
+
+I originally put this together as a "joke" for a friend who kept
+asking me how he could also get himself a wonderful Japanese wife
+like Tomoko.  I never did confess the prank.  Hope you don't know
+him.  Actually, he got quite a kick out of the rather interesting
+mail that started arriving.  The EXEC ties it all together.  The
+LONELY.HEARTS file contains the addresses of six marrage brokers
+that specialize in Asian women. And, the SCRIPT file is the text
+of the post card I used.  I'll bet you can think of something
+more interesting to do with an idea like this.
+ 
+There is a demo that works without the printer.
+To try it now type "RUN" else hit the <cr> to continue:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PROOF.COMMAND/NOTES
+PROOFCNV.COMMAND
+PROOFCON.EXEC
+
+Hold onto your hats.  This is Bob Chapman's latest upgrade of
+his already excellent spelling checker.  This one is a lot
+faster, automatically checks plurals against singular forms, and
+allows you to build special word files that are loaded into
+memory for much faster processing.  It uses direct files for
+the dictionary segments.  PROOFCON.EXEC and it's companion,
+PROOFCNV.COMMAND are provided for generating the new dictionary.
+The old version is left unaltered.  You have the option of
+going ahead and generating the new files at this point and of
+seeing the new documentation PROOF.NOTES.  The new dictionary
+takes up about 600 Kbytes of disk space, so be sure you have
+that much before proceeding.  Also, be warned that it takes
+several hours to do the generation (about four or five).
+ 
+Want more info. at this point? [Y/N]:
+Want to generate the new word files now? [Y/N]:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PROOF.COMMAND/NOTES
+PROOFCNV.COMMAND
+PROOFCON.EXEC
+
+Hold onto your hats.  This is Bob Chapman's latest upgrade of
+his already excellent spelling checker.  This one is a lot
+faster, automatically checks plurals against singular forms, and
+allows you to build special word files that are loaded into
+memory for much faster processing.  It uses direct files for
+the dictionary segments.  PROOFCON.EXEC and it's companion,
+PROOFCNV.COMMAND are provided for generating the new dictionary.
+The old version is left unaltered.  You have the option of
+going ahead and generating the new files at this point and of
+seeing the new documentation PROOF.NOTES.  The new dictionary
+takes up about 600 Kbytes of disk space, so be sure you have
+that much before proceeding.  Also, be warned that it takes
+several hours to do the generation (about four or five).
+ 
+Want more info. at this point? [Y/N]:
+Want to generate the new word files now? [Y/N]:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+PROOF.COMMAND/NOTES
+PROOFCNV.COMMAND
+PROOFCON.EXEC
+
+Hold onto your hats.  This is Bob Chapman's latest upgrade of
+his already excellent spelling checker.  This one is a lot
+faster, automatically checks plurals against singular forms, and
+allows you to build special word files that are loaded into
+memory for much faster processing.  It uses direct files for
+the dictionary segments.  PROOFCON.EXEC and it's companion,
+PROOFCNV.COMMAND are provided for generating the new dictionary.
+The old version is left unaltered.  You have the option of
+going ahead and generating the new files at this point and of
+seeing the new documentation PROOF.NOTES.  The new dictionary
+takes up about 600 Kbytes of disk space, so be sure you have
+that much before proceeding.  Also, be warned that it takes
+several hours to do the generation (about four or five).
+ 
+Want more info. at this point? [Y/N]:
+Want to generate the new word files now? [Y/N]:Y
+O.K. You asked for it. It's going to be working for several hours!
+
+
+
+This EXEC will take the old SPELLING.SIZEnn files and create
+new SPELLING.GROUPnn files that are useable by the latest
+spelling checker now called PROOF. The new files will require
+about 600 blocks of disk space.  The conversion is done
+entirely on the system disk (assuming a hard disk).  To run
+the conversion on diskettes you will have to make changes
+to the disk specification in the CREATE and PROOFCNV commands
+used in this EXEC.
+OK TO PROCEED WITH THE CREATION OF THE NEW SPELLING FILES? [Y/N]:Y
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+Cannot PEEK at yourself!
+
+
+
+
+
+
+Creation of the new spelling files is now complete.  You may want
+to delete the old ones from your system disk (after making backup
+copies, naturally).  The new spelling checker command called PROOF
+should now be ready for use.  Give it a try.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+STARTRAK.BASIC/EXEC
+
+Who knows who the original author of STARTREK was.  This version
+was contributed by Hanief Edwards and it is a good one.  It is
+included because it's different in some significant ways from the
+others.  Also, it has good instructions.
+ 
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ 
+TWEETY.PICTURE
+
+What can I tell you?  It's another birdie picture.  No one will
+own up to contributing it - I certainly won't.  So take a look
+at it next time you get tired of working.  FB
+ 
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+***************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 18.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+ 
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+ 
+***************************************************************
+

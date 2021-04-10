@@ -1,0 +1,639 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: January 1982
+Volume: 10
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST10  A 12/01/81 16:52    31    2 S    69 VOL$10
+ADD      BASICOBJ A 02/23/82 17:46    76    3 S    82 VOL$10
+ADDRESS2 BASICOBJ A 01/13/82 12:25   306   11 S   102 VOL$10
+ADDRESS2 INFO     A 01/13/82 11:41   221   10 S   126 VOL$10
+ADDWORDS EXEC     A 02/23/82 17:04    33    2 S    71 VOL$10
+BANNER2  BASICOBJ A 01/02/82 14:58   112    4 S    80 VOL$10
+BLACKBOX BASICOBJ A 12/31/81 00:15   346   12 S    95 VOL$10
+BUDGET   BASICOBJ A 12/10/81 01:09   217    9 S    92 VOL$10
+COMBINE  BASICOBJ A 12/10/81 00:16    21    1 S    68 VOL$10
+DIRECTRY EXPLAIN  A 02/18/82 18:02    33    2 S    78 VOL$10
+DIRECTRY LIST$US$ A 02/15/82 18:33  1335   28 S    55 VOL$10
+DIRECTRY LISTINTL A 02/15/82 18:30   433    9 S    55 VOL$10
+DIRECTRY XREF$US$ A 02/15/82 18:40   195    9 S   148 VOL$10
+DIRECTRY XREFINTL A 03/08/82 18:22    64    3 S   162 VOL$10
+FOOTBALL BASICOBJ A 07/17/81 16:41   377    7 S    77 VOL$10
+MACRODIB P148INFO A 08/28/81 16:57    76    2 S    78 VOL$10
+MAP      COMMAND  A 02/09/82 18:05    13    4 R   256 VOL$10
+MEMBER10 FEEDBACK A 03/08/82 17:55   102    6 S    78 VOL$10
+MERGE    EXEC     A 07/02/81 00:00    33    1 S    58 VOL$10
+MERGEIT  BASICOBJ A 07/02/81 00:00    28    1 S   108 VOL$10
+NEWS     LETTER10 A 03/07/82 19:09    88    4 S    73 VOL$10
+OASIS    HARDWARE A 02/09/82 13:23    22    1 S    73 VOL$10
+OLD2NEW  BASICOBJ A 01/13/82 12:26    34    2 S    84 VOL$10
+PROOF    EXEC     A 03/08/82 19:33    24    1 S    66 VOL$10
+REGRESSN BASICOBJ A 01/11/82 12:25   203    7 S   108 VOL$10
+REGRESSN SAMPLE   A 01/11/82 08:54    16    1 S    11 VOL$10
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$10
+SELECT1  EXEC     A 12/01/81 17:22    36    2 S    46 VOL$10
+SELECT10 EXEC     A 03/08/82 18:40    48    3 S    46 VOL$10
+SELECT2  EXEC     A 12/01/81 17:20    56    3 S    46 VOL$10
+SELECT3  EXEC     A 12/01/81 17:45    42    2 S    46 VOL$10
+SELECT4  EXEC     A 12/01/81 17:57    62    3 S    46 VOL$10
+SELECT5  EXEC     A 12/01/81 18:01    60    3 S    46 VOL$10
+SELECT6  EXEC     A 12/01/81 18:11    44    3 S    46 VOL$10
+SELECT7  EXEC     A 12/01/81 18:18    34    2 S    46 VOL$10
+SELECT8  EXEC     A 12/01/81 18:20     5    1 S    46 VOL$10
+SELECT9  EXEC     A 12/01/81 18:21     9    1 S    46 VOL$10
+SOFTWARE GUIDE    A 08/29/81 17:33    69    4 S    71 VOL$10
+SOLAR2   BASICOBJ A 12/10/81 00:52    74    3 S    77 VOL$10
+SORT     BASICOBJ A 11/08/81 15:52   119    5 S   100 VOL$10
+SPELL    EXEC     A 12/08/81 15:47   101    4 S    73 VOL$10
+SPELLING ADDWORDS A 12/08/81 15:35  3084   28 S    20 VOL$10
+SPELSRTI BASICOBJ A 02/23/82 16:42    42    2 S    79 VOL$10
+STOCK    BASICOBJ A 02/24/82 18:17   237    7 S    72 VOL$10
+VOL10    EXEC     A 03/31/82 17:22   584   15 S    79 VOL$10
+WEATHER  BASICOBJ A 06/16/81 17:30   255    7 S    70 VOL$10
+WUMPUS2  BASICOBJ A 11/15/81 16:04   261    6 S    75 VOL$10
+47 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+ADDRESS2.INFO:A copied to ADDRESS2.INFO:D
+OLD2NEW.BASICOBJ:A copied to OLD2NEW.BASICOBJ:D
+STOCK.BASICOBJ:A copied to STOCK.BASICOBJ:D
+FOOTBALL.BASICOBJ:A copied to FOOTBALL.BASICOBJ:D
+SELECT3.EXEC:A copied to SELECT3.EXEC:D
+SELECT8.EXEC:A copied to SELECT8.EXEC:D
+WEATHER.BASICOBJ:A copied to WEATHER.BASICOBJ:D
+COMBINE.BASICOBJ:A replaces COMBINE.BASICOBJ:D
+SORT.BASICOBJ:A replaces SORT.BASICOBJ:D
+ADD.BASICOBJ:A replaces ADD.BASICOBJ:D
+BUDGET.BASICOBJ:A replaces BUDGET.BASICOBJ:D
+DIRECTRY.LIST$US$:A copied to DIRECTRY.LIST$US$:D
+REGRESSN.BASICOBJ:A copied to REGRESSN.BASICOBJ:D
+SELECT5.EXEC:A copied to SELECT5.EXEC:D
+ADDRESS2.BASICOBJ:A copied to ADDRESS2.BASICOBJ:D
+DIRECTRY.LISTINTL:A copied to DIRECTRY.LISTINTL:D
+MEMBER10.FEEDBACK:A replaces MEMBER10.FEEDBACK:D
+REGRESSN.SAMPLE:A copied to REGRESSN.SAMPLE:D
+RUN$.EXEC:A replaces RUN$.EXEC:D
+SOFTWARE.GUIDE:A replaces SOFTWARE.GUIDE:D
+SPELLING.ADDWORDS:A copied to SPELLING.ADDWORDS:D
+ADDWORDS.EXEC:A copied to ADDWORDS.EXEC:D
+NEWS.LETTER10:A replaces NEWS.LETTER10:D
+SELECT10.EXEC:A copied to SELECT10.EXEC:D
+SELECT2.EXEC:A copied to SELECT2.EXEC:D
+SELECT7.EXEC:A copied to SELECT7.EXEC:D
+SOLAR2.BASICOBJ:A copied to SOLAR2.BASICOBJ:D
+SPELL.EXEC:A replaces SPELL.EXEC:D
+WUMPUS2.BASICOBJ:A copied to WUMPUS2.BASICOBJ:D
+BANNER2.BASICOBJ:A copied to BANNER2.BASICOBJ:D
+DIRECTRY.XREF$US$:A copied to DIRECTRY.XREF$US$:D
+PROOF.EXEC:A copied to PROOF.EXEC:D
+SPELSRTI.BASICOBJ:A replaces SPELSRTI.BASICOBJ:D
+$README.FIRST10:A copied to $README.FIRST10:D
+DIRECTRY.XREFINTL:A copied to DIRECTRY.XREFINTL:D
+MACRODIB.P148INFO:A copied to MACRODIB.P148INFO:D
+OASIS.HARDWARE:A replaces OASIS.HARDWARE:D
+SELECT4.EXEC:A copied to SELECT4.EXEC:D
+SELECT9.EXEC:A copied to SELECT9.EXEC:D
+BLACKBOX.BASICOBJ:A copied to BLACKBOX.BASICOBJ:D
+DIRECTRY.EXPLAIN:A copied to DIRECTRY.EXPLAIN:D
+MERGEIT.BASICOBJ:A copied to MERGEIT.BASICOBJ:D
+MAP.COMMAND:A copied to MAP.COMMAND:D
+MERGE.EXEC:A copied to MERGE.EXEC:D
+SELECT1.EXEC:A replaces SELECT1.EXEC:D
+SELECT6.EXEC:A copied to SELECT6.EXEC:D
+VOL10.EXEC:A copied to VOL10.EXEC:D
+
+>VOL10
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 10  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  10
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST10  A 12/01/81 16:52    31    2 S    69 VOL$10
+ADD      BASICOBJ A 02/23/82 17:46    76    3 S    82 VOL$10
+ADDRESS2 BASICOBJ A 01/13/82 12:25   306   11 S   102 VOL$10
+ADDRESS2 INFO     A 01/13/82 11:41   221   10 S   126 VOL$10
+ADDWORDS EXEC     A 02/23/82 17:04    33    2 S    71 VOL$10
+BANNER2  BASICOBJ A 01/02/82 14:58   112    4 S    80 VOL$10
+BLACKBOX BASICOBJ A 12/31/81 00:15   346   12 S    95 VOL$10
+BUDGET   BASICOBJ A 12/10/81 01:09   217    9 S    92 VOL$10
+COMBINE  BASICOBJ A 12/10/81 00:16    21    1 S    68 VOL$10
+DIRECTRY EXPLAIN  A 02/18/82 18:02    33    2 S    78 VOL$10
+DIRECTRY LIST$US$ A 02/15/82 18:33  1335   28 S    55 VOL$10
+DIRECTRY LISTINTL A 02/15/82 18:30   433    9 S    55 VOL$10
+DIRECTRY XREF$US$ A 02/15/82 18:40   195    9 S   148 VOL$10
+DIRECTRY XREFINTL A 03/08/82 18:22    64    3 S   162 VOL$10
+FOOTBALL BASICOBJ A 07/17/81 16:41   377    7 S    77 VOL$10
+MACRODIB P148INFO A 08/28/81 16:57    76    2 S    78 VOL$10
+MAP      COMMAND  A 02/09/82 18:05    13    4 R   256 VOL$10
+MEMBER10 FEEDBACK A 03/08/82 17:55   102    6 S    78 VOL$10
+MERGE    EXEC     A 07/02/81 00:00    33    1 S    58 VOL$10
+MERGEIT  BASICOBJ A 07/02/81 00:00    28    1 S   108 VOL$10
+NEWS     LETTER10 A 03/07/82 19:09    88    4 S    73 VOL$10
+OASIS    HARDWARE A 02/09/82 13:23    22    1 S    73 VOL$10
+OLD2NEW  BASICOBJ A 01/13/82 12:26    34    2 S    84 VOL$10
+PROOF    EXEC     A 03/08/82 19:33    24    1 S    66 VOL$10
+REGRESSN BASICOBJ A 01/11/82 12:25   203    7 S   108 VOL$10
+REGRESSN SAMPLE   A 01/11/82 08:54    16    1 S    11 VOL$10
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$10
+SELECT1  EXEC     A 12/01/81 17:22    36    2 S    46 VOL$10
+SELECT10 EXEC     A 03/08/82 18:40    48    3 S    46 VOL$10
+SELECT2  EXEC     A 12/01/81 17:20    56    3 S    46 VOL$10
+SELECT3  EXEC     A 12/01/81 17:45    42    2 S    46 VOL$10
+SELECT4  EXEC     A 12/01/81 17:57    62    3 S    46 VOL$10
+SELECT5  EXEC     A 12/01/81 18:01    60    3 S    46 VOL$10
+SELECT6  EXEC     A 12/01/81 18:11    44    3 S    46 VOL$10
+SELECT7  EXEC     A 12/01/81 18:18    34    2 S    46 VOL$10
+SELECT8  EXEC     A 12/01/81 18:20     5    1 S    46 VOL$10
+SELECT9  EXEC     A 12/01/81 18:21     9    1 S    46 VOL$10
+SOFTWARE GUIDE    A 08/29/81 17:33    69    4 S    71 VOL$10
+SOLAR2   BASICOBJ A 12/10/81 00:52    74    3 S    77 VOL$10
+SORT     BASICOBJ A 11/08/81 15:52   119    5 S   100 VOL$10
+SPELL    EXEC     A 12/08/81 15:47   101    4 S    73 VOL$10
+SPELLING ADDWORDS A 12/08/81 15:35  3084   28 S    20 VOL$10
+SPELSRTI BASICOBJ A 02/23/82 16:42    42    2 S    79 VOL$10
+STOCK    BASICOBJ A 02/24/82 18:17   237    7 S    72 VOL$10
+VOL10    EXEC     A 03/31/82 17:22   584   15 S    79 VOL$10
+WEATHER  BASICOBJ A 06/16/81 17:30   255    7 S    70 VOL$10
+WUMPUS2  BASICOBJ A 11/15/81 16:04   261    6 S    75 VOL$10
+47 file(s), 247 block(s).
+▼ EWS.LETTER10:VOL$10                                      02/01/85 10:45 Page 1
+
+NEWSLETTER                                                30 January 1982
+
+
+
+Dear Member;
+
+Well here we are again after about three months of holidays and other
+things taking priority over the (much more interesting) activities of
+the OASIS USERS' GROUP.  You all have been pretty inactive, too (at
+least software contribution-wise).
+
+Volume 10 has several really important things on it, as well as the
+usual less important or just fun stuff.
+
+Volume 11 is nearing completion, too.  It will contain the OASIS version
+of all the programs in the Osborne publication, "Some Common Basic
+Programs" by Poole and Borchers, as well as some other nifty things.
+One of them will be an MBASIC to OASIS BASIC conversion program!
+
+We have a couple of new volunteers to help with the conversion of
+BusinessMaster II and I am now hearing rumors to the effect that Phase
+One may have a CBASIC to OASIS BASIC conversion routine available
+sometime in the near future. (but, I'm not holding my breath)
+
+I still have 5 boxes of double sided, souble density Wabash 8 inch
+diskettes available at $35/box plus postage.  So, if you have any
+need for same, let me know.  I'd like to get rid of them.
+
+I've lost track of one of our members.  If anyone knows where
+Bret Douglas (formerly of Doraville, GA) is, please let me know.
+
+There has been some progress on our bulletin board system.  We now
+have the modem, software, and the computer (curtesy of Patty Torode,
+of Digital MicroSystems).  What I don't have is a copy of OASIS 5.5
+which will allow me to attach the modem to one of the serial ports.
+Phase One knows of the problem, but so far has only been able to
+scratch their collective head.  Any way, I'm still working on other
+things (like volumes 11 and 12 and other formats) and will not be
+able to get to it for a while longer either.
+
+One of the other things I'm working on myself is a questionaire to
+all of our members.  Not everyone told us what they had when they
+joined, and there are a number of other things many of us would
+like to know about members.  So, sometime in the very near future
+I will be sending out a questionaire - probably with the next
+hardcopy newsletter.  If you have any suggestions for things we
+should ask, let me know.  I'm planning to ask about your hardware,
+special software, conferences/shows you attend each year, any
+hardware/software comparisons/benchmarks you have done, and any
+special interests you may have.
+
+Note: we now do have an ONYX version of the library!  Other formats
+are on their way, too.  Our converter, Grant Krucik, says he is
+willing to be very flexable about the way he interacts with the
+"non-standard format" members.  That means, for one thing that the
+ONYX people can specify how often they want new tapes - bearing
+in mind that there is a $30 tape fee each time.
+
+We need a new volunteer to come up with an annotated directory to
+the contents of the library.  Our other volunteer got sidetracked.
+
+Ace Grove (803) 268-3911 who volunteered to rewrite the SPELCHEK
+system so that it would execute faster tells me he should have
+something for us by about the first of May.  Might not hurt to
+let him know how anxious you are for the new version.  I sure
+know I'm going to appreciate it when it's done!
+
+
+Dispite the fact the folks at Phase One don't always solve all of my
+software problems immediately, it seems appropriate to let you all
+know that they have been very helpful in lots of different ways.
+The last several issues of the Software Monitor have carried most
+of the news I have called in to Jerry Weltner and he always makes
+my rough ideas sound like they were conceived by a major public
+relations firm.  Many of the utilities in our library are being
+contributed by Chris Williams.  And, of course nothing would be
+done for us at Phase One, unless Howard Sidorsky at least approved.
+So, next time you talk to them up there in Oakland, let them know
+you appreciate their support, too.
+
+
+Sincerely,
+
+
+Fred L. Bellomy
+(805) 965-0265
+(805) 965-5555 (answering machine)
+
+▼ EMBER10.FEEDBACK:VOL$10                                  02/01/85 10:45 Page 1
+
+1
+
+
+
+
+        Fred Bellomy
+        Oasis Users' Group
+        P. O. Box 2400
+        Santa Barbara, CA 93120
+
+                                                     December 30, 1981
+
+        Dear Fred,
+
+        I have already  sent  you  my  order  for the  rest  of the OUG
+        library.  Although  I am  rather busy these days I  thought I'd
+        take advantage of a brief lull to let you know that I am hoping
+        to make occasional contributions to the group.  My first effort
+        is on the enclosed disk.  I hope you haven't grown too tired of
+        games  because that's  what it  is.  The program is a  computer
+        implementation of  the game 'Blackbox' by Parker Brothers.  I'm
+        not sure  that it  is entirely legal to program  a game of this
+        sort  but  I did  it for  my own amusement.  It may  be wise to
+        change the  name to  protect the innocent (namely me).   Let me
+        know if you  think it would infringe on  their rights.  I dimly
+        recall seeing  a computer game by this name but it may not even
+        be the  same game.  The program code is 100% original and takes
+        good advantage of the features of Oasis BASIC.
+
+        Enough bragging.  Now  down to the serious questions.  First, I
+        am  thinking  about  preparing a  series of sorting subroutines
+        based on  a recent two part article in the August and September
+        1981  issues of  Information Age  by Gene Cotton.  I found  his
+        articles quite helpful  since I was teaching a  course in BASIC
+        at the time  and I wanted to expand  on the subject of sorting.
+        I have already  adapted several of his programs  to Oasis BASIC
+        (there are nine  in his article).  The ones  I have worked with
+        so far are  all the faster ones (of  course) and I have added a
+        few  bells  and whistles  of my  own  such as modifications for
+        sorting alpha  strings  instead  of  numbers  and for  using  a
+        pointer  instead  of actually  rearranging the data.  I believe
+        that I can prepare most of his sorts in the form of subroutines
+        that  have   appropriate  lines   in  them  for  each  of   the
+        possibilities I just  mentioned.  The easiest way is  to insert
+        these lines as  REM's so that the user  can remove the REM from
+        the appropriate  lines for the desired type of sort.  I already
+        have a  program written that can be used to demonstrate or test
+        each of  the subroutines.   My question is, do you  think these
+        subroutines would  be of  interest to the OUG.  I'd  appreciate
+        your suggestions.  I'm  no expert on sorting but  thanks to Mr.
+        Cotton's help I can sort things out pretty well now.
+
+        My second question  is more  of a plea for help.   According to
+        the  Script mannual  it's possible  to get a printer to  do all
+        sorts  of   tricks  using  the  features  provided  in  Script.
+        Unfortunately my  printer is  not seeing any of the  good stuff
+        that  Script  is supposed  to produce.   I  have a feeling that
+        something  akin to  a class  driver is needed but I  can't find
+        anything  in   the  Oasis   manuals  that  gives  me  a   clue.
+        Specifically  I  am  looking for  something that will interface
+        Script to a  Diablo 1610/1620 compatible printer.  If  you know
+        of anything that will help please let me know.
+1
+
+
+
+
+        Finally, I  have  been contemplating  buying a Pascal compiler.
+        So  far  I haven't  got a  clue as to what the  Oasis Pascal is
+        like.  Do you know of anyone who has tried it?  I have read all
+        the reviews of Pascal/Z, Pascal/M, Pascal/MT+, Pascal/UCSD etc.
+        but   I  just   can't  get  enthusiastic  about  running  under
+        Catastrophes  Punishing  /  Mistakes after  experiencing Oasis.
+        However,  the magazines  never review Oasis compatible programs
+        so I'm not sure what Phase One has in its bag of Pascal tricks.
+
+        Fortunately, I  won't have  time for many rambling letters like
+        this.  I hope you will find the time to field my questions this
+        time.
+
+                                                     Sincerely yours,
+
+                                                     Ronald L. Brubaker
+                                                     (312) 534-5000
+***********************************************************************
+
+
+To:  TRS-80 Model II OASIS users
+
+From:  Vince Oster (605) 342-8455
+
+Re:  OASIS and the Model II
+
+Model II owners may find the following modification necessary to use OASIS
+with their Model II.  On an outboard disk power supply, the two "commons" MUST
+be tied together (not to ground, but to each other).  This should be done at
+the power supply, not at the drive.  This is not implemented on
+most power supplies, including those supplied by Tandy.
+
+TRSDOS does not require this, but it is a good idea anyway.
+
+***********************************************************************
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 10.
+
+***************************************************************
+
+
+ADD.BASICOBJ
+
+THIS IS A SLIGHTLY REVISED VERSION OF THE PROGRAM TO ADD NEW VOLUMES
+TO THE DISKFILE DIRECTORY SUBMITTED ORIGINALLY BY JOE TRIMBLE.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DDRESS2.BASICOBJ
+ADDRESS2.INFO
+OLD2NEW.BASICOBJ
+
+I can't say "yet another mailing list program" for this new contribution
+from Joe Trimble.  This is a really excellent new version of ADDRESS
+originally included on Volume 7.  Try it, you'll like it.  Joe even
+included a routine, OLD2NEW, to convert any files you might have created
+under the previous version of his program.  This is an excellent example
+of how to update any program you might have submitted to the library.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DDWORDS.EXEC
+SPELLING.ADDWORDS
+
+This is the program to add about 3000 new words to your copy of
+the dictionary used with SPELCHEK.  To use it you must have at
+least 28 blocks of available space on you system disk and have
+a copy of the dictionary sections available in your system.
+You must also have a copy of the word sorting program,
+SPELSRTI.BASICOBJ, available in your system, too.  The new words
+are contained in the file SPELLING.NEWWORDS included on Volume 10.
+
+TO RUN IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ANNER2.BASICOBJ
+
+This is a revision of the original BANNER program.  Joe Trimble
+has corrected some short comings and made it easy to get a
+printed copy of the large size letters.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+LACKBOX.BASICOBJ
+
+This is one of the most interesting new games I've come across in
+a long time.  It's a game of logic.  Ron Brubaker tells me that it
+is a completely original implementation of a commercial game by the
+same name.  He has done an excellent job of making the program user
+friendly.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UDGET.BASICOBJ
+
+Yet another personal budgeting program - submitted by O. E. Dial
+based on an article in the May 1977 issue of Personal Computing.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OMBINE.BASICOBJ
+
+If you really need to know how many combinations of N things
+taken T at a time there are, then you definately have to try it.
+The original author is anonomous, but I converted it for use with
+OASIS.  FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+IRECTRY.EXPLAIN
+DIRECTRY.LIST$US$
+DIRECTRY.LISTINTL
+DIRECTRY.XREF$US$
+DIRECTRY.XREFINTL
+
+This is the commercial software directory that Phase One maintains
+and publishes in the Software Monitor.  The crossreference charts
+are new and not generally available elsewhere.  We owe Jerry Weltner
+our thanks for making it possible for us to include them in the OUG
+library.
+
+
+TO SEE THEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OOTBALL.BASICOBJ
+
+This is one more in the series of spectator sport simulations for
+those of you who prefer to get their exercise at a keyboard.  Its
+author is lost in the public domain, but I converted it for OASIS. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ACRODIB.P148INFO
+
+Our old friend, Joe Trimble, found some important information missing
+in the released version of the OASIS User's Manual.  In the best spirit
+of cooperation, he has written out the missing stuff for you to put in
+your copy of the MACRO section (page 148).  Thanks Joe.
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AP.COMMAND
+
+This is nice! It shows the physical location of each file on a disk.
+The files are represented by numbers that correspond to those you get
+when you do a REPAIR on the same disk. It was submitted by Chris
+Williams of Phase One Systems.  Thanks Chris.
+
+
+FOR A FULL DISK IT COULD TAKE SEVERAL MINUTES TO RUN.
+TO TRY IT NOW ON THE "A" DISK TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ERGE.EXEC
+MERGEIT.BASICOBJ
+
+This dandy utility allows you to merge two BASIC programs together.
+It was submitted by Vince Oster.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ASIS.HARDWARE
+
+This is just a list of the hardware on which OASIS has been
+implemented as of 1 March 1982.  Contact Phase One for the
+most up-to-date information.
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ROOF.EXEC
+
+This is a special version of the SPELL EXEC that is set up to run
+the typical parameters needed to proof ordinary text in a document.
+It doesn't make you answer so many questions before starting to
+check for spelling errors in your text.
+
+
+TO SEE THE FORMAT TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EGRESSN.BASICOBJ
+REGRESSN.SAMPLE
+
+This is a program for running a multiple linear regression on
+sample data.  It was rewritten for OASIS and submitted to the
+library by Joe Trimble from a program originally in the
+Honeywell library.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ELECTnn.EXEC
+
+These 10 files are SELECTED.EXEC's for each of the 10 disks currently
+in the library.  They are of use to people who need to separate out
+the contents of the individual OUG library volumes from a combined
+storage medium, such as an ONYX tape.  There may be other uses, so
+they are included for everyone.
+
+
+TO SEE ONE FOR VOLUME 10 TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OFTWARE.GUIDE
+
+This is the latest version of the software submission guidelines.
+If you have seen it before, it still might be a good idea to
+check it again when preparing anything for the library.  FB
+
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OLAR2.BASICOBJ
+
+If you ever wondered how much solar energy would fall on your
+roof or any (slanted) surface in your neck of the woods, then
+you really must run this little Jim-Dandy.  It's a serious
+engineering program with an unknown author that I converted
+for OASIS. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ORT.BASICOBJ
+
+One of our other members, Tom Wasserman, made a number of changes
+in the original SORT program by Joe Trimble originally in Volume 6.
+Both versions have their advantages, so try both and then
+take your pick.  Note that Ron Brubaker is promising to send us
+a much faster sort routine sometime in the near future.  Might
+not be a bad idea to call him and let him know you are patiently
+waiting for it.
+
+
+MAKE SURE YOU ONLY HAVE ONE OF THE TWO VERSIONS WITH THE NAME "SORT"
+OR THE RESULTS MAY NOT BE WHAT YOU EXPECT.
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PELL.EXEC
+
+This new version of the program originally released on Volume 7
+includes an added option to add new words to your copy of the
+SPELCHEK dictionary sections, SPELLING.SIZEnn.  Everything else
+is the same as the original one.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PELSRTI.BASICOBJ
+
+This is a slightly modified version of the same program originally
+released on Volume 7.  This version is a little more general.  It
+is only used to add new words to the several sections of the
+SPELCHEK dictionary as in the ADDWORDS EXEC above.
+
+
+
+
+
+▼ ^
+TOCK.BASICOBJ
+
+A game based on playing the stock market.  The original author is
+unknown, but I converted it for OASIS. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EATHER.BASICOBJ
+
+This program by an unknown author, but converted by me for OASIS,
+lets you predict tomorrow's weather from known facts about today's
+weather.  I have no idea how accurate it is, but suspect it is at
+least as good as the TV Wiz Kids.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UMPUS2.BASICOBJ
+
+This is a more elegant version of the game, WUMPUS, originally
+released on Volume 1 a long time ago.  This one allows the player
+to select any one of several different geometries for the caves,
+making the game somewhat more varied and interesting.  I must
+confess to having lost the origin of this contribution.  If the
+person responsible will own up to it, that is let me know who you
+are, I will gladly give you the recognition you deserve.
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 10.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (answering machine)
+
+***************************************************************
+
+>

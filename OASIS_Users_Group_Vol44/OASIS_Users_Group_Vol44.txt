@@ -1,0 +1,720 @@
+>VOL44
+
+       OOOOOOOOOO         UUU              UUU         GGGGGGGGGG
+     OOOOOOOOOOOOOO       UUU              UUU       GGGGGGGGGGGGGG
+    OOOO        OOOO      UUU              UUU      GGGG        GGGG
+   OOO            OOOO    UUU              UUU     GGG            GGG
+   OOO             OOO    UUU              UUU    GGG              GGG
+   OOO             OOO    UUU              UUU    GGG
+   OOO             OOO    UUU    VOLUME    UUU    GGG
+   OOO             OOO    UUU      44      UUU    GGG
+   OOO             OOO    UUU              UUU    GGG          GGGGGGG
+   OOO             OOO    UUU              UUU    GGG          GGGGGGG
+   OOO             OOO    UUU              UUU    GGG              GGG
+   OOO            OOO      UUU            UUU      GGG            GGG
+    OOOO         OOOO       UUUU        UUUU        GGGG        GGGG
+     OOOOOOOOOOOOOO          UUUUUUUUUUUUUU          GGGGGGGGGGGGGG
+       OOOOOOOOOO              UUUUUUUUUU              GGGGGGGGGG
+
+     COPYRIGHT 1985   T H E    O A S I S    U S E R S    G R O U P
+  ==================================================================
+  :           VOLUME 44 OF THE OASIS USERS GROUP LIBRARY           :
+  :                                                                :
+  :               " V I S U A L I Z E   P E A C E  "               :
+  :                                               EVERYWHERE...    :
+  ==================================================================
+
+
+ 1 FILELIST VOLUME 44 CONTENTS            2 LIST VOLUME 44 NEWSLETTER
+ 3 SUMMARY OF VOLUME 44 SOFTWARE          4 LIST MEMBER'S FEEDBACK
+ 5 INTRODUCTION TO VOLUME 44 SOFTWARE     6 LIST VOLUME 44 WISH LIST
+ 7 COMPLETE INTRODUCTION TO VOLUME 44     8 QUIT
+CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE? [1-8]:7
+
+The  following  is  a  listing  of  the  contents  of VOLUME  44
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGLOGO COMMAND  A 12/29/84 12:31     4    1 R   256 VOL44
+$README  FIRST    A 12/14/84 10:00    60    3 S    66 VOL44
+ACCEPT44 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL44
+CALC     C        A 09/04/84 19:27   157    4 S    60 VOL44
+CALC     COMMAND  A 09/19/84 23:08    36    9 R   256 VOL44
+CLASS    CODES    A 01/31/85 10:00   188    7 S    70 VOL44
+CLASS10A ASSEMBLE A 09/23/82 18:20   232    5 S    70 VOL44
+CLASS10B ASSEMBLE A 02/10/80 17:35   108    2 S    48 VOL44
+CLASS11A ASSEMBLE A 02/26/80 15:43    25    1 S    37 VOL44
+CLASS12A ASSEMBLE A 05/01/80 15:06     7    1 S    45 VOL44
+CLASS14A ASSEMBLE A 01/05/80 15:37    29    1 S    38 VOL44
+CLASS15A ASSEMBLE A 03/18/80 18:34    19    1 S    64 VOL44
+CLASS16  ASSEMBLE A 02/15/80 14:50    30    1 S    56 VOL44
+CLASS17  ASSEMBLE A 02/15/80 14:51    30    1 S    54 VOL44
+CLASS18  ASSEMBLE A 02/15/80 14:51    30    1 S    50 VOL44
+CLASS19  ASSEMBLE A 02/15/80 14:42    17    1 S    62 VOL44
+CLASS22A ASSEMBLE A 09/23/82 18:26   206    5 S    65 VOL44
+CLASS22B ASSEMBLE A 09/23/82 18:22   206    5 S    65 VOL44
+CLASS30A ASSEMBLE A 06/11/82 16:37   118    4 S    57 VOL44
+CLASS31A ASSEMBLE A 06/16/82 14:07    27    4 S   128 VOL44
+CLASS52  ASSEMBLE A 01/31/85 10:00    32    1 S    45 VOL44
+CLASS53  ASSEMBLE A 02/02/84 14:36    17    3 S   128 VOL44
+CLASS5A  ASSEMBLE A 01/24/80 18:56     5    1 S    45 VOL44
+CLASS6A  ASSEMBLE A 01/05/80 15:38    29    1 S    44 VOL44
+CLASS7C  ASSEMBLE A 01/05/80 15:38    30    1 S    58 VOL44
+CLASS81A ASSEMBLE A 01/16/85 10:00    44    1 S    61 VOL44
+CLASS9A  ASSEMBLE A 02/26/80 15:36    14    1 S    44 VOL44
+COPYRITE NOTICE   A 12/28/84 10:00    10    1 S    65 VOL44
+CPM      NOTES    A 01/31/85 10:00    14    1 S    65 VOL44
+CPM      SYNONYM  A 06/19/83 20:19     6    1 SWD  20 VOL44
+DEV10    ASSEMBLE A 03/19/84 19:10   183    5 SWD  55 VOL44
+DEV10    DEVNAMES A 02/18/84 14:19    25    1 SWD  33 VOL44
+DEV10    NOTES    A 01/31/85 10:00    61    3 S    65 VOL44
+DEV13MID ASSEMBLE A 05/05/83 14:56   253    4 S    73 VOL44
+DEV29MID ASSEMBLE A 05/05/83 15:09   262    5 S    73 VOL44
+^EV30    ASSEMBLE A 05/11/83 16:41   293    5 S    73 VOL44
+DICE3    BASIC    A 12/06/84 10:00    88    5 S   118 VOL44
+OASIS    HARDWARE A 02/07/85 12:00    98    6 S    73 VOL44
+PROOF    ASSEMBLE A 01/31/85 10:00  1531   33 S    70 VOL44
+PROOFSUB MACLIB   A 01/06/83 17:39   168    3 S    62 VOL44
+SELECT44 EXEC     A 02/07/85 12:00    75    4 S    46 VOL44
+SPELLING CUSTOM1  A 01/16/85 10:00  2209   20 S    18 VOL44
+SPELLING CUSTOM9  A 10/04/84 21:31   474    4 S    12 VOL44
+SPELLING RANKLIST A 08/08/84 22:46   500    3 S    11 VOL44
+STEPR3   COMMAND  A 01/27/84 19:10    20    5 AWD 256 VOL44
+STEPR3   NOTES    A 01/31/85 10:00    14    1 S    65 VOL44
+SYSTEM   CLASS10A A 01/31/85 10:00     4    1 R   256 VOL44
+SYSTEM   CLASS10B A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS11A A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS12A A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS14A A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS15A A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS16  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS17  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS18  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS19  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS22A A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS22B A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS30A A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS31A A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS52  A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS53  A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   CLASS5A  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS6A  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS7C  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS81A A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   CLASS9A  A 01/31/85 10:00     2    1 R   256 VOL44
+SYSTEM   DEV10    A 03/19/84 19:10     2    1 RWD 256 VOL44
+SYSTEM   DEV13MID A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   DEV29MID A 01/31/85 10:00     3    1 R   256 VOL44
+SYSTEM   DEV30    A 01/31/85 10:00     3    1 R   256 VOL44
+VOL44    CONTENTS A 01/31/85 22:00   148    7 S    65 VOL44
+VOL44    EXEC     A 01/31/85 10:00   390   11 S    80 VOL44
+VOL44    FEEDBACK A 01/31/85 10:00   208   10 S    65 VOL44
+VOL44    NEWS     A 02/08/85 12:00   247   13 S    65 VOL44
+75 file(s), 244 block(s).
+VOL44.NEWS:VOL44                                          01/31/85 06:44 Page 1
+
+-----------------------------------------------------------------
+5 February 1985         N E W S   L E T T E R           Volume 44
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+VOL44: Those of you using the PROOF spelling checker are going to
+love volume 44.  It includes a new set of custom dictionary files
+containing  the  500  most frequently  occurring words in English
+text.   Gary  Stoddard  contributed SPELLING.RANKLIST  which is a
+sequential list  of the  words and SPELLING.CUSTOM9 which is  the
+same   list   converted   to   the  format   required  by  PROOF.
+SPELLING.CUSTOM1  is my  new version  of  the main default custom
+dictionary based  on the 500 word list plus words I added from my
+own use.   PROOF runs about 40 percent faster with the new custom
+file!
+
+Next, Bob  Chapman  has decided  to send  us  the source code for
+PROOF.  That  means  all  of  those  improvements you  have  been
+wishing someone  would make  can now be made -  BY YOU.  Remember
+Bob still  retains the  copyright to PROOF, so if  you want to do
+anything commercial with  it, be sure to contact  him first.  For
+anyone concerned about the the large number of volumes over which
+all of  the various pieces of the spelling checker have appeared,
+there is some good news.  I have collected all of the most recent
+versions of everything together and have put them on a two volume
+archive.  Any member  may order the consolidated package  for the
+regular two  volume service fee ($70 on diskette) or for just the
+replacement fee, if you paid for the earlier version.
+
+More class  codes and  device drivers  from  a variety of sources
+including  Guntr Fuessner  in Germany  and Don Royer are on  this
+Volume, together  with an  updated listing of all class  code and
+device driver variants now available in the OUG library.
+
+And, for those  of you  who don't already have a  half dozen desk
+calculators laying  around, Bob Chapman sends us CALC which gives
+you an  on-screen calculator  (a feature I've always thought  all
+computers should have built into them anyway).  For you game fans
+there is a tempting new one called DICE3 from Larry Stephens.
+
+I have  upgraded  the  diskette  compatibility listing  for Oasis
+machines on  this volume  too.  Finally, from the big  backlog of
+things  we have  from Gary  Bergman I will be using  a new faster
+Logo/Copyright display, $OUGLOGO from now on.  I've also modified
+the introductory VOLnn.EXECs  so that they now present  a menu of
+choices of things you can do with the new volume.  I think you'll
+like it  better  than the  old one.   So,  we put to bed  another
+volume which surely will have many fans.
+
+HANNOVER FAIR: will  be the site of our very first OUG meeting in
+Europe.   The  fair,  billed  as  the world's  largest technology
+exhibition will offer a full spectrum of technology displays with
+over  1500 exhibitors  in 6  halls  dedicated to computer related
+products alone (more than the 1984 COMDEX in Las Vegas!).
+
+Final arrangements for our meeting have not yet been made, but we
+are trying for Friday afternoon of the 19th of April somewhere at
+or near  the  fair.   The  problems  are meeting  room  costs and
+availability.    We  could   use  some  help!   For  last  minute
+information watch  for our  special mailing or contact our  local
+arrangement   coordinators:   Hans   Jurges  in   Germany  (phone
+49-6181-253737) or  Colin Taplin in Britain (phone 44-0953-88300)
+I will be there along with a number of our American members (I am
+trying to  get Tim  Williams to go over, but  it doesn't look too
+good at the moment - too busy with the 80286 implementation)
+
+The focus of the OUG meeting will be nothing less than the future
+of Oasis in Europe.  Many of you have expressed concern that some
+special efforts  are in  order for that side of  the Atlantic.  I
+agree and I  know the people at Oasis  Technology have undertaken
+special  planning for  European support.  In fact Susan Catalano,
+president of Otech, is in Europe as I write this.  We should have
+plenty to discuss.
+
+SIGS: Gerald Hasty  says there have been a few people contact him
+about  the FORTH  SIG, but  he hasn't had time lately  to do much
+with it.  We need many more people to volunteer to coordinate new
+SIGs.  Some  which have  been suggested are: Medical, Legal,  and
+Accounting   professionals;  Systems   (Oasis  modifications  and
+extensions); Software Developers; "C" Language and Cobol Language
+users; and others.
+
+George Wieland of Biometric Services suggested that maybe we need
+an interim special interest group for people who are working with
+the  16 bit  versions of  Oasis.  He points out that  there is no
+reason for everybody  to convert the same 8-bit  utilities in the
+OUG  library  and that  a little  coordination  would make sense.
+Sounds like  a good idea to me and I will spread the word, if you
+will tell me who you are, and how you want to be involved.
+
+COBBLER'S KIDS: Mike Hobach  and I were observing how  lots of us
+computer professionals don't use our own machines to do things we
+sell them  to others to do, like business accounting for example.
+Wonder  why that  is.  For  me, it is laziness.  I  don't want to
+take the time to figure out what I need and then learn how to use
+something  new.   I'm  sure there  is an  important  message here
+somewhere.  Any thoughts on the subject?
+
+SOFTWARE REVIEWS: I maintain files of information about all Oasis
+compatible  software.   If you  have knowledge  of  any 3rd party
+reviews  or   just  have  strong  feelings  yourself  about  some
+particular package, please pass it on to me.  I get lots of calls
+from  people  wanting to  know about  this or that system, and  I
+rarely can  respond from  my own personal experience.  So,  share
+the wealth, please.
+
+SISCO AND  SECOINSA: I  have received notification that the Small
+Information Systems Company  of London England has filed  for the
+British  equivelent  of  bankruptcy.   They  were  the  exclusive
+distributor of  the Spanish Secoinsa computer systems in Britain.
+They  had  agreed to  help put  together a new set of  bench mark
+programs for  the OUG,  so looks like we once  again need another
+volunteer.
+
+SKS: I have  learned from Hans Jurges of Datasoft in Germany that
+the  SKS  company,  producer  of  the  sexy  NANO portable  Oasis
+machine, has  filed for the German equivalent of bankruptcy.  Too
+bad, it looked like a great little machine.  Hope they recover.
+
+MBP SOFTWARE:  had  previously  announced  that  they  no  longer
+planned to support Oasis in Europe.  Late news from Tim indicates
+that  Susan  Catalano's  visit last  week has  resulted  in a new
+agreement for some level of continued involvement.  More later.
+
+SEIKO: I learned from Tim that there is a new agreement with Jeff
+Bahr  for  Seiko to  offer Oasis86  on  their 16-bit machine.  No
+further details yet.  Jeff Bahr has been unavailable for comment.
+
+IBM PC/AT:  implementation is  in progress, but has been hampered
+by  the   unavailability  of  hardware.   Tim  Williams  now  has
+equipment and while  he would make no firm  commitments regarding
+availability of  a finished  version, he did say he  was probably
+only  a few  weeks  away  from  something  that would  work.   He
+answered "possibly" to  my suggestion that a first  release could
+be available for delivery early in the second quarter.
+
+MORE OASIS MACHINES:  A couple of members have called to say that
+they would  like  to  see  a  more generous  policy  toward small
+entrepreneural  third party  Oasis implementors.  Not only should
+there be  no difficulties  put in the paths of  implementors, but
+everyone would  like  to  see  it  made as  easy  as possible and
+encouraged through offers of attractive incentives of one kind or
+another.   Makes sense  to me,  too.  If you have any  innovative
+thoughts  along this  line, get  in touch with Susan Catalano  at
+Otech.
+
+It seems to  me that if the implementors were allowed to sell the
+first  few copies  royalty free  or something, it would help  the
+small  implementors   recoup  their  initial  development  costs.
+Naturally,  this whole  thing must  be  administered with an even
+hand,  but  extraordinary  needs  demand extraordinary  policies.
+And, there  is not much debate any more about the need to improve
+Oasis awareness among system developers and users out there.  The
+more machines which offer Oasis, the better the visibility.
+
+Tim has   already  indicated   that  he  intends  to  develop  an
+implementors  handbook -  why not  look to the users for  help in
+getting the handbook together, too.
+
+PRESS: I just  saw the  latest issue of Computer Retailing  News.
+An excellent  and provocative  press release about the NEW  OASIS
+world gives the  impression that Unix is, from  this day forward,
+no  longer  the only  game in  town.   It originated with WesCom,
+Otech's new PR firm, and gives the OUG a nice plug, too.
+
+To encourage  more   independent  submissions  of  Oasis  related
+articles  and letters  to the  editors, I will begin awarding  at
+least one free  volume for each item you  get published.  So, get
+writing  and be  sure  to  send  me  a copy  for  credit.  Just a
+reminder: WesCom  is looking for interesting application articles
+and  will  help you  get them  published.   Call Pieter Van Zandt
+(408) 554-1700.
+
+ARTIFICIAL INTELLIGENCE:   is   half  of   the  fifth  generation
+equation.  I  have  been  seeing  a  growing number  of  articles
+predicting a  massive growth in this catagory of software (26 Nov
+CSN).  The language most often associated with AI is Lisp.  Kevin
+Hansen has given us a copy of XLISP that we are checking out with
+Oasis.  Scott Watkins has gotten it compiled, but it seems to run
+out of  memory.  If you want to get envolved in the Oasis version
+checkout process, give me a call.
+
+OASIS 1985:  I am  strongly tempted  to  say something like "1985
+will  be the  year that  either makes or breaks Oasis."  But, the
+reality,  no  doubt,  will be  less dramatic.   There  is so much
+momentum  in  the form  of investments  in  software and hardware
+development  that  lots of  people would  continue  to sell their
+Oasis compatible products for a long time even if things were not
+improving.
+
+The legal difficulties between Tim Williams and Phase One Systems
+did a lot of harm to the Oasis community and created a climate of
+uncertainty  for  some people.   There are  still  lots of people
+everywhere   taking    a   wait-and-see   attitude.    Some   are
+understandably  discouraged.   No  one  wants  to  abandon  their
+involvement  with  Oasis.   Many have  major investments in Oasis
+compatible products which they want to protect, if possible.
+
+But, I have been  told time and time again  that you can't ignore
+the realities of  the business world and expect  to survive.  The
+love affair with 8-bit systems is growing cold and "everybody" is
+moving  to the  16/32-bit hardware,  and  to the fifth generation
+^oftware systems.   Unix is  there and everyone is talking  about
+it.  Most  don't even know that Oasis exists, not to mention that
+it is a  contender in the 16/32-bit world!   That makes it harder
+sometimes  to  sell  Oasis  related  products.   So,  while I  am
+definitely  inclined  to  look  on  the  brighter  sides of  most
+everything, it would be foolhardy to ignore the down side.
+
+Fortunately, the Oasis  story is still being written, and in that
+tale  is  the up  side for  us.  All of the problems  of the past
+couple years have  been addressed by the Otech  people now in the
+Oasis  driver's  seat.   Better  technical  support  is  becoming
+available   from   Otech,  the   manufacturers,  the  new  master
+distributors  in  Europe,  and from  the very strong professional
+membership of the OUG itself.  Effective steps are being taken by
+Otech  to  improve  the  visibility of  Oasis through promotional
+work, media advertising and the Oasis Times magazine which starts
+publication in  March.  Otech has both added staff and contracted
+with two outside  firms for these purposes.  Most  of the bugs in
+the 8-bit  Oasis have been killed with the release of version 6.1
+and a working  version of Oasis86 for the  IBM PC/XT is now being
+distributed.
+
+Best of  all,  this  is  just  what  is  actually happening,  not
+everything which may  happen in the immediate future.   There has
+been  enough hinting  by the  people in Oakland to know  that the
+entire  story  hasn't yet  been told.   Some  of the planning, no
+doubt depends on  the final agreements reached between  Phase One
+Systems and Tim Williams.
+
+We do know that  early priorities are to make  Oasis available on
+the  IBM PC/AT  and  other  80286  based  machines, to  create  a
+worldwide  dealer  network,  and  to  improve  the  documentation
+available for  Oasis.  So, once again I feel the facts justify my
+own unbridled optimism.  What do you think?
+
+
+
+Fred Bellomy, Coordinator
+-----------------------------------------------------------------
+end of .........        N E W S   L E T T E R           Volume 44
+-----------------------------------------------------------------
+VOL44.FEEDBACK:VOL44                                      01/31/85 06:44 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL44.FEEDBACK                                    5 February 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+
+                                        Robert Chapman,
+                                        465 Lakeshore Road West
+                                        Oakville, Ontario,
+                                        CANADA  L6K 1G4
+
+                                        October 2, 1984
+
+Dear Fred,
+
+    It has  been a  while  since  I  have  had time  to  make any
+contributions to the  OUG due to several projects,  new computers
+(when  will  they  stop  making  new  Z80  machines?), and  other
+excuses.  The  new computers are an 8 MHZ, 20 MBYTE IBC (fast), a
+6  MHZ, 20  MBYTE NNC  (faster), an 8 MHZ, 40  MBYTE IBC HP-MIDDI
+(fastest), and  a MACINTOSH (yawn).  The new computers have meant
+that  I have  had  to  write  a  great deal  of  software for our
+business and that has kept me quite busy.  However, I do have two
+items  to  contribute which  may help  to  reduce the ever-rising
+total  shown at  the bottom  of the statement that you  send with
+every new volume.
+
+    First, I have decided  to send in the source  code for PROOF.
+My  reasons for  doing  this  are  that  I haven't  the  time nor
+inclination for marketing  it just now nor do  I have the time to
+make certain  improvements which  would correct some of its  main
+weaknesses.  I feel that the dictionaries are too large and could
+benefit  from  compression  and  that the  interface with editors
+other than  EDIT could  be improved.  By releasing the  source to
+the  OUG  a  member  may  take  it  upon  himself  to make  these
+improvements.  I  make no  claims for the sophistication of  this
+code - I just learn as I go along.
+
+    I have  the  new  'Definitive C'  from OASIS TECHNOLOGIES.  I
+suspect  that  it is  called 'Definitive' because it 'definitely'
+had  bugs in  the first  two versions that I was  sent.  However,
+after several months I am assured that the final bug-free release
+is  in the  mail and  on the way.  'C' programs  can be very time
+consuming to  debug due to the fact that you have to go through a
+5-stage   process   of  pre-processing,   compiling,  optimizing,
+assembling, and linking before you can know if you have corrected
+a program  bug.  The  new 'C', is rather slow  in the first three
+stages, even  on the  HP-MIDDI, and hours and hours  can be spent
+trying to fix  programs that should, but don't,  work.  You don't
+need an  RGB  terminal  to  see  the colour  of  the air when you
+discover that the problem is in the language product and not your
+program.
+
+    At  any  rate,  my second  contribution is  yet  another desk
+calculator  which   is  actually  a  simplification  of  the  RPN
+calculator  in  Kernighan    Ritchie  but  was  inspired by  the
+calculator that came  with my MACINTOSH.  This one  I find useful
+to access from BASIC programs with the CSI statement - you can go
+to the  calculator and  back without losing anything (except,  of
+course, that  any open  files will be closed).  This  illustrates
+the triviality of writing such a program in any language that has
+floating-point math capability.
+
+     That's all for now - 'C' you later.
+
+                              Bob
+
+-----------------------------------------------------------------
+
+February 1, 1985
+
+We have been given a Titan Mark-III 86 MByte computer system that
+runs OASIS.  When we first got it everything seemed to be OK.  It
+booted both from the hard disk and from tape.  About a week   ago
+it did not boot normally from disk, so we had to use the tape  to
+get started.  Now, it won't even boot from the tape. We need HELP
+in any form.  It seems the Titan Computer Corporation is no more-
+in fact, that is why we ended up with the machine.  It looks like
+a great OASIS system, but right now we are dead in the water.  If
+you have any information about the Titan, we would very much like
+to talk to you. Please call or write:
+
+Darren Griffiths
+Department of Computer Sciences
+Santa Barbara City College
+721 Cliff Drive
+Santa Barbara, CA 93109
+(805)966-2919 SBCC 2-10PM
+(805)966-7748 home
+
+-----------------------------------------------------------------
+01173,12,12/05/84,17:42,JOHN LAPENTA,THE OASIS COMMUNITY
+
+TS804 FOR SALE,, We have an new Televideo  804  computer  that we
+would like  to sell.  The 804 has a 10mb hard disk with 320k RAM.
+3  serial  and 1  parallel port.   It has a built in  monitor and
+comes with  OASIS runtime.   The system has never been  used, the
+retail price  is $4500, we are asking $2500.  Please contact John
+Lapenta at: Functional Solutions Inc.  315-735-6421
+
+-----------------------------------------------------------------
+01174,12,12/05/84,11:49,HARRY SCHAUWECKER,ALL
+
+OASIS BASIC  PROGRAMMER  WANTED,, NEED  A APPLICATIONS PROGRAMMER
+EXPERIENCED  IN OASIS  BASIC FOR  NYSE  BROKERAGE FIRM IN BEVERLY
+HILLS,CA.  SHOULD HAVE  GOOD EXPERIENCE AND BE FLUENT  IN ENGLISH
+LANGUAGE.  PAY  WILL DEPEND  ON EXPERIENCE BUT RANGE FROM  25K TO
+35K.  INTERESTED PARTIES SHOULD SEND RESUMES TO:
+
+HARRY SCHAUWECKER
+EXECUTEC
+3868 CARSON STREET SUITE 321
+TORRANCE, CA 90503
+(213) 540-0591
+
+PASS ALONG  INFORMATION  TO  ANYONE  WHO MIGHT  HAVE AN INTEREST.
+THANKS.
+
+-----------------------------------------------------------------
+01175,06,12/05/84,03:57,RICK COWPERTHWAITE,ALL
+
+MULTI USER  REMOTE  TERMINAL?,,  I NEED  HELP CONNECTING A REMOTE
+TERMINAL ON  MY ALTOS 8000-7 MULTI USER COMPUTER.  I WISH TO HAVE
+A REMOTE  TERMINAL AT MY HOME LINKED TO ONE OF THE TERMINAL PORTS
+BY MODEMS.  I HAVE TWO HAYES COMPATIBLE MODEMS BUT CANNOT SEEM TO
+GET THEM TO WORK TOGETHER. IF  ANYONE  HAS INFORMATION  THAT WILL
+HELP  ME PLEASE  LEAVE  A  MESSAGE  FOR  ME OR  CALL  ME AT (916)
+758-9934.
+
+-----------------------------------------------------------------
+01176,05,12/05/84,16:50,KEVIN HANSEN,RICK COWPERTHWAITE
+
+HAYES ,,  IF WHEN  YOU HOOK  UP YOUR MODEM TO CPU  AND YOU GET NO
+RESPONSE TRY  SWAPPING PINS 2,3 ON THE CPU END OF THE LINK.  THIS
+ALSO MAY  BE NECESSARY ON THE TERMINAL END.  DEPENDING ON WHETHER
+THE CPU PORTS ARE SET UP DCE OR DTE
+
+-----------------------------------------------------------------
+01177,06,12/06/84,11:00,DAVE MCKELLAR,ALL
+
+PHASE ONE,DAVE, I  would like to know the status of Phase One.  I
+have  tried to  call and  no one has answered the  phone.  I also
+wonder  if they  really distributed  all  the directories I would
+also like to know if their mailing list will be for sale.  Please
+leave message  to Dave McKellar or call collect 405-495-2821.  (I
+have called them  with no problem.  I think  they shut down for a
+while during the holidays.  FB)
+
+-----------------------------------------------------------------
+01180,12,01/07/85,11:31,STEVE PAULOVICH,ALL
+
+SOFTWARE WANTED,, I am looking for some financial packages for an
+IBC Cadet  (A/R, A/P,  G/L).  I would prefer stand-alone  systems
+but may need integrated packages.
+
+Please send information to :
+
+S. Paulovich
+General Spring  Wire Co., Inc.
+23 Dana Road  Box 249
+Oxford, MA  01540-0249
+
+Thanks.
+
+-----------------------------------------------------------------
+01181,05,01/08/85,21:33,RANDY SUN,ALL
+
+^ile not found.FOR  SALE,, Onyx  8001 MU (multi-user) 20 megabyte
+CPU  with  256k ram  and three  Televideo  925 terminals.  All in
+excellent condition.   Call Randy  at  Sigma Industries  at (707)
+263-5345  or write  to Randy  Sun at 1878 High St.,  Lakeport, CA
+95453 Effective date: January 8, 1985
+
+-----------------------------------------------------------------
+01182,07,01/09/85,05:45,PAUL SCHINDLER,ALL
+
+SYSTEM FOR SALE,,  I am  selling a better board II  OASIS system.
+It has  10 Mbytes of of hard disk, 64k of onboard memory, dual 8"
+floppy  disk  drives and  a Zentec  Terminal,  into which the big
+board  is  built.  I  am throwing  in 100 8" floppies.  Price  is
+$1,000 or best  offer.  My phone number is  (415) 254-4923, night
+and day.
+
+-----------------------------------------------------------------
+01184,11,02/01/85,16:28,STEVEN PAULOVICH,ALL
+
+FILE LOCKING,, I'm looking for a way to check for locked files
+before opening them (this causes the terminal to lock up without
+generating an error message).
+
+If you can help, please call: The General Spring & Wire Co., Inc.
+Steven Paulovich               (617) 987-8732  Thanks !
+
+-----------------------------------------------------------------
+
+01185,04,02/02/85,08:33,Randy Sun,all
+
+Need Victor 9000 class code ,, I need a class code driver for the
+Victor 9000  computer  I'll be  happy to  pay  for the work if  a
+successful  version  can  be  delivered.  Call  (707) 263-5345 or
+write: to Randolph Sun, 1878 High St., Lakeport, CA 95453
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL44.FEEDBACK                             5 February 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+Welcome  to  VOLUME 44  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 44.
+
+*****************************************************************
+
+WANT A PRINTED COPY OF THE PROGRAM INFO TOO? [Y/N]:N
+
+CALC.C/COMMAND
+
+This is a nifty on-screen desk calculater written in "C" that Bob
+says  it is  actually a  simplification of the RPN calculator  in
+Kernighan Ritchie  but was  inspired by the calculator that  came
+with his MACINTOSH.  "This one I find useful to access from BASIC
+programs with  the CSI  statement - you can go  to the calculator
+and  back without  losing anything  (except,  of course, that any
+open files will be closed)." From Bob Chapman (416) 845-2203
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+DICE3.BASIC
+
+This "game" is actually less trivial than it looks.  The computer
+rolls three dice and you win, if one of them shows the number you
+guessed.  If  I remember my probabilities, your chance of winning
+is  1 minus  the probability  of losing or in this  case about 42
+percent.  Not  everyone would  guess the odds to be  so bad.  So,
+here's your  chance to find a pigeon and make some big bucks.  It
+was submitted by Larry Stephens.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+This is a  whole bunch  of new and varient class  codes I've been
+collecting for a while.  Some of them came from Guntr Fuessner of
+Computersysteme of Rheine Germany and those for the Digital Group
+equipment came from  Don Royer.  The rest I've  lost track of the
+source.   The summary  file called CLASS.CODES has been augmented
+to show  everthing  now  in  the  OUG library  together  with the
+volumes  on  which they  were released.   Naturally,  if you have
+anything not now on the list, PLEASE send it in.  LASS10B
+WANT TO SEE THE NEW LIST NOW? [Y/N]:N   SYSTEM  .CLASS14A
+SYSTEM  .CLASS15A   SYSTEM  .CLASS16    SYSTEM  .CLASS17
+SYSTEM  .CLASS18    SYSTEM  .CLASS19    SYSTEM  .CLASS22A
+SYSTEM  .CLASS22B   SYSTEM  .CLASS30A   SYSTEM  .CLASS31A
+SYSTEM  .CLASS52    SYSTEM  .CLASS53    SYSTEM  .CLASS5A
+SYSTEM  .CLASS6A    SYSTEM  .CLASS7C    SYSTEM  .CLASS81A
+SYSTEM  .CLASS9A
+
+CPM.NOTES/SYNONYMS
+
+For those who  frequently may confuse CP/M and OASIS commands for
+similar actions, the CPM.SYNONYM file may help.  If it is on your
+system disk,  it adds  some of the CP/M commands  as synonyms for
+their Oasis equivelents.
+
+To use them just enter: SET SYNONYM CPM
+
+(You may also  use EDIT  to change the file to  anything that may
+better suit your purposes.) From Don Royer, WA6PIR (714) 968-9156
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+DEV10   .ASSEMBLE   DEV10   .DEVNAMES   DEV10   .NOTES
+DEV13MID.ASSEMBLE   DEV29MID.ASSEMBLE   DEV30   .ASSEMBLE
+SYSTEM  .DEV10      SYSTEM  .DEV13MID   SYSTEM  .DEV29MID
+SYSTEM  .DEV30
+
+From Guntr Fuessner in Germany we got the special German language
+version drivers for a Centronics printer on an IBC Cadet plus one
+for a DaisyWheel  II on the same machine.   Don Royer gave us the
+DEV10 driver for a Digital Group TVC80 terminal board.
+
+WANT TO SEE THE NOTES FOR THE DEV10 DRIVER NOW? [Y/N]:N
+
+
+OASIS.HARDWARE
+
+This  is  my  latest  version of the Oasis hardware compatibility
+chart.  It lists all known machines which ever ran or  were  said
+to run Oasis together with available  specifications for diskette
+formats. It is very incomplete and may (probably) contain errors.
+Please report corrections or additions.
+
+WANT TO READ IT NOW? [Y/N]:N
+
+PROOF.ASSEMBLE     PROOFSUB.MACLIB
+
+I have decided  to send in the source code for PROOF.  My reasons
+for doing  this are  that I haven't the time  nor inclination for
+marketing  it  just now  nor do  I have the time to  make certain
+improvements which  would correct some of its main weaknesses.  I
+feel that the  dictionaries are too large and  could benefit from
+compression and that  the interface with editors other  than EDIT
+could be improved.   By releasing the source to  the OUG a member
+may take it  upon himself to make these  improvements.  I make no
+claims for the sophistication of this code - I just learn as I go
+along.  Bob Chapman (416) 845-2203
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+SPELLING.CUSTOM1/CUSTOM9/RANKLIST
+
+This is a new  set of custom dictionary files  containing the 500
+most  frequently occurring  words in English text.  Gary Stoddard
+of AKG  Data Systems (602) 246-9738 contributed SPELLING.RANKLIST
+which  is  a sequential  list of  the  words and SPELLING.CUSTOM9
+which is the same list converted to the format required by PROOF.
+SPELLING.CUSTOM1  is my  new version  of  the main default custom
+dictionary based  on the 500 most frequent word list plus words I
+added from my  own use.  PROOF runs about  40 percent faster with
+the new custom file!
+
+WANT TO REPLACE YOUR OLD CUSTOM1 LIST WITH THE NEW ONE NOW? [Y/N]:N
+
+STEPR3.COMMAND/NOTES
+
+This is a  version of STEPPER III (STEPR3) of use only to Digital
+Group   computer   owners.   It   has  been  modified  to  invoke
+automatically the  16 x  64 screen format when it  is brought up.
+This OASIS  version was  devised by Wes Bjur who  desired to poke
+about in memory without regard for all of those "protected areas"
+encountered when using  DEBUG.  To return to the  24 x 80 screen,
+merely type an  <ESC +> after leaving STEPPER.   Sorry, no source
+was supplied.
+
+Don Royer, WA6PIR (714) 968-9156 Wes Bjur, N6UD
+WANT TO TRY IT NOW? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S THE END OF VOLUME 44.   LET ME  HEAR YOUR COMMENTS.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>

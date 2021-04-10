@@ -1,0 +1,775 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: October 1982
+Volume: 17
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST17  A 11/01/82 18:14    57    3 S    66 VOL$17
+ADDRESS2 BASIC    A 09/01/82 20:34   329   19 S   141 VOL$17
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$17
+GRAPHNET BASIC    A 09/01/82 20:34    86    3 S    82 VOL$17
+MEMBER17 FEEDBACK A 11/01/82 18:17   186    9 S    65 VOL$17
+NEWS     LETTER17 A 11/01/82 18:19   134    7 S    65 VOL$17
+PDQ      EXEC     A 11/01/82 21:17    80    2 S    75 VOL$17
+PDQDBSCR BASICCOM A 10/12/82 11:29    17    5 SR  254 VOL$17
+PDQDBSPT BASICCOM A 10/12/82 11:28    16    4 SR  254 VOL$17
+PDQDEMO  EXEC     A 11/01/82 18:43   391    6 S    72 VOL$17
+PDQDISK  BASICUSR A 09/16/82 09:17     4    1 R   256 VOL$17
+PDQDOC1  SCRIPT   A 10/29/82 21:36   793   23 S    79 VOL$17
+PDQDOC2  SCRIPT   A 10/29/82 21:27   704   24 S    77 VOL$17
+PDQDOC3  SCRIPT   A 11/01/82 21:31   380   11 S    78 VOL$17
+PDQFIL   BASICUSR A 09/17/82 10:56     5    2 R   256 VOL$17
+PDQFILE  BASICCOM A 10/12/82 10:48    39   10 SR  254 VOL$17
+PDQFILE  MSK      A 09/25/82 08:49    14    1 S    58 VOL$17
+PDQFILE2 MSK      A 06/08/82 09:45    15    1 S    73 VOL$17
+PDQINFO  SCRIPT   A 10/29/82 19:12   532   15 S    79 VOL$17
+PDQMENU  BASICCOM A 10/12/82 09:58    11    3 SR  254 VOL$17
+PDQMNT   BASICCOM A 10/12/82 10:08    33    9 SR  254 VOL$17
+PDQMNTA  BASICCOM A 09/28/82 10:36    34    9 SR  254 VOL$17
+PDQOUG   EXEC     A 10/12/82 10:07     1    1 S    25 VOL$17
+PDQPAR   BASIC    A 11/01/82 22:32   178    6 S   100 VOL$17
+PDQPAR   BASICCOM A 10/12/82 10:58     4    1 SR  254 VOL$17
+PDQSUB   BASICUSR A 09/27/82 22:39     4    1 R   256 VOL$17
+PRIVSET  EXEC     A 11/01/82 19:01    22    1 S    71 VOL$17
+SELECT17 EXEC     A 11/02/82 18:19    44    3 S    46 VOL$17
+SETPRIV  ASSEMBLE A 09/08/82 18:14    59    2 S    72 VOL$17
+SETPRIV  NOTES    A 11/01/82 19:07    44    2 S    78 VOL$17
+SOURCE   CODE     A 10/28/82 22:24   118    6 S    61 VOL$17
+STARTREK BASIC    A 11/01/82 18:00   344   19 S   117 VOL$17
+STARTREK EXEC     A 09/01/82 19:12     8    1 S    20 VOL$17
+STCOMPUT BASIC    A 07/22/82 17:13   100    6 S   108 VOL$17
+STRATING BASIC    A 07/22/82 17:13    30    2 S    86 VOL$17
+STRATING INDEXED  A 06/17/82 10:46     1    3 I    64 VOL$17
+VOL17    CONTENTS A 11/02/82 18:30    98    4 S    74 VOL$17
+VOL17    EXEC     A 11/02/82 18:32   236    7 S    74 VOL$17
+WAK1     EXEC     A 06/15/82 16:43     2    1 S     9 VOL$17
+WAK2     EXEC     A 06/15/82 17:27     2    1 S    10 VOL$17
+WAKEUP   BASIC    A 11/01/82 22:29    62    3 S    78 VOL$17
+WAKEUP   EXEC     A 11/01/82 20:14    51    2 S    79 VOL$17
+WAKEUP   NOTES    A 11/01/82 19:04    42    3 S    65 VOL$17
+WISH     LIST17   A 11/01/82 19:14    83    4 S    72 VOL$17
+44 file(s), 247 block(s).
+
+>
+
+>VOL17
+=================================================================
+:                                                                :
+:           VOLUME 17 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "A well-adjusted person is one who makes the same mistake     :
+:                            twice without getting nervous."     :
+:                                                 JANE HEARD     :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 17  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN AND/OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  17,
+THE LATEST NEWSLETTER, AND FEEDBACK FROM MEMBERS:
+
+ON WHICH DRIVE [if other than "A"] IS VOL17 MOUNTED? [ A-G S ]:
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST17  A 11/01/82 18:14    57    3 S    66 VOL$17
+ADDRESS2 BASIC    A 09/01/82 20:34   329   19 S   141 VOL$17
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$17
+GRAPHNET BASIC    A 09/01/82 20:34    86    3 S    82 VOL$17
+MEMBER17 FEEDBACK A 11/01/82 18:17   186    9 S    65 VOL$17
+NEWS     LETTER17 A 11/01/82 18:19   134    7 S    65 VOL$17
+PDQ      EXEC     A 11/01/82 21:17    80    2 S    75 VOL$17
+PDQDBSCR BASICCOM A 10/12/82 11:29    17    5 SR  254 VOL$17
+PDQDBSPT BASICCOM A 10/12/82 11:28    16    4 SR  254 VOL$17
+PDQDEMO  EXEC     A 11/01/82 18:43   391    6 S    72 VOL$17
+PDQDISK  BASICUSR A 09/16/82 09:17     4    1 R   256 VOL$17
+PDQDOC1  SCRIPT   A 10/29/82 21:36   793   23 S    79 VOL$17
+PDQDOC2  SCRIPT   A 10/29/82 21:27   704   24 S    77 VOL$17
+PDQDOC3  SCRIPT   A 11/01/82 21:31   380   11 S    78 VOL$17
+PDQFIL   BASICUSR A 09/17/82 10:56     5    2 R   256 VOL$17
+PDQFILE  BASICCOM A 10/12/82 10:48    39   10 SR  254 VOL$17
+PDQFILE  MSK      A 09/25/82 08:49    14    1 S    58 VOL$17
+PDQFILE2 MSK      A 06/08/82 09:45    15    1 S    73 VOL$17
+PDQINFO  SCRIPT   A 10/29/82 19:12   532   15 S    79 VOL$17
+PDQMENU  BASICCOM A 10/12/82 09:58    11    3 SR  254 VOL$17
+PDQMNT   BASICCOM A 10/12/82 10:08    33    9 SR  254 VOL$17
+PDQMNTA  BASICCOM A 09/28/82 10:36    34    9 SR  254 VOL$17
+PDQOUG   EXEC     A 10/12/82 10:07     1    1 S    25 VOL$17
+PDQPAR   BASIC    A 11/01/82 22:32   178    6 S   100 VOL$17
+PDQPAR   BASICCOM A 10/12/82 10:58     4    1 SR  254 VOL$17
+PDQSUB   BASICUSR A 09/27/82 22:39     4    1 R   256 VOL$17
+PRIVSET  EXEC     A 11/01/82 19:01    22    1 S    71 VOL$17
+SELECT17 EXEC     A 11/02/82 18:19    44    3 S    46 VOL$17
+SETPRIV  ASSEMBLE A 09/08/82 18:14    59    2 S    72 VOL$17
+SETPRIV  NOTES    A 11/01/82 19:07    44    2 S    78 VOL$17
+SOURCE   CODE     A 10/28/82 22:24   118    6 S    61 VOL$17
+STARTREK BASIC    A 11/01/82 18:00   344   19 S   117 VOL$17
+STARTREK EXEC     A 09/01/82 19:12     8    1 S    20 VOL$17
+STCOMPUT BASIC    A 07/22/82 17:13   100    6 S   108 VOL$17
+STRATING BASIC    A 07/22/82 17:13    30    2 S    86 VOL$17
+STRATING INDEXED  A 06/17/82 10:46     1    3 I    64 VOL$17
+VOL17    CONTENTS A 11/02/82 18:30    98    4 S    74 VOL$17
+VOL17    EXEC     A 11/02/82 18:32   236    7 S    74 VOL$17
+WAK1     EXEC     A 06/15/82 16:43     2    1 S     9 VOL$17
+WAK2     EXEC     A 06/15/82 17:27     2    1 S    10 VOL$17
+WAKEUP   BASIC    A 11/01/82 22:29    62    3 S    78 VOL$17
+WAKEUP   EXEC     A 11/01/82 20:14    51    2 S    79 VOL$17
+WAKEUP   NOTES    A 11/01/82 19:04    42    3 S    65 VOL$17
+WISH     LIST17   A 11/01/82 19:14    83    4 S    72 VOL$17
+44 file(s), 247 block(s).
+▼ EWS.LETTER17:VOL$17                                      01/30/85 18:46 Page 1
+
+-----------------------------------------------------------------
+27 October 1982         N E W S   L E T T E R           Volume 17
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+Every time I  finish putting one of these together I have roughly
+the  same  feelings: WOW,  is it  already volume XX; and BOY,  we
+really  got  some  good  stuff  this  time!!!   Volume  17 is  no
+exception.   Sometimes  I  can't believe  the really high quality
+programs  people are  willing  to  share  with  the rest  of  the
+members.  I know both from studying the code and talking with the
+authors that a  lot of love, sweat and  tears go into many of the
+things we have in our unbelievably 800+ file library.
+
+Volume 17 is special in a couple of ways.  First, it contains the
+first  "example"  of  a commercial  program product demo package,
+PDQ, a  data base  management system.  The author, John  Lapenta,
+has contributed  several modules  of the complete package to  the
+OUG library.  These  stand alone and are usable  without the rest
+of  the  system.   Several  commercial  software developers  have
+promised to send demo packages, but this is the first one.  There
+is  nothing  sacred about  the content,  form,  or format of this
+first  example.   My  plan  is  to  start  a  separate series  of
+demonstration disks that would not be a part of the basic library
+- except for  those parts contributed to the  OUG by the software
+developer.   We  would  announce  the  availability  of  new demo
+packages as  they became available in the newsletters.  So, those
+of you  who have  been waiting for someone else  to be the first,
+now is the  time for you to get  that demo disk finished and sent
+in.
+
+Second, this is the first volume to contain a "dangerous" utility
+for  fooling  around  with the  OASIS system programs themselves.
+With the  new SETPRIV command you can set your personal privilege
+level  to any  value  between  zero  and  255!  This  is  not for
+beginners!   (see  notes  in  SOURCE.CODE  file in  this volume).
+There will be  many more utilities along this  line in the future
+if promises  from other  members are even close to  "for real." I
+URGE  EVERYONE  TO USE  THESE NEW  CAPABILITIES  ONLY FOR ETHICAL
+PURPOSES!!!!!  If members  were to use them for  any purpose that
+hurt Phase One Systems in some way, we might find it a lot harder
+to get them to support our efforts in the future.  Please keep it
+in mind when you play around with these powerful new utilities.
+
+Several of the  other programs  in volume 17 are winners  too.  I
+like WAKEUP which  allows me to use my  computer to automatically
+ring the phones  of all my friends at  7 AM to let them know they
+ought to be up enjoying the beautiful morning instead of sleeping
+like me.
+
+The BUSINESSMASTER  project  is  not  dead, it  is only sleeping.
+But, we now  have a new member of  the team who has agreed to try
+and pull  it all together.  Some of the team members have told me
+they are making progress.  So, keep the faith, baby.
+
+The bulletin board system also is not dead.  I hope to have it up
+and  running right  after the  COMDEX meeting.  There is a  phone
+number  already  assigned:  (805)  965-5415.  Initially,  it will
+operate at  300 baud  and should be available about  December 10,
+1982 (almost exactly a year after our original target).
+
+COMDEX. We will  be there with both a meeting at the Hilton and a
+hospitality suite  at the Tropicana.  The meeting will be held at
+10:00  AM  on Thursday,  December 2  in Conference Room 9 at  the
+Hilton  Hotel (that's  the only  time we could get a  room).  The
+hospitality  suite will  be in  Room 2002 at the Tropicana  Hotel
+Tower  between  noon  Tuesday,  November  30  and  noon Thursday,
+December 2.   I'll be there a lot of the time to talk with people
+and to  demonstrate things  in the library.  Both evenings  there
+will probably  be someone around most of the time.  It's right on
+the strip, so plan to drop by.
+
+We still need  more people  to write review articles about  OASIS
+for the  many computer journals.  A few members have told me they
+are  or have  sent things  in for publication, but we  need many,
+many more  people  to  start  letting  the world  know  about the
+virtues of OASIS and the commercial software now available to run
+under it.
+
+Several of  you  have  now told  me you  have  TRS-80 programs to
+convert to  OASIS BASIC and both a GETFILE capability and program
+like  MCONVERT  that  will work  with the  Radio  Shack programs.
+There must be  someone out there who either  has done it or knows
+how to do it.
+
+Volume 18 or 19  will contain a new and  MUCH improved version of
+the spelling  checker - at least twice as fast and innovative new
+features.  Also, Phase One is donating all of the source code for
+the currently available  device drivers (class codes) and  all of
+the current patches for known glitches in the various versions of
+OASIS.  The  first true  diskette compress utility is also  ready
+for release.  The press release system is also about ready.
+
+Just a note  of apology to all you authors, who after burning the
+midnight oil to get your masterpiece JUST RIGHT, find that I have
+gone and  mucked around with it.  I'm afraid I just can't control
+my urge  to  make most  of the  things  you submit just a  little
+better or easier to understand.  I'm sure some of you must feel a
+little  urked  to see  some of  the  wholesale modifications that
+often get  made to perfectly good programs - usually at the front
+end in the form of EXEC's to tie everything all together.
+
+When I get a  new package, the first thing  I do is try to run it
+as it  was submitted.   If anything causes me to  stumble or feel
+confused about how  to proceed, or if I  think a less experienced
+member might falter, I'm very inclined to make a change.  In some
+cases, I even ask the author to make major changes before putting
+something in  the library.   If you are one of  the authors whose
+work has been  mangled in this way, please  forgive.  In adding a
+little polish to your work, I'm just thinking about the most good
+for the most people (is that bad English?).
+
+Finally we have made arrangements to get the library converted to
+ONYX tapes and BILLINGS minidiskettes again.  These are now being
+delivered.   Arrangements are  also in progress for Northstar and
+Vector formats, but I haven't seen the converted versions yet.
+
+Well that's it  for volume  17.  A really good one  by almost any
+standard.  Hope you are putting the finishing touches on that gem
+you promised to send in a year ago.  (gotcha didn't I)
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+▼ EMBER17.FEEDBACK:VOL$17                                  01/30/85 18:46 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER17.FEEDBACK                                   November 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+June 16, 1982.
+
+Dear Fred,
+
+It may be  a modest effort but at least I'm trying.  On this disk
+you will  find a small contribution to the OUG library: a program
+that  will  turn your  computer into  an alarm clock.  It may  be
+superfluous  and  you  may not  consider it  even  good enough to
+include but it does work and I offer it as a token.
+
+I have made  some  effort  to  thoroughly  debug it  and  provide
+sufficient error traps  and remarks to ensure its  portability; I
+think you will find it correct in that respect.
+
+The EXEC  programs  are necessary  to do the appropriate ATTACHes
+(not possible in  BASIC) and the printer echo  toggle (I couldn't
+find a way  to do that in BASIC  either).  In any case, feel free
+to muck around with it as you please.
+
+I am also including a couple of previously issued programs that I
+thought needed some  improvement.  They're very good and  I don't
+mean to cast  any aspersions on their authors  but I believe they
+are   better   now.   The   first,  ADDRESS2,  while  offering  a
+substantial improvement over its previous incarnation as ADDRESS,
+still  suffered  from  a faulty  CASE -  CEND  construction which
+allowed  improper  exiting  from  the  loop.   Depending  on your
+system, a printout  of a data file while  run out of memory after
+about 350 iterations due to the non-clearing of the SELECT stack.
+
+After much frustration in  trying to print a file  of 2000 names,
+calls to Mr Trimble, Phase One, etc., there it was on page 100 of
+the BASIC manual.  I notice that although the latest contribution
+of Mr  Trimble carefully avoids this error no one has pointed out
+the problem  in the above-mentioned program.  At the same time, I
+must confess  that I  seem to have created a  bug in my effort to
+make the  program suitable for both Canadian and U.S.  addresses.
+In  the U.S.   the city,  state and ZIP code are  all on the same
+line.  However,  in Canada the Postal Code is required to be on a
+separate   line.    My  added   routine  performs  this  checking
+correctly, treating the two types of address accordingly, but the
+subsequent  variables   (phone  nos.,  refcodes)  are  improperly
+positioned when  the file is printed.  So far I haven't been able
+to figure it out.
+
+GRAPHNET works fine  but I  thought a utility of OASIS  which has
+obvious  application  here  was  being  ignored: the  translation
+capability  of the  COPYFILE command.   Since  telex and twx (and
+Graphic  Scanning  Corp.)  all  require uppercase  only it seemed
+appropriate  to   me  to  temporarily  convert  the  file  to  be
+transmitted  (it gets  erased even  before  the formatted file is
+sent).
+
+SPELLCHEK on the  other hand,  doesn't work fine (what do  I want
+for  the  price?).   It  can't  handle  text  generated by  Magic
+Wand(tm) as that  program creates records exceeding the  limit of
+OASIS BASIC.   Any text beyond the string limit doesn't get read.
+I  am also  amazed  at  the  number  of misspelled  words  in the
+dictionary  (to  say   nothing  of  some  of  the   more  bizarre
+inclusions).   While I'm  on the  subject, it looks like you  are
+starting to  use it yourself; there was a distinct improvement in
+spelling in your editorial on the latest volume.
+
+I don't mean to give offense; it's just that I feel that literacy
+is  losing ground  in today's  world and it sometimes seems  that
+computer enthusiasts  are at the head of this downward turn.  The
+spelling  and  grammar  I encounter  on the  BBS's  is frequently
+appalling.  The  medium doesn't offer any encouragement itself so
+it seems to me that it behooves us to make special effort to keep
+our  standards  up.   I for  one, at  any  rate, appreciate those
+efforts.
+
+But wait  a moment,  what's this?   No sooner have I sat  down to
+write  this, my  first machine-readable  letter  to you, than the
+mailman  hands  me Vol.13  and 14!   And what do I find?   Fellow
+Canadian  Bob  Chapman's  new  improved PRUFEDIT!   This one WILL
+handle Magic Wand text (by simply augmenting the input and output
+record  buffers to  whatever size  you need [how long can  you go
+without entering  a carriage return?])!  Bravo, Bob, this kind of
+thing  is helping  the  UG  move  into  a whole  new  standard of
+software (wish I could say the same for my own effort).
+
+By the way, some time ago someone suggested CARAVAN as a name for
+the  OUG.   Although you've  obviously had  a  pile of stationery
+printed with  the  latter  name  is  there any  possibility  of a
+change?  I thought the suggestion most imaginative.
+
+MCONVERT is a great  idea and although it doesn't  work perfectly
+we were all  clearly warned about its rough  condition.  I'd like
+to  offer  some  refinements to  it but  I'm  afraid I don't know
+Microsoft  Basic  well enough  (or OASIS  BASIC  either, for that
+matter) to  do so.   I can report, however, that  there are flaws
+which  did  surprise  me; I  can probably  figure  out what to do
+eventually but  I'll mention  one to you in the  expectation that
+you will fix  it in 30 seconds: the  multiple statement separator
+in MBASIC (:) doesn't get consistently changed to by the program.
+It doesn't seem  to handle multiple occurrences of  the character
+(which  is  odd since  that's how  it's  used).  Anyway, improved
+versions  of this  and others  like it will certainly be  greeted
+with great cheers.
+
+Another by-the-way: for your records, I am operating OASIS 5.5 on
+an ACS8000-7, (Altos)  with a TeleVideo 920C, the  29Mb hard disk
+and a NEC Spinwriter 5510.
+
+Problem department: According  to the System Manual (Appendix G),
+the  TeleVideo  CRT  doesn't have  an "EU"  function  whereas the
+TeleVideo manual  clearly says it does.  I am including a copy of
+CLASS41 ASSEMBLE which  is a driver to be  used by Magic Wand but
+neither with  Class Code 7 nor 41 "ATTACH"ment does this function
+work for me.  The function isn't ignored; rather it responds with
+a  "CLEAR",   wiping  everything.    This  is  why  I  added   an
+"ERASE.UNPROT"  subroutine  in  Trimble's ADDRESS2  program - his
+"PRINT  CRT$("EU")  wouldn't work.   It will  work  in local mode
+("Block" mode) so  I know the terminal has  the capability but so
+far I have  not been able to write  a driver that will enable the
+software to  make use of it.  Can you or one of the members help?
+There must be plenty of other TeleVideo owners in the OUG.    The
+source for CLASS41.ASSEMBLE is reproduced below:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+        TITLE           'Class Code 41 (TELEVIDEO 920 FOR MAGIC WAND)'
+                        ;
+                        ; Entry Parameters:
+                        ;
+                        ; A - control character to translate
+                        ; B - console device number
+                        ; C - control character to translate
+                        ; D - cursor address column number
+                        ; H - cursor address line number
+                        ;
+        MACLIB  CLASS   ; Get macro definitions
+
+                        ; translate  1 to 28  (function key lead in)
+                        ; translate  11 to 26 (up arrow)
+                        ; translate  12 to 6  (right arrow)
+                        ; translate  30 to 1  (home)
+
+        INIT    01H,1CH,0BH,1AH,0CH,06H,1EH,01H
+        DCA     4       ; Use class 4 cursor controls
+        DEFINE  HOME,RS
+        DEFINE  CLEAR,ESC,'+',8CH
+        DEFINE  EOS,ESC,'Y',8CH
+        DEFINE  EOL,ESC,'T',8CH
+        DEFINE  LEFT,BS
+        DEFINE  RIGHT,FF
+        DEFINE  UP,VT
+        DEFINE  IL,ESC,'E'
+        DEFINE  IC,ESC,'Q'
+        DEFINE  DL,ESC,'R'
+        DEFINE  DC,ESC,'W'
+        DEFINE  EU,ESC,':',8CH
+        DEFINE  PON,ESC,'&'
+        DEFINE  POFF,ESC,27H
+        DEFINE  FON,ESC,')'
+        DEFINE  FOFF,ESC,'('
+        DEFINE  BON,ESC,'^'
+        DEFINE  BOFF,ESC,'q'
+        DEFINE  RVON,ESC,'j'
+        DEFINE  RVOFF,ESC,'k'
+        DEFINE  ULON,ESC,'l'
+        DEFINE  ULOFF,ESC,'m'
+
+        END
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+That's all the  feedback  I  can  think  of for  now.   Hoping to
+provide more  in the  future and looking forward to  hearing from
+you soon, I am
+
+
+                                    Yours sincerely,
+                                    David Skulski
+                                    2182 West 12th Avenue
+                                    Suite #209
+                                    Vancouver, B.C.
+                                    Canada.
+                                    V6K 2N4
+                                    (604) 731-4525
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST17:VOL$17                                        01/30/85 18:46 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #17 - I wish somebody would...................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification)
+
+
+3. We need  to  develop  a cheap  way for  members  to call the new  OUG
+Bulletin Board computer.  Does anyone know a way to use the networks (ie
+TELENET,  TYMNET,  etc.) or  other phone  service  for cheap "off hours"
+communications?
+
+6. We need  a conversion  routine for converting ASSEMBLY language  code
+from other Z80 systems to OASIS.
+
+7. We need a BASIC disassembler.
+
+8. I need  a comprehensive mailing list program for keeping track of all
+our members  - one  that we can put in  the OUG library.  Thanks for all
+the  contributions on  this on.   Still don't have what I  want yet.  It
+needs to operate with SCRIPT as well.
+
+9. I  need a  data base  system for maintaining the commercial  software
+directory - again one that can be released into the OUG library.
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+11. We need  lots more  applications to run against the  dictionary data
+base.
+
+
+13. WE BADLY NEED  A MODIFICATION TO SYSTEM.NUCLEUS THAT  WILL IMPLEMENT
+THE BREAK  FUNCTION.  PHASE ONE hasn't been responsive to the pleas from
+(at least) several members.  This may be hardware dependent.
+
+14. We  need someone  to run  our dictionary through one or  more of the
+other spelling checkers.  There are MANY misspelled words in the current
+version of our word list, as well as many more non-words.
+
+15. We need a systematic way to keep track of the CLASS Codes and Device
+drivers -  like  an  alphabetical  list  by device  names  with names of
+drivers.
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+
+
+18. We need a GETFILE capability for use with TRS-80 disk files.
+
+19. We very  much need a comparison of the features of the various major
+operating systems (including OASIS, naturally).
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+air and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+22. A  screen  oriented  editer (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again each time.
+
+24. A synchronous communication program.
+
+25. People to search through other users groups libraries for worthwhile
+things to  convert for operation under OASIS which we do not yet have in
+the OUG library.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 November 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ OURCE.CODE:VOL$17                                        01/30/85 18:46 Page 1
+
+SUBJECT: SOURCE CODE AVAILABILITY
+
+
+
+I am often  asked about  the type of program forms  that are
+acceptable  for  inclusion in  the OUG Library.  Some people
+prefer  COMPILED  versions,  while  others want  OBJECT, and
+still others  want SOURCE.  In the beginning I put all three
+versions in  the library  for BASIC programs.  It took  up a
+lot of space  to do it, but it  seemed like the safest thing
+to do at  the time.  Some people wanted  the ASCII source so
+that they  could change  things using the EDITOR because  of
+memory  limitations  which  would  not  allow them  to bring
+OBJECT  code into  the interpreter for editing.  Some people
+wanted the  COMPILED versions to save themselves the trouble
+of compiling  every new BASIC program that arrived.  But, we
+soon  discovered  that  BASIC  programs  compiled under  one
+release  of  OASIS  often would  not run  under  a different
+release (eg 5.4  and 5.5).  So, they needed  the OBJECT code
+to get a compiled version that would work in their system.
+
+There was no  one  solution  that  would  solve all  of  the
+problems  and  make everyone  equally happy.  The compromise
+plan, I  think, goes a long way to making everything easiest
+for everyone.   We now  only put BASIC source code  programs
+into  the  library and  provide a  variety  of utilities for
+converting  them  to  OBJECT and  COMPILED versions.  In the
+case  of  ASSEMBLY programs,  the same thing applies, except
+that we  may  well  include  both  the source  code  and the
+assembled  COMMAND.   Unlike  BASIC  programs  the  assembly
+version cannot  be executed in it's original form.  The same
+reasoning  will  apply  to  COBOL,  "C", or  other  language
+programs when they start to appear in the library.
+
+Another aspect  is software  protection.  Some people submit
+things  for  which they  have commercial  plans.   This is a
+little  more complicated.   Everything in the library is now
+copyrighted, either by the authors themselves or by the OUG.
+This does provide  some legal protection, but does  not stop
+an unscrupulous individual from stealing the ideas for their
+own commercial  gain.  Releasing only COMPILED versions into
+the library  makes it more difficult for anyone to see how a
+program was put  together.  It does not make  it impossible,
+however.  There  are several very good decompilers out there
+now -  in  fact  several  of  our members  have  promised to
+contribute  their's  to  the  OUG  library.   Anyone  who is
+determined enough  to steal software can find a way.  So, we
+have  to  do  a  lot  of  trusting  -  accept an  occasional
+undetected BAD  GUY, and let the ones we discover know in no
+uncertain  terms   that  depriving  someone  else  of  their
+rightful profit will not be tolerated.
+
+With all of  this in  mind, I will continue to  maintain the
+policy  of  including  SOURCE code  versions of all programs
+added to the  library - with a very  few special exceptions.
+The  special exceptions  generally will deal with current or
+planned  future   commercial  exploitation  of  the  program
+submitted to  the  library  for  use  by OASIS  USERS  GROUP
+members on a non-commercial basis.
+
+I will not withhold SOURCE because it is too complicated for
+most members to understand, because they might misuse it for
+illegal or  unethical purposes, or because they might change
+it in some  way that could cause harm  to some part of their
+system.
+
+We have some very sophisticated software people in our group
+and I  want to  encourage them to muck around  with anything
+they  find in  the library  in any way they can  think of to
+create some new capability.  If we protect the neophytes too
+well we will deprive others of important opportunities.
+
+Some software  utilities  give  the user  capabilities never
+intended   or   even  invisioned   by  the  original  system
+developers (eg Tim  Williams et.  al.).  It is  possible for
+someone to defeat all of the safeguards against unauthorized
+redistribution of  copies the OASIS System (eg serial number
+removal/changes).    I   do   not  condone   such  unethical
+activities.  I do know that many of our members have created
+such  capabilities and  are using them for perfectly ethical
+purposes.  Such  utilities are like a knife.  In the hands of
+a murderer  it can  kill, in the hands of  a sculptor it can
+create  art.   Like the  knife, such utilities in themselves
+are neither  good nor bad.  If I can conceive of any good to
+which  a new  utility  can  be  put,  I will  add  it to the
+library.  I  don't intend  to stretch this policy to  absurd
+limits,  though.   Thus, the  serial number changing utility
+will  not   be  included.   That  is  a  capability  rightly
+restricted  to  organizations  authorized  by  Phase One  to
+distribute copies  of OASIS.  But, there wont be many things
+that I'll have to exclude.  So, send them in.
+
+Finally, changing  the code  in many programs can have quite
+disasterous consequences.   If someone who doesn't know what
+they  are  doing  starts fooling  around with programs, they
+might  indeed  cause serious  damage to  some  part of their
+system.  We have  such people among our members.   In fact,
+every time  I  put  something new  into the  library  I think
+particularly about them  and how they are going  to normally
+react to the  new program.  I try to  insure that the USE of
+anything in  our library is fairly GOOF PROOF.  That doesn't
+extend to programs modified by a member.  How could it?  Any
+time you  change the code in a program you do so at your own
+risk.  Everyone knows that.  Don't they?
+
+If I have belabored  this subject, please excuse me.   I get
+so many questions/arguments from people that I just decided
+it was time to speak my mind.  If you disagree with anything
+I've said,  go ahead and let me know.  I do really listen to
+good arguments.   And I don't mind small fights, as long as
+there is no  blood involved!  - and we  shake hands and make
+up before we finish.
+
+Peace,
+
+
+
+FRED
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+HE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 17.
+
+***************************************************************
+
+
+ADDRESS2.BASIC
+
+David Skulski up in Canada made some changes to Joe Trimble's
+program to make it more compatible with the postal requirements
+of his country and fixes a CASE-CEND error he found.  He does
+confess to having introduced a new output format error for the
+extra data fields.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RAPHNET.BASIC
+
+Dave Skulski noticed a minor oversight in this program and made a
+slight improvement.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DQ.EXEC            PDQDBSCR.BASICCOM
+PDQDBSPT.BASICCOM   PDQDEMO.EXEC
+PDQDISK.BASICUSR    PDQDOC1.SCRIPT
+PDQDOC2.SCRIPT      PDQDOC3.SCRIPT
+PDQFIL.BASICUSR     PDQDFILE.BASICCOM
+PDQINFO.SCRIPT      PDQMENU.BASICCOM
+PDQMNT.BASICCOM     PDQMNTA.BASICCOM
+PDQOUG.EXEC         PDQPAR.BASIC/BASICCOM
+PDQSUB.BASICUSR     INTRO.DBS
+PDQFILE.MSK         PDQFILE2.MSK
+
+O.K.  With this entry we launch a new era for our activities.
+PDQ is a full database management system with screen generators,
+file builders, report generators, and more.  Some of the programs
+have been added to the OUG library for all members to use at once.
+The full system is a commercial proprietary product and is for
+sale by the developer, FST.  Included here is a description of the
+complete system, a description of just that portion which John
+Lapenta contributed to the OUG library, an automated demo of the
+file maintenance portion, and the several file maintenance modules
+which he contributed.  Because it is proprietary, no source code is given.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RIVSET.EXEC
+SETPRIV.ASSEMBLE/NOTES
+
+This VERY DANGEROUS utility allows you to reset your own privilege
+level anywhere between zero and 255.  If you are a novice, DON'T
+MESS WITH IT unless everything on your system is well backed-up!!
+Setting high privilege levels allows some really weird things to
+happen with your system.  This looks like powerful MAGIC, but for
+the assembly experts only.  It was contributed by Bill Berne of
+Seattle, Washington.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+TARTREK.BASIC/EXEC
+STCOMPUT.BASIC
+STRATING.BASIC/INDEXED
+
+This is an excellant Startrek game that we have been playing for
+about 5 years. It was obtained from the users library offered by BTI
+(Basic timesharing, Inc.) and we have modified it for OASIS. The
+original game was one program, but we have broken it down to run on
+smaller systems.  STARTREK and STCOMPUT are the programs that actually
+operate the game. STRATING is a program that tells you if you have
+won or lost and keeps a record of the high score achieved and average
+scores for other players. STRATING.INDEXED is the file where the
+scores are stored for use by the STRATING program. There have never
+been very many instructions for this program, but if anyone is
+interested have them contact us and we will try to write some out
+and mail them. We learned by just playing it over and over.
+Tom & Carolyn Cannon (503) 772-5746
+
+TO PLAY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AK1/WAK2.EXEC
+WAKEUP.BASIC/EXEC/NOTES
+
+This little gem turns your computer into an automated hotel "wake-up"
+system.  It works through your Hayes Smartmodem to dial up to six
+phone numbers at any programmed time, day or night.  It was submitted
+by David Skulski (604) 731-4525  I don't have the telephone dialing
+modem, so I wasn't able to throughly test this myself.  Looks OK though.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 17.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+                   SATURATED FATS ARE POISON
+
+Boycott processed foods containing coconut/palm/palm kernal oil.
+    And, let the food processors know why you are doing it.
+
+***************************************************************
+
+>

@@ -1,0 +1,691 @@
+>VOL32
+==================================================================
+:                                                                :
+:           VOLUME 32 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Someday, after we have mastered the winds, the waves,        :
+:    the tides and gravity, we shall harness for God the         :
+:    energies of love.  Then for the second time in the          :
+:    history of the world, man will have discovered fire."       :
+:                                        Teilhard de Chardin     :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL32 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 32  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  32,
+the latest newsletter, another wish list, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST32  A 10/26/83 10:45    60    3 S    65 VOL32
+BACBLANK EXEC     A 11/08/83 01:12    40    1 S    62 VOL32
+BACKUP2  COMMAND  A 07/10/83 02:01    18    5 R   256 VOL32
+BACUP2   EXEC     A 11/08/83 01:24    40    1 S    74 VOL32
+CHANGEB  EXEC     A 10/26/83 15:34    81    3 S    78 VOL32
+^LASS43  ASSEMBLE A 08/11/83 17:42   227    5 S    49 VOL32
+COMPAREB BASIC    A 10/26/83 11:36    83    3 S    94 VOL32
+COMPAREB EXEC     A 10/26/83 12:58   133    4 S    79 VOL32
+COMPILEB EXEC     A 10/26/83 13:38    34    2 S    77 VOL32
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL32
+JUMBLE   ASSEMBLE A 05/17/83 13:37   242    5 S    61 VOL32
+JUMBLE   COMMAND  A 05/23/83 22:02     7    2 R   256 VOL32
+KISSDEMO COMMAND  A 11/08/83 10:46    41   11 A   256 VOL32
+KISSDEMO LETTER   A 11/08/83 01:24    50    3 S    78 VOL32
+KISSDOC  GLOSSARY A 10/21/83 16:16   127    6 S    78 VOL32
+KISSDOC  INTRO    A 10/24/83 16:57   218   12 S    78 VOL32
+KISSDOC  PHASEONE A 10/21/83 11:18   316   13 S    78 VOL32
+KISSDOC  SCRIPT   A 10/26/83 08:57   370   15 S    79 VOL32
+KISSDOC  SCRIPT2  A 10/23/83 12:29   408   17 S    78 VOL32
+KISSDOC  SCRIPT3  A 10/23/83 12:32   281   14 S    78 VOL32
+KISSDOC  SCRIPT4  A 10/21/83 16:31   119    5 S    78 VOL32
+KISSDOCC SCRIPT   A 11/08/83 04:50    62    3 S    78 VOL32
+KISSDOCM SCRIPT   A 10/26/83 12:52   120    6 S    78 VOL32
+KISSDOCP SCRIPT   A 10/26/83 10:57    60    3 S    78 VOL32
+LISTB    EXEC     A 10/26/83 13:18    50    2 S    76 VOL32
+MCREATE  COMMAND  A 04/16/83 01:05    13    4 R   256 VOL32
+QUIP3    COMMAND  A 10/26/83 16:15     6    2 R   256 VOL32
+QUIP3    DATA     A 04/12/83 12:07   222   14 S   135 VOL32
+QUIP3    RECORD   A 11/08/83 08:07    32    1 D     4 VOL32
+QUIT     ASSEMBLE A 04/06/83 01:25   102    3 S    61 VOL32
+QUIT     COMMAND  A 04/06/83 01:25     5    2 R   256 VOL32
+SCRIPT   INFO     A 10/26/83 16:27    22    1 S    47 VOL32
+SCRIPTC  INFO     A 10/26/83 16:54    59    3 S    78 VOL32
+SCRIPTP  INFO     A 10/26/83 17:00    59    3 S    78 VOL32
+SELECT32 EXEC     A 11/08/83 08:56    45    3 S    46 VOL32
+SOFTWARE PROMOTER A 10/26/83 14:46    48    2 S    65 VOL32
+SYSTEM   CLASS43  A 08/11/83 17:43     4    1 R   256 VOL32
+TECH     NOTE2    A 10/26/83 16:15   130    8 S    79 VOL32
+VOL32    CONTENTS A 11/08/83 07:30   228    9 S    71 VOL32
+VOL32    EXEC     A 11/08/83 08:47   504   14 S    73 VOL32
+VOL32    FEEDBACK A 11/08/83 02:02    13    1 S    65 VOL32
+VOL32    NEWS     A 11/08/83 07:04   236   13 S    65 VOL32
+WISH     LIST32   A 11/11/83 01:54    66    3 S    72 VOL32
+WORDPRO  EXEC     A 11/08/83 03:25    50    2 S    71 VOL32
+WORDPROC EXEC     A 11/08/83 06:54   446   11 S    79 VOL32
+45 file(s), 245 block(s).
+VOL32.NEWS:VOL32                                          01/31/85 08:05 Page 1
+
+-----------------------------------------------------------------
+6 November 1983         N E W S   L E T T E R           Volume 32
+-----------------------------------------------------------------
+
+
+
+
+Good Morning OUG Member;
+
+VOLUME 32:  contains  an excellent  introduction to Oasis and the
+Script  processor  from the  point of  view  of people doing word
+processing.   The  material  was  taken  from the  RealSoft users
+manual for their  full screen editor called KISS  (a demo version
+of  KISS  is  also included).   Brian Goodheim  of  RealSoft also
+contributed an  EXEC program that manages access to various Oasis
+facilities  and word  processing application programs (using KISS
+as  an  example).  From  Gary Bergman  we  got two very important
+utilities: a  better version  of the Oasis CREATE.COMMAND and  an
+example of a technique for automatically serializing COMMANDs the
+first time  they are executed.  He also tossed in some more Quips
+and  a  word  puzzle decoder.   From Zri  Barak  we got three new
+utilities including one  that does a better job  of comparing the
+differences between two BASIC files than the earlier COMPARE (Vol
+5).  From Larry Plumb a second Tech Note on assembly programming.
+
+COMDEX PLANS: Our meeting and tutorials will occur pretty much as
+announced in the volume 30 newsletter, with one addition.  If all
+goes well,  there will be a news conference held in the same room
+at 8:30  AM to which members are invited.  The decision to invite
+the  press  to  our  confab  still  depends  on having  something
+newsworthy  out of  Phase One,  Forth  Try, and Oasis Technology.
+And, at this late moment that is far from certain.
+
+The tutorials  will  be held  from 9:00  AM to 11:00 AM with  the
+general  meeting  scheduled  for 11:00  AM to  Noon.   All of the
+principal  participants have  accepted invitations to be there no
+matter what  may finally  happen with the negotiations to  decide
+the  future  arrangements  for  supporting  and promoting  Oasis.
+These topics will  certainly be among those discussed  during the
+general  meeting,  with  several  manufacturer's  representatives
+already asking to be heard.  So, this is what it looks like:
+
+  PLACE:   Ceasers Place - Regalium East Room
+
+  DATE :   Tuesday, 29 November 1983
+
+  AGENDA:
+
+    8:30 - Press Conference (tentative)
+    9:00 - Oasis features overview (Howard Sydorsky)
+    9:30 - Oasis Vs.  other O/S features (Mike Blaisdell)
+   10:00 - Implementations for new machines (Jack Zelver)
+   10:30 - Oasis compatibility from 8 to 16 bit (Tim Williams)
+   11:00 - General meeting
+   12:00 - Attitude readjustment etc.
+
+VOLUME 30 BONUS: In  order for the program on  the back of volume
+30  to  work  properly, there  needed to  be  a dummy file called
+TEMP.A  present.   It  was  accidentally  erased from  the master
+before I made all the copies.  Without it you cannot generate the
+nine subject files.  Mark Braly caught it.  Also, a few copies of
+volume 30 got sent out blank.  Better check yours, if you haven't
+done it already.  Sorry.
+
+OASIS RUMORS:  By  all  measures this  has been  a  most eventful
+period  in  the  life of  the Oasis  community.   There have been
+rumors  upon rumors.   They have  been flying so fast no  one can
+keep  up with  them.  Credible  signals  were being received from
+Oakland  that  OASIS-16 would  never see  the light of day, as  a
+result   of  both   technical  problems  and  internal  political
+disagreements.   Some  of  the rumors  were rashly predicting the
+demise of  Phase One.   Others reported threats of law  suits and
+counter   suits   by   computer  manufacturers,   Oasis  software
+developers and  others directly connected with Phase One.  In the
+midst  of  all  this Tim  Williams and  several  former Phase One
+System employees started a new company called Oasis Technology to
+provide  improved  technical  support  for  the  Oasis  community
+sparking the  hope among some that better times were coming.  For
+others, though,  it just added fuel to the speculation that Phase
+One was  indeed in  some kind of serious trouble  presaged by the
+near total  exodus  of  technical  employees  over the  past  six
+months.
+
+PEOPLE BENEFIT: One of  the consequences of the layoffs  at Phase
+One  is that  there are  OASIS knowledgeable people all over  the
+place now.  Everyone  who got laid off or  quit up there seems to
+have  quickly  found  a new  home for  their  talents.  And, to a
+person, these former Phase One employees are friends of the Oasis
+community!  They love  Oasis even though they may  have different
+feelings about their former employer.
+
+AN ACCORD: As  I  write  this  an  accord confirmed  by  both Tim
+Williams and Howard Sydorsky is being finalized.  Apparently they
+have found a  way to make everybody winners.   In candid meetings
+with both Howard  and Tim last week I  found a clear appreciation
+of the  need for  speedy action to reestablish confidence  in the
+Oakland  Oasis  powers.   The  unexplained  delays  in  releasing
+Oasis-16, the loss of so much technical personnel, the continuing
+rumors   of   financial   difficulties,  and   finally  the  open
+disagreements between  the two factions connected with Howard and
+Tim all have contributed to a significant loss of credibility for
+everyone connected  with Oasis in northern California.  And, they
+all know it.
+
+THE GOOD  NEWS: But,  there  is  an  up  side to  all  this, too.
+Oasis-16 was released  to Sycom for the Seiko  computer yesterday
+(9 November)  and the prospects for the IBM-PC version release by
+COMDEX are good  (Howard says very good, nearly  a certainty).  I
+saw the  thing running  last week.  However, rumors are  that the
+first released versions will be far from perfect and may not have
+all the  bells and whistles planned for the final versions.  But,
+at least it is finally out.
+
+CP/M ADAPTER:  Even more  exciting was the CP/M "adapter" running
+under  Oasis-16  that  allows you  to run  all  the CP/M software
+without modification - you think you have a CP/M machine.  Howard
+says  there  is  also  an  MS-DOS  "adapter"  in  the works,  but
+prudently refrained from promising any firm delivery date.  Seiko
+is  involved in  the development  and  apparently is targeting to
+show both adapters and Oasis-16 at COMDEX.
+
+INDEPENDENT IMPLEMENTATIONS:  In  Tim's shop  I learned that they
+will be  putting Oasis-16 on other processors in the near future.
+There is  an encouraging  interest in third party or  independent
+implementations  of both  the 8-bit  and  16-bit versions and Tim
+talked of  a sort  of do-it-yourself kit with a  minimum level of
+free technical  support for  anyone having a serious interest  in
+bringing Oasis up  on a new machine.  Everyone  expressed concern
+for the  people out there who have built their lives/companies on
+Oasis and are now anxious about the future.
+
+OASIS LOYALTY: I  have known for a long time that there are a lot
+of very loyal  Oasis users among us who  will go right on bucking
+the trends because they have evaluated Oasis to be the best.  But
+these  recent events  have really stimulated some very unexpected
+statements  of  support.   Oasis still  enjoys a comfortable edge
+over  the other  major  operating  systems  in  ease of  use  for
+development, file  handling support, and multi-user capabilities.
+There are  a lot of us who know these things and many of us could
+care less  what  palace  intrigue  may  be in  progress.   As one
+employee at a  manufacturer likes to say, "Phase  One is just the
+place we send  the royalty checks." It is  not quite that simple,
+of  course, but  Oasis does  tend to have a life  of its own now.
+(There will always be someone to collect the royalty checks!)
+
+OUG: The immediate personal  impact of all this is  that my phone
+has been ringing constantly and the number of new memberships has
+more than doubled from an average of 20 to 54 during October!
+
+ONYX SYSTEMS:   With  lots   of  people  expressing  concern  and
+uncertainty about  the future  of Oasis, Onyx Systems launched  a
+vigorous  Oasis  promotion campaign  apparently aimed at creating
+the image of  long term committed Oasis support.   Although their
+approach  has irritated  some of  the  other manufacturers in the
+process, they  seem to be moving full speed ahead.  Personally, I
+think their efforts will ultimately benefit everyone in the Oasis
+community by increasing awareness of Oasis in general.
+
+In long meetings with Glen Miashiro last week I learned that they
+are currently shipping  around 400 Oasis Onyx machines  per month
+and  expect   their  promotion  blitz  to  increase  this  number
+significantly.  They also have stepped up their support/promotion
+of  the Oasis  Users Group.   Until I can arrange to  get our own
+Onyx tape  machine, they have agreed to make our tapes, but there
+are still logistics problems.
+
+IBC: Randy Rogers  has  just  informed  me  that no  matter  what
+happens  to Phase  One,  IBC  is  and  will remain  committed  to
+supporting  OASIS  on their  machines.  Apparently they have been
+beefing up their OASIS software support capabilities recently and
+are now  in a  position to provide the kind  of technical support
+they have felt was lacking from Phase One.
+
+NNC: Sandy Watson called to let me know that he is convinced that
+the 8-bit  machines are  going to be around for  a very long time
+and  that NNC  plans a  major new promotion featuring Oasis.   He
+also revealed  plans to  move to the 8MHz Z80H  as soon as he can
+get production  quantities and ultimately to the 25MHz 8-bit Z800
+when  that   becomes  available  next  year.   They  are  already
+delivering dual  CP/M - Oasis resident systems which allows users
+to  change  between  operating  systems  by  entering  a  console
+command.  He thinks  the problems at Phase One  are temporary and
+will resolve themselves with time.
+
+DYNABYTE: recently  lost  a  pending  500  unit sale  to National
+Semiconductor.  The  effect was  devastating and they had to  lay
+off  all but  about 30  of their people.  There is  some question
+about whether they  can even survive at this  point.  The trouble
+involved Oasis and Phase One in some way no one wants to discuss.
+Howard Sydorsky  denies that he is involved in any legal conflict
+with them.
+
+ALTOS: In  a meeting  with John  Corwin last week I learned  that
+they are  emphasizing sales of their 16-bit machines (eg 586) and
+because of  the unavailability  of Oasis-16, the number of  Oasis
+^ales has  been declining.  They are rumored to be trying to make
+Altos a  leader in  the UNIX world with the  586 released earlier
+this year.   They are  still selling several hundred 8-bit  580's
+each month,  but only  about a fourth of them  go out with Oasis.
+The 16-bit  sales are  more than double those for  the 580's.  (I
+just  bought   an  older  version  of  the  Altos  580  for  disk
+production.  The Altos II terminal is very nice.)
+
+ANNUAL MEMBERSHIP FEE: The costs of servicing the large number of
+apparently inactive members is no longer negligible.  Starting in
+1984 we  will institute an annual membership fee of $35.  The fee
+will  cover  the  costs of  library update  information  and will
+entitle the  member to  one free library volume of  their choice.
+Basically that means  that in order to stay  on our active member
+list  everyone must  order and  pay for at least one  volume each
+year.  The  fee will be waived for all standing order members, of
+course.  Inactive members  will still have access to  CARAVAN and
+may call us for help or information as in the past.  But, we will
+not initiate any further communications with them.
+
+BACKLOG: At the  moment I have a stack of 17 diskettes waiting to
+be integrated  into the library.  Some of them are several months
+old.  If  you are one of the people waiting to see your stuff get
+out,  please  be  patient.  It  is no  insignificant  task to get
+things checked out and integrated.  In the pipeline at the moment
+are  a   bunch  of  software  development  tools,  some  business
+packages, and a complete working copy of a full screen editor.
+
+That's it for  now.  The next newsletter ought to be a dilly!  If
+you can't wait for it, see you at our COMDEX meeting.
+
+
+Peace,
+
+
+Fred Bellomy (805) 965-0265 (805) 965-5415 (bulletin board - 300
+baud)
+
+-----------------------------------------------------------------
+end of .  .  .          N E W S   L E T T E R           Volume 32
+-----------------------------------------------------------------
+^OL32.FEEDBACK:VOL32                                      01/31/85 08:05 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL32.FEEDBACK                                   12 November 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+GENERAL LEDGER BUG:  Brent Coyne says he has found a minor bug in
+one  of  the GL  modules (AC$GL041.BASIC).   To  fix it line 2440
+should read GOTO 3420 rather than GOTO 2370.
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL32.FEEDBACK                            12 November 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+SOFTWARE.PROMOTER:VOL32                                   01/31/85 08:05 Page 1
+
+                  SOFTWARE PROMOTIONAL STRATEGIES
+
+There is  an  increasing  number of  commercial software packages
+being put  into the  OUG library.  WHY?  At first  I couldn't see
+the rationale myself.   But, apparently there are some  very good
+business reasons for "giving away the store."
+
+^fter thinking about it for a while and talking to several of the
+people who have  been doing it, I decided  to try and list all of
+the  software  promotional  strategies  someone  might use  which
+included putting something into our somewhat "public" library.
+
+The following is what I came up with:
+
+
+1. Put an earlier version of a package into the library and offer
+the latest version for sale.
+
+2. Put a significant  "stand-alone" segment of a system  into the
+library and offer the complete package for sale.
+
+3. Put  the  latest   version  in  the  library  and   offer  the
+documentation for sale.
+
+4. Put an end-user-only  copy into the library and  invite OEM or
+systems houses to make a deal for commercial exploitation.
+
+5. Put the  complete  package  into  the  library and  request  a
+specific  donation from  anyone who  thinks it is worth using  on
+their system.
+
+6. Put the  complete package into the library and offer an update
+service for a fee.
+
+7. Put something  into the  library as an example of  the kind of
+work you do as a paid commercial consultant or programmer.
+
+8. Put a  commercial package  your "tired messing with" into  the
+library in exchange for a lot of free OUG volumes.
+
+9. Put a version of your newly developed package into the library
+and invite members to use it free as voluntary "beta test sites,"
+reporting back any errors they find.
+
+In reality, the people  who have actually put something  into our
+library, have been motivated by more than one of the ideas listed
+above.  There are  probably other rational reasons for  doing it,
+but these are the ones that occur to me right now.  FB
+WISH.LIST32:VOL32                                         01/31/85 08:05 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #32 - I wish somebody would.................. 11 November 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+50. We need  a diskette format compatibility/interchangeability summary.
+8" double density and all 5.25" format diskettes are problems.
+
+49. We  need class  code source  for any devices not now  covered in the
+library (see volume 18).
+
+48. Someone to collect  and summarize information about all  the various
+commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+45. We need  more people to report the results of running our benchmarks
+against all of the OASIS machines that are now around.
+
+44. We need  an OASIS  "Shell" like those that are  beginning to show up
+for CP/M.   I know  OASIS is already "user friendly",  but a menu system
+that displayed everything you can do and tied in the HELP displays would
+help new  users.  I'm  thinking of something that goes  further than the
+OASIS.EXEC in volume 3.
+
+43. A utility for assigning synonyms for commands would be nice.
+^
+39. We need  a utility for converting all upper case text to upper/lower
+case with capitalization following periods, etc.
+
+39. We  need  the compliment  of GETFILE  (PUTFILE?)  for CP/M and other
+formats.
+
+38. The  equivelent  of the  BASIC  PRINT  USING  "!"  for use  in  EXEC
+routines.
+
+36. More people to write articles about OASIS or letters to publications
+about such  articles they have seen.  More press releases about your own
+OASIS compatible commercial software.  Etc.
+
+33. New integrated  way  to  find  and  use things  in  the OUG/personal
+library  (a  la APPLE/LISA)  - beyond  subject  collections and CONTENTS
+files.  An integrated software menu system that will handle
+
+30. A  utility for  automatically figuring  out  the optimum disk ATTACH
+values for  HDL,  STP,  and  STS  for all  of  the different systems now
+operating under OASIS.
+
+29. A list  of the 500 most frequently used words in English writing for
+use with Chapman's latest spelling checker's CUSTOM dictionaries.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again every time.
+
+16. An "electronic spreadsheet" like VISACALC!
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 11 November 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 32.
+
+*****************************************************************
+
+BACBLANK.EXEC and BACUP2.EXEC
+
+These are two utilities I use for production of OUG volumes.  The
+first one initializes  a blank disk and then  makes a backup copy
+of the master disk in a continuous cycle restarted with a <cr>.
+
+The second one  allows  you  to  backup  one master  disk  to two
+destination  disks,   alternating  back  and  forth  between  two
+destination  drives.   I  put  this  together after  Gary Bergman
+created the  BACKUP2.COMMAND for me.  It seemed a little slow and
+required  that  both disks  be changed  at  the same time between
+cycles.  Actually, I use BACBLANK for production.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+BACKUP2.COMMAND
+
+Submitted  by  Gary  Bergmen  (201) 246-7285  this  program  is a
+derivative  of  the  OASIS   BACKUP.COMMAND  with  the  following
+modifications:
+
+ 1. This version allows you to "backup" an additional copy.
+
+SYNTAX: >BACKUP2 source destination1 [destination2]
+
+ 2. In a  multi-user environment, the program will warn you if any
+of the disks are mounted as PUBLIC.  If you allow the "backup" to
+proceed, you must be aware that any other users writing to any of
+the  disks  will cause  unpredictable results.  The OASIS version
+requires you  to deallocate  all partitions even though no  users
+are logged on or inactive.
+
+ 3. TAPE to DISK, and DISK to TAPE backups are not supported.
+
+ 4. Disk drives must  be specified (there are no  default values).
+Help is available if you specify: >BACKUP2 or >BACKUP2 HELP
+
+WANT MORE INFO NOW? [Y/N]:N
+CHANGEB.EXEC
+
+This program, submitted by Zri Barak of Information Systems (416)
+ 665-8456,   allows you to make multiple changes to a whole group
+of BASICOBJ PROGRAMS at the same time.  The EXEC includes a stack
+that you customize for each program modification session.  Handy.
+
+WANT MORE INFO NOW? [Y/N]:N
+> 7 UA NR OU032 CLASS43
+
+CLASS43.ASSEMBLE and SYSTEM.CLASS43
+
+This is a class code for the jazzy new Altos II terminal.  It was
+provided  by John  Corwin, the  person  at Altos Computer Systems
+with technical responsibility for Oasis on Altos machines.  Other
+class codes were released on OUG volume 18.
+
+WANT TO LIST IT NOW? [Y/N]:N
+> 8 EX HO OU032 COMPAREB
+
+COMPAREB.BASIC/EXEC
+
+This program, submitted by Zri Barak of Information Systems (416)
+ 665-8456,  compares  2  basic  programs  saved  as  ascii  files
+(sequential) line by  line, and lists the mismatched  lines.  The
+comparison  is  done in  two steps:  First,  the line numbers are
+compared.  If  they do not match, the smaller line is printed and
+a new line  is read from that file.   Second, if the line numbers
+match  a comparison  is done  between the lines.  If they  do not
+match, both  lines  are  printed.   The  end result  is  that the
+printout includes  all lines  existing in either file but  not in
+both, and all lines existing in both files but are not identical.
+The printout includes  also the point where the  end of each file
+was reached.
+
+WANT MORE INFO NOW? [Y/N]:N
+> 8 EX HO OU032 COMPILEB
+
+COMPILEB.EXEC
+
+This program, submitted by Zri Barak of Information Systems (416)
+ 665-8456, will compile a  group of BASICOBJ programs all  having
+the names  beginning with the same few letters.  No big deal, but
+might  come  in  handy.  See  also the  COMPILE.EXEC  released on
+volume 5 used to compile BASIC programs one at a time.
+
+WANT MORE INFO NOW? [Y/N]:N
+JUMBLE.ASSEMBLE/COMMAND
+
+For those of you  who are addicted to "That  Scrambled Word Game"
+by  Henry  Arnold and  Bob Lee  which  appears in most syndicated
+newspapers throughout  the country,  here is a program that  will
+unscramble any word.
+
+The program uses Bob Chapman's SPELLING.SIZEnn files to match all
+permutations of  a given  word.  The program will check  the file
+organization for INDEXED or KEYED files.
+
+WANT TO TRY ONE NOW? [Y/N]:N
+LISTB.EXEC
+
+This program, submitted by Zri Barak of Information Systems (416)
+ 665-8456, lists  on the printer a set of BASICOBJ  programs  all
+of which have names starting with the same first letters.
+
+WANT TO TRY IT NOW? [Y/N]:N
+^CREATE.COMMAND
+
+This is  identical to  the OASIS  version  5.5b CREATE command in
+every respect, but, does one extra important thing:
+The FILESIZE option  is "rounded-up" to create as many additional
+records as possible without allocating any additional disk space.
+
+CREATE SPELLING SIZE2  S (KEY FILE 50 REC 1 KEYLEN 2 Allocates 59
+record slots and occupies 1 block of disk space.
+
+MCREATE SPELLING SIZE2  S (KEY  FILE 50 REC 1 KEYLEN  2 Allocates
+ 331 records in the same amount of space (1 block).
+
+The "larger"  file yields  better performance without costing any
+"real" additional space.
+
+Submitted by Gary Bergmen (201) 246-7285
+QUIP3.DATA/COMMAND/RECORD
+
+Some more  QUIPS from  Gary Bergman  to  work with the previously
+released QUIP programs (QUIP on volume 22 and QUIP1 on volume 30).
+For  convenience  a   QUIP3.COMMAND   is included here, but it is
+really  just  a  minor  modification  of the  previously released
+versions.
+
+THE volume  30 version  of the  original  QUIP program was called
+QUIP1.   Unfortunately, I  overlooked the  fact  that we had also
+released a  second batch of quips as QUIP1.DATA on volume 22.  To
+keep everything straight I suggest you rename QUIP.DATA on volume
+ 22 to be QUIP2.DATA.  I've included a little  routine here to do
+it for you.
+
+WANT TO FIX VOLUME 22 NOW? [Y/N]:N
+WANT TO SEE SOME OF THE NEW QUIPS? [Y/N]:Y
+
+Those who can, do.  Those who can't, simulate.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Those who can, do.  Those who can't, simulate.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Those who can, do.  Those who can't, simulate.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+MORE? [Y/N]:N
+QUIT.ASSEMBLE / COMMAND
+
+This program provides a cute way of avoiding the message:
+
+File "QUIT.COMMAND" not found.
+
+
+More importantly,  to   OASIS  system  developers,  this  program
+illustrates a  method of  object program protection.  When it  is
+executed for the first time, the program automatically serializes
+itself to the OASIS machine and serial numbers.
+
+Submitted by Gary Bergmen (201) 246-7285
+
+WANT TO SEE IT WORK NOW? [Y/N]:N
+SCRIPT.INFO,  SCRIPTC.INFO,  SCRIPTP.INFO
+KISSDOC.PHASEONE/SCRIPT/SCRIPT2/SCRIPT3/SCRIPT4/GLOSSARY
+
+This is  a  tutorial  written  for non-technical  word processing
+people  about  Oasis  and  the  Oasis Script  processor.  Several
+chapters were taken  from the users manual RealSoft  has prepared
+for  use  with their  text editor,  KISS.  While there are a  few
+references  to KISS  in the  material, it is basically a  general
+introductory  treatment of  the subjects.  The material is broken
+into a series of SCRIPT files, some of which are also used in the
+introduction to the  demonstration of KISS that is  a part of the
+word processing control EXEC, WORDPRO.
+
+WANT TO READ THE MATERIAL NOW? [Y/N]:N
+TECH.NOTE2
+
+This is  the  second in  a series  of  short tutorial articles on
+using  OASIS  written  by  Larry Plumb.   This second installment
+concentrates on some introductory principles of assembly language
+programming.
+
+WANT TO READ IT NOW? [Y/N]:N
+WORDPRO.EXEC,   WORDPROC.EXEC
+KISSDEMO.COMMAND,  KISSDEMO.LETTER,  KISSDOC.GLOSSARY,  KISSDOC.INTRO
+KISSDOC.PHASEONE,  KISSDOC.SCRIPT,   KISSDOC.SCRIPT2,   KISSDOC.SCRIPT3
+KISSDOC.SCRIPT4,   KISSDOCC.SCRIPT,  KISSDOCM.SCRIPT,   KISSDOCP.SCRIPT
+
+THIS IS  AN INTRODUCTION  TO THE WORD PROCESSING CONTROL PROGRAM,
+DEMO,  AND DOCUMENTATION  SUBMITTED BY BRIAN GOODHEIM OF REALSOFT
+SYSTEMS INC.
+
+The WORDPROC.EXEC  is  a  word  processing  shell  that  provides
+controlled  access to  SCRIPT, a commercial text editor (KISSDEMO
+is  included  as  an  example),  a  spelling  checker, and  other
+relevant Oasis  commands.  To use it with other than the RealSoft
+packages  you  will  need to  make some  changes  in the code (as
+noted), but that looks trivial to me.
+
+To use   the  KISSDEMO   editor  you   will   need  to  read  the
+documentation  included  here  (either on  the console or printed
+out) first.  There is also a short introduction letter from Brian
+to get you oriented.
+
+WANT TO CHECK IT OUT NOW? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 32.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 ( has an answering machine when I'm not here.)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) - 300 baud only for now.
+
+****************************************************************
+
+>
+

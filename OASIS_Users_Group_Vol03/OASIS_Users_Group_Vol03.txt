@@ -1,0 +1,603 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: June 1981
+Volume: 3
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST3   A 06/30/81 17:01    23    2 S    68 VOL$3
+ALTOS10  RELEASE  A 06/15/81 16:29    38    2 S    76 VOL$3
+ALTOSAGM RELEASE  A 06/15/81 16:29    38    2 S    76 VOL$3
+BISYNC   ARTICLE  A 06/15/81 16:35    28    2 S    76 VOL$3
+BISYNC   RELEASE  A 06/15/81 16:29    36    2 S    76 VOL$3
+BLACKHAL ARTICLE  A 06/15/81 16:36    54    3 S    76 VOL$3
+BLACKJAC BASICOBJ A 06/23/81 15:44   247    6 S    70 VOL$3
+BLAISDEL RELEASE  A 06/15/81 16:29    34    2 S    76 VOL$3
+BULLETIN BOARDS   A 05/17/81 17:02   528   24 S    68 VOL$3
+CHARFREQ BASICCOM A 06/23/81 16:40    83    2 SR   75 VOL$3
+CHARFREQ BASICOBJ A 06/23/81 16:23    85    2 S    77 VOL$3
+CHECKERS BASICOBJ A 06/23/81 16:27   231    5 S    75 VOL$3
+COMPILE  EXEC     A 08/11/81 17:12    41    2 S    74 VOL$3
+CONTROL  ARTICLE  A 06/15/81 16:36   319   13 S    76 VOL$3
+COPYRITE NOTICE   A 05/13/82 18:39     8    1 S    65 VOL$3
+DEALERS  DIRECTRY A 06/02/81 17:08    51    3 S    79 VOL$3
+DECISION BASICCOM A 06/23/81 16:41    85    5 SR   85 VOL$3
+DECISION BASICOBJ A 06/23/81 16:33    87    5 S    72 VOL$3
+DICE     BASICOBJ A 06/23/81 16:38   248    6 S    61 VOL$3
+GAMES    EXEC     A 07/27/81 16:46    77    2 S    66 VOL$3
+KINGDOM  BASICOBJ A 06/24/81 15:43   235    7 S    84 VOL$3
+LANES    BASICOBJ A 11/15/81 15:51   196    8 S    84 VOL$3
+LIFETIME BASICCOM A 06/24/81 16:15   302   13 SR  105 VOL$3
+LIFETIME BASICOBJ A 06/24/81 15:59   316   13 S   105 VOL$3
+MAINTAIN EXEC     A 06/10/81 17:33   105    3 S    79 VOL$3
+MANDALA  BASICOBJ A 06/24/81 16:06    79    2 S    68 VOL$3
+MEMBER3  FEEDBACK A 07/15/81 20:11   145    9 S    79 VOL$3
+NAMES    DEALERS  A 04/17/81 18:29    34    4 S   119 VOL$3
+NAMES    INQUIRY  A 14/02/81 15:41    30    2 S    84 VOL$3
+NAMES    MEMBERS  A 06/03/81 16:34    14    2 S   235 VOL$3
+NET80    BASICCOM A 06/24/81 19:17   359    8 SR   92 VOL$3
+NET80    BASICOBJ A 06/24/81 16:17   457   11 S    92 VOL$3
+NEWS     LETTER3  A 07/15/81 20:11    53    4 S    79 VOL$3
+OASIS    EXEC     A 06/24/81 19:06   121    5 S    79 VOL$3
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$3
+S$TREK   BASICOBJ A 05/08/81 18:19   211    5 S    56 VOL$3
+SELECT3  EXEC     A 12/01/81 17:45    42    2 S    46 VOL$3
+SERVICE  ARTICLE  A 09/04/81 16:35    56    3 S    75 VOL$3
+SPLAT    BASICOBJ A 06/24/81 16:54   172    6 S   101 VOL$3
+STARS    BASICOBJ A 05/07/81 17:00   145    3 S    48 VOL$3
+STORIES  BASICOBJ A 06/24/81 16:59   195    6 S    79 VOL$3
+STRIKE9  BASICOBJ A 06/24/81 17:06   116    3 S    63 VOL$3
+SUMMARY  EXEC     A 04/27/81 16:17    47    1 S    65 VOL$3
+TRNGCLSS ARTICLE  A 09/04/81 16:36   127    6 S    75 VOL$3
+USERSGRT ARTICLE2 A 09/04/81 16:37    60    3 S    75 VOL$3
+VOL3     EXEC     A 12/01/81 18:35   388   10 S    77 VOL$3
+VRSION55 RELEASE  A 06/15/81 16:35    68    4 S    76 VOL$3
+VRSON55  ARTICLE  A 06/15/81 16:40    82    5 S    76 VOL$3
+WILLIAMS ARTICLE  A 09/04/81 16:38    62    3 S    75 VOL$3
+WRENN    ARTICLE  A 09/04/81 16:38    30    2 S    75 VOL$3
+XCOMP    ARTICLE  A 09/04/81 16:39    27    2 S    75 VOL$3
+51 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+MEMBER3.FEEDBACK:A replaces MEMBER3.FEEDBACK:D
+SPLAT.BASICOBJ:A replaces SPLAT.BASICOBJ:D
+CHECKERS.BASICOBJ:A replaces CHECKERS.BASICOBJ:D
+NAMES.MEMBERS:A replaces NAMES.MEMBERS:D
+NEWS.LETTER3:A replaces NEWS.LETTER3:D
+BLACKJAC.BASICOBJ:A replaces BLACKJAC.BASICOBJ:D
+NET80.BASICCOM:A replaces NET80.BASICCOM:D
+STRIKE9.BASICOBJ:A replaces STRIKE9.BASICOBJ:D
+GAMES.EXEC:A replaces GAMES.EXEC:D
+WRENN.ARTICLE:A replaces WRENN.ARTICLE:D
+SELECT3.EXEC:A replaces SELECT3.EXEC:D
+MANDALA.BASICOBJ:A replaces MANDALA.BASICOBJ:D
+NET80.BASICOBJ:A replaces NET80.BASICOBJ:D
+LANES.BASICOBJ:A replaces LANES.BASICOBJ:D
+XCOMP.ARTICLE:A replaces XCOMP.ARTICLE:D
+CHARFREQ.BASICCOM:A replaces CHARFREQ.BASICCOM:D
+USERSGRT.ARTICLE2:A replaces USERSGRT.ARTICLE2:D
+MAINTAIN.EXEC:A replaces MAINTAIN.EXEC:D
+CONTROL.ARTICLE:A replaces CONTROL.ARTICLE:D
+KINGDOM.BASICOBJ:A replaces KINGDOM.BASICOBJ:D
+S$TREK.BASICOBJ:A replaces S$TREK.BASICOBJ:D
+CHARFREQ.BASICOBJ:A replaces CHARFREQ.BASICOBJ:D
+BLAISDEL.RELEASE:A replaces BLAISDEL.RELEASE:D
+RUN$.EXEC:A replaces RUN$.EXEC:D
+DECISION.BASICCOM:A replaces DECISION.BASICCOM:D
+NAMES.DEALERS:A replaces NAMES.DEALERS:D
+VOL3.EXEC:A replaces VOL3.EXEC:D
+TRNGCLSS.ARTICLE:A replaces TRNGCLSS.ARTICLE:D
+VRSION55.RELEASE:A replaces VRSION55.RELEASE:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+LIFETIME.BASICCOM:A replaces LIFETIME.BASICCOM:D
+DECISION.BASICOBJ:A replaces DECISION.BASICOBJ:D
+STORIES.BASICOBJ:A replaces STORIES.BASICOBJ:D
+WILLIAMS.ARTICLE:A replaces WILLIAMS.ARTICLE:D
+BISYNC.ARTICLE:A replaces BISYNC.ARTICLE:D
+DEALERS.DIRECTRY:A replaces DEALERS.DIRECTRY:D
+LIFETIME.BASICOBJ:A replaces LIFETIME.BASICOBJ:D
+BULLETIN.BOARDS:A replaces BULLETIN.BOARDS:D
+DICE.BASICOBJ:A replaces DICE.BASICOBJ:D
+VRSON55.ARTICLE:A replaces VRSON55.ARTICLE:D
+SERVICE.ARTICLE:A replaces SERVICE.ARTICLE:D
+COMPILE.EXEC:A replaces COMPILE.EXEC:D
+BISYNC.RELEASE:A replaces BISYNC.RELEASE:D
+ALTOSAGM.RELEASE:A replaces ALTOSAGM.RELEASE:D
+BLACKHAL.ARTICLE:A replaces BLACKHAL.ARTICLE:D
+SUMMARY.EXEC:A replaces SUMMARY.EXEC:D
+OASIS.EXEC:A replaces OASIS.EXEC:D
+$README.FIRST3:A replaces $README.FIRST3:D
+ALTOS10.RELEASE:A replaces ALTOS10.RELEASE:D
+NAMES.INQUIRY:A replaces NAMES.INQUIRY:D
+STARS.BASICOBJ:A replaces STARS.BASICOBJ:D
+
+>VOL3
+O SKIP OVER THE INTRODUCTORY MATERIAL TYPE "SKIP", OTHERWISE
+HIT <CR> TO SEE AN INDEX TO VOLUME 3 AND TO READ THE NEWSLETTER.
+:
+
+
+
+
+
+WELCOME  TO  VOLUME 3  OF A  VERY  RAPIDLY E3PANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN SOFTWARE CONTRIBUTED BY MEMBERS.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  3
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST3   A 06/30/81 17:01    23    2 S    68 VOL$3
+ALTOS10  RELEASE  A 06/15/81 16:29    38    2 S    76 VOL$3
+ALTOSAGM RELEASE  A 06/15/81 16:29    38    2 S    76 VOL$3
+BISYNC   ARTICLE  A 06/15/81 16:35    28    2 S    76 VOL$3
+BISYNC   RELEASE  A 06/15/81 16:29    36    2 S    76 VOL$3
+BLACKHAL ARTICLE  A 06/15/81 16:36    54    3 S    76 VOL$3
+BLACKJAC BASICOBJ A 06/23/81 15:44   247    6 S    70 VOL$3
+BLAISDEL RELEASE  A 06/15/81 16:29    34    2 S    76 VOL$3
+BULLETIN BOARDS   A 05/17/81 17:02   528   24 S    68 VOL$3
+CHARFREQ BASICCOM A 06/23/81 16:40    83    2 SR   75 VOL$3
+CHARFREQ BASICOBJ A 06/23/81 16:23    85    2 S    77 VOL$3
+CHECKERS BASICOBJ A 06/23/81 16:27   231    5 S    75 VOL$3
+COMPILE  EXEC     A 08/11/81 17:12    41    2 S    74 VOL$3
+CONTROL  ARTICLE  A 06/15/81 16:36   319   13 S    76 VOL$3
+COPYRITE NOTICE   A 05/13/82 18:39     8    1 S    65 VOL$3
+DEALERS  DIRECTRY A 06/02/81 17:08    51    3 S    79 VOL$3
+DECISION BASICCOM A 06/23/81 16:41    85    5 SR   85 VOL$3
+DECISION BASICOBJ A 06/23/81 16:33    87    5 S    72 VOL$3
+DICE     BASICOBJ A 06/23/81 16:38   248    6 S    61 VOL$3
+GAMES    EXEC     A 07/27/81 16:46    77    2 S    66 VOL$3
+KINGDOM  BASICOBJ A 06/24/81 15:43   235    7 S    84 VOL$3
+LANES    BASICOBJ A 11/15/81 15:51   196    8 S    84 VOL$3
+LIFETIME BASICCOM A 06/24/81 16:15   302   13 SR  105 VOL$3
+LIFETIME BASICOBJ A 06/24/81 15:59   316   13 S   105 VOL$3
+MAINTAIN EXEC     A 06/10/81 17:33   105    3 S    79 VOL$3
+MANDALA  BASICOBJ A 06/24/81 16:06    79    2 S    68 VOL$3
+MEMBER3  FEEDBACK A 07/15/81 20:11   145    9 S    79 VOL$3
+NAMES    DEALERS  A 04/17/81 18:29    34    4 S   119 VOL$3
+NAMES    INQUIRY  A 14/02/81 15:41    30    2 S    84 VOL$3
+NAMES    MEMBERS  A 06/03/81 16:34    14    2 S   235 VOL$3
+NET80    BASICCOM A 06/24/81 19:17   359    8 SR   92 VOL$3
+NET80    BASICOBJ A 06/24/81 16:17   457   11 S    92 VOL$3
+NEWS     LETTER3  A 07/15/81 20:11    53    4 S    79 VOL$3
+OASIS    EXEC     A 06/24/81 19:06   121    5 S    79 VOL$3
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$3
+S$TREK   BASICOBJ A 05/08/81 18:19   211    5 S    56 VOL$3
+SELECT3  EXEC     A 12/01/81 17:45    42    2 S    46 VOL$3
+SERVICE  ARTICLE  A 09/04/81 16:35    56    3 S    75 VOL$3
+SPLAT    BASICOBJ A 06/24/81 16:54   172    6 S   101 VOL$3
+STARS    BASICOBJ A 05/07/81 17:00   145    3 S    48 VOL$3
+STORIES  BASICOBJ A 06/24/81 16:59   195    6 S    79 VOL$3
+STRIKE9  BASICOBJ A 06/24/81 17:06   116    3 S    63 VOL$3
+SUMMARY  EXEC     A 04/27/81 16:17    47    1 S    65 VOL$3
+TRNGCLSS ARTICLE  A 09/04/81 16:36   127    6 S    75 VOL$3
+USERSGRT ARTICLE2 A 09/04/81 16:37    60    3 S    75 VOL$3
+VOL3     EXEC     A 12/01/81 18:35   388   10 S    77 VOL$3
+VRSION55 RELEASE  A 06/15/81 16:35    68    4 S    76 VOL$3
+VRSON55  ARTICLE  A 06/15/81 16:40    82    5 S    76 VOL$3
+WILLIAMS ARTICLE  A 09/04/81 16:38    62    3 S    75 VOL$3
+WRENN    ARTICLE  A 09/04/81 16:38    30    2 S    75 VOL$3
+XCOMP    ARTICLE  A 09/04/81 16:39    27    2 S    75 VOL$3
+51 file(s), 247 block(s).
+HIT <CR> WHEN READY TO PROCEED.
+▼ ^
+
+
+
+
+
+UNE 1981
+
+HIT THE <CR> TO CONTINUE
+EWS.LETTER3:VOL$3                                        01/30/85 11:27 Page 1
+
+!SF1!
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+FRED BELLOMY 2 JUNE 1981                        from the Users' Group Volume 3
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+This is the beginning of the news letter series.  Anything and everything (with
+a little editing) that you send me on a disk will go here.  Phase One will be
+getting copies of all of the Users' Group volumes, so its one way to get their
+attention.  If you have things you are working on, tell us.  If you need help,
+make your plea. Etc, etc.
+
+Stuff is coming in faster than I originally anticipated.  In one way it's
+great - in another its a problem.  I don't have enough time to write a review
+about each program.  If any of you are so inclined to be the ZOSO of the OASIS
+Users' Group, give me a call and I'll "share the wealth." (free new volumes or
+something like that).  Also, I want to index everything in our library, but
+as yet have not gotten any of the library programs adapted for our use.  If
+you have something ready to use or if you would like to take on the responsi-
+bility for maintaining the index, get in touch (805-965-5555).
+
+Several people have indicated that they are converting things to which they
+have access from other users groups libraries.  That's a really good idea.
+I've been working on the CP/M library programs in BASIC, but that's only a
+drop in the bucket.  If you have access to some other user group or club
+library, by all means get started with the process of converting anything new
+for use with OASIS.
+
+There are a few things I would like to see someone come up with.  We need a
+generalized conversion program to convert from other BASICs to OASIS BASIC.
+I am trying to get some of the logic worked out for BASIC-E and maybe also
+for CBASIC.  If anyone knows of a nice table of equivelents for commands and
+conventions, let me know.  Basic is duck soup compared to assemble programs.
+(See Taylor's note below) If any of you geniuses out there feel like tackling
+a really BIG problem, then try to figure out a generalized way to convert
+ASSEMBLY programs to OASIS.  There are a lot of little data base management
+systems floating around in the public domain, but so far I haven't been able
+to get any of them converted.  Finally, we need a "cookbook" for generating
+new CLASSnn codes.  Several people have mentioned that their terminals don't
+work just right with the standard ones supplied with OASIS.  If anyone knows
+how to do it, it shouldn't be to difficult to write it down for the rest of us.
+
+Finally, I'm looking into setting up a "BULLETIN BOARD" for OASIS users based
+on John Taylor's MAUDE system.  I'm not sure yet how it will be handled, but
+that's what's in my mind.  There are already a lot of CBBS's available (See
+the BULLETIN.BOARD file in this volume.  If you haven't yet tried one, you
+should.  It's a lot of fun.
+
+Fred Bellomy - Organizer for the OASIS USERS' GROUP.
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+▼ EMBER3.FEEDBACK:VOL$3                                    01/30/85 11:27 Page 1
+
+
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+MEMBER.FEEDBACK - JUNE 1981
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+JOHN TAYLOR 27 MAY 1981
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+Your group may also be interested in checking into "MAUDE".  MAUDE is the
+Milwaukee Area Utility for Digital Exchanges--the first (and only?)
+computerized bulletin board currently running under OASIS.  I am enclosing an
+information sheet describing the system.  All you need to get onto the system
+is a standard modemand the OASIS "TERMINAL" program.  The system is available
+24 hours per day at (414) 241-8364.  There is no charge for the system other
+than what "Ma Bell" puts on your telephone bill.
+
+I would be pleased to share with you the software I which I am using for the
+Milwaukee bulletin board system.  However, since large portions of the system
+were adapted from the CP/M based CBBS program created by Ward Christensen and
+Randy Suess, I must ask you to purchase their package first.  They charge
+$50.00 (a bargain price for a truly massive programming effort) for two disks
+containing all of the CP/M files and documentation.  I will then send you my
+OASIS adaptation for the cost of the media.
+
+You should be able to adapt the program to run on any system supporting OASIS
+with a minimum of effort.  As I have implemented it, the program is on disk as
+"CBBS.COMMAND" and runs like any other OASIS program.  By attaching the
+Console Device to a modem driver, the system becomes available over the
+telephone lines.  Normally, the program runs in an endless loop so that the
+users see only the CBBS.  There is a command available to the operator which
+exits the CBBS and returns to the OASIS CSI command level.  Thus, the operator
+has access to the entire OASIS system via the telephone.
+
+I have tried to keep the amount of 'special' code required by the CBBS to a
+minimum to make it easy to transport it to another OASIS system.  About all
+that has to be done is to modify the device driver for the modem so that when
+the telephone circuit is lost the driver returns a "character ready" status
+and a 0FFH as the "character" received.  This is done to keep the program from
+getting stuck in a status check loop in the event that the telephone circuit
+is lost in the middle of a session.  The CBBS code may also require some
+modification if you wish to support multiple baud rates, as OASIS does not
+provide a mechanism for changing the baud once a device is attached.  There is
+also provision in the CBBS code for sending control characters to various
+output ports to control AC power relays for the computer and/or disk drivers
+which will require customizing if you wish to use that feature.  The final
+software modification which I have made in my system is a series of patches to
+the nucleus and to the CSI which cause the system to skip the normal log on
+procedure at boot-up and proceed directly to the account owning the CBBS
+program.  This was done to speed up the boot-up procedure.  My system gets
+turned on automatically by the first ring of the telephone, and by the start
+of the third ring the system is up and the CBBS program is running.  If you
+intend to leave your equipment on continuously, these patches are not needed.
+
+The hardware which you have should be quite adequate to run a CBBS.  About the
+only equipment needed beyond what would be required for any OASIS system is a
+modem equipped for ring detect, carrier detect, and automatic answer.  In
+addition, the equipment must have adequate disk capacity.  My system uses one
+double density 8" disk (500K) exclusively for messages and the log files.  It
+will accomodate about 300 active messages.  The system drive has the OASIS
+system on it, the "Help" message files, and the other text files which the
+system uses but which are seldom updated.  This places all of the active files
+on the "A" drive, so only it need be backed up on a regular basis.  You could
+do the same sort of thing, or run everything off of your hard disk.  If you
+are set up for multi-user OASIS, it should be possible to run a CBBS in one
+partition while you use the system for other purposes.  I have just started
+work with multi-user OASIS, and will be looking into the possibilities of
+running multiple ports into the CBBS itself.
+
+I am not able to make the CBBS software available for general distribution for
+a number of reasons.  The first is that Ward Christensen and Randy Suess
+should not be cut out of their $50.  Second, it has been my experience that it
+takes a _lot_ of "hand-holding" to get someone new to this up and running.
+This is better done on a one-to-one basis. So, I will be glad to share what
+I have done with you for your use, or with others who care to contact me about
+it (and purchase Ward and Randy's package).  However, it can not be distributed
+as part of a User's Group disk.
+
+I am currently working on an OASIS version of the "MODEM" program which is
+used by the CP/M community to transfer programs via the telephone.  It uses a
+block transfer scheme similar to, but incompatible with, the OASIS "SEND" and
+"RECEIVE" programs.  The program which I am working on will allow the
+transmission of programs between a CP/M system and an OASIS system.  This will
+provide an easy access to the CP/M programs available on the telephone access
+program exchange systems ("Remote CP/M" systems).  When the program is ready,
+I will send you a copy for the Users' Group.
+
+I have converted a couple of CP/M ".ASM" programs for use under OASIS.  My
+experience is that it is seldom trivial to do, particularly if the program
+makes used of disk files. It is easy enough to use the "GETFILE" command to
+copy the program from the CP/M disk to the OASIS disk.  The "FILT8080" command
+will then convert the file to Z-80 mnemonics (assuming that it was originally
+in 8080 mnemonics), and the resulting file will then assemble with a minimum
+of syntax modifications.  But, the resulting file will not run under OASIS for
+a number of reasons.  First, all of the CP/M system calls have to be converted
+to OASIS system calls.  Next, many of the CP/M Users' Group programs require
+that information from the disk be accessed in 128 byte chunks, corresponding
+to one logical sector.  For example, the "MODEM" program transmits 128 bytes
+and then waits for an acknowledgement from the receiving system that it has
+finished writing that chunk to disk.  OASIS stores sequential files as blocks
+of four 256 byte logical sectors, each of which uses the last two bytes to
+point to the next logical sector.  OASIS is set up so that you normally write
+logical records of arbitrary length to the disk, rather than manipulating the
+sectors directly.  The result is that a program written to use CP/M disk files
+may need extensive reworking to function properly under OASIS.  Finally, CP/M
+programs normally load at 0100H, while OASIS programs are relocatable and will
+be loaded starting at the first available byte following the nucleus (which
+changes from version to version and machine to machine).  A number of the CP/M
+Users' Group programs are non-relocatable in the sense that they assume that
+they "know" where page boundaries occur.  For example, the "MODEM" program
+reads the 128 byte logical sectors into a disk buffer which starts at 0080H.
+It then sets up the HL register pair to point to the text to be sent.  The
+programs determines that all bytes have been sent by checking the L register
+to see if it is 0 (corresponding to an address of 0100H which is the end of
+the 128 byte buffer).  If this code is relocated for OASIS and the buffer
+moved to somewhere other than XX80H, an incorrrect number of bytes will be
+sent or received.
+
+While all of the preceeding makes conversions somewhat complicated, in many
+cases it is well worth the effort.  The basic logic of the program generally
+will not require modification, and often that is half the battle when it comes
+to writing a new program.
+
+I am including this letter as a disk file, as well as a blurb about the
+services which Taylor Electric offers.  Please feel free to extract any parts
+which you feel might warrant inclusion on your next distribution disk.
+Thanks for your efforts on behalf of the OASIS community.  I will do whatever
+I can to help the program!
+
+John Taylor
+Home Address: Box 121
+              Hartland, WI  53029
+              (414) 367-5888
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+
+
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+END
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 3.
+SOME  WERE WRITTEN  BY THE  CPMUG  REVIEWER, "ZOSO." I'VE ADDED
+OTHER COMMENTS WHERE NEEDED, AND OTHER REVIEWERS' COMMENTS ARE
+NOTED, TOO.  WHEREVER POSSIBLE, I LIKE TO INCLUDE COMMENTS THAT
+ARE PROVIDED BY THE AUTHORS/CONTRIBUTORS THEMSELVES.
+
+***************************************************************
+
+
+BLACKJAC.BASICOBJ/BASICCOM
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ULLETIN.BOARDS
+
+THIS IS A LISTING OF THE VARIOUS COMPUTERIZED BULLETIN BOARDS
+THAT WERE IN OPERATION DURING MAY 1981.  THE LIST CHANGES A
+LOT, BUT MOST OF THE INFORMATION IS PROBABLY STILL REASONABLY
+GOOD.  FB
+
+TO SEE THE LIST NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+HARFREQ.BASICOBJ/BASICCOM
+
+COUNTS EACH OF THE DIFFERENT CHARACTERS IN A DATABASE.
+SLOW, BUT IF YOU NEED TO KNOW, HAVE A CUP OF COFFEE
+WHILE IT GRINDS OUT THE ANSWER.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+HECKERS.BASICOBJ/BASICCOM
+
+PULL UP A CRACKER BARREL, TAKE A CHAW OF TOBACCO,
+AND PLAY A GAME WITH A NOT TOO BRIGHT OPPONENT.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+EALERS.DIRECTRY
+
+THIS IS THE FIRST CONTRIBUTION TO OUR DIRECTORY OF SOFTWARE
+AVAILABLE FROM COMMERCIAL SOFTWARE DEVELOPERS/DISTRIBUTORS.
+IN ALL LIKELYHOOD, THIS LIST WILL BE PUT ON THE USERS' GROUP
+BULLETIN BOARD SYSTEM WHEN IT BECOMES AVAILABLE.  BUT, FOR
+NOW THESE CONTRIBUTIONS GO HERE.
+
+TO READ THE DIRECTOR TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ECISION.BASICOBJ/BASICCOM
+A REALLY QUITE USEFUL PROGRAM FOR SYSTEMATICALLY EVALUATING A LIST
+OF ALTERNATIVES. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ICE.BASICOBJ/BASICCOM
+
+ANOTHER CRAPS GAME. WHAT ELSE CAN I SAY?  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AMES.EXEC
+
+THIS IS THE CONTINUALLY UPDATED EXEC WHICH TIES ALL OF THE GAMES
+TOGETHER.  LOOK FOR MAJOR CHANGES IN ITS FORMAT AND CONTENT IN
+THE NEAR FUTURE.  ALL GAMES MUST FIRST BE COMPILED BEFORE THEY
+WILL RUN WITH THIS SELECTION PROGRAM.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+INGDOM.BASICOBJ/BASICCOM
+
+I'VE TRIED THIS COMPILER-SENSITIVE ITEM A FEW TIMES. MERCIFULLY THE GAMES
+HAVE BEEN SHORT. YOU HOLD TOTAL SWAY OVER [LOYAL] SUBJECTS, ALLOCATE YOUR
+RESOURCES, AND DECIDE HOW TO BEST SPEND THE COIN OF THE REALM, 'RALLODS',
+[FIGURE THAT ONE OUT YOU CRYPTOGRAPHIC-WHIZZES]. THE APPARENT MASTERY OF THIS
+GAME INVOLVES EMBEZZLING ALL THE 'RALLODS' YOU CAN, AND ALLOWING ALL OF YOUR
+SUBJECTS TO PERISH BEFORE THEY CAN DISCOVER YOUR AVARICE. ZOSO
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ANES.BASICOBJ/BASICCOM
+
+A GALACTIC STOCK MARKET GAME.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+IFETIME.BASICOBJ/BASICCOM
+
+WHILE THIS MAY NOT REFLECT THE LATEST ACTUARIAL STATISTICS
+IT IS DEFINITELY "GOOD ENOUGH FOR GOVERNMENT WORK,"  IF YOU
+WANT TO KNOW HOW LONG YOU CAN LIVE WITH YOUR PRESENT LIFE
+STYLE AND WHAT YOU CAN DO TO LIVE LONGER.  IF YOU LIKE ALL
+OF YOUR PRESENT VICES A LOT, BETTER FORGET THIS ONE. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AINTAIN.EXEC
+
+CONVENIENT REMINDER OF ALL THE THINGS YOU CAN DO TO/WITH FILES
+ON YOUR DISK(ETTES).  LETS YOU INITIALIZE, ERASE FILES, ETC
+WITH PROMPTING.  SEE ALSO FORMAT.EXEC. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ANDALA.BASICOBJ/BASICCOM
+
+DRAWS A WIERD, ABSTRACT (MYSTICAL??) DIAGRAM BASED ON NUMBER YOU SUPPLY. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AMES.DEALERS/INQUIRY/MEMBERS
+
+USE THE SUMMARY.EXEC PROGRAM TO REVIEW DATA IN THESE NOW OUT-OF-DATE
+FILES.  WE WILL BE COMING UP WITH A NEW MEMBERSHIP INFORMATION
+SYSTEM IN THE NOT TOO DISTANT FUTURE.  IT WILL PROBABLY RESIDE ON
+THE NEW OASIS USERS' GROUP CBBS (BULLETIN BOARD SYSTEM).
+
+TO REVIEW THE CONTENTS TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ET80.BASICOBJ/BASICCOM
+
+ELECTRICAL NETWORK ANALYSIS PROGRAM.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ASIS.EXEC
+
+THIS IS A TUTORIAL FOR EXPLORING THE FEATURES OF THE OASIS OPERATING SYSTEM.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+$TREK.BASICOBJ/BASICCOM
+
+A SHORT VERSION OF THE CLASSIC STARTREK GAME.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+PLAT.BASICOBJ/BASICCOM
+
+A REWRITTEN, NON-VIOLENT VERSION OF THE OLD CANNON "GAME."
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+TARS.BASICOBJ/BASICCOM
+
+A VERY CHALLENGING GAME OF LOGIC.  SIMPLE RULES, BUT VERY COMPLEX
+STRATEGY IS REQUIRED TO WIN WITHOUT PLAYING ALL NIGHT. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+TORIES.BASICOBJ/BASICCOM
+
+IF YOU HAVE ALWAYS WANTED TO BE AN AUTHOR, BUT DIDN'T THINK YOU
+HAD WHAT IT TAKES, THEN "PLAY" THIS GAME AND SEE HOW A COMPUTER
+DOES EVEN WORSE AT MAKING UP INANE STORIES. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+TRIKE9.BASICOBJ/BASICCOM
+
+A GAME OF CHANCE AND SOME LOGIC.  BUT, THE LOGIC WILL NOT HELP MUCH
+UNLESS YOU ARE INCREDIBLY LUCKY!  YOUR CHANCES OF WINNING ANY ONE
+PARTICULAR GAME ARE NIL.  TRY IT AND SEE.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+
+ELL, THAT'S  THE END  OF VOLUME 3.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+
+***************************************************************
+
+>

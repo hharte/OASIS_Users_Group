@@ -1,0 +1,119 @@
+April 1984                      Volume: 37 BONUS A
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+ARCHIVE  VOLUME01 A 03/27/84 13:53   996  249 D   256 BONUS37A
+1 file(s), 249 block(s).
+
+>RESTORE A D (REPL
+
+Source on drive A(1)
+Destination on drive D(5)
+Mount volumes now -
+
+Source disk is labeled "BONUS37A"
+Destination is labeled "OASIS   "
+Archive is from disk "VOL37BON" on 03/27/84 at 13:53:58
+Ok to start restore (Y/N)? Y
+
+Account: SYSTEM (0)
+         File: BONUS37A.README:D
+         File: BPDEMO.BASICCOM:D
+         File: BPDEMO.EXEC:D
+         File: BPDEMO1.BASICCOM:D
+         File: BPDEMO1.DATA:D
+         File: BPDEMO2.BASICCOM:D
+         File: BPDEMO2.DATA:D
+         File: BPDEMO3.BASICCOM:D
+         File: BPDEMO3.DATA:D
+         File: BPDEMO4.BASICCOM:D
+         File: BPDEMO4.DATA:D
+         File: BPDEMO5.BASICCOM:D
+         File: BPDEMO5.DATA:D
+         File: BPDEMO6.BASICCOM:D
+         File: BPDEMO6.DATA:D
+         File: COPYRITE.NOTICE:D
+         File: DATEBOOK.BASICCOM:D
+         File: DATEBOOK.BASICUSR:D
+         File: DATEBOOK.CONTENTS:D
+         File: DATEBOOK.SCRIPT:D
+         File: DATECTRL.BASICCOM:D
+         File: DATEINIT.BASICCOM:D
+         File: DATELAST.BASICCOM:D
+         File: DATESING.BASICCOM:D
+         File: PROOF.COMMAND:D
+         File: QISORT$.EXEC:D
+         File: QISORT4K.COMMAND:D
+         File: QISORTAC.DOC:D
+         File: QISORTAP.DOC:D
+         File: QISORTB.DOC:D
+         File: QISORTC.DOC:D
+         File: QISORTD.DOC:D
+         File: QISORTE.DOC:D
+ERROR: unrecognized sector record type 255
+ERROR: unrecognized sector record type 255
+ERROR: unrecognized sector record type 255
+ERROR: unrecognized sector record type 255
+Invalid record in archive file
+
+32 files restored.
+
+>LIST BONUS37A.README:D
+ONUS37A.README:OASIS                                     02/01/85 11:07 Page 1
+
+15 April 1984
+
+Hello all ye faithful;
+
+This is one of two special bonus volumes released with volumes 36
+and  37.  There  is so  much stuff (about 3 regular  SSSD volumes
+worth - about 750K) that I am trying something new this time.  As
+you  have  obviously  discovered, these  files were  sent  in the
+ARCHIVE format.   As a  convenience to those few of  you who have
+floppy  only  systems,  I have  broken the  material  up into two
+batches of about  400K each and ARCHIVEd each  separately so that
+the  RESTOREd  files will  not occupy  more than some of you  can
+handle on your single available floppy.
+
+BONUS37A: contains  commercial  software  demonstration  packages
+from three of our members: BPGEN from Bob Bortz, QISORT from Bill
+Berne,  and  DATEBOOK  from  Michael Hobach.   These packages are
+generally self explanatory.  I must confess that I have not spent
+as much  time as is usual with the regular OUG library volumes in
+checkout  and  augmentation  inorder  to make  them bullet proof.
+Hopefully, you will  not have any trouble with  them.  If you do,
+be sure to  call the authors or companies  envolved and not me in
+these cases.
+
+The bonus volume labeled  BONUS37A also contains a repeat  of the
+new spelling checker  dictionary files that were sent  out on the
+volume 33  bonus along  with another copy of the  latest spelling
+checker program,  PROOF, also previously released (volume 34).  I
+have done this  mostly because we had room  and because I thought
+it would be  convenient to have everything together  in one place
+rather  than scattered  around various volumes.  (NOTE: These two
+bonus volumes  represent a  complete copy of the latest  spelling
+checker system and is an EXTRA special bonus for those of you who
+established your standing order after volumes 7-9!)
+
+BONUS37B: The rest  of the  new spelling dictionary files are  on
+the  second  bonus volume  labeled BONUS37B  -  these are the the
+missing dictionary files you have been waiting for.
+
+Finally, if you have trouble handling this ARCHIVE format for any
+reason,  please  let me  know.  Otherwise,  I'll  probably use it
+again.
+
+
+Peace,
+
+Fred Bellomy
+
+>

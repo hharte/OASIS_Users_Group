@@ -1,0 +1,357 @@
+>VOL27
+==================================================================
+:                                                                :
+:           VOLUME 27 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "God respects me when I work, but he loves me when I sing."   :
+:                                         Rabindranath Tagore    :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL27 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 27  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  27,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST27  A 06/10/83 00:20    59    3 S    65 VOL27
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL27
+EXECMDEM EXEC     A 06/11/83 16:51   140    3 S    72 VOL27
+EXECMENU EXECBASE A 05/22/83 15:34    69    2 S    80 VOL27
+EXECMSTR APPENDIX A 06/11/83 16:51    72    3 S    63 VOL27
+EXECMSTR BASICCOM A 05/22/83 14:56    16    4 SR  254 VOL27
+EXECMSTR CONTENTS A 06/11/83 16:52    45    2 S    67 VOL27
+EXECMSTR CSTMEXEC A 06/11/83 16:52    65    3 S    78 VOL27
+EXECMSTR DOCUMENT A 06/11/83 16:52    66    2 S    79 VOL27
+EXECMSTR DOCUMNTT A 06/11/83 16:52    66    2 S    79 VOL27
+EXECMSTR EXEC     A 06/11/83 16:52   101    3 S    76 VOL27
+EXECMSTR GENEXEC  A 06/11/83 16:52   148    7 S    78 VOL27
+EXECMSTR GENMENU  A 06/11/83 16:52    44    2 S    78 VOL27
+EXECMSTR INTRO    A 06/11/83 16:52    98    5 S    80 VOL27
+EXECMSTR MAINMENU A 06/11/83 16:53   210   10 S    79 VOL27
+EXECMSTR MENU     A 06/11/83 16:53    22    1 S    76 VOL27
+^XECMSTR SETUP    A 06/11/83 16:53    61    3 S    79 VOL27
+FORMAT2  EXEC     A 06/10/83 00:44    79    3 S    77 VOL27
+GENEXEC  BASICCOM A 05/22/83 17:44    19    5 SR  254 VOL27
+GENSCRN  BASICUSR A 05/25/83 06:10     2    1 R   256 VOL27
+HEALTHAD ADDRESS  A 05/07/83 21:43     6    1 S   137 VOL27
+HEALTHAD EXEC     A 05/07/83 21:33     6    1 S    21 VOL27
+HEALTHAD SCRIPT   A 06/10/83 01:20    66    3 S    72 VOL27
+INDEX    EXEC     A 06/10/83 00:21    94    4 S    65 VOL27
+INDEX    PROCFILE A 06/10/83 00:36     0    1 S     0 VOL27
+INDEX83  BASICOBJ A 06/10/83 00:26    74    2 S    71 VOL27
+INDEX83  DIRFILE  A 06/03/83 15:51     5    1 D    45 VOL27
+INDEX83  FILE     A 06/03/83 15:30     0    2 I     1 VOL27
+INDEXINB BASICOBJ A 06/10/83 00:27   194    5 S    77 VOL27
+INDFIXB  BASICOBJ A 06/10/83 00:43   128    3 S    73 VOL27
+INDOUTB  BASICOBJ A 06/10/83 00:38   242    7 S    79 VOL27
+INDPROCC BASICOBJ A 06/10/83 00:27    26    1 S    36 VOL27
+MANUAL   STARDOC  A 04/16/83 13:27    28    1 S    35 VOL27
+MANUAL0A STARDOC  A 04/16/83 12:26    24    1 S   146 VOL27
+MANUAL0B STARDOC  A 04/16/83 12:48   229   12 S   246 VOL27
+MANUAL1A STARDOC  A 04/16/83 12:57    81    5 S   224 VOL27
+MANUAL1C STARDOC  A 06/03/83 00:16   388   18 S   144 VOL27
+MANUAL1D STARDOC  A 04/16/83 13:18   453   25 S   255 VOL27
+MANUAL2  STARDOC  A 04/15/83 16:39   126    8 S   176 VOL27
+MANUAL3  STARDOC  A 04/12/83 13:27    92    6 S    85 VOL27
+MANUAL4  STARDOC  A 04/16/83 13:33    44    3 S   175 VOL27
+MANUAL5  STARDOC  A 04/15/83 16:42    25    2 S    78 VOL27
+MANUAL7  STARDOC  A 04/15/83 16:46   153   10 S   206 VOL27
+MANUAL8  STARDOC  A 04/13/83 20:35    55    4 S    98 VOL27
+MANUAL9  STARDOC  A 04/16/83 13:27    17    1 S    78 VOL27
+MANUALT  STARDOC  A 06/10/83 01:35    28    1 S    35 VOL27
+MEMBER27 FEEDBACK A 06/10/83 00:32    68    3 S    65 VOL27
+NEWS     LETTER27 A 06/02/83 09:14   102    5 S    65 VOL27
+QUEST    BASICCOM A 06/12/83 15:26   370   10 SR   69 VOL27
+SAMPLE1  EXEC     A 06/11/83 16:53   108    3 S    76 VOL27
+SAMPLE1  EXECSCRN A 06/11/83 16:53    56    2 S    76 VOL27
+SELECT27 EXEC     A 06/10/83 01:20    56    3 S    46 VOL27
+TTT      BASIC    A 06/03/83 02:31   309    9 S    74 VOL27
+TTT1     BASIC    A 06/10/83 00:20   107    5 S    93 VOL27
+VOL27    CONTENTS A 06/10/83 01:15   106    5 S    66 VOL27
+VOL27    EXEC     A 06/10/83 01:20   280    8 S    73 VOL27
+56 file(s), 246 block(s).
+NEWS.LETTER27:VOL27                                       01/31/85 07:49 Page 1
+
+-----------------------------------------------------------------
+15 June 1983            N E W S   L E T T E R           Volume 27
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+VOLUME 27:  While  I  was  putting  volume  26  together  it  was
+beginning to  look like volume 27 would be mostly full of STARDOC
+documentation.   I figured  I'd probably  just  fill up the empty
+cracks with  various little  things that have been laying  around
+for a while.  SURPRISE!  Volume 27 is a winner in it's own right.
+In  addition to  the STARDOC  documentation  it also contains two
+major new systems.  The first is an EXEC generator something like
+the GENMENU  system  released  on  volume  25.  The  second  is a
+periodical  article  indexing  system.   The stuff  you folks are
+sending in is getting better and better.
+
+COMMERCIAL PRODUCTS:  We seem  to be getting an increasing number
+of commercial  product submissions.  The people who donate copies
+of their commercial products for use by OUG members generally are
+hoping for  one kind  of benefit or another.  I  hope some of you
+are contacting  the authors to make private deals or such.  Also,
+I'd appreciate  feedback from you authors if anything interesting
+happens as a result of putting copies of your things into the OUG
+library.
+
+BASICOBJ: You  program  connoisseurs  out there  will note that I
+have  been  deviating  from our  policy of  including  only ASCII
+versions  of BASIC  files in  this and volume 26.  There  are two
+reasons for  this inconsistent  behavior.  First, in the case  of
+the STARDOC  system on volume 26, the complete system was too big
+to fit  on a single volume with ASCII files.  Second, both it and
+the  INDEX  system  on  this  volume  will  not  run through  the
+interpreter  unless BASICOBJ  files exist because of LINKing.  Of
+course both  of  these  systems  work  a lot  better  if they are
+compiled and it  is easier to get the  compiled versions starting
+with  BASICOBJ   versions.   So,  while  I  always  try  to  stay
+consistent, on occasion we just have to make exceptions.
+
+IDLE POWER: Got to thinking the other day about all the idle time
+on all  of the millions of "personal" computers now in the world.
+If  we  could  find some  way to  harness  all that technological
+energy, just  think of  all the good that might  be accomplished.
+When I first  went to work for the  University of California back
+in the  1960's, there was an astronomy program that soaked up all
+the background  time on one of the major computers at UCLA.  When
+nothing else  needed to be done, this gigantic three body problem
+was reloaded and  a few more million computations  were completed
+until the students and faculty returned to make other more urgent
+use of the computer.
+
+During my student  days I  remember reading an article about  the
+need to start an international program for building a generalized
+world model - an  admittedly enormous undertaking.  Such a  model
+might  take  millions of  person years  to  construct and consume
+uncountable billions  of cycles of computer time.  But, given all
+of the increasingly powerful machines laying around doing nothing
+^uch of the  time these days, it seems  to me that such a task is
+no longer  unthinkable.  Of course it would help if we could find
+a way to  harness the machines themselves for  designing, or more
+likely assembling  the model from all of the pieces which already
+exist.
+
+When the article  was  written  maybe  twenty  years ago  or  so,
+computers  were  still so  expensive that  only  the military and
+universities  could   afford  them.   That  picture  has  changed
+dramatically and  it is  now no longer unreasonable to  think the
+unthinkable.   Some  bright  person  is  going  to  take  up  the
+challenge one of  these days, I imagine and  find a practical way
+to do it.  Got any innovative ideas?
+
+NNC 520:  Well, the integration of my new NNC 520 is progressing
+but is far from done. The CARAVAN CBBS has been down most of the
+time since about the first of June.  That will soon be fixed.  I
+am still getting used to the new equipment, and while I like the
+NNC in general, I do wish they had a better way of handling  I/O
+interrupts so that I could type ahead with out the likelyhood of
+loosing  characters.   Also,  I  would  prefer  a sector sparing
+routine  that  made  a  bad  spot  on the hard  disk  completely
+invisiable to OASIS and the user.    More when I've got the rest
+of the pieces Sandy Watson has promised me and have had a little
+more expierence with.
+
+That's it for volume 27, another good one.
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 27
+-----------------------------------------------------------------
+MEMBER27.FEEDBACK:VOL27                                   01/31/85 07:49 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER27.FEEDBACK                                    20 June 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Dear Fred
+
+Well, here is  another program  generator for the OUG.  This  one
+runs better  that the  GENMENU because I have eliminated  the CSI
+commands.  EXECMDEM is the self auto run demonstration program.
+
+The EXECMDEM Exec program actually generates a full EXEC program.
+Try it.
+
+THIS IS  NOT PUBLIC  DOMAIN SOFTWARE.   I am donating it for  the
+exclusive non-commercial  use of OASIS User's Group Members.  The
+retail  price is  $40.00  for  the  exact  same program  that  is
+contained on this disk.  Accordingly, it would be cheaper for any
+who want it to obtain it from OUG.  Source versions are available
+at $400.00.
+
+In a  few weeks  I  will  be  sending  you MENUMSTR.   It  is the
+improved version of GENMENU.  The basic difference is that I have
+eliminated the CSI commands, the core base logic and structure is
+improved,  and you  now can  declare areas on the screen  to have
+cursor  addressed  output for  processed results.  The bio-rhythm
+programs have cursor addressed outputs.
+^
+Also please  note  that  GENSCRN  BASICUSR jump  routines will be
+explained on the MENUMSTR document script file.  GENSCRN BASICUSR
+has  also  been  improved  by  providing  two  addition jumps  to
+returning  attached device  page and line lengths without opening
+device as a file.
+
+MENUMSTR will  retail  for $50.00  for the non-source version and
+$600.00 for the source version.
+
+In the following months  I will release for the  exclusive use of
+OUG   members,   my   DATAMAGR   screen  program   generator  for
+input/update  to   index  files,  PNTMSTR  for  printing  DATAMGR
+generated  files,   SORTMSTR,  MERGMSTR,  FORMSTR,  GENFILES,  or
+basically my  complete program development system.  The slow down
+is because  of the documentation preparation.  This is not a data
+base  manager program,  but a  program generator that act like  a
+DBM.
+
+I am also making myself available to answer any question from any
+OASIS User's Group Member.  They may call me on week days between
+the  hours  of  5:00 to  7:00 AM  Hawaii  Time (3 hour difference
+between Hawaii California).   On Week ends, between the  hours of
+6:00 AM and  10:00 PM.  Or they can  write if they enclose a self
+addressed stamped envelop.
+
+I will  answer  any  question  relating  to  Basic,  Assembly,  C
+language, Exec programming, and system operations and commands.
+
+Until later.......   Aloha
+
+
+Henry W. Aylward, PE
+86-933 Phano Loop
+Waianae, HI 96792
+(808) 696-2589
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER27.FEEDBACK                             20 June 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+AUTO   DEMONSTRATION:   The   package   includes   an   automatic
+demonstration  of the  typical use  of  the EXECMSTR EXEC program
+generation system.     - Top EXEC that coordinates everything
+     EXECMSTR BASICCOM - Main Menu Program to initialize variables
+WANT TO TRY IT NOW? [Y/N]:Nript File Documentation, First file
+     EXECMSTR INTRO    - Script File Documentation ON VOLUME 27.
+     EXECMSTR SETUP    - Script File Documentation
+     EXECMSTR MAINMENU - Script File Documentation***************
+     EXECMSTR GENEXEC  - Script File Documentation
+     EXECMSTR CSTMEXEC - Script File Documentation
+     EXECMSTR APPENDIX - Script File Documentationry Aylward.
+     EXECMENU EXECBASE - Text File containing the Exec Program
+                         Parameters editor  written in basic.  It
+     GENEXEC BASICCOM  - Screen Editor and Program Generator Exec
+     GENSCRN BASICUSR  - Machine Language User Defined Functionsp
+     SAMPLE1 EXEC      - Sample of Generated Exec Program Display
+     SAMPLE1 EXECBASE  - Sample EXECSCRN Text File
+     EXECMDEM EXEC     - Auto Demonstrate EXECMSTR Program
+Since EXECMSTR  uses  a  full  screen  editor,  the  user  simply
+'paints'  any  desired  input  selection and  help screen format.
+Once  the screen  formats are  complete,  EXECMSTR will merge the
+EXECSCRN and EXECBASE files to create the EXEC Program.  EXECMSTR
+does all the work for you.
+
+FORMAT2.EXEC
+
+This is  modification  of  the  FORMAT  EXEC released  earlier on
+volume 2.   I made the modifications to accommodate systems which
+have multiple  head disk  drives.  As you may recall  FORMAT is a
+convenient utility for initializing disk(ette)s.  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+HEALTHAD.ADDRESS/EXEC/SCRIPT
+
+This is  a  letter  to appropriate  members of  congress  about a
+health problem  I think  the government  should be looking  into.
+With our  word processing  capabilities it is no big  deal to put
+something  like this  together.  I  include it here in the  hopes
+that  it  might inspire  some of  you to take similar actions  on
+subjects of special concern to you.  Only the names and titles of
+the congress people need to be changed to match the issue (and of
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+INDEX.EXEC
+INDEX83.BASICOBJ/DIRFILE/FILE
+INDEXINB.BASICOBJ
+INDFIXB.BASICOBJ
+INDPROCC.BASICOBJ
+
+This is   an   indexing   system   for  articles   in  periodical
+publications.  It  was submitted by Paul Schindler (415) 254-4923
+who uses it  for indexing articles in a  publication for which he
+works.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+MANUAL*.STARDOC
+
+These 13  files  comprise the  complete documentation for STARDOC
+released on volume 26.  The STARDOC.EXEC on volume 26 included an
+option  for  printing  it  out.   Of  course  you  may SCRIPT  it
+directly.  The top  level file is MANUAL.STARDOC.  To  SCRIPT the
+whole thing, just enter >SCRIPT MANUAL STARDOC (P and off you go.
+The STARDOC system was submitted by Larry Plumb (716) 627-7770.
+
+WANT TO SEE IT NOW? [Y/N]:N
+
+QUEST.BASICCOM  [VOL 2]
+TTT  .BASIC     [VOL 2]
+TTT1 .BASIC     [VOL 16]
+
+These three programs were previously released on volumes noted in
+the parentheses.  In the case of QUEST the BASIC file was too big
+to be  run through the interpreter for people who have multi-user
+OASIS.  So,  a compiled version is included here for those folks.
+It was compiled with version 5.4, so if you have a later version,
+just recompile  it by typing BASIC QUEST BASICCOM.  The other two
+programs had minor bugs in them which have been corrected here.
+
+WANT TO TRY ONE NOW? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 27.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

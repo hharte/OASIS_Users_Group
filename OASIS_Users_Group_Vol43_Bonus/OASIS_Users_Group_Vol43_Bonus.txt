@@ -1,0 +1,1480 @@
+>F :A(OWN
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$IN$THE$ PIPELINE A 12/28/84 10:00   116    6 S    65 BONUS43
+CLASCODE LESSON   A 07/28/82 18:32    94    5 S    79 BONUS43
+COPYRITE NOTICE   A 12/28/84 10:00    10    1 S    65 BONUS43
+OASIS    EXEC     A 12/28/84 10:00   130    5 S    79 BONUS43
+OASIS    GUIDE0   A 12/28/84 10:00   236    7 S    65 BONUS43
+OASIS    GUIDE1   A 12/28/84 10:00   490   23 S    66 BONUS43
+OASIS    GUIDE2   A 11/05/84 23:16   577   23 S    65 BONUS43
+OASIS    HARDWARE A 09/11/84 12:32   104    6 S    79 BONUS43
+SCRIPT   SCRIPT   A 12/28/84 10:00    78    3 S    78 BONUS43
+SCRIPT   SCRIPT1  A 10/26/83 08:57   370   15 S    79 BONUS43
+SCRIPT   SCRIPT2  A 10/23/83 12:29   408   17 S    78 BONUS43
+SCRIPT   SCRIPT3  A 10/23/83 12:32   281   14 S    78 BONUS43
+SCRIPT   SCRIPT4  A 10/21/83 16:31   119    5 S    78 BONUS43
+SCRIPT$  EXEC     A 12/28/84 10:00    33    1 S    70 BONUS43
+SCRIPT$  LESSON1  A 05/16/81 16:49   140    7 S    78 BONUS43
+SCRIPT$  LESSON2  A 12/28/84 10:00   241    7 S    81 BONUS43
+SCRIPT$  LESSON3  A 12/28/84 10:00   190    8 S    79 BONUS43
+SCRIPT$  LESSON4  A 12/28/84 10:00   261   11 S    91 BONUS43
+SELECB43 EXEC     A 12/28/84 10:00    25    2 S    46 BONUS43
+TECH     NOTE1    A 09/04/83 14:23   120    7 S    86 BONUS43
+TECH     NOTE2    A 10/26/83 16:15   130    8 S    79 BONUS43
+TECH     NOTE3    A 01/01/84 12:15    84    4 S    78 BONUS43
+TECH     NOTE4    A 01/01/84 14:55   189    8 S    79 BONUS43
+VOL43    NEWS     A 12/28/84 10:00   490   27 S    65 BONUS43
+WHY      OASIS    A 12/28/84 10:00   634   28 S    66 BONUS43
+25 file(s), 248 block(s).
+
+>OASIS
+
+
+
+
+
+
+
+
+
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+             T H E   O A S I S   O P E R A T I N G   S Y S T E M
+
+The OASIS Operating System was designed with four major ideas in mind:
+ 1)  OASIS was to be implemeted on micro-computers but have features
+traditionally found on mini and mainframe computers;  2)  OASIS would be
+implemented on machines from several manuffacturers;  3)  the micro-computer
+market consists of mainly uninitiated computer users;  4)  programmers and
+systems designers are accoustomed to having an operating system perform all of
+the tedius tasks required on program development and execution.
+
+Phase One Systems, Inc. of Oakland, California, the developers of OASIS, have
+done a remarkably good job of meeting their original design objectives.
+
+The purpose of this HELP routine is to provide summary information about the
+OASIS Operating System and its utilities.  While it is not essential for the
+casual user to be an expert with OASIS,  the more knowledge, the better.  The
+OASIS documentation is excellent and you would be well advised to look through
+it when you have time.  It is divided into ten major sections: SYSTEM, EXEC,
+BASIC, DIAG, EDIT, SCRIPT, COMM, MACRO, LINK, and DEBUG.  Each of these major
+facilities has many features/commands.  The following list summarizes them:
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+HIT <CR> TO PROCEED OR TYPE "QUIT" TO STOP.:
+^OMMAND  Function
+
+ACCOUNT  Maintain the user account names file.
+ARCHIVE  Backs up large disk files to multiple floppies.
+ASSIGN   Assign a file to an I/O channel.
+ATTACH   Map a physical device to a logical name.
+BACKUP   Perform an entire disk copy.
+BASIC    Language interpreter.
+BUILD    Create short file from console.
+CHANGE   ModifY privlege level of command.
+COPYFILE Move file(s) from drive to drive etc.
+CREATE   Allocate disk space for Direct or Indexed file.
+DEBUG    Machine lang. debugger,assembler,dis-assembler.
+DUMPDISK Dump contents of file or disk in hex and ASCII.
+EDIT     System file editor, both line and context.
+ERASE    Remove a file from the disk.
+FASTCOPY Full disk copy without error check.
+FILELIST List contents of file directory.
+FILT8080 Translate Intel Assembly to Zilog mnemonics.
+GETFILE  Move files from CP/M to OASIS.
+INITDISK Format a new disk.
+LINK     Resolve external references, link object programs.
+LIST     List a file to console or printer.
+LOGOFF   Sign off current account.
+LOGON    Sign on to new account.
+^OMMAND  Function
+
+MACRO    Z80 Macro assembler.
+MEMTEST  Quick memory tester.
+MOUNT    Inform operating system to change disks.
+MOVEFILE Move a file from one device to another.
+OWNERCHG Change ownership of private files.
+PATCH    Update a command with mfg. supplied fixes.
+PURGE    Erases files from disks selectively.
+RECEIVE  Read a file from the communications port (SYNC/ASYNC)
+RECOVER  Restore lost or erased file to directory.
+RENAME   Change the name of a file/group of files.
+REPAIR   Fix crashed disk / test integrity of disk.
+RUN      Abbreviated version of BASIC interpreter.
+SCRIPT   Word processor, document writer.
+SEND     Write a file to the communications port.
+SET      Set or modify various system options.
+SHARE    Designate which accounts have shared access to file.
+SHOW     Display status of various system options.
+STATE    Determine existence of file.
+SYSGEN   Permanently change SYSTEM.NUCLEUS attaches, etc.
+TERMINAL Emulates a time-share terminal.
+VERIFY   Fast disk read to check for parity errors.
+
+End of list.
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Brief summaries of the features of each of the above commands are available
+now by typing in the name of the command wanted.  The summary will include
+Function of command, syntax, options, and other information.  If you want to
+see the complete list again, just type "SUMMARY". This "SUMMARY" may differ
+a little bit from the features your particular version of OASIS has.  You
+can always see the list for your copy of OASIS by typing "HELP."
+
+=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+
+ENTER NAME OF FEATURE, SUMMARY, HELP OR HIT <CR> TO CONTINUE
+
+
+:
+WANT TO SEE SOME MORE DETAILED INFORMATION ABOUT OASIS? [Y/N]
+:Y
+^ASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 1
+OASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 2
+
+
+
+
+
+Welcome to Oasis
+================
+
+
+The Oasis User's Guide was  designed  to follow the natural order
+of operations from the very beginning.  We have assumed that  you
+are standing  in front of your new system, looking  at  the Oasis
+Distribution Diskette, with a lot of questions as  to what  to do
+^ext.  Relax, you're in good hands.  Every effort has been  taken
+to make your learning experience as easy as possible.
+
+The  system itself, both hardware and software, will be your best
+teacher.  If you  are patient, and  follow the instructions,  you
+will be well on your way to increasing your productivity with the
+most powerful microcomputer operating system available today.
+
+
+
+How to use this Guide
+=====================
+
+This User's Guide  has been written for  you -- the user  of your
+new microcomputer  with  the  Oasis  Operating System.   We  have
+arranged  the information on the  following pages so as to follow
+a logical  progression of  what  you'll  need  to  know  to  make
+effective use of your investment.  The language has been kept  as
+simple  as possible, for  we assume that you probably don't  have
+very  much  technical  knowledge  about  computers  or  operating
+systems.
+
+The purpose of this Guide is to give you the information you need
+in a usable  form.  The  first four chapters describe the general
+principles of  the Oasis  Operating  System  --beginning with  an
+explanation of what  an  operating system is, and then describing
+what it can do for you.
+
+Chapter 5 covers the use of the Oasis TEXTEDITOR command, an easy
+to  use, line-oriented  text editor.   The primary use  for  this
+utility  is to  provide you with an  easy means  of creating  and
+modifying EXEC job control language programs and System files.
+
+The EXEC job control  language is described in Chapter 6.  Sample
+EXECs and worksheets for creating your own  EXECs are included at
+the end of the chapter, as are some suggested exercises.
+
+The  second section of the Guide  begins with Chapter 7, entitled
+"Getting  Started".  This  is is where  you  get to roll  up your
+sleeves  and  actually begin working  with  Oasis  and  your  new
+computer.
+OASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 3
+
+
+
+
+Chapter 8 includes a series of procedures that tell you step
+by step how to perform certain simple tasks.
+
+System maintenance and error recovery guidelines  are included in
+Chapter 9, together  with  procedures for  performing some of the
+tasks that may become necessary.
+
+Chapter  10  discusses  communications, both where  you  want  to
+directly  link two computers together to exchange data,  and also
+where you want your terminal to talk to another computer.
+
+^
+
+Throughout this Guide, we often refer you  to  other  sections of
+the manual or to the Oasis System Reference Manual.  This is done
+so that  you will know where  more  detailed information  may  be
+found  if  you  wish to  do further  research into  a  particular
+point.  Note that it is  not necessary  to  stop reading whenever
+you encounter one of these references.
+
+Also, whenever you see the symbol <CR>, it stands  for "press the
+carriage RETURN or ENTER keys" -- not type < C R >
+
+The software described in this manual was written and copyrighted
+by Tim  Williams  and  is distributed  by  several  microcomputer
+manufacturers  under   license   from  Oasis   Technologies,   of
+Lafayette, California.
+
+
+
+
+
+
+
+
+
+
+Copyright  1984  by Mikael  Blaisdell  & Associates.  All  rights
+reserved.   No  part   of  this  publication   may  be  modified,
+reproduced or  transmitted in any form, or  by any means, without
+the prior written permission of Mikael Blaisdell & Associates.
+
+
+
+
+
+
+
+
+
+Trademarks:  Oasis   Phase One Systems, Inc.
+OASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 4
+
+
+
+
+CONTENTS
+========
+
+Welcome
+How To Use This Guide
+
+Chapter 1:  The Oasis Operating System
+
+    1.1  The Operating System
+    1.2  The Oasis Environment
+    1.3  The Oasis Distribution Diskette
+    1.4  The Oasis End-User Agreement
+    1.5  The Oasis Reference Manual
+^   1.6  The Oasis Community
+
+Chapter 2:  DISKS and FILES
+
+    2.1  Disks
+    2.2  Disk Structure
+         2.2.1 Floppy Disks
+         2.2.2 Hard Disks
+    2.3  Disk Preparation
+    2.4  Disk Usage
+    2.5  The System Disk
+    2.6  Commands relating to Disks
+    2.7  Files
+         2.7.1 File Names
+    2.8  File Formats
+    2.9  Preparing Files
+    2.10 File Usage
+    2.11 File Protection
+    2.12 File Ownership
+    2.13 Commands relating to Files
+
+Chapter 3:  User Accounting
+
+    3.1  Definition of an Account
+    3.2  Creating Accounts
+    3.3  Using the ACCOUNT Command
+    3.4  The System Account
+    3.5  Account History
+    3.6  Using the OWNERCHG Command
+    3.7  Sharing files between accounts
+    3.8  Logon and Logoff
+    3.9  Accounts and Execs
+    3.10 An example of an account structure
+
+Chapter 4:  Using Oasis Commands
+
+    4.1  Using Oasis Commands
+    4.2  General system commands
+    4.3  Disk and File Management commands
+    4.4  Memory Management commands
+    4.5  List of Oasis Commands by function area
+OASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 5
+
+
+
+
+Chapter 5:  TEXTEDIT
+
+    5.1  Using TEXTEDIT
+    5.2  The TEXTEDIT Commands
+    5.3  Using TEXTEDIT to create EXECs
+
+Chapter 6:  EXEC
+^
+    6.1  What is an EXEC?
+    6.2  Commonly used EXEC features
+    6.3  Automatic execution of EXECs
+    6.4  Error Conditions
+    6.5  Creating EXECs
+    6.6  Example EXECs
+    6.7  Exercises
+
+Chapter 7:  Getting Started
+
+    7.1  The IPL Process
+    7.2  The Main Console
+    7.3  The CSI Function Keys
+    7.4  Single user mode
+    7.5  Going to Multi-User
+    7.6  Returning to Single User mode
+    7.7  Using the SPOOLER Command
+    7.8  Setting up your Oasis System
+
+Chapter 8:  Procedures
+
+    8.1  Attaching devices
+    8.2  Formatting Disks and Diskettes
+    8.3  Copying or Moving Files
+    8.4  Making a Backup Copy of the original Oasis Disk
+    8.5  Making an Oasis System Disk
+    8.6  Removing or Adding File Protections
+    8.7  Archiving & Restoring
+    8.8  Making an Alternate Synonym Table
+    8.9  Using the SYSGEN Command
+
+Chapter 9:  System Maintenance
+
+    9.1  Maintaining Your Programs and Data
+    9.2  Maintaining Your Hard Disks
+    9.3  Maintaining Your Accounts
+    9.4  Error Conditions
+    9.5  Using the REPAIR Command
+    9.6  Using the PATCH Utility
+    9.7  Adding Entries to SYSTEM.DEVNAMES
+OASIS.GUIDE0:BONUS43                                      01/31/85 07:32 Page 6
+
+
+
+
+Chapter 10:  Communications
+
+    10.1 File transfer
+    10.2 Terminal Exchange
+    10.3 Error Conditions
+    10.4 Exchanging Floppy Disks
+    10.5 Exchanging Tapes
+
+
+APPENDIX
+
+Modem Eliminator Cables
+The System Disk Files
+The System HELP Messages
+System Manager: Reserved command list
+^ASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 1
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 2
+
+
+
+
+T H E  O A S I S  O P E R A T I N G  S Y S T E M
+
+
+
+This Chapter  covers  a general overview  of the Oasis  Operating
+System software, and is intended  as a beginning  introduction to
+your use of Oasis.  It should be read and understood before going
+on to the other  chapters of the  Guide as it  contains the basic
+explanation for some important concepts as they relate  to Oasis.
+If  you  thoroughly understand the  whole underlying process, the
+various procedures will  be much  easier to visualize, understand
+and use effectively.
+^
+
+1.1 The Operating System
+========================
+
+A computer system can be compared to a symphony orchestra in some
+ways, for  both have a  number  of  separate parts that must work
+together in order to produce useful work.   At any one  moment in
+the  life  of  either the orchestra  or  the computer,  a lot  of
+different  tasks  will be going on,  using different parts of the
+whole system.  Sometimes, all of the parts will  be in  use for a
+common task,  and  at other  times,  some  of the  parts will  be
+inactive or resting.  The  coordination of  an orchestra requires
+a  skilled conductor,  while  the coordination  of your  computer
+system requires a good operating system.
+
+Let's take a  closer  look at that orchestra.  Each instrument in
+the orchestra has  a musician  assigned to play it.  The musician
+will  "operate   "  the  particular   device  according  to   the
+"instructions"  printed on  the  music  in  front  of  him.   The
+musician will  also be paying attention to the Conductor, who may
+issue commands  that  will affect  the way the  musician plays or
+"executes" the music.
+
+Likewise,  each device, such as disk  drives, printers, etc.,  in
+your computer  system has its own "musician" that  is responsible
+for  making the  device work.  The computer system's  "musicians"
+are  called  device driver programs.  When the  musician  reads a
+note,  his  fingers  move  to  a  pre-arranged  location  on  his
+instrument;  when an  instruction is issued to a computer device,
+the device driver causes certain  physical parts of the device to
+be moved in a certain way.
+
+For both the computer and the orchestra,  if  no  one coordinates
+the activities of  the individual parts, no work or no  music can
+be produced.   The selection  of  a Conductor or  of an Operating
+System, therefore, can be very important.  You'll  find  Oasis to
+be an exceptionally competent conductor of your computer system.
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 3
+
+
+
+
+The  most important part of Oasis  is called the NUCLEUS,  and is
+stored in a file on your System disk called SYSTEM.NUCLEUS.   The
+Nucleus is  a collection of instructions and routines that,  when
+loaded into  the proper area of memory in your  computer  system,
+"conducts" or directs the activities of the hardware parts of the
+^ystem as a whole.  The Nucleus is loaded  or copied  into memory
+by  a  procedure  called IPL, or  "booting".   The  IPL  (Initial
+Program Load)  or  "boot"  process  is described  in  Chapter  7,
+Getting Started.
+
+Communication  between  you  and   Oasis  is  done  through  your
+terminal,  using a  special  program which is  called the Command
+String Interpreter, or CSI.  Oasis will  use the CSI  to  receive
+your  instructions,  and  will then  use  the appropriate  device
+driver programs  to carry  out your  wishes.   The CSI displays a
+prompt on your terminal  screen that looks like a  "greater-than"
+symbol: >  When you see  this  symbol in the far left  column  of
+your screen, it means  that Oasis  is ready and waiting for  your
+instructions.
+
+These are the three main  parts  of the  Oasis  Operating System:
+the   NUCLEUS,  the  device  drivers,  and  the  Command   String
+Interpreter.
+
+There is  another part of  Oasis  that closely  complements these
+three  main elements.  This consists of a large  group of  System
+Utility Programs.  System utilities are special tools for certain
+system-level  operations.  In Oasis, system utility  programs are
+called Commands, and there are over fifty different commands that
+are included with the operating system.
+
+Names of Oasis utility programs  are carefully chosen so that you
+can  usually  tell  from just  the name what task the command  is
+intended  to  perform.   An   example  of  an  Oasis  command  is
+"FILELIST".  As the  name  would indicate,  this utility  program
+will display  a  list of  all of  the files that you can  access.
+Other examples include:
+
+SHOW      Reports on the status of various devices.
+COPYFILE  Makes copies of files.
+BACKUP    Makes "backup" copies of disks.
+RENAME    Changes the names of files.
+
+etc.   If you  type HELP  when  you see  the CSI  prompt on  your
+screen, and press RETURN, Oasis will display a list of all of the
+available commands together with a short explanation of each one.
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 4
+
+
+
+
+1.2 The Oasis Environment
+=========================
+
+There  is much more  to Oasis than just the operating system  and
+the commands,  just  as there is  more  to an orchestra than  the
+conductor and the  musicians.   Oasis  was designed for  business
+use,  with  a  few  very  important  design  considerations.   An
+understanding of  the design purpose  and specifications of Oasis
+is a good beginning to your use of the operating system.
+
+First, a business  operating system  has  different  needs than a
+^ystem designed  for program  development  or for hobby usage.  A
+businessman purchases a computer  system and  software to  assist
+in controlling and furthering  the business.   The  time required
+to  learn  and  maintain  the  software  should  be  as short  as
+possible, for  the businessman has better things to be doing with
+his  investment.   Therefore,  a critical  design  feature  of  a
+business  operating  system  is  its  ease  of use  by  unskilled
+operators.  At  the  ideal level,  an  unskilled  end-user should
+never see the  operating  system at all -- and this kind of power
+and user friendliness was built-in to Oasis from the very  start.
+The extensive HELP features are only the beginning.
+
+Second, an orchestra needs music for the musicians to play, while
+your computer  system  needs programs to  follow  so  that it can
+perform  useful  work  for you.   In  order  to have programs, or
+music, there first must be a  language  or a format for arranging
+the instructions into readable, and executable,  form.  Oasis has
+a full  range of languages that  can  be used  for an  incredibly
+wide range of programming needs -- from  developing the operating
+system itself through complex  business  management programs  for
+nearly any type or size of company.
+
+The capabilities  of these  languages are of critical  importance
+to the  programmer, while the businessman  is  concerned that the
+programs  be easy to operate and powerful enough to  get the jobs
+done.  The  languages available  under Oasis, when combined  with
+the features of the operating system itself, offer the programmer
+the kind of power usually found  only on machines costing several
+times  more than a microcomputer.  At the same time, the programs
+themselves are easy  to transport  and  to  execute,  so that the
+businessman is never forced to learn as much as  a programmer  in
+order to operate the programs.
+
+Oasis LANGUAGES:
+
+Oasis has one of the finest versions  of the BASIC language as an
+integral part of the operating system.  The same author who wrote
+the operating system also produced the BASIC language interpreter
+and  compiler  for Oasis.  As  a  result,  the full  power of the
+operating system  can  be effectively  used from within  a  BASIC
+program.
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 5
+
+
+
+
+The RUN and RUN2  commands are included as  standard  with  every
+Oasis system.   These commands  are  all you  need  in  order  to
+execute compiled BASIC programs.   Some computer systems have the
+capability of effectively using the  re-entrant capacity of Oasis
+BASIC; this capacity permits  all users on the computer system to
+^se the  same  copy of the run-time module for greater speed  and
+more memory area.  Check  your system's hardware documentation to
+determine if this feature can be effectively used on your system.
+
+
+The BASIC Programming package is a separate option for Oasis.  If
+you  intend to  write  or  modify  BASIC programs on your system,
+you'll need to get this optional package.  The BASIC interpreter-
+compiler includes an editor, with full syntax checking, debugging
+and  HELP facilities.   The Oasis  BASIC  compiler is  a  pseudo-
+compiler; this means that a program is reduced to a p-code module
+instead of to  machine language  during  the compiler  operation.
+The resulting  p-code is used by the RUN  or RUN2 commands.  Note
+that programs  may  be  run either interpretively or  as compiled
+modules.  This permits a programmer to write the program and test
+it  immediately  without having to compile  it  before execution.
+After  the  new  program  has been  tested  and  "debugged",  the
+programmer can then create a compiled version which will  execute
+much faster.
+
+
+Ryan McFarland  COBOL is also available for use with Oasis, which
+widens  the  base of potential applications programs  that can be
+used with your computer system.  RM COBOL is available on several
+different operating  systems, but none of them offer  the kind of
+power that the combination of RM COBOL and Oasis does. Both Oasis
+BASIC and RM  COBOL programs can be run under Oasis  at the  same
+time, and can even share files under some circumstances.
+
+There is a version of the  C  language  that  is compatible  with
+Oasis,  to further  extend  the  capabilities  of  the  operating
+system.   This  version  of C was also  produced by the author of
+Oasis during the process of writing Oasis-86.   It has since been
+enhanced  and improved, and now  offers  full UNIX Version  7 "C"
+compatibility.
+
+
+There are other languages that have been developed or transported
+to  Oasis by outside companies.  There  is a version of FORTH, as
+well  as  a DATA-PLUS interpreter/compiler  for  running programs
+developed on DATA GENERAL minicomputers.
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 6
+
+
+
+
+To round out the high level language capabilities of Oasis, there
+is a  very powerful  job control language called  EXEC.  The EXEC
+language can  be used to produce programs so that an end user may
+never  encounter  Oasis  directly -- all that  he  will see is  a
+series of  menus  that  permit him to  take full advantage of the
+power of Oasis.  This is an exceptional advantage, for  virtually
+no training or prior  experience is  required of an  end user  on
+such a system.  The EXEC language is covered in Chapter 6.
+
+There  is yet  another language  capability  available for Oasis,
+and  that  is the  Macro  Assembler, with  a Linker  and  dynamic
+^ebugger.   Experienced  assembly-level   programmers  have  long
+proclaimed the  Oasis assembler to  be the best  available on any
+microcomputer  operating  system   --  and  often   superior   to
+facilities found on mini-computers.  The  Assembler is documented
+in  the  System  Reference  Manual.  We  have  not  attempted  to
+describe  its  operation in this Guide, as the average user  will
+not have much need for this information.  Note that the ASSEMBLER
+is also  a  separately  available  option,  it  is  not  normally
+included with your Oasis System.
+
+OTHER FEATURES:
+
+Other than the  languages,  and  the System  Commands,  there are
+several other important  features  to the  Oasis Operating System
+that set it apart from other microcomputer operating systems.
+
+First, Oasis is both  a single and a multi-user operating system.
+When  you first  begin using Oasis on  your computer, you  are in
+single-user mode, with only one active terminal.  Using the Oasis
+Commands, you  can set up and activate  other areas of memory and
+other  terminals so that  several users can be executing tasks on
+the computer.   Or, you can set aside areas of memory to be  used
+for running tasks that do  not require operator supervision, such
+as long report processing or printing.
+
+Unlike other operating systems, there is virtually no differences
+between  single user and multi-user  Oasis  programs  --  for the
+necessary protections that enable safe multi-user access  to data
+are  written  into Oasis.  The  applications programmer need  not
+worry  about  making  sure that two  or  more users in  the  same
+database  do not  damage each  other's  work or  data, for  Oasis
+handles that issue very effectively.
+
+Second, Oasis has  an extensive HELP  facility that safely guides
+an inexperienced end-user through the performance of a variety of
+tasks.  If HELP is typed at  the CSI prompt, Oasis will display a
+list of all  of the available commands.  Type HELP  and then  the
+name  of the command  as below to display  a list of  options and
+syntax for a particular command.
+
+>HELP (command-name)            (and press RETURN)
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 7
+
+
+
+
+The  Oasis  HELP command will tell you just  about everything you
+might need to know in order to use any command, from the  precise
+purpose of the command,  the  correct syntax, and a list  of  the
+options  available  for  use  with  the  command.   This  feature
+eliminates  the necessity for constant  reference to the  manuals
+to check minor points.
+
+^owever,  there's much more to being truly user-friendly than the
+HELP command.   Powerful commands, such as ERASE and INITDISK are
+equipped with  "fail-safes"  that protect the  unwary  from doing
+unintentional operations.  For example,  if  you tried to use the
+ERASE command to delete all files,  Oasis would automatically ask
+you if each  particular file was okay to be erased.  Furthermore,
+Oasis provides file  protections  such  as  delete  and/or  write
+protection  which  will  prevent  a  protected  file  from  being
+accidentally  erased.   Likewise, the  INITDISK command warns you
+that  initializing a disk destroys any  files  that may  exist on
+that particular disk -- and gives you two opportunities to escape
+without completing the operation.
+
+For the more  experienced user, the HELP  features and  failsafes
+can be bypassed quickly and easily.
+
+
+Third,  unlike  other operating  systems, Oasis has an  extensive
+error message capability.  The operating  system  comes with over
+100 built-in error messages, and  the texts of these messages are
+very  descriptive.  For example,  if Oasis finds  that  it cannot
+read  a part of a  disk, it will tell you "SECTOR NOT FOUND", and
+will  also tell  you which sector it had difficulty with.  Or, if
+the  disk  is  protected,  the  message  might read  "Disk  Write
+Protected".
+
+Most   of  these  errors  are   "trappable",  meaning   that   an
+applications program can be  made intelligent enough so that, for
+example, if you've  forgotten to set the printer  up, the program
+can prompt  you to do so when the error  is discovered.  This  is
+one   benefit  of  having  the  operating  system   developed  in
+conjunction with an applications language.
+
+
+Fourth,  the  Oasis  filing system  is also built-in,  instead of
+being provided for by a particular language.  Oasis supports  six
+different  types  of files,  including  2  kinds of  ISAM  (Index
+Sequential Access Method), Direct and Sequential file types.  The
+types and uses of  the  different files  are  covered  in Chapter
+2.
+OASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 8
+
+
+
+
+Fifth, Oasis has  a System Editor utility and an output processor
+called SCRIPT.  Together,  these two  utilities  can make a  fair
+word processor, especially  as the  Editor  has a  built-in  HELP
+facility  all  its  own.   The  editor can  be used  for  program
+development,  documentation and/or letters and memos, and is easy
+to learn and use for such functions.  The full  system Editor and
+Script output processor are included with Oasis on your computer.
+ There is a limited, and easier  version of the EDIT command that
+is also included.  This  command, called  TEXTEDIT, does not have
+all of the power of the  EDIT  command, but it  is easier for the
+new user to  learn.  Chapter  5 will  give you enough information
+about the  TEXTEDITor to enable  you  to  use  it to  write  EXEC
+^rograms or modify text files.
+
+These are just a  few of the  features that give Oasis it's power
+and  flexibility.   You'll discover  the  rest as  you  begin  to
+actually  use  Oasis for yourself.   The  tools  and capabilities
+that  make Oasis  such a powerful operating  system are the  very
+tools  that  were  used to develop and maintain the system.  This
+is rare  in the operating system software industry,  where larger
+systems are usually  required  in  order to develop software  for
+smaller configurations.
+
+
+1.3  The Oasis Distribution Diskette
+====================================
+
+An  Oasis  Operating  System  Distribution Diskette  was included
+along with the hardware parts of your Computer system.  For  now,
+let's take a quick look at the diskette and the End-User  License
+Agreement.
+
+The Distribution Diskette contains the Oasis operating system and
+its  commands  and  accessory  files  for use with  your computer
+system. If you will look at the  diskette, you should see several
+notations on the label.
+
+The most important note on the label is your Oasis Serial Number.
+This  number  is  very  important.   If  you  need  to  call  for
+assistance, the Technical Support representative  of  your dealer
+will  want  to  know  your  serial  number.    If   you  purchase
+applications  programs for your  system, the applications program
+dealer will  likewise need to know your serial number in order to
+properly serialize his programs  for you.  You should make a note
+of your  serial number, and  be sure to copy it  onto  any backup
+copies you make of the Distribution Diskette.
+
+The next  most important piece of information on the label of the
+Distribution Diskette is the Version  and the  Date.   Your Oasis
+Version will likely be 5.6  or higher.  Again, if you should need
+to  call for  assistance, the  Technical  Support  representative
+must have the version  level and the date your Oasis Distribution
+Diskette was made in order to properly help you.
+^ASIS.GUIDE1:BONUS43                                      01/31/85 07:33 Page 9
+
+
+
+
+In Chapter 8, we will walk  you through the procedure of making a
+safety copy of this diskette. You  should make such a backup copy
+immediately, and afterwards use  only the copy  to  operate  your
+computer system. The original Oasis  Distribution Diskette should
+be safely  stored away from the computer, and not used other than
+to make more backup copies if necessary.
+
+
+Later on, in Chapter 7, you'll find a description of what happens
+when  you  first  insert  this  diskette  into   your  computer's
+disk drive.  This process is called "Booting", or IPL.
+
+
+1.4  Your Oasis End-User License Agreement
+==========================================
+
+Your computer  dealer should have  had you sign an Oasis End-User
+License  Agreement  form.   If  not,  you  should  ask  about  it
+immediately.  The  License Agreement registers you  as the proper
+owner of your particular serialized copy of Oasis.
+
+The End-User License Agreement is very important to you.  It must
+be  returned to the manufacturer of your computer, and from there
+to Oasis Technologies, Inc.  When your  properly executed License
+agreement   is   on   file,  you  will  receive   any   technical
+notifications  that  apply  to  your Oasis Operating System.   In
+addition, you will be able to get updates  to Oasis as  they  are
+made available for your computer system.
+^ASIS.GUIDE1:BONUS43                                     01/31/85 07:33 Page 10
+
+
+
+
+
+1.5  The Oasis Reference Manual
+===============================
+
+The  Oasis  Reference  Manual,  written  by  Chris  Williams  and
+published by  Phase One Systems, Inc.,  is an excellent source of
+information about your Oasis Operating System.   Each  command is
+carefully  described  with  all  of  its  options,  together with
+examples   of   how  to  use  the  command.   If  your   computer
+manufacturer  did  not  include a  copy of this manual along with
+your  computer, you  may purchase  one from your dealer  or  from
+Phase One Systems, Inc., of Oakland, California.
+
+The  Reference   Manual  is  broken  into  appropriate  sections,
+according to the topic being discussed.
+
+You'll find that the Reference Manual is most useful when you are
+looking  for some  specific  information about a  topic,  process
+or procedure.   This  User's Guide  will  refer  you to  specific
+places  in  the  Reference  Manual as needed  for  more  complete
+information.  We recommend  that you read  the SYSTEM  section of
+the  Reference  Manual  after  you've completely read this User's
+Guide.  Oasis isn't as hard  to learn as it might appear, there's
+just an exceptional amount  of power available to you -- and  the
+more you learn, the more your system can do for you.
+^ASIS.GUIDE1:BONUS43                                     01/31/85 07:33 Page 11
+
+
+
+
+
+1.6  The Oasis Community
+========================
+
+There is  much  more  to Oasis  than just  the  operating  system
+itself.   A closely  knit community of companies and  individuals
+has grown together over the years since Oasis was first released,
+and  now  offer significant  advantages  for Oasis  users of  all
+types.
+
+The Oasis User's Group, directed  by Fred Bellomy,  is located in
+Santa  Barbara, California.   Their Post Office Box is #2400, and
+the Zip  Code is  93120.  The User's  Group  maintains a  24 hour
+bulletin board  which is open to members, and sends out  periodic
+releases of member contributed software that operates under Oasis.
+For further information, call 805-965-0265.
+
+
+The Oasis Software Developers Association is a  group of software
+authors  and companies who  manufacture software  for  the  Oasis
+operating system.   Directed by Don Drew, the Association is open
+to  authors  and   companies   involved  in   the  production  of
+application software.   Computer  manufacturers may  also join as
+associate  members.  The Association's telephone number  is  206-
+644-7111,  and  the  address  is: The  Oasis Software  Developers
+Association, 15606 Northeast  8th  Street, Bellevue,  Washington,
+98008.
+OASIS.GUIDE1:BONUS43                                     01/31/85 07:33 Page 12
+
+
+
+
+The  Oasis  operating  system  family   is   marketed  by   Oasis
+Technologies,  Inc.,  of  Lafayette,  California.  "O-Tech"  also
+offers   several   optional   packages,   including   the   BASIC
+interpreter/compiler,   the   Assembler,   Bisync  Communications
+software and others.  Oasis Technologies handles the licensing of
+computer manufacturers who want to offer  Oasis on their computer
+systems, and  also provides custom software engineering  services
+on  a contract basis.   The  President of  Oasis  Technologies is
+Susan Catalano, and the Chairman  is Timothy Williams, the author
+of  Oasis.   Oasis  Technologies  is  located  at  201  Lafayette
+Circle;  Suite 100, Lafayette, CA 94549;  the telephone number is
+415-283-4290.
+
+
+Phase  One  Systems, Inc, of Oakland,  California,  publishes and
+distributes  the  Oasis  System  Reference  Manual and  the Oasis
+Application  Software  Directory.  The Directory  is a  quarterly
+publication that lists all of the known  software companies  that
+provide software for the Oasis operating system family,  together
+with  a  brief  listing  of  the  individual  packages  that  the
+companies offer.  Phase  One  operates  an  Oasis Training Center
+that offers courses  for System Managers, BASIC programmers, etc.
+Phase One is located at 7700 Edgewater Drive, Suite 830, Oakland,
+California, 94621.  The telephone number is 415-562-8085.
+^ASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 1
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 2
+
+
+
+
+Oasis:  D I S K S  A N D  F I L E S
+
+
+This  Chapter  describes  how  Oasis  handles   the   storage  of
+information on disks and in files.
+
+We'll  cover   disk   types,   layouts,   preparation  and  usage
+suggestions, together with brief overviews of the  various  Oasis
+commands that apply to disks.
+^
+Information  on  disks is stored  in  various arrangements called
+files.  Oasis has several  different kinds of files that are used
+for  different purposes.  This chapter  will explain  file naming
+rules,  kinds  of  files,  preparing  files,  using  files,  file
+protection and file  ownership.  Several Oasis commands  that are
+designed for use with files will also be described.
+
+The first Section of this Guide, which includes  Chapters 1-6, is
+intended to give you  a thorough basis for your use of Oasis.  If
+you read these chapters carefully, you should be well on your way
+to becoming an effective Oasis operator.
+
+
+The following pages will provide you with the general  things you
+will need  to  know about  Oasis and  its relation  to  disks and
+files.  Where  possible, more specific  and  detailed information
+has been left to the System Reference Manual.
+
+
+2.1  Disks
+==========
+
+There are two  basic types  of disks that you will encounter when
+using Oasis: floppy disks, and hard disks.  Oasis generally  pays
+no attention  to  whether a particular disk is hard  or a floppy,
+for  the only  differences are  in terms of  capacity  and access
+speeds.
+
+(Some systems may have a third  type of disk,  called  RAM disks;
+this  is an area  of memory that pretends it is a disk  drive.  A
+RAM  disk will appear very  much like a hard  disk  drive, except
+that a RAM disk is much faster.)
+
+There  are several  common terms that  will apply to  all  disks,
+regardless  of  type.   These  terms  include  Label,  Directory,
+Cylinder, Track and Sector.  A brief definition of these terms is
+given below, and a more detailed explanation can be  found in the
+System Reference Manual.
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 3
+
+
+
+
+2.2 Disk Structure
+==================
+
+The usable surfaces of the disk are arranged in concentric rings,
+called Cylinders.  You  may  often  hear  another  term  used  to
+describe the rings on the  surface of a  disk, and that  term  is
+"track".  All too often, these  terms are used interchangeably  -
+and therefore incorrectly.
+
+A track is a concentric ring around one surface of a disk.  Since
+a disk  may have more than one surface  (especially hard  disks),
+^he term "cylinder"  is  used  to describe the same ring  for all
+surfaces of  a given  disk.   In  other words, a  cylinder  is  a
+"stack" of tracks.   On a double  sided 8" diskette, for example,
+data is stored on 77 cylinders  (numbered from 0 to  76).   If we
+are only referring to one side of that diskette, we would use the
+term  "track", if both sides are being discussed, the proper term
+is "cylinder".
+
+Cylinders and  tracks are further subdivided into sections called
+Sectors.   The  number  of sectors per track may  vary, depending
+upon the size of the  disk and its  capacity.  The  terms  single
+and/or  double density are used  in  reference to  the number  of
+sectors per track.  To  return to our example 8" diskette, single
+density  means  there are  13  sectors  per  track, while  double
+density diskettes have 26 sectors per track.
+
+
+The  first track of a  disk  is  known  as  Track  0  (zero), and
+contains the following information:
+
+Boot loader program  (see Chapter 7.1 The IPL Process)
+
+Disk Labels:   The  Disk Label is an eight character name that is
+recorded in a particular place on the  surface of  the disk.  You
+may choose  any name you wish for  a disk, except that the  label
+must begin with either a letter or the dollar sign ($).
+
+Allocation bit map: The allocation bit  map  is a  "map"  of  the
+physical locations of sectors on  the disk surface, and a  status
+indicator as to whether or not a given sector is in use.
+
+Disk  Directory:   Every  disk  has  a  directory  that  contains
+information about the  files that are  stored on  that particular
+disk.  The directory records  the name of the  file, the physical
+location on the  disk, the owner of the particular file, the date
+the file was created or last modified, etc.
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 4
+
+
+
+
+2.2.1  Floppy Disks
+
+Most computer systems usually  include an 8" or 5.25" floppy disk
+drive in the system enclosure.   Diskettes for this drive  may be
+formatted in  a variety of ways,  depending upon the capabilities
+of the disk drive.
+
+The most  common format  is  that of an 8" diskette  that  can be
+formatted  in either single  or double density.   A single sided,
+single density  8" diskette can be  read  by virtually any  Oasis
+based computer system that has an  8"  disk drive.   Furthermore,
+almost all such computers  can  read and  write on double density
+diskettes as well.  This is a tremendous advantage of  Oasis that
+^s not found in any other microcomputer operating system.
+
+The 5.25"  diskettes  are unfortunately  not so inter-changeable.
+For  more information on floppy disk  compatibility, see  Chapter
+10; Communications.
+
+
+2.2.2  Hard Disks
+
+Oasis  treats hard disks much like  floppy diskettes, except that
+the capacity is far greater and the access speed  is much faster.
+
+
+Unlike a floppy disk drive, the Read/Write  head of a hard  drive
+does NOT  physically touch the surface of  the disk.  Instead, it
+floats a fraction of an inch above the surface as the disk spins.
+This is a  very  important point, because  a hard disk won't wear
+out as a floppy will due to the constant contact between head and
+diskette  surface.  This factor  also contributes  to the greater
+speed and capacity of a hard drive over a floppy.
+
+The  exact capacity  of your hard  disk  will  vary  widely  from
+computer  to   computer,  depending   upon   the   manufacturer's
+specifications.   Note  that the  maximum  volume size for a hard
+disk  is  16 mega-bytes.  If your hard disk is larger  than that,
+you  may be able to split the capacity into more than one logical
+volume.  See your hardware documentation for more information.
+
+
+2.3  Disk Preparation
+=====================
+
+Before  a disk or a  diskette can be used by Oasis, it first must
+be  prepared  through a  procedure  known  as  Initialization  or
+Formatting.  The INITDISK command is used for this procedure.
+
+The INITDISK command defines the tracks or cylinders and sectors,
+sets  up  the  allocation  bit   map  and  establishes  the  disk
+directory.  The disk label  is also assigned during this process.
+Initialization  is  described  in  Chapter  8,  Procedures.   The
+INITDISK command is covered in Chapter 4.
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 5
+
+
+
+
+2.4 Disk Usage
+==============
+
+You  must  always have at least one disk in operation in order to
+use  Oasis, and that is your "S" or System disk.  When  you  boot
+Oasis, the computer system will automatically look in a set place
+for the System disk,  either to a particular floppy or  sometimes
+to a particular hard disk.
+
+After  Oasis  has been booted, you  may attach  other disk drives
+for use if you wish.  The  procedure for  attaching a disk  drive
+^s  described in Chapter 8, Procedures; the ATTACH command itself
+is  described  in  the Chapter Four, Using  Oasis  Commands.   In
+general,  however, the attach procedure  simply tells  Oasis that
+you wish to use a particular disk drive, and assigns a letter (A-
+G) for easier reference.
+
+Oasis will  then get  the appropriate device driver for that disk
+drive, if necessary, and load  it into memory.  This procedure is
+known as "Attaching" a  device.  Note that this is an Oasis term,
+it doesn't mean that your device should not be physically plugged
+in or connected to your computer when not in use.  Oasis can work
+with up to eight disks at a time, attached  as any letter between
+A and G, plus the S drive.
+
+The SHOW  DISK command is your major information source as to the
+status of  your  disk drives.  This command  returns such  useful
+information as:
+
+The maximum capacity of the disk
+The current space available on the disk
+The size of the largest contiguous area
+The number of files in use
+The maximum number of files that can exist on the disk.
+
+Note:
+
+It  is generally not a good idea to use both floppy and hard disk
+drives at the same  time for  for common  storage of programs and
+data.  This is because Oasis will search all attached disk drives
+for any  program it needs (unless you've specified which  disk to
+search  when you issued the command), and floppy  drives are much
+slower  than hard drives.  This  means  that the overall speed of
+the system will be  slowed because of the slower access speeds of
+floppy drives.
+
+We  recommend that  you  only  attach  a  floppy  drive when  you
+actually intend  to use that particular  drive.   At other times,
+the drive should be left unattached as far as Oasis is concerned.
+ This will permit greater overall  access times for your computer
+system.
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 6
+
+
+
+
+2.5  The System Disk
+====================
+
+The System Disk, or the S disk, is always attached whenever Oasis
+is  loaded  into your computer's memory.  Oasis will not let  you
+detach this disk, although you may attach a different disk as the
+"S"  drive.   If  you  attempt  to  detach  the  S  disk  without
+substituting  another  in its place, Oasis will display  an error
+message.  This is because the entire SYSTEM.NUCLEUS is not always
+loaded into  your computer  memory.   When a part of  the Nucleus
+that is  not  already  in memory is needed, Oasis goes to  the  S
+drive to load in the part that  is required.  If  there were no S
+^rive, the system would hang.
+
+The  System  disk contains all of the files necessary for booting
+Oasis.  A list of the minimum files that are required on a System
+Disk is given in Chapter 8, Procedures.
+
+Unlike other  operating systems, any disk  may be an Oasis System
+disk if it has the required files on it.  There are no  specially
+reserved areas on a System disk that  contain the elements of the
+operating system,  for all of the  elements are  contained within
+the various files.
+
+Your computer system can usually be booted from either the floppy
+or   the  hard   drive.   It  will  often  try  to  automatically
+boot from the hard drive unless you interrupt the process in some
+way.   The  most  common  method  of  interrupting  the automatic
+booting procedure is by pressing a key on the Main System console
+keyboard.
+
+System disks,  in addition to the required files, usually contain
+all  of the  various Oasis commands as  well, or as many  as  the
+available space will allow.
+
+
+2.6  Commands relating to Disks
+===============================
+
+There are  several Oasis commands that are intended for use  with
+entire disks.  A list of the most commonly used commands is given
+below, and more information is given in Chapter Four, Using Oasis
+commands.
+
+Command                 Function
+
+INITDISK To initialize, or format disks
+VERIFY   To check the functioning of disks
+BACKUP   To copy an entire disk
+ARCHIVE  To copy the contents of a large disk
+         on to successive smaller volumes
+RESTORE  To reload an ARCHIVEd disk
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 7
+
+
+
+
+2.7  Files.
+==========
+
+A file is  a  collection of individual records,  stored  together
+under a common name.   These records can contain instructions for
+a  program,  names  and addresses  of customers  and clients,  or
+nearly anything else you might desire.
+
+To  Oasis,  the information stored in files  is simply coded data
+that is  located at a particular place on  the surface of a disk.
+The information contained in a  file  can be  arranged in several
+different ways,  according  to the way  this information  will be
+^sed.   The  different  arrangement  patterns   are  called  file
+formats.
+
+
+2.7.1 File Names
+
+Oasis refers  to files  by their names.  Each  file  will  have a
+unique name,  from one to eight characters in length.  File names
+always begin with a letter or the $ sign; this standard is called
+a convention.  Each file also has a file type assigned to it that
+is  joined  together  with  the  file   name.   The  same  naming
+convention  applies  to  file types as does to names;  the  first
+character of the type must be a letter or the $ sign.  File types
+also may  be from one to eight characters  in length.   Each file
+also has an address, or home  where  it resides.   This  home  is
+usually located on a disk, although it could also be on a tape.
+
+The combination of a filename, filetype and disk is called a File
+Descriptor.
+
+In general, you may choose the names  and  types that you wish to
+assign  to your files.   However, Oasis has some rules concerning
+file names and types; there are certain words which are reserved.
+ This is because Oasis may look for a  file under a specific name
+for a specific purpose.   If  some other file  has that name, its
+contents  may not be what  Oasis needs in order  to carry out the
+proper procedure.
+
+Some examples of common file descriptors are given below:
+
+FILENAME.FILETYPE:(DISK)     (Explanation)
+
+SYSTEM.NUCLEUS:S             The kernel, or heart of Oasis
+BASIC.COMMAND:S              The BASIC language compiler
+SYSTEM.DEV20:S               A device driver program
+PAYROLL.EXEC:S               An EXEC Job Control Language
+                                program file.
+CUSTOMER.MASTER:A            A master customer data file
+CALCEXAM.COBOLOBJ:A          A COBOL program file
+WUMPUS.BASICCOM:S            An old favorite computer game,
+                                written in compiled BASIC
+OASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 8
+
+
+
+
+2.8  File Formats
+=================
+
+Oasis  has  six  different arrangement patterns,  or formats, for
+files.  The  format of  a file has  a lot  to do with the way the
+file is intended to be used.  The six formats are as follows:
+
+ABSOLUTE
+
+This file format is used for machine  language programs that must
+^e loaded into memory at a precise location in order to be  used.
+The SYSTEM.NUCLEUS file is  in this  format.   Files of this kind
+cannot  be  accessed or examined in any way  with  standard Oasis
+commands.
+
+Absolute files are sometimes called "coreimage" files in that the
+file contents could be considered  an "image" of what  the "core"
+memory must look like in order for the program to be used.
+
+
+RELOCATABLE
+
+This  file format is essentially the same as  an Absolute, except
+that a relocatable file does not have to be loaded into a precise
+memory address.  The  various COMMAND  files  are stored in  this
+format.
+
+
+SEQUENTIAL
+
+The  records in a  sequential file  must be  read "in  sequence",
+meaning  that in order  to  read record  #22 you must first  read
+records 1-21.   Records  can  only  be  added to  the  end  of  a
+sequential file, so if you wished to make changes to an  existing
+record,  the  record is first  marked as  deleted and  then re  -
+written at the end of the file.
+
+The sequential file format is  the only  format under  Oasis that
+allows the  file to "grow"  as  needed.  All  other file  formats
+require  the size  of the file to be specified when  the  file is
+first created.
+
+DIRECT
+
+This file format  is used  for records with  fixed,  or  standard
+lengths.   The key to such records is their  record number.  This
+kind of file requires that you specify the total size of the file
+at  the time you create it.  An  example  of a direct file is the
+SYSTEM.ERRMSG file that contains the texts  for all of  the Oasis
+error  messages.  When  an  error condition  occurs,  Oasis  will
+access this file to find the text that matches the error number.
+^ASIS.GUIDE2:BONUS43                                      01/31/85 07:33 Page 9
+
+
+
+
+You must specify the maximum  number of  records to be  stored in
+this kind of file when you first create the file.   The disk area
+allocated  or  reserved  for  this  file  format  is  contiguous,
+meaning that it is all in one place on the disk.
+
+
+INDEX
+
+Commonly  known as  an  ISAM file  (for  Index  Sequential Access
+Method), this format  is  used for  data  files  for  application
+programs.  The records in an index file may be accessed  directly
+(using a key) or  sequentially by reading the beginning record of
+the file and so on until the desired record is located.
+
+As is the case with direct files, index files also require you to
+specify the  maximum  file size when  the file  is  created.  You
+cannot later change  the size of  an index or direct file without
+creating a new file and then copying the records  one-by-one from
+the old file to the new.
+
+
+KEYED
+
+The format of a Keyed file also uses the ISAM specifications, and
+is very similar to that of an Index file.  The difference is that
+where  the  "keys"  to  the records in an Index file are  kept in
+sorted  order,  the keys  for a keyed file  are  not  kept in any
+sorted order.
+
+For example,  the  records  in a customer  master file  might  be
+accessed using the name of  the company as a "key".   If this was
+an  Index  file,  the  names  would  be  in  alphabetical  order.
+However, if  the file was  a keyed file, the names  would not  be
+kept in alphabetical order.
+OASIS.GUIDE2:BONUS43                                     01/31/85 07:33 Page 10
+
+
+
+
+2.9 Preparing Files
+===================
+
+Files  are created by Oasis in two ways, depending upon the  file
+format you wish to create.
+
+Various Oasis  commands, such as  TEXTEDIT, will create files for
+you once you supply the name to be used.  These files will always
+be sequential files.   For example, if you wish to create an EXEC
+program, you might enter:
+
+TEXTEDIT PAYROLL.EXEC      (and press RETURN).
+^
+Oasis would search for an existing file named PAYROLL.EXEC on all
+of the attached disks.   If no such file  was found, Oasis  would
+automatically create it for you.
+
+Index or Direct files  must be  created using the CREATE command.
+If your application program  requires the use of  Index or Direct
+files, they  will usually be automatically created for you by the
+application   package.   Check  your   documentation   for   more
+information.
+
+
+2.10  File Usage
+================
+
+The selection of a particular file format  will almost always  be
+done  for  you  by  the programmer  who  wrote  your  application
+program.  There are, however, a few things to  keep in mind about
+the various file formats.
+
+Access speeds:
+
+For data  entry,  the keyed  format will  usually  be the fastest
+since the new keys are not kept in sorted order. The index format
+does keep its keys in sorted order, so the existing  keys must be
+continually shuffled and shifted as new records are added so that
+the keys remain in sorted order at all
+times.
+
+With both  index  and  keyed files,  you will  notice a  definite
+degradation in access  speed when  the file  gets to  be over 70%
+full.  This has  to do  with  the  way  that records are  located
+within the file,  which is by a hashing algorithm.  If you notice
+that  your data entry program  seems  to  be  taking  longer  and
+longer, you've probably filled your  file past the 70% mark.  The
+only  cure is  to  create  a new,  and larger, file and  copy the
+records from the old into the new file one by one.
+
+Note that this slowdown will also occur if the file has ever been
+more than  70%  full.  It doesn't  help  to  simply delete enough
+records to bring the total number below the 70% point.
+OASIS.GUIDE2:BONUS43                                     01/31/85 07:33 Page 11
+
+
+
+
+2.11  File protection
+^====================
+
+There are three forms of protection that can be  applied to files
+under Oasis: DELETE, WRITE and READ.  These  can be applied  when
+the file is created, or afterwards  by  using the RENAME command.
+DELETE and WRITE protection can also  be  removed  by  using this
+command.  The RENAME command is described in  Chapter Four, Using
+Oasis Commands.
+
+DELETE
+
+DELETE protection, as its name implies, stops the file from being
+erased.   It  also  prevents  the file  from  being  renamed to a
+different file name.
+
+A potential problem may occur with a DELETE protected  file if it
+is a text file, because when you re-edit a text file and save it,
+the old  copy is renamed  filename.BACKUP --and this will not  be
+permitted on a DELETE protected  file.  This example  illustrates
+the  point that  file protection may work against  you as well as
+for  you.   For this  reason,  we recommend  that  you  carefully
+consider what  protection  a  file might  require,  and how  that
+protection may affect normal usage of the file.
+
+WRITE
+
+A WRITE protected file can be deleted, but not written-to.  WRITE
+protection   is  often  used  on  files   containing  information
+that is used  by a number of different programs where the data in
+the file is not to be updated.
+
+
+READ
+
+A READ protected  file may only be accessed from a BASIC program.
+This type of protection is  most  often used on files  containing
+sensitive data, and is applied to make sure  that only the proper
+programs may access the file.
+
+READ protection should be applied with care, because once you put
+it on, you can't take it off.
+OASIS.GUIDE2:BONUS43                                     01/31/85 07:33 Page 12
+
+
+
+
+2.12  File Ownership
+====================
+
+Files have owners, and only their owners may erase them or rename
+them.
+
+Each file entry in a disk directory includes an  owner-id number.
+If no accounts have been implemented on your Oasis system, all of
+the files will be owned by the SYSTEM account, and their owner-id
+numbers will all  be  zero.  Such files  are called public files,
+and any user may access them from any partition.
+
+If  accounting has  been  implemented on  your  system, then each
+file's owner-id number will  correspond to  the account-id number
+of its owner.  Files  with an  owner-id number  greater than zero
+are  called private files, and  may be accessed only  if you  are
+logged onto  the proper account,  or if the file  has been marked
+to be shared with your account.
+
+Remember  that  the  file ownership is indicated by  the owner-id
+number, and NOT  by the name of the  account that owns them.   If
+you copy your files  onto a  diskette, and  intend to  take  that
+diskette to a  different Oasis  system, you'll need to change the
+ownership of the  files  on  the  diskette to  the System account
+before  you make the transfer to the other  system.  This is done
+so as to make the files  public instead  of private,  for you may
+not know what accounts might exist on  the other system,  if any.
+Read Chapter Three, User Accounting, for more information.
+
+2.13  Commands relating to files
+================================
+
+There  are several Oasis commands that are designed for use  with
+your files.  The most important of these are as follows:
+
+COMMAND                 FUNCTION
+
+FILELIST To display a list of your filenames
+LIST     To display the contents of a file
+COPYFILE To make a copy of a file
+RENAME    To change the name  of a file, or apply or  remove file
+         protection.
+ERASE    To remove files
+OWNERCHG To change the owner-id of a file or group of files.
+
+See Chapter Four, Using Oasis Commands for more information.  The
+Oasis Reference Manual  also  describes the syntax  and usage  of
+these commands together with examples.
+
+>
+

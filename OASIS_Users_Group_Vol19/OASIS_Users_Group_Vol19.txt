@@ -1,0 +1,561 @@
+>VOL19
+^=================================================================
+:                                                                :
+:           VOLUME 19 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "The world is before you, and you need not take it or leave"  :
+:  it as it was when you came in."                James Baldwin  :
+:                                                                :
+:                                                                :
+==================================================================
+Want to skip over the introductory material? [Y/N]
+:N
+ON WHICH DRIVE [if other than "A"] IS VOL19 MOUNTED? [ A-G S ]:
+
+
+
+
+
+Welcome to VOLUME 19 of a rapidly expanding library of software
+and other information made available for the exclusive use OASIS
+USERS' GROUP members. Most of the software has been contributed
+to the library by our members, but some of it is being acquired
+from other sources with the understanding that only OUG members
+will have access to it.
+
+The following is a listing of the contents of VOLUME 19,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST19  A 11/30/82 19:46    57    3 S    66 VOL$19
+$README  FIRSTXX  A 11/07/82 18:55    57    3 S    66 VOL$19
+BASES    BASIC    A 11/30/82 18:29    91    3 S    79 VOL$19
+CAMEL    BASICCOM A 06/30/81 17:06    15    4 SR  254 VOL$19
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL$19
+EDITBIG  EXEC     A 11/30/82 19:11    64    2 S    71 VOL$19
+ELIZA    BASICCOM A 07/08/81 23:21    19    5 SR  254 VOL$19
+INVADERS ASSEMBLE A 11/13/82 23:06   851   14 S    75 VOL$19
+INVADERS COMMAND  A 09/18/81 16:08    14    4 R   256 VOL$19
+MEMBER19 FEEDBACK A 11/19/82 17:28   137    4 S    65 VOL$19
+MEMBERXX FEEDBACK A 11/06/82 18:27    12    1 S    66 VOL$19
+NEWS     LETTER19 A 12/13/82 22:34   137    7 S    66 VOL$19
+NEWS     LETTERXX A 11/06/82 17:55    29    1 S    65 VOL$19
+NEWVOLXX EXEC     A 11/30/82 19:45    56    2 S    69 VOL$19
+ROBOT    BASIC    A 11/30/82 18:31   132    5 S    76 VOL$19
+SC00$001 SOFTCORR A 12/09/82 17:47    34    2 S    77 VOL$19
+SC00$002 SOFTCORR A 12/09/82 17:48    38    1 S    76 VOL$19
+SC00$003 SOFTCORR A 12/09/82 17:49    44    1 S    74 VOL$19
+SC00$004 SOFTCORR A 12/09/82 17:49    58    2 S    77 VOL$19
+SC00$005 SOFTCORR A 12/09/82 17:49    37    1 S    74 VOL$19
+SC00$006 SOFTCORR A 12/09/82 17:50    35    1 S    77 VOL$19
+SC00$007 SOFTCORR A 12/09/82 17:50    57    2 S    77 VOL$19
+SC00$008 SOFTCORR A 12/09/82 17:50    44    1 S    74 VOL$19
+SC00$009 SOFTCORR A 12/09/82 17:51    57    2 S    77 VOL$19
+SC00$010 SOFTCORR A 12/09/82 17:51   216    6 S    78 VOL$19
+SC00$011 SOFTCORR A 12/09/82 17:51    50    2 S    78 VOL$19
+SC00$012 SOFTCORR A 12/09/82 17:52    46    2 S    77 VOL$19
+SC00$013 SOFTCORR A 12/09/82 17:52    53    2 S    77 VOL$19
+SC00$014 SOFTCORR A 12/09/82 17:52    33    1 S    76 VOL$19
+SC00$015 SOFTCORR A 12/09/82 17:52    37    1 S    78 VOL$19
+SC00$016 SOFTCORR A 12/09/82 17:53    34    1 S    78 VOL$19
+SC00$017 SOFTCORR A 12/09/82 17:53    47    2 S    77 VOL$19
+SC00$018 SOFTCORR A 12/09/82 17:54    45    2 S    75 VOL$19
+SC00$019 SOFTCORR A 12/09/82 17:54    41    1 S    76 VOL$19
+SC00$020 SOFTCORR A 12/09/82 17:54    44    2 S    77 VOL$19
+SC00$021 SOFTCORR A 12/09/82 17:54    47    2 S    76 VOL$19
+SC00$022 SOFTCORR A 12/09/82 17:55    33    1 S    75 VOL$19
+SC00$023 SOFTCORR A 12/09/82 17:55    39    1 S    78 VOL$19
+SC00$024 SOFTCORR A 12/09/82 17:56    36    1 S    78 VOL$19
+SC00$025 SOFTCORR A 12/09/82 17:56    37    1 S    76 VOL$19
+SC00$026 SOFTCORR A 12/09/82 17:56    55    2 S    77 VOL$19
+SC00$027 SOFTCORR A 12/09/82 17:57    69    3 S    78 VOL$19
+SC00$028 SOFTCORR A 12/09/82 17:57    54    2 S    74 VOL$19
+SC00$029 SOFTCORR A 12/09/82 17:57    42    2 S    78 VOL$19
+SC00$030 SOFTCORR A 12/09/82 17:58    33    1 S    76 VOL$19
+SC00$031 SOFTCORR A 12/09/82 17:58    95    4 S    78 VOL$19
+SC00$032 SOFTCORR A 12/09/82 17:58    38    1 S    77 VOL$19
+SC00$033 SOFTCORR A 12/09/82 17:59    43    2 S    77 VOL$19
+^C00$034 SOFTCORR A 12/09/82 18:00    40    1 S    78 VOL$19
+SC00$035 SOFTCORR A 12/09/82 18:00    36    1 S    78 VOL$19
+SC00$036 SOFTCORR A 12/09/82 18:01    39    1 S    78 VOL$19
+SC00$037 SOFTCORR A 12/09/82 18:01    39    1 S    77 VOL$19
+SC00$038 SOFTCORR A 12/09/82 18:01    40    1 S    77 VOL$19
+SC00$039 SOFTCORR A 12/09/82 18:02    72    3 S    78 VOL$19
+SC03$001 SOFTCORR A 12/09/82 18:02    69    2 S    75 VOL$19
+SC03$002 SOFTCORR A 12/09/82 18:02    34    1 S    74 VOL$19
+SELECT19 EXEC     A 12/13/82 22:59    88    5 S    46 VOL$19
+SELECTXX EXEC     A 11/30/82 19:39    28    1 S    69 VOL$19
+SN00$001 SOFTNOTE A 12/09/82 18:04    54    2 S    78 VOL$19
+SN00$002 SOFTNOTE A 12/09/82 18:04   123    4 S    78 VOL$19
+SN00$003 SOFTNOTE A 12/09/82 18:04    56    3 S    78 VOL$19
+SN00$004 SOFTNOTE A 12/09/82 18:05    44    2 S    79 VOL$19
+SN01$001 SOFTNOTE A 12/09/82 18:05    56    2 S    80 VOL$19
+SN03$001 SOFTNOTE A 12/09/82 18:06    87    3 S    78 VOL$19
+SN03$002 SOFTNOTE A 12/09/82 18:06   143    7 S    78 VOL$19
+SN05$001 SOFTNOTE A 12/09/82 18:06    48    2 S    74 VOL$19
+SN11$001 SOFTNOTE A 12/09/82 18:07    40    2 S    78 VOL$19
+SN15$001 SOFTNOTE A 12/09/82 18:07    64    3 S    79 VOL$19
+SN15$002 SOFTNOTE A 12/09/82 18:07    62    2 S    77 VOL$19
+SN15$003 SOFTNOTE A 12/09/82 18:08    44    2 S    77 VOL$19
+SN15$004 SOFTNOTE A 12/09/82 18:09    59    2 S    68 VOL$19
+SN15$005 SOFTNOTE A 12/09/82 18:09    44    2 S    78 VOL$19
+SN16$001 SOFTNOTE A 12/09/82 18:09    54    2 S    78 VOL$19
+SN16$002 SOFTNOTE A 12/09/82 18:10    40    2 S    78 VOL$19
+SN17$001 SOFTNOTE A 12/09/82 18:10    58    2 S    80 VOL$19
+SN17$002 SOFTNOTE A 12/09/82 18:11    65    2 S    76 VOL$19
+SN18$001 SOFTNOTE A 12/09/82 18:11    84    3 S    78 VOL$19
+SN18$002 SOFTNOTE A 12/09/82 18:11   149    6 S    87 VOL$19
+SN18$003 SOFTNOTE A 12/09/82 18:12    78    2 S    78 VOL$19
+SN20$001 SOFTNOTE A 12/09/82 18:12    58    2 S    77 VOL$19
+SN20$002 SOFTNOTE A 12/09/82 18:13    57    2 S    78 VOL$19
+TARGET   BASIC    A 11/30/82 18:18   147    6 S    77 VOL$19
+TWONKY   BASIC    A 11/30/82 18:55   192    6 S    77 VOL$19
+VOL19    CONTENTS A 12/08/82 19:30   150    7 S    69 VOL$19
+VOL19    EXEC     A 12/13/82 22:57   536   13 S    71 VOL$19
+VOLXX    CONTENTS A 11/06/82 18:21    12    1 S    66 VOL$19
+VOLXX    EXEC     A 12/13/82 22:23   180    5 S    71 VOL$19
+WUMPUS3  BASICCOM A 07/03/81 13:17    27    7 SR  254 VOL$19
+88 file(s), 240 block(s).
+NEWS.LETTER19:VOL$19                                      01/31/85 06:36 Page 1
+
+-----------------------------------------------------------------
+8 December 1982         N E W S   L E T T E R           Volume 19
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+Just got back  from COMDEX  in Las Vegas and I've  got a stack of
+work piled up  here two feet high.  But,  the show must go on, so
+I'm going to try and get Volume 19 out this week.
+
+The big deal  this time  is the complete set of  PATCHES to OASIS
+5.5 given to us by Phase One.  Take a look at the ones that apply
+to your  system configuration and maybe you can solve some of the
+problems you are still having.  The VOL19 EXEC groups the patches
+for easy review.
+
+One of our  members, Gary Bergmen, sent in a whole bunch of games
+-  some of  which are  pretty good.  So, this volume  is a little
+heavier than usual with games.
+
+We had a very lively meeting at COMDEX with much discussion about
+"dangerous"  utilities  and  expanded/closer ties  with people at
+Phase One.   Howard Sidorsky joined us for the last half hour and
+answered  questions  about  Phase  One's  current activities  and
+future plans.   He has agreed to formally designate one person at
+Phase One to be our main contact in the future.
+
+In reflecting on the  things that were said at  the meeting, I am
+reminded  once  again that  it is  impossible  to please everyone
+equally.  I guess that's the nature of our diverse business.  The
+OUG has  many different  catagories of users, some of  which have
+conflicting objectives.  While some people expressed a reluctance
+to  have  their  customers  given  easy  access  to  competitor's
+products,  others  encouraged  even  more  exposure of  available
+software/hardware products.
+
+On the   question   of   "dangerous"  utilities,   some  software
+developers  were  worried that  eventually an unscrupulous person
+would  use  them to  steal their  software  products.  But, other
+software developers  welcomed the sharing of such tools.  Someone
+suggested that  we might  try to control access to  the utilities
+which  could  be  used  for  unethical  purposes.   I am  frankly
+confused by the  whole question.  I'd like to  think that most of
+us  are good  people, just  trying to do the best  we can without
+intentionally hurting anyone  else.  For the most part,  I'm sure
+that is  true.  But, it would be naive to conclude that there are
+NO bad guys out there.  So, what do we do about them?
+
+For my part, I'm  going to wait a while.   I've always found it a
+good policy  to act  when I am clear about  what is right, and to
+wait when  I'm not clear.  A little passing time can work wonders
+sometimes.
+
+This whole process  of  running  a  users'  group is  far  from a
+science.  My  office sometimes  looks like one of the  midwestern
+tornadoes hit it.   Things do get lost or  forgotten on occasion.
+A  blank or  garbled  diskette  does  get  sent out  on  occasion
+(fortunately  rarely).   And,  I suspect  I might have overlooked
+other  important  correspondence.   If anything  in your relation
+with me or  the OUG seems amiss to  you, give me a call so we can
+set it right.
+
+I am beginning  to  see  references  to  more and  more  software
+systems that assume  machine users know nothing about  how to use
+computers  -  that intellegent  people need access to intellegent
+machines without  undergoing significant new training.  I am sure
+this is  the wave of the future and I wonder if people developing
+new systems with  OASIS are doing anything along  this line.  I'm
+talking here  about the next generation of software products that
+go an order of magnitude beyond "USER FRIENDLY" systems that most
+people  producing today.   Five or  ten years from now I  am sure
+users will relate to computers much in the same way that they now
+relate to  their automobiles.  Ironically, it may be the Japanese
+who make  the initial breakthroughs - because they have made such
+software  a national  priority with coordinated research directed
+at finding  the means for leaping forward to the next generation.
+They got  into the  software business very late in  the game, but
+they  are already  moving to  find ways of applying their  unique
+family/team  approach  to  the  development of  advanced software
+concepts.   If American  software developers don't start thinking
+in more radically  innovative ways, we may just  lose the lead we
+now enjoy.  Just a personal opinion.
+
+OK. Two people at  COMDEX indicated they would like  to explore a
+cooperative "hospitality" suite and/or a booth at the next Winter
+COMDEX.   I'm  all  for it.   We have  a  lot of relatively small
+software (and hardware)  developers in the OUG who  can't justify
+the expenses of this kind of participation alone.  If you are one
+of them,  give  me  a  call  and let's  start  kicking around the
+possibilities.  I  do not intend to coordinate such an enterprise
+for profit, so  I'll expect all participants to  share the effort
+needed to get it all together (as well as the expenses).
+
+^hree people  told  me horror  stories about  how  UNIX is making
+inroads  on OASIS.   And, the  presence of UNIX was very  much in
+evidence everywhere at COMDEX.  I am even more convinced that all
+of us  with a  stake in OASIS must do  something about making the
+rest of the  computer/business world aware of the  quality of the
+operating system  and the  large and growing body of  application
+packages now  available.  I  just can't believe how little  press
+coverage we are  getting.  We definitely must begin  issuing more
+news releases  on our  products.  In this regard, volume  20 will
+include the long discussed Press Release System.  It will include
+a  business/computer  publications  mailing list  together with a
+sample  press  release  SCRIPT  file  containing suggestions  for
+format and  content.   I  know  a  lot of  you  will find it very
+useful.
+
+Well, that's it for volume 19.  I've already got a stack of great
+stuff for 20  - not to mention promises  for enough stuff to fill
+volumes  21-99.   So,  if you  are working  on  something, get it
+finished up and send it in.
+
+
+Peace,
+
+
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+PS: I hear Christmas music in the background and Tomoko is pouring
+over the holiday cookbooks.  So, the holidays must be just about
+upon us.  I hope the season finds you and all of your special
+people well and happy - as we are.  This has been a good year for
+us and much of the goodness is due to the growth of the OUG and
+the continued support of our long-standing members.  Thanks.  FB
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 19
+-----------------------------------------------------------------
+MEMBER19.FEEDBACK:VOL$19                                  01/31/85 06:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER19.FEEDBACK                                 1 December 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Dear Fred:
+
+I learned a lot from your INTRO1 and 2.  I almost overlooked
+the "flip  side" of  your disk (didn't think it  possible to
+read the back).
+
+Comments on your WISH LIST18 file "WISH LIST # 17":
+
+Item # 8.
+
+
+I don't know exactly what you are looking for in a MAIL-LIST
+to work with SCRIPT.
+
+Here's the technique I use:
+
+1. I use a  Customer Name Address program (CNA)  to maintain
+and access info on indexed files.
+
+Almost any MAIL-LIST program could serve this purpose.
+
+I wrote  my  own  CNA  (24K  assembler  program)  to provide
+optimum performance  and features  and to learn the ins  and
+outs of  Z80.  This  is not a good program  for distribution
+because it  uses data formats that are not easily handled in
+BASIC.  (I wrote  the program using my working  knowledge of
+IBM 360 before I had any idea of what BASIC was about).
+
+2. A selection  utility program (specific or generalized) is
+then  used  to  read  the  CNA  file(s)  sequentially.   The
+selected records are reformatted to create a sequential work
+file.
+
+3. The work file is sorted if necessary (using OASIS SORT).
+
+4. The file  is then  assigned to channel 3 and  the desired
+letters, labels, or documents are scripted.
+
+A full  menu  EXEC  selects  the desired  UTILITY, SORT, and
+SCRIPT.
+
+
+Item #3.
+
+
+Tell me more about OUG Bulletin Board Computer.
+
+300/1200 Baud?  Hours?  Protocol?  Cost?  Phone #?
+
+What will I be able to extract and how?
+
+Can I download from my system to yours?
+
+
+
+I would use "SPRINT" to call after 5PM EST.
+
+
+I wrote  a simple  communications program that logs onto the
+"SOURCE" and  simulates a  dumb terminal via DC Hayes  S-100
+modem.
+
+Contributions on   this  disk:   BASES  BASIC  is  a  number
+conversion program.
+
+ROBOT BASIC seems to have been the same origin as CHASE.
+
+TARGET BASIC was taken from a TRS-80 book.  (revised).
+
+TWONKY BASIC has been  around a long time.  This  one should
+be unique.
+
+The above are provided in BASIC, BASICOBJ, and BASICCOM (ver
+5.5).
+
+
+WHEEL ASSEMBLE is a 3 - 4 player hangman type game "Wheel of
+Fortune".   It is  played according  to the rules of the  TV
+show.  (The program  does not explain them.) There  are bugs
+in the "end game" (it doesn't know when to quit).
+
+INVADERS ASSEMBLE  is  a  crude  graphic variation  of space
+invaders.  (requires an addressable 24 x 80 terminal)
+
+
+The above  are  in  source  and command  format.  (No macros
+required).   The  following are  only available as BASICCOM.
+Unable  to  salvage  source  code,  no  thanks  to CROMEMCO,
+PERSCI, and CORVUS.
+
+
+^UMPUS (multiple caves with graphic pits)
+
+CAMEL (revised from TRS-80 games)
+
+ELIZA (revised from TRS-80)
+
+I have  discovered,  the  hard way,  that some manufacturers
+find  it  convenient  to use  OASIS as  a  scapegoat for the
+failure of their hardware.
+
+
+
+I could  use:  I need  an OASIS  version  of CDIAGNOS.  This
+program corrects  CRC errors for the CORVUS hard disk drive.
+The CPM version I have does not contain all of the code.
+
+
+
+How does MASTERPLAN stack up?  (Is it a professional product
+worth the price?)
+Can you  offer  an  objective  opinion on  the best Spelling
+Checker?   (SPELLBINDER  by  Lexisoft,  SPELLPROOF  by  QIS,
+yours, and others)?
+
+One of  your  members  mentioned "GRAPHNET"  for TWX.  Never
+heard of  it.  Sounds a lot cheaper than the $70.  per month
+that I pay for Western Union Access in a residential area.
+
+Awaiting OASIS-16.   Plan to  convert when and if conversion
+utilities for assembler are available.  Any feedback?
+
+
+Gary Bergman
+14  Hickory Lane
+North Brunswick, N.J.  08902
+(201) 246-7285 home
+
+PS. Cast one more vote for "CARAVAN".
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Want a printed copy of the program info as well? [Y/N]:N
+
+
+
+
+
+The following are some comments about the contents of VOLUME 19.
+
+***************************************************************
+
+$README.FIRSTXX       MEMBERXX.FEEDBACK
+NEWS.LETTERXX         NEWVOLXX.EXEC
+SELECTXX.EXEC         VOLXX.CONTENTS
+VOLXX.EXEC
+
+This is the collection of "shells" I use to generate each new volume.
+They are included here with the hope that some ambitious soul out
+there may decide they are up to putting together one complete new
+volume for us.  Such an unprecedented contribution would of course
+warrant an equally generous reward.  If you are into such a major
+effort, get in touch and we can work out the details.  I'll, no doubt
+want to put the final cosmetic touches on anything you do.
+
+In order to use this set, you must first copy all of the "XX" files
+on this disk to your system disk and then initiate the process by
+typing NEWVOLXX.
+
+TO COPY ALL THE "XX" FILES TO YOUR OWN SYSTEM DISK NOW
+TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ADD.BASIC/EXEC
+
+These are the programs for adding information about the contents
+of a new disk to the DISKFILE.LIBRARY file originally written by
+Joe Trimble.  I have added explicit mention of the various coding
+catagories used for the contents of the OASIS USERS GROUP library.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+BASES.BASIC
+
+This is a dandy little program to convert a number from
+ANY starting base to ANY new base - where the numbers
+can be in any base between 2 and 24.  Neat.  It was
+submitted by its author, Gary Bergman.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+CAMEL.BASICCOM
+
+A game about camels being chased by thirsty creatures in the
+desert.  It's been around a long time.  Gary Bergman found it
+for us in another user's group library and made it work under
+OASIS.  He was not able to salvage the source code, however.
+So, it will only work under 5.5 or later.  Sorry.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EDITBIG.EXEC
+
+If you don't have a word-processor package and you ever have to
+edit really BIG files, you're going to love this one.  It breaks
+up large files into manageable smaller pieces and then puts them
+all back together after you have finished editing all of the pieces.
+I put it together after manually breaking up hundreds of large files
+so that I could get the pieces in the edit buffer.  FB
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ELIZA.BASICCOM
+
+If you are feeling down in the dumps and you can't find anyone
+else who wants to talk to you, give Eliza a try.  She(?) is
+always ready with a sympathetic ear.  This one is showing up in
+a number of users group libraries, even though it is still being
+sold as a commercial product.  Gary Bergman found it and got it
+to work under OASIS.  He says he couldn't salvage the source.
+It will only work under 5.5 or later, however.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+INVADERS.ASSEMBLE/COMMAND
+
+This is a somewhat crude OASIS version of the commercial arcade
+game called Space Invaders (no doubt that's copyrighted).  This
+version works great and is fun to play.  Gary Bergman didn't say
+where he got it, but it comes with a package of games he mostly
+got from other users groups libraries.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ROBOT.BASIC
+
+This looks a lot like a program we previously released as CHASE.
+Gary Bergman converted it for OASIS from a source he found in
+an other users group library.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SC00$001.SOFTCORR to SC03$002.SOFTCORR
+SN00$001.SOFTNOTE to SN20$002.SOFTNOTE
+
+These are some of the most recent patches to various OASIS
+modules.  They were provided by Phase One Systems to the OUG.
+I have analyzed them and classified them according to the
+module/function/command/hardware type to which they apply.
+
+You may review only those patches which apply to a particular
+function, or you could take a look at all (64) of them, of
+course.  To read all of the notes that apply to any of the
+following catagories, just enter the appropriate number:
+
+ 1    BASIC               8    TEXTEDIT/SEND  15   NORTHSTAR
+ 2    RMCOBOL             9    EXEC           16   TRS-80 Mod II
+ 3    RESTORE/BACKUP-tape 10   ALTOS          17   IBC
+ 4    CONTROL             11   KONAN          18   CROMEMCO
+ 5    LINK                12   CORVUS         19   MORROW
+ 6    NUCLEUS             13   DIGITAL GROUP  20   SD SYSTEMS
+ 7    SCRIPT              14   VECTOR GRAPHICS21   SORT
+                                              22   ACCESS
+
+SELECT NUMBER NOW OR HIT THE <CR> TO CONTINUE:
+
+TARGET.BASIC
+
+This is another contribution from Gary Bergman, who converted it
+for OASIS from a version he found in another users group library.
+Its a game of ballistics where you try to set the angle, velocity,
+and height of a "harmless" projectile in order to make it land on
+a "friendly" target - like a water filled balloon aimed at a friend.
+It has a nice display.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+TWONKY.BASIC
+
+This is another chase-type maze game with good graphic presentation.
+It was submitted by Gary Bergman who converted it for OASIS from
+a source he found in another users group library.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+WUMPUS3.BASICCOM
+
+This is yet another slightly different version of a game we have
+released before.  It was converted for OASIS by Gary Bergman who
+found it in another users group library.  He says he was not able
+to salvage the source code, so it will only run under 5.5 or later.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+***************************************************************
+
+Well, that's  the end  of VOLUME 19.  I am always interested in
+any comments you may have about anything in the library or the
+other activities of the OUG. Give me a call anytime.
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265 (Answering machine when I'm not there)
+(805) 965-5555 (Answering machine when I'm not there)
+
+***************************************************************
+

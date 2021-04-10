@@ -1,0 +1,466 @@
+>VOL23
+==================================================================
+:                                                                :
+:           VOLUME 23 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "The most valuable of all talents is that of never using "    :
+:   two words when one will do."           - Thomas Jefferson    :
+:                                                                :
+:                                                                :
+==================================================================
+
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL23 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 23  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+Contents  of VOLUME  23 follows:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST23  A 03/30/83 00:16    59    3 S    65 VOL23
+BELLS    ASSEMBLE A 03/17/83 13:16    54    2 S    61 VOL23
+BELLS    COMMAND  A 03/07/83 06:21     2    1 R   256 VOL23
+CODE     COPY     A 02/16/83 17:50   137    5 S    62 VOL23
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL23
+CURIES   BASIC    A 04/01/83 23:49   215    9 S    88 VOL23
+CURIES   EXEC     A 03/17/83 19:44    33    1 S    65 VOL23
+FASSIGN  EXEC     A 04/03/83 22:48    49    2 S    68 VOL23
+^ILASGN  ASSEMBLE A 04/01/83 22:02   111    2 S    51 VOL23
+FILASGN  BASIC    A 03/14/83 19:08    50    3 S   127 VOL23
+FILASGN  COMMAND  A 04/01/83 22:02     4    1 R   256 VOL23
+FILASGN  NAMES    A 04/01/83 22:02    17    1 S    48 VOL23
+FILASGN  SOURCE   A 12/07/82 23:59    94    2 S    51 VOL23
+FORMAT   LETTER   A 03/20/83 03:31    25    1 S    54 VOL23
+FORMGRID BASIC    A 04/11/83 21:45    65    3 S   150 VOL23
+INVADER  ASSEMBLE A 04/11/83 21:26  1127   19 S    71 VOL23
+INVADER  COMMAND  A 03/31/83 22:18    21    6 R   256 VOL23
+INVADER1 ASSEMBLE A 03/31/83 22:12   625   12 S    64 VOL23
+LABLMAKR BASIC    A 04/03/83 22:29    79    4 S   103 VOL23
+LETTER   EXEC     A 10/01/83 22:29    94    2 S    69 VOL23
+LIFE     ASSEMBLE A 09/03/82 13:22   617   12 S    65 VOL23
+LIFE     COMMAND  A 02/26/83 13:26    23    6 R   256 VOL23
+LOGO     MACLIB   A 03/02/83 10:32    57    1 S    63 VOL23
+MEMBER23 FEEDBACK A 04/03/83 22:50    70    3 S    65 VOL23
+MONSTER  ASSEMBLE A 10/01/83 22:51  1210   13 S    63 VOL23
+MONSTER  COMMAND  A 10/01/83 22:52    20    5 R   256 VOL23
+MONSTER  MAZE     A 09/02/82 16:27    25    2 S    81 VOL23
+MSGS     EXEC     A 04/01/83 23:10    63    2 S    76 VOL23
+MSGS     NOTES    A 04/01/83 22:20   333   14 S    79 VOL23
+MSGS0010 BASIC    A 04/01/83 23:14    80    3 S    72 VOL23
+MSGS0020 BASIC    A 11/15/81 16:46    24    1 S    63 VOL23
+MSGS0210 BASIC    A 11/15/81 09:59    60    2 S    63 VOL23
+MSGS0310 BASIC    A 11/15/81 16:51    62    2 S    75 VOL23
+MSGS0410 BASIC    A 11/15/81 16:52    85    3 S    66 VOL23
+MSGS0510 BASIC    A 11/15/81 16:53    50    2 S    67 VOL23
+MSGSFILE MSTR     A 04/01/83 23:20     1    3 I    81 VOL23
+MSGSPLUS NOTES    A 04/01/83 22:53   619   28 S    79 VOL23
+NEWS     LETTER23 A 04/11/83 21:37    87    5 S    65 VOL23
+OFF      EXEC     A 04/11/83 21:58   125    2 S    56 VOL23
+PLENTY   ARTICLE  A 12/26/82 22:04   260   15 S    78 VOL23
+REMDOS   BASIC    A 04/03/83 23:10    41    3 S   256 VOL23
+REMDOS   EXEC     A 04/02/83 22:36    26    1 S    65 VOL23
+SELECT23 EXEC     A 04/11/83 21:54    48    3 S    46 VOL23
+SHSHARE  COMMAND  A 11/03/82 18:51    38   10 R   256 VOL23
+VOL23    CONTENTS A 04/11/83 22:02   209    8 S    65 VOL23
+VOL23    EXEC     A 04/11/83 21:26   487   12 S    73 VOL23
+X        ASSEMBLE A 04/05/83 13:18   211    5 S    64 VOL23
+X        COMMAND  A 04/05/83 13:18     5    2 R   256 VOL23
+48 file(s), 248 block(s).
+NEWS.LETTER23:VOL23                                       01/31/85 07:44 Page 1
+
+-----------------------------------------------------------------
+15   April  1983   N   E   W  S   L  E   T   T  E  R  Volume   23
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+
+VOL23: So round, so firm, so fully packed.  Not a smoke, just the
+latest volume in  our growing library.  Volume 23  contains a new
+message/reminder  system;   utilities  for  preassigning  all  16
+channels,  listing files  shared with other users, alerting other
+users  to something,  making it  easy  to prepare SCRIPT letters,
+making  multiple  copies of  a single  label,  and providing easy
+access  to  all  kinds of  system status  data  in EXEC routines.
+There are  also two programs for calculating the human hazards of
+nuclear  radiation.  And  there are several excellent arcade type
+games to round out the volume.
+
+CARAVAN: Well,  some  of you  have actually  had  a chance to use
+CARAVAN, our new  bulletin board.  It now contains  a pre-release
+copy of  the next  newsletter and volume contents.  It  also sets
+itself to your  terminal's class code and allows  you to download
+files  using  the  OASIS  Send/Receive commands.   There's even a
+smattering  of software  in the  system for you to test  it with.
+It's great fun to come home and sign on to see if anyone has left
+some new goodies.
+
+TELE-CONFERENCING: If  big  business can  do it,  why  not us?  I
+don't know  all the details, but what I do know is that it is not
+all that difficult  to get a large group  of people all tied into
+the same  phone  line at  the same  time.   A phone call, even  a
+lengthy  long  distance  call,  is  a  lot  less  expensive  than
+traveling to  some  distant  place.   I  would like  to  consider
+sponsoring such a  "conference." There are a lot  of questions to
+be answered before we invite very many people to join in.  But, a
+few of  us  might try  an experiment  to  see if it really  makes
+sense.  If  you have had any experience with tele-conferencing or
+know of any good guidelines for planning and running them, let me
+know.  Might  be  a good  idea to  limit  the initial trial to  a
+single well defined topic.  What do you think?
+
+LIBRARY UPDATES:  I  am  constantly  making both  minor and major
+^hanges to  my master  copies of the OUG library.   My copies are
+now  considerably  cleaner  and consistent  volume to volume than
+when  they  were  first  released.   The early  volumes contained
+varying  combinations of  BASIC, BASICOBJ, and BASICCOM files for
+the same program.  There were the inevitable errors and omissions
+sprinkled  throughout the  original releases.  Then, as time went
+on I began  to get more organized and  made the boiler plate more
+consistent  and  elegant.   Periodically,  I  have gone  back and
+modified the earlier volumes to bring them in line with the later
+ones.  If  you are  one of those "purests" who  likes to have the
+most up-to-date  version of  everything, give me a call  and I'll
+tell you how you can get your copies updated for a small fee.
+
+VOLXX.EXEC: You  will note  that the VOL23.EXEC has been somewhat
+streamlined.  Gary  Bergman's examples gave me the idea.  I think
+it is better now.  Thanks Gary.
+
+PRESS RELEASES:  Back  on  the  subject  of press  releases.  Got
+your's out yet?   The other day I was  having breakfast at one of
+my favorite  restaurants and  for the tenth time asked  when they
+were going to  start serving brewed decaffeinated coffee.   To my
+surprise the  waitress said that they had just started serving it
+-  mainly because  a few  people like me had been  asking for it.
+Even just  a few persistent people can make a difference and that
+goes  for  our  getting  better  press  coverage  for  our  OASIS
+compatible software products.  So, get your release out soon!
+
+This volume  is crammed  full, so  I'd  better cut the newsletter
+short this time or there wont be room for it.
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 23
+-----------------------------------------------------------------
+MEMBER23.FEEDBACK:VOL23                                   01/31/85 07:44 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER23.FEEDBACK                                   15 April 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+November 21, 1982
+
+Dear Fred,
+
+Sorry for the  delay  as  we  got  our systems  organized.   I am
+sending along  a couple  files of interest to the  OUG.  One is a
+BASIC program  called REMDOS which I use to derive risk of cancer
+from  a given  radiation dose.   I had hoped to send  RADOUT this
+time, which I  use to determine longevity of  a radiation release
+in  the  environment, but  decided instead  to  improve it first.
+RADOUT now  requires knowledge of half-lives.  I am incorporating
+that data for the 100 most common radionuclides, then I will send
+OUG the  program.   I  am  also  at work  on  converting a flight
+simulator to OASIS-BASIC.
+
+We greatly   appreciated  the   OSBOURNE  BASIC  conversions  for
+statistics.  We are  currently working on a consultation  for the
+Tennessee  Legislature  wherein we  derive cancer rates by county
+1940-1980  and  correlate for  industry profile, toxic waste dump
+locations, and  other indicators.  The chi-square and other tests
+for significance saved us literally weeks of work.
+
+I have included  an article which explains PLENTY to OUG members.
+I  noticed  that  most  of  your  articles  are hardware/software
+related and  I thought this might be an interesting experiment in
+alternative  communications.   If we  get some member feedback on
+^he article, we may put more detailed project summaries in future
+installments.
+
+Faithfully yours,
+
+Albert Bates
+for PLENTY
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+March 3, 1983
+
+Fred Bellomy
+Oasis Users Group
+PO Box 2400
+Santa Barbara, CA 93120
+
+Dear Fred,
+
+Here is  another  program in  the radiation  series.   I am still
+working on RADOUT.  Maybe you can put this out with REMDOS in the
+same volume.  My  flight simulator work has bogged  down, but I`m
+encouraged by  INVADERS.  I  need to learn assembly language  and
+that program  helps.  The  tapes get better all the  time, tho we
+had  some   trouble  loading  the  SC*.SOFTCORR  series--repeated
+crashes of the TIN.  I finally went ahead and did the rest of the
+tape  and came  back to  that group.  The error message  was TAPE
+ERROR  but  it may  have been  our system.  Anyway, I got  it all
+backed up.  Many thanks again.
+
+Sincerely yours,
+
+Albert Bates
+The Natural Rights Center
+Plenty
+Summertown TN 38483
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER23.FEEDBACK                            15 April 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 23.
+
+*****************************************************************
+
+
+BELLS.ASSEMBLE/COMMAND
+
+This is the same "DUMB" program that was distributed on VOL23.
+One very important item that was not mentioned before, was that
+it is not really that "dumb".
+
+If you have a "Multi-User" system, this command lets you call
+attention to another "user" without "disturbing" their console.
+
+Syntax:  BELLS  [nn]
+
+Where:   nn     is the partition number to be alerted.
+
+Gary Bergman (201) 246-7285
+
+
+CURIES.BASIC/EXEC
+REMDOS.BASIC/EXEC
+
+CURIES is a program to convert grams into curies or just to learn
+a  little.   It  provides a  quick, desk-reference calculation of
+radiation  exposure  from  common  isotopes  used in  medicine or
+nuclear energy.
+
+REMDOS is  a   program  to  calculate  the  cancer  effects  from
+radiation  dose.   It  was developed  to provide a desk-reference
+calculation of radiation cancer risk either in populations or for
+individuals.
+
+Both  CURIES and REMDOS are based upon the standard medical text,
+RADIATION AND HUMAN HEALTH, by J.W.  Gofman (1981).  Contemporary
+federal estimates would be ten times less severe.  If you ask the
+military, its all nonsense - you can eat the stuff.  The programs
+were submitted by Albert Bates, an attorney at the Natural Rights
+Center in Summertown, Tennessee (Connected with PLENTY).
+
+
+WANT TO TRY CURIES NOW? [Y/N]:N
+WANT TO TRY REMDOS NOW? [Y/N]:N
+
+FASSIGN.EXEC
+FILASGN.ASSEMBLE/BASIC/COMMAND/NAMES/SOURCE
+
+The FASSIGN command is similar to the OASIS ASSIGN  command.   It
+features  the  capability  of  assigning  all  16  channels  very
+quickly.  Submitted by Hanief Edwards (614)855-9618.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+FORMGRID.BASIC
+
+If you need  grid reference  lines on a standard form  or on your
+display screen  to define  print positions, this utility is  just
+the thing for you.  The Page and Line functions are used to setup
+the console screen size.  However, since BASIC takes full control
+of the printer when it comes to page length, Formgrid leaves this
+as a selectable option.  To override this one need simply use the
+Page  and Line  function on  the channel on which the  printer is
+opened.
+
+Submitted by Hanief Edwards (614)855-9618.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+CODE.COPY
+INVADER.ASSEMBLE/COMMAND
+INVADER1.ASSEMBLE
+LOGO.MACLIB
+
+This is another poor kids version of a popular arcade game.  This
+time it's Space  Invaders.  The controls are rather  slugish, but
+then  what do  you expect  for a nickel.  If you  are like me (no
+video  games!),  this  is not  a bad  diversion.   Contributed by
+Hans-George   Juerges   of   DATASOFT  in   Germany  -  Telephone
+(06181)253737.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+LABLMAKR.BASIC
+
+Have you  had  a  need to  print address  labels  on one of those
+letter size  address label  pages?  With this program you  define
+the  number  of times  you want  a field to be printed  across a
+page, how many  lines make up a label  or form and how many times
+you  want  the  label  repeated.   Submitted  by  Hanief  Edwards
+(614)855-9618.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+LETTER.EXEC
+FORMAT.LETTER
+
+
+A simple exec to allow someone who is familiar with EDIT but, not
+necessarily  familiar with  SCRIPT, to write generalized letters.
+The EXEC makes a few assumptions about your system conventions:
+
+All correspondence letters have  a file type of LETTER.   You can
+print single sheet paper (8 1/2" x 11").
+
+The EXEC does  not  print  the  letter.   It merely  gives  you a
+head-start for  editing a  NEW letter.  It will let  you EDIT any
+pre-existing letter  you choose, or it will do a FILELIST to show
+you what letters you already have.
+
+Gary Bergman (201) 246-7285
+
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+CODE.COPY
+LIFE.ASSEMBLE/COMMAND
+LOGO.MACLIB
+
+This is the classical "game" of life you've seen on so many other
+systems.   The instructions  are not  provided,  but it is fairly
+easy  to figure  out.  Basically,  you just put a few  X's on the
+screen in  well chosen  places using the cursor controls  and the
+system takes over from there.  Contributed by Hans-George Juerges
+of DATASOFT in Germany - Telephone (06181)253737.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+CODE.COPY
+LOGO.MACLIB
+MONSTER.ASSEMBLE/COMMAND/MAZE
+
+This is  a  poor kid's  version of  Pac Man.  Your little guy  is
+guided around an  extensive maze in search of  MONSTERS which you
+can get only at certain times.  At other times they are trying to
+get you.   This is  one of the best I've  seen of this particular
+class.  Contributed by Hans-George Juerges of DATASOFT in Germany
+- Telephone (06181)253737.
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+MSGS.EXEC/NOTES
+MSGS0010/020/210/310/410/510.BASIC
+MSGSFILE.MSTR
+MSGSPLUS.NOTES
+
+This is the  MESSAGE system portion of the generalized Management
+Information  Control  System (MICS)  produced by Gary Thompson of
+Design Systems Inc,  in St.  Louis Missiouri (314)  391-0450.  We
+had a  system to perform similar functions submitted earlier, but
+this one is completely different.  Try them both.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+PLENTY.ARTICLE
+
+This is a new  experiment with a different kind  of contribution.
+Read  it and  you'll see  what I mean.  It was  sent in by Albert
+Bates of PLENTY.
+
+
+WANT TO READ IT NOW? [Y/N]:N
+
+SHSHARE.COMMAND
+
+This is a  new utility  which allows you to list  selected or all
+files of  your  account  which  are  shared by  another  account.
+It is a commercial product so no source is provided.
+
+Contributed  by  Hans-George  Juerges  of  DATASOFT in  Germany -
+Telephone (06181)253737.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+X.ASSEMBLE/COMMAND
+
+This is a multi-function program that lets you access various
+information in an EXEC by placing values in the "return code".
+
+The passing of TIME & DATE values had not occured to me before.
+The credit for this feature, and my thanks, goes to Mark Amber.
+
+In addition to those parameters, this program can also pass
+the "Day of Week", in which case, it returns a value in the range
+of 1 to 7, where 1 is Saturday so you can test for a weekend:
+
+X WEEK
+&IF &RETCODE LT 3 &GOTO -WEEKEND
+
+If no parameters are given, the program "clears" the screen and
+sets the RETCODE to the current "partition number".
+
+If the parameter is not recognizable, the program goes
+"conversational" to ask you what you want.
+
+Gary Bergman (201) 246-7285
+
+WANT TO SEE AN EXAMPLE {Y/N}?:N
+WANT TO LIST OFF.EXEC NOW? [Y/N]:N
+***************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 23.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+***************************************************************
+
+
+>
+

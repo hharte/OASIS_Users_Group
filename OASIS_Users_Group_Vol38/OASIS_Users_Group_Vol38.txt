@@ -1,0 +1,1267 @@
+June 1984                       Volume: 38
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST38  A 04/18/84 21:30    60    3 S    65 VOL38
+ACCEPT38 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL38
+BRBNOTES EXEC     A 05/28/84 18:16    58    2 S    73 VOL38
+CHAT     ASSEMBLE A 07/26/83 12:24   176    5 S    70 VOL38
+CHAT     COMMAND  A 07/26/83 12:25     7    2 R   256 VOL38
+CHAT$    EXEC     A 06/01/84 18:16    74    2 S    64 VOL38
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL38
+DEV20A   EXEC     A 05/28/84 18:16    24    1 S    65 VOL38
+DEV20A   MACRO    A 05/28/84 18:16   367    9 S    52 VOL38
+DEV20A   OBJECT   A 01/24/84 09:37    10    1 S   128 VOL38
+DEV27A   ASSEMBLE A 05/03/84 18:16    54    2 S    79 VOL38
+DEV27A   EXEC     A 05/03/84 18:16    16    1 S    65 VOL38
+ENCADEMO EXEC     A 06/01/84 18:16    91    3 S    67 VOL38
+ENCASE   ASSEMBLE A 05/25/84 23:01   451    8 S    61 VOL38
+ENCASE   COMMAND  A 05/25/84 23:01    26    7 R   256 VOL38
+ENCASE   TESTDATA A 02/21/84 00:59    12    1 S    68 VOL38
+FORSAMPL EXEC     A 06/01/84 18:16    92    2 S    68 VOL38
+FORSAMPL SCREENS  A 05/29/84 09:10    23   12 D   512 VOL38
+FORSELEC ASSEMBLE A 05/28/84 18:16   683    9 S    61 VOL38
+FORTH    COMMAND  A 05/29/84 12:05    42   11 R   256 VOL38
+FORTH    DOC      A 05/29/84 19:46   222    6 S    90 VOL38
+FORTH    INTRO    A 05/30/84 10:48   106    3 S    70 VOL38
+FORTH    TUTORIAL A 05/29/84 15:30   204   12 S   183 VOL38
+FORTH$   EXEC     A 06/01/84 18:16   121    4 S    72 VOL38
+HOLIDAY  BASIC    A 05/03/84 18:16    38    2 S    90 VOL38
+HOLIDAY  EXEC     A 05/28/84 18:16    35    1 S    65 VOL38
+ICHPIC   BASICOBJ A 05/28/84 18:16   141    4 S   121 VOL38
+PRTSETUP BASIC    A 05/03/84 18:16    23    1 S    47 VOL38
+PRTSETUP EXEC     A 05/28/84 18:16    16    1 S    64 VOL38
+RESEARCH BASIC    A 09/23/83 08:46   479   20 S   152 VOL38
+RESEARCH EXEC     A 05/03/84 18:16    70    2 S    65 VOL38
+RESEARCH SCREEN   A 08/31/83 12:10    24    2 S   118 VOL38
+ROLODEX  BASIC    A 09/23/83 08:43   471   19 S   156 VOL38
+ROLODEX  EXEC     A 05/03/84 18:16    66    2 S    65 VOL38
+ROLODEX  SCREEN   A 09/24/83 12:18    43    4 S   122 VOL38
+SCRIPTU  BASIC    A 05/28/84 18:16   171    7 S   119 VOL38
+SCRIPTU  EXEC     A 06/01/84 18:16    75    2 S    67 VOL38
+SCRIPTU  OLDMENU  A 05/28/84 18:16    18    1 S    10 VOL38
+SELECT38 EXEC     A 06/01/84 18:16    54    3 S    46 VOL38
+SOFTWARE RULES    A 05/03/84 18:16   113    6 S    72 VOL38
+SYSTEM   DEV20A   A 01/24/84 09:38     4    1 R   256 VOL38
+SYSTEM   DEV27A   A 05/03/84 18:16     2    1 R   256 VOL38
+ULETTER  SCRIPT   A 09/07/82 08:58    59    1 S    72 VOL38
+VOL38    CONTENTS A 06/01/84 18:16   213    8 S    67 VOL38
+VOL38    EXEC     A 06/01/84 18:16   264    6 S    73 VOL38
+VOL38    FEEDBACK A 06/01/84 18:16   204   10 S    65 VOL38
+VOL38    NEWS     A 06/01/84 18:16   327   18 S    65 VOL38
+WHO      ASSEMBLE A 11/26/83 16:53    40    1 S    42 VOL38
+WHO      COMMAND  A 08/27/83 08:08     2    1 R   256 VOL38
+WHO$     EXEC     A 06/01/84 18:16    53    1 S    64 VOL38
+WISH     LIST38   A 06/01/84 18:16    96    4 S    65 VOL38
+WYSE     ASSEMBLE A 02/28/84 23:06   153    5 S    61 VOL38
+WYSE     COMMAND  A 02/28/84 23:07     5    2 R   256 VOL38
+WYSE$    EXEC     A 06/01/84 18:16    25    1 S    65 VOL38
+54 file(s), 246 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+ACCEPT38.COMMAND:A copied to ACCEPT38.COMMAND:D
+SYSTEM.DEV27A:A copied to SYSTEM.DEV27A:D
+WHO.COMMAND:A copied to WHO.COMMAND:D
+ENCASE.ASSEMBLE:A replaces ENCASE.ASSEMBLE:D
+ROLODEX.BASIC:A copied to ROLODEX.BASIC:D
+VOL38.FEEDBACK:A copied to VOL38.FEEDBACK:D
+BRBNOTES.EXEC:A replaces BRBNOTES.EXEC:D
+ENCADEMO.EXEC:A copied to ENCADEMO.EXEC:D
+FORSAMPL.EXEC:A copied to FORSAMPL.EXEC:D
+FORTH$.EXEC:A copied to FORTH$.EXEC:D
+RESEARCH.BASIC:A copied to RESEARCH.BASIC:D
+ROLODEX.EXEC:A copied to ROLODEX.EXEC:D
+WYSE.COMMAND:A copied to WYSE.COMMAND:D
+CHAT.ASSEMBLE:A copied to CHAT.ASSEMBLE:D
+DEV27A.ASSEMBLE:A copied to DEV27A.ASSEMBLE:D
+FORSAMPL.SCREENS:A copied to FORSAMPL.SCREENS:D
+FORTH.INTRO:A copied to FORTH.INTRO:D
+ROLODEX.SCREEN:A copied to ROLODEX.SCREEN:D
+SCRIPTU.OLDMENU:A copied to SCRIPTU.OLDMENU:D
+SOFTWARE.RULES:A replaces SOFTWARE.RULES:D
+FORTH.TUTORIAL:A copied to FORTH.TUTORIAL:D
+HOLIDAY.EXEC:A copied to HOLIDAY.EXEC:D
+RESEARCH.SCREEN:A copied to RESEARCH.SCREEN:D
+SCRIPTU.BASIC:A copied to SCRIPTU.BASIC:D
+VOL38.CONTENTS:A copied to VOL38.CONTENTS:D
+WISH.LIST38:A copied to WISH.LIST38:D
+CHAT$.EXEC:A copied to CHAT$.EXEC:D
+DEV20A.EXEC:A copied to DEV20A.EXEC:D
+DEV20A.MACRO:A copied to DEV20A.MACRO:D
+ENCASE.TESTDATA:A replaces ENCASE.TESTDATA:D
+PRTSETUP.BASIC:A copied to PRTSETUP.BASIC:D
+SCRIPTU.EXEC:A copied to SCRIPTU.EXEC:D
+SELECT38.EXEC:A copied to SELECT38.EXEC:D
+WYSE$.EXEC:A copied to WYSE$.EXEC:D
+ENCASE.COMMAND:A replaces ENCASE.COMMAND:D
+FORSELEC.ASSEMBLE:A copied to FORSELEC.ASSEMBLE:D
+FORTH.DOC:A copied to FORTH.DOC:D
+PRTSETUP.EXEC:A copied to PRTSETUP.EXEC:D
+$README.FIRST38:A copied to $README.FIRST38:D
+DEV20A.OBJECT:A copied to DEV20A.OBJECT:D
+DEV27A.EXEC:A copied to DEV27A.EXEC:D
+HOLIDAY.BASIC:A copied to HOLIDAY.BASIC:D
+ICHPIC.BASICOBJ:A copied to ICHPIC.BASICOBJ:D
+ULETTER.SCRIPT:A copied to ULETTER.SCRIPT:D
+WHO$.EXEC:A copied to WHO$.EXEC:D
+WYSE.ASSEMBLE:A copied to WYSE.ASSEMBLE:D
+CHAT.COMMAND:A copied to CHAT.COMMAND:D
+COPYRITE.BASICCOM:A replaces COPYRITE.BASICCOM:D
+SYSTEM.DEV20A:A copied to SYSTEM.DEV20A:D
+VOL38.NEWS:A copied to VOL38.NEWS:D
+FORTH.COMMAND:A copied to FORTH.COMMAND:D
+RESEARCH.EXEC:A copied to RESEARCH.EXEC:D
+VOL38.EXEC:A copied to VOL38.EXEC:D
+WHO.ASSEMBLE:A copied to WHO.ASSEMBLE:D
+
+>VOL38
+4     COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P      0
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+   ==================================================================
+   :           VOLUME 38 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   :  "This is my prediction for the future:  Whatever hasn't       :
+   :   happened will happen, and no one will be safe from it."      :
+   :                                           J.B.S. Haldane       :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 38  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  38,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST38  A 04/18/84 21:30    60    3 S    65 VOL38
+ACCEPT38 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL38
+BRBNOTES EXEC     A 05/28/84 18:16    58    2 S    73 VOL38
+CHAT     ASSEMBLE A 07/26/83 12:24   176    5 S    70 VOL38
+CHAT     COMMAND  A 07/26/83 12:25     7    2 R   256 VOL38
+CHAT$    EXEC     A 06/01/84 18:16    74    2 S    64 VOL38
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL38
+DEV20A   EXEC     A 05/28/84 18:16    24    1 S    65 VOL38
+DEV20A   MACRO    A 05/28/84 18:16   367    9 S    52 VOL38
+DEV20A   OBJECT   A 01/24/84 09:37    10    1 S   128 VOL38
+DEV27A   ASSEMBLE A 05/03/84 18:16    54    2 S    79 VOL38
+DEV27A   EXEC     A 05/03/84 18:16    16    1 S    65 VOL38
+ENCADEMO EXEC     A 06/01/84 18:16    91    3 S    67 VOL38
+ENCASE   ASSEMBLE A 05/25/84 23:01   451    8 S    61 VOL38
+ENCASE   COMMAND  A 05/25/84 23:01    26    7 R   256 VOL38
+ENCASE   TESTDATA A 02/21/84 00:59    12    1 S    68 VOL38
+FORSAMPL EXEC     A 06/01/84 18:16    92    2 S    68 VOL38
+FORSAMPL SCREENS  A 05/29/84 09:10    23   12 D   512 VOL38
+FORSELEC ASSEMBLE A 05/28/84 18:16   683    9 S    61 VOL38
+FORTH    COMMAND  A 05/29/84 12:05    42   11 R   256 VOL38
+FORTH    DOC      A 05/29/84 19:46   222    6 S    90 VOL38
+FORTH    INTRO    A 05/30/84 10:48   106    3 S    70 VOL38
+FORTH    TUTORIAL A 05/29/84 15:30   204   12 S   183 VOL38
+FORTH$   EXEC     A 06/01/84 18:16   121    4 S    72 VOL38
+HOLIDAY  BASIC    A 05/03/84 18:16    38    2 S    90 VOL38
+HOLIDAY  EXEC     A 05/28/84 18:16    35    1 S    65 VOL38
+ICHPIC   BASICOBJ A 05/28/84 18:16   141    4 S   121 VOL38
+PRTSETUP BASIC    A 05/03/84 18:16    23    1 S    47 VOL38
+PRTSETUP EXEC     A 05/28/84 18:16    16    1 S    64 VOL38
+RESEARCH BASIC    A 09/23/83 08:46   479   20 S   152 VOL38
+RESEARCH EXEC     A 05/03/84 18:16    70    2 S    65 VOL38
+RESEARCH SCREEN   A 08/31/83 12:10    24    2 S   118 VOL38
+ROLODEX  BASIC    A 09/23/83 08:43   471   19 S   156 VOL38
+ROLODEX  EXEC     A 05/03/84 18:16    66    2 S    65 VOL38
+ROLODEX  SCREEN   A 09/24/83 12:18    43    4 S   122 VOL38
+SCRIPTU  BASIC    A 05/28/84 18:16   171    7 S   119 VOL38
+SCRIPTU  EXEC     A 06/01/84 18:16    75    2 S    67 VOL38
+SCRIPTU  OLDMENU  A 05/28/84 18:16    18    1 S    10 VOL38
+SELECT38 EXEC     A 06/01/84 18:16    54    3 S    46 VOL38
+SOFTWARE RULES    A 05/03/84 18:16   113    6 S    72 VOL38
+SYSTEM   DEV20A   A 01/24/84 09:38     4    1 R   256 VOL38
+SYSTEM   DEV27A   A 05/03/84 18:16     2    1 R   256 VOL38
+ULETTER  SCRIPT   A 09/07/82 08:58    59    1 S    72 VOL38
+VOL38    CONTENTS A 06/01/84 18:16   213    8 S    67 VOL38
+VOL38    EXEC     A 06/01/84 18:16   264    6 S    73 VOL38
+VOL38    FEEDBACK A 06/01/84 18:16   204   10 S    65 VOL38
+VOL38    NEWS     A 06/01/84 18:16   327   18 S    65 VOL38
+WHO      ASSEMBLE A 11/26/83 16:53    40    1 S    42 VOL38
+WHO      COMMAND  A 08/27/83 08:08     2    1 R   256 VOL38
+WHO$     EXEC     A 06/01/84 18:16    53    1 S    64 VOL38
+WISH     LIST38   A 06/01/84 18:16    96    4 S    65 VOL38
+WYSE     ASSEMBLE A 02/28/84 23:06   153    5 S    61 VOL38
+WYSE     COMMAND  A 02/28/84 23:07     5    2 R   256 VOL38
+WYSE$    EXEC     A 06/01/84 18:16    25    1 S    65 VOL38
+54 file(s), 246 block(s).
+▼ OL38.NEWS:VOL38                                          01/29/85 17:36 Page 1
+
+-----------------------------------------------------------------
+1 June 1984             N E W S   L E T T E R           Volume 38
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+
+VOL38: is  another SUPER  one.  The  most  exciting thing in this
+volume for  many people  will no doubt be the  new FORTH compiler
+from Jerry  Hasty.  In addition to that milestone, volume 38 also
+contains a couple  more device drivers (one for  an IBM 2741 from
+Bill Sheldon and another for a Centronics 737 from Chris Mallam),
+a cute  Christmas tree with twinkling "lights" from Jim Halpin, a
+program to  setup the Centronics 737 printer from Chris Mallam, a
+couple of  record maintainance programs that were generated using
+CONTROL  (RESEARCH  for  a  law  office  and  a very  generalized
+ROLODEX)  were  contributed by  Mack Braly,  a  handy utility for
+displaying and dealing  with all the SCRIPT files  in your system
+(SCRIPTU) was  sent in  by Royce Bordman, and a  nice utility for
+setting up  the  function  keys  on  the Wyse  50  came from Gary
+Bergman.    The   latest  revision   of  the  SOFTWARE.RULES  and
+WISH.LIST38  files,  a  corrected version  of the ICHPIC.BASICOBJ
+which was corrupted on volume 26, the missing ULETTER.SCRIPT file
+and corrected BRBNOTES.EXEC from Volume 37 are also included.
+
+FORTH SIG: The new  availability of a FORTH compiler  under Oasis
+opens up  a great opportunity to establish the first of our often
+discussed  Special  Interest  Groups (SIG).   Gerald Hasty in Las
+Vegas has  volunteered to be our coordinator.  And so it is.  Our
+first  SIG.   Jerry will  be our  official  contact point for all
+matters  of  interest  to users  of the  FORTH  language.  Please
+contact  him  to let  him  know  of  your  interest.  He  can  be
+contacted at:  Gerald Hasty  Co., 5130 East Charlston #5315,  Las
+Vegas  NV  89122  phone  (702)  452-3368.   He  has  a Bell  212A
+compatible  modem  and an  IBC Middi  Cadet.   I will assist with
+media conversions as necessary.
+
+NOTE: Anyone interested  in FORTH and bound for the Las Vegas NNC
+show in July should contact Jerry for the time and place of a SIG
+meeting he is arranging.
+
+INTRODUCTORY EXECS: Starting  with volume 38 I will be attempting
+to make each of the program/system contributions stand completely
+alone from the VOLnn.EXEC programs which I use to introduce them.
+Basically, that  means there will be a new option: INFO, included
+with most introductory  program EXECs which I will  call from the
+main VOLnn.EXEC.  The  value of this new tactic  is that you will
+have everything  there is for the application included right with
+the application itself  - including the short summaries  I use to
+put  in  the  VOLnn.EXEC.  The  latest revision of SOFTWARE.RULES
+reflects this change.  Hope you like it.
+
+SPELLING ERRORS:  I  just  finished  running  all  old  the NEWS,
+CONTENTS,  and FEEDBACK  files through the PROOF spelling checker
+as  I  now do  with all  the new things before they  are released
+(including the things  you send in).  In nearly  every file there
+were at  least one  or two misspelled words.  Using  the spelling
+checker is a learning tool for me.  When I find a misspelled word
+I  guess  at alternate  spellings until  I  get it correct.  I've
+always been a poor speller - even took a special class in college
+that  helped some.   I wish  it wasn't so, but them's  the facts.
+Some of you folks didn't come off as perfect spellers either, and
+one of you  (who's name you would probably  recognize) is clearly
+in second place for the distinction of being OUG's worst speller.
+
+During the  process  of checking  the old  files  I added all the
+names of  contributors to my copy of the dictionary - so now some
+of you have  achieved another degree of immortalization.   If you
+like the  improvement in spelling accuracy, give Bob Chapman, the
+author of PROOF, a call at (416) 845-2203.  And, a special thanks
+again from me Bob.
+
+FAST PAYMENTS:  I  am now  spending a  noticeable  amount of time
+dealing with  slow payments of fees.  It takes time to check over
+the  accounts  receivables  records  and  then double  check file
+folders and other  records for any special deals  or contribution
+credits due.  I  know this is a business  now and one must expect
+such things as part of the normal course of doing business.  But,
+it dawned on  me that I haven't paid  much attention to all those
+good  folks who  ALWAYS pay  their bills on time.  I  really must
+find some  way of  rewarding such virtue in the  future.  But for
+now, a BIG public thanks for helping me with MY cash flow so that
+I can pay MY bills on time, too.
+
+PUBLICITY: For the  rest  of  the  year,  I will  make  available
+without  fee  to anyone  who guarantees  to  use it for promoting
+Oasis products,  an updated  version of the PRESS RELEASE  SYSTEM
+originally released on volume 22.  I have augmented and corrected
+the publication  mailing list slightly, so if you need the latest
+version, let me know.  I will be doing a series of press releases
+myself on  recent developments in the OUG in the near future.  It
+takes four to  eight weeks for things to  actually get published.
+You might keep that in mind when planning your own publicity.
+
+Joe Harris of  geoLOGIC sent us a copy of his brochure which uses
+a discussion  of the powerful features of Oasis to strengthen the
+appeal of his already very attractive welldata management system:
+geoMATE.  It  is a promotional strategy others might well (no pun
+intended) emulate.
+
+We now  have  several  resources  within  the OUG  membership for
+professional  assistance with  promotion, publication, publicity,
+etc.  For example, we had this newsletter typeset by LogiGraphics
+from  the  machine readable  file which  was  transmitted from my
+office  to  theirs  by  modem.   LogiGraphics  is  owned by  Bill
+Sheldon, one  of our members.  He is planning a contribution soon
+which will explain  in simple language how anyone  with Oasis can
+do it  - even  though I didn't find it  all that complicated.  If
+you  need  advice with  any aspect  of promotion or just help  in
+getting  started, give  me a  call and I'll see what  I can do to
+help you get the ball rolling.
+
+PRESS COVERAGE: I  need help.   If you see anything published  of
+special interest  to people in the Oasis community, let me know -
+or better,  send me a copy of what you found.  I can only read so
+many  journals   personally,  and  people  are  telling  me  they
+appreciate the  news items  about happenings in the Oasis  world.
+Maybe someday  we'll have our own slick periodical devoted to us.
+In the meantime  I'll keep putting as much  news as I can find in
+this newsletter.
+
+DYNABYTE: Computer Systems News reported in the 21 May issue that
+Dynabyte  has  signed  an  exclusive  $1  million  agreement  for
+Datamerica  S.A.,  Santiago,  Chile,  to  distribute the  Monarch
+system  in Argentina,  Chile, Paraguay, and Uruguay.  The article
+didn't say which  OS Datamerica will put on  the systems.  In the
+30 April  issue  they  had  previously  reported a  two  year, $5
+million  distribution  agreement with  Ultimate Computer Services
+for the Monarch.  Ultimate will distribute in Delaware, New York,
+New  Jersey,  and  Pennsylvania.  So  far none  of  this apparent
+increased  sales  activity has  resulted in  any  new OUG members
+since January of this year.  And, that seems a bit strange.
+
+ALTOS: Four  more  key executives  have left following the recent
+shift in long term marketing strategies.  Gone are Ron Conway, VP
+Sales; Bob Bozeman, Director of Marketing; Bob Dehaven, OEM Sales
+Director; and  Gary Struter, VP Manufacturing.  All of this since
+Phillip White,  formerly IBM  Marketing Manager, was hired to  be
+senior Marketing  VP.  What I see in the press makes it look like
+they retargeting for the big guys, eg.  government, Fortune 1000,
+etc.  HOLD  THE PRESS.  CSN, 28 May reports that the Altos palace
+intrigue continues.   It seems that founder, Dave Jackson is back
+and four month  old president, Dave Hanna is  out.  VP Ron Conway
+who resigned with  three others is returning.  Jackson  is quoted
+as saying that  they will continue to provide  strong OEM support
+and is not planning a direct sales campaign directed at those big
+boys.  Wonder if we've heard the last on this.
+
+IBC: inaugurated a  Customer Service Newsletter with the issuance
+of  volume one  on 30  April 1984.  Included in that  issue was a
+discussion of known bugs and action being taken, hardware upgrade
+procedures, a list  of current Authorized Service Centers  (11 of
+them), and  other topics  of interest to owners of  IBC machines.
+With  my  copy of  the first  newsletter also came a stack  of 20
+Customer Information  Bulletins covering a variety of engineering
+changes.
+
+Earlier, IBC/Distribution issued their own newsletter to dealers.
+The well  done publication  is a tasteful mixture of  chatty news
+and helpful  sales advice.  Buddy Auble, one of the editors, gave
+the OUG  a strong plug in an article entitled: "OUG - No it's not
+a caveman's last name."
+
+One of  the  highlights  of  this  issue  was  the  report of  an
+independent  benchmark   series  conducted  by  an  unnamed,  but
+apparently  credible  evaluator.  The  report of the tests didn't
+pull any  punches.  It  showed that the 8 MHertz  did give the HP
+Middi Cadet an  edge over all the competition  in straightforward
+processor type  operations, but that with direct file reading and
+writing  an  Onyx  machine  had  the  edge!   Some  indexed  file
+operations were  also slower  on the IBC machine.  It  seems that
+the Onyx strategy of using a banked nucleus does indeed provide a
+speed  advantage  under  some  operating  conditions,  even  when
+compared with the IBC cached nucleus strategy - and all this from
+IBC's own  publication.  The evaluator does give the IBC HP Middi
+Cadet a clear edge over the Onyx in total overall performance and
+throughput speed, however.   The results are reported in  such an
+unbiased and balanced way, it is hard not to believe them.
+
+ONYX: Things seem to  have been pretty quiet since  Glen Miashiro
+got fired in  March.  Glen told me Greg  Ewald is the new product
+manager  for   Oasis  related  marketing  and  that  Diane  Byrne
+continues in  customer support (for distributors only).  They are
+reported to  be shipping  the new 16-bit Onyx-186 which  uses the
+80186 chip as of sometime this month (May).
+
+EXECUPORT XL:   mentioned   in   the  volume   37  newsletter  is
+distributed  by Computer  Transceiver Systems in New Jersey (201)
+261-6800.  I spoke to the president, Alan Jocobson, who confirmed
+that his machine  does indeed run Oasis "like  a bat out of hell"
+and  that   there  is  a  hard  disk  option.   The  hardware  is
+manufactured by a  small German subsidiary of ITT.   Alan says he
+isn't selling  many of the machines with Oasis because no one has
+ever  heard of  it!   He  is  looking  for some  vertical  market
+packages  to  put  on it.   Price ranges  from  about $2500 for a
+minimum 8-bit system  to about $4000 for a  full 8/16 system that
+will support four users.
+
+NNC: One of the most promising new pieces of hardware I have seen
+in a long  while comes from NNC.  Sandy  Watson is justly excited
+about  his  just  released System  20/40.  I  saw  this new 6 Mhz
+compact whisper quiet desktop machine in operation and I tell you
+I am impressed.  It is only 4" high by 14" square and weighs just
+20 pounds with  one 1MB 5.25" floppy and  either a 20 or 40 Mbyte
+(formatted) hard  disk!  You can have either single or multi user
+Oasis on it, too.  Single user systems have 64 KB, 2 serial and 1
+Centronics  port  and  lists for  $4536 (20  Mbyte)  or $6076 (40
+Mbyte).  Multi  user (up  to 3 users) systems have  2 more serial
+ports and 192  KB and lists for $4900  and $6440.  OEMs get about
+30 percent off and they are delivering the little guys right now.
+(Those prices don't include Oasis however) This thing is so small
+it would  not be wrong to call it portable, though you would have
+to lug around a separate terminal to use it.  This one reminds me
+of the never-did-materialize rumor that SD Systems was working on
+something similar a year or so ago.  Looks to me like Sandy's got
+himself a real hot winner with this one.
+
+UNIX: In  the 21  May issue  of Computer System News there  was a
+report  of a  recent conference  entitled:  UNIX - The Investment
+View.  "Esther  Dyson, president of EDventure Holdings Inc.  made
+this analogy: 'When  you go to the deli  and order tuna, you take
+the mayo  for granted.  The end user does not care if it's a Pick
+or Unix operating  system.  Users buy Lotus, not  PC DOS.  No end
+user buys an  operating system.  The applications written  for it
+make Unix important.'
+
+"Dyson predicted  that  in  the  commercial  market,  IBM's  Unix
+version will probably become the standard - just as PC DOS became
+the operating  system standard in the microcomputer world - while
+in  the  scientific  marketplace,  there  will  be  a variety  of
+operating  systems." Montgomery's  Shattuck suggests: "The key to
+success in  this new  environment is to develop a  strategy which
+exploits Unix rather than resists it."
+
+In the current May issue of Business Computer Systems there is an
+excellent  operating  system  "Product  Survey".   It is  full of
+summary charts  with all  kinds of comparisons among most  of the
+operating systems  I've ever heard of.  "Our roundup reveals that
+UNIX is  a solid  bet to become the dominant  operating system of
+the future." concludes  the writer, Tom Woods.  But,  pay special
+attention to two  words in that conclusion: BECOME  and DOMINANT.
+At  the present  time OASIS  and UNIX enjoy equal market  shares,
+about 2% (CP/M and MSDOS have the lion's share - 69%).  What  ATT
+and  IBM do  will pretty  much decide what becomes standard.   We
+will,  no  doubt, live  in a  predominantly  16-bit world at some
+point in  the future, and thus the prediction for a dominant role
+for 16-bit UNIX is consistent with all the heavy press about long
+term commitments  we see  from big manufacturers.  But you  don't
+have  to  read  very  far  in  the  article  to  develop  a  deep
+appreciation  for the  pluralistic nature of the requirements and
+▼ OL38.NEWS:VOL38                                          01/29/85 17:36 Page 2
+
+preferences of computer users.
+
+"Although it  is almost  certain that  one  version or another of
+UNIX will dominate the multiuser operating system market and that
+MSDOS and CP/M  will continue to dominate the  single-user world,
+alternatives like  Oasis-16, the p-System, and Pick might also do
+well.  There are thousands of applications packages available for
+these  operating  systems,  many  of which  are vertical packages
+written  by  users  themselves.   Phase One  System's Oasis-16, a
+multiuser/multitasking  system,  is  known  as a  good system for
+applications   development;   Pick   System's   Pick  -   also  a
+multiuser/multitasking  system  -  is  know  for its  easy-to-use
+data-base  and file-management  capabilities; and the single-user
+p-System  from  Softech  Microsystems  is  an extremely  portable
+operating system..." Anyone reading this article is bound to come
+away with  the conclusion that Phase One, Oasis Technologies, and
+the hundreds of  other software houses based on  Oasis, should be
+able to pay salaries for a long time to come.
+
+DISKETTE FORMATS: The disk compatibility summary is coming along,
+but  I  still  need both  single and  double  density formats for
+several   machines:   CCS   300/400/421/422,  Compupro,   Digitex
+4621/8100,  Cromemco  3, Dynabyte  5505/5605/5710/6600/6900, (and
+tape formats for  any machines that have them).   If you have any
+of these machines,  please do a SHOW DISK  and send me the format
+information on the second line of the display [eg (77-1-26) NOTE:
+in this example  which is the "standard" eight  inch SSDD format,
+there are  77 tracks, one head (single sided), and 26 sectors per
+track].
+
+OASIS IN  ROM:  Off and  on over  the years I have heard  various
+rumors  that some  of the Oasis compatible computer manufacturers
+were  looking into  putting Oasis  in ROM.  It seems like  a very
+good idea and I wonder if it is currently being considered by any
+one.  The  journals are full of announcements that UNIX and MSDOS
+are being offered  (or planned to be offered)  in ROM, so why not
+the best O/S of them all?  If you are in the know, please report.
+
+CALL FOR PAPERS: The Office Research Association wants papers for
+its annual  meeting in  Atlanta next February, just prior  to the
+AFIPS Office Automation  Conference.  Proposals must be in  by 15
+August to  Mary Ruprecht  (218) 727-5150.  Give her a  call for a
+copy of  the invitation.  Could be a good way to give one of your
+products a little exposure.
+
+
+COMING: In the  works right now is a system for making use of the
+Western  Union  EasyLink  service,  the Osborne  Accounts Payable
+module  plus updated  versions of  General  Ledger and Payroll, a
+"for real" weather prediction system, a sailboat race information
+system, a cash flow/financial position analysis system, a Masonic
+Lodge  management system,  the EDIT-11 full screen editor (having
+problems  with that  one), a  full  personal finance system, more
+business  applications  and  utilities, and  lots of other little
+miscellaneous goodies  too numerous  to mention - as they  say on
+Madison  Avenue.   I'm still  working on  getting  a "C" compiler
+(making  progress) and  there are  so  many other things promised
+that I lose track.
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 to get CARAVAN, our on-line information system.
+Runs 24 hours a day, 7 days a week at 300 Baud on weekends and
+at 1200 Baud during the weekdays.  Give it a try.
+
+-----------------------------------------------------------------
+end of .  .  .  .          N E W S   L E T T E R           Volume
+-----------------------------------------------------------------
+▼ OL38.FEEDBACK:VOL38                                      01/29/85 17:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL38.FEEDBACK                                        1 June 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+May 8, 1984
+
+Dear Fred,
+
+Here is  the  source  for the  Christmas tree;  I  adapted it for
+Oasis.
+
+Thanks for the additional volumes.  I really enjoy the variety of
+contributions  available  - even  if we  can't  use them, I learn
+something new from the author's style and technique.
+
+We recently installed  an IBC High Performance Middi, so would it
+be possible to receive future volumes on 5-1/4 inch floppies?  By
+the way,  our service  dept.  runs five users, and  they love the
+speed of the new system.
+
+I've seen some talk  about the possibility of running  OASIS as a
+task  under  Unix.  While  I'm sure  that would involve a lot  of
+development work,  I think  the market potential for OASIS  would
+then go through the roof.  Like it or not, Unix (and ATT) will be
+a  force  to  reckon with  -  why  not  avoid  the head  to  head
+competition and become another sophisticated Unix "tool"?
+
+Take it easy.
+
+Jim Halpin
+Allied Cond. Corp.
+201-548-5656
+-----------------------------------------------------------------
+
+                                        235 Charlotte #24
+                                        Ottawa, Ontario
+                                        Canada K1N 8L4
+
+
+Dear Fred,
+
+I am  longing to  sink  mo  teeth  into  some really  useful  and
+debugged software.  The REMINDER program by Joe Trimble was good;
+however,  I   find  I   don't  use  it  because  it   should  run
+automatically every time  I log on - but  I don't use it that way
+because I  have fallen asleep by the time it has finished all its
+disk accesses.  The address programs which I would really like to
+use seem to  have some bug in them  which causes what should be a
+blank  line to  print out  what was last in that  buffer from the
+previous  address.   Another  Joe Trimble  program I would really
+like to use  is the Diskfile Library -  but it seems incapable of
+keeping track of  multiple occurrences of the same  program; ie.,
+backups on different disks.
+
+Another program I've included is  the DIAL1 program and it  works
+fine.  If the computer you are connected to allows auto logon and
+so  on  - many  of the  BBS's do their processing in  interpreted
+BASIC and can't keep up with a continuous stream of characters at
+even 300 baud.   Any way, if allowed, the  program will stack the
+name  of  a  translation program  (up to  8  characters including
+punctuation) load  it, and jump immediately into the conversation
+mode.  The autodialing  part of the program is  designed foe a DC
+Hayes Smartmodem.
+
+I an having a few problems with Oasis, and when I saw the updates
+on the Volume  19 I thought at least  one of my problems would be
+solved.  No  such  luck!   Since  I  have a  Separate  phone line
+running to  the  computer,  and  the  Smartmodem has  a  built-in
+off-hook relay,  I have  the system set up with  a special system
+disk,  which when  in the  system drive, boots into the  modem as
+console,  allowing  complete  access  to  all resources  from any
+terminal/modem.
+
+There are  some  unscrupulous  people around  here who take great
+delight  in seeing  how much  damage they can inflict on  others'
+systems.  Therefore,  I am forced into using password protection.
+This, however,  presents its own set of problems.  In single user
+mode, typing  F (*  does not allow another account  to see system
+files, as the  manual says it should.  Also,  SHARing a text file
+does  not  allow another  account to  edit it.  I assume this  is
+allowed with a  data file; however, it does  not work with a text
+file.
+Two of us are  writing a Science Fiction novel,  and we both have
+to log on to that account in order to work on the book.  It would
+be nice,  especially with user accounting, to be able to log onto
+our own accounts and share the novel.
+
+There is a very  active Computer Club here in  Ottawa, of which I
+am a  member, and  they have the complete set  of CPM users group
+disks.   I  really should  try  and  get  a  listing of  what  is
+available, and  try converting  anything useful to Oasis.  I  dis
+try that route last summer; however, the person with whom I tried
+this  foray  was  very  into  professional software,  was running
+Turbodos, and although  he did copy the contents  onto a disk for
+me,  he was  never home,  and he was extremely difficult  to deal
+with.   I  found  his holier-than-thou  attitude very irksome.  I
+have written off that disk as a lost cause.
+
+I would like  to move  into the multi-user arena, since  it often
+occurs that  I get an inspiration to work on the computer, wander
+into the room, and find the computer powered up and being used by
+somebody  else.    Upgrading  a  Digital  Group  System  is  both
+difficult   and   unrewarding.    Since   the   system   is   not
+interrupt-driven,  I  can  forsee  that  going  multi-user  would
+seriously degrade  the performance,  even for just two users.   I
+guess that  I should  write to John Taylor, and  see how he finds
+it,  since  I  believe that  he is  running  multi-user on his DG
+system.
+
+Well, enough of this  drivel, I must go out  and finally get this
+posted.    I  apologize   for  sending  software  not  thoroughly
+debugged; however,  at the rate I am going, and since you like to
+muck  about  with  these things  anyway, I  send  it in less than
+perfect form.
+
+So, as Forrest Myers used to say,
+
+                                        many happy RETURNS,
+
+                                        Chris Mallam
+
+-----------------------------------------------------------------
+
+Dear Fred:
+
+I am interested in selling a copy of the  Oasis FILE SORT CONTROL
+package (Version 5.6).  My original cost was $695 and I will sell
+it for $200  (plus any fees for serial number change).   Any help
+in this matter would certainly be appreciated.
+
+Respectfully yours,
+
+Charles J. Rice, M.D.
+(318) 222-7786
+
+-----------------------------------------------------------------
+Gene Speck wants Altos machines, working or not. (918) 687-3161
+-----------------------------------------------------------------
+
+May 14, 1984
+
+
+Hi, Fred:
+
+Many hours of work  are here, but many more  to go.  I don't know
+why  I  feel   apologetic---like,  "A  day  late  and   a  dollar
+short"---when  I've really  been pushing  on  this stuff.  As you
+know, however, the more complex the system or program, the harder
+it is  to get  all the bugs out.  And  that seems to be very true
+with this one, especially CATAUPD1.  The major debugging is done,
+but  it is  so big  that I can't run it  in interpretive mode, so
+can't use the nice debugging features built into OASIS BASIC.  In
+fact,  in  order to  edit it  I have to use that  little trick of
+loading  OVERLAY1,  then  running  a non-existent  program, which
+gives  me the  extra  space  I  need  to load  CATAUPD1.   (Thank
+goodness someone found that one!)
+
+Now, some general thoughts:
+
+First, there are a  couple of hidden constraints upon  the number
+of files which  can be kept on a  hard disk.  There seems to be a
+maximum of  around  1944  index  entries  for a  disk.   My files
+average about 5K in size, which means that effectively I can only
+use about 10M of my 15M disks.
+
+The other hidden constraint  is that after about 1125  files on a
+disk I get  "Insufficient memory" to do a  filelist for the whole
+disk (FILELIST DISK1)  unless I am in single-user  mode, in which
+case I can get up to 1190 files before getting the error message.
+I really don't understand why this is the case, since even if the
+FILELIST is storing all the found records in memory, they are not
+ever more than  80 characters long, which would  work out to less
+than 10K of memory used.
+
+Second, I do  get frustrated  by the space limitations for  BASIC
+programs.  Here  I have  512K of memory, but in  the normal BASIC
+interpreter I can only load, edit or run programs of 12K bytes or
+less.  Again,  if I go to single user mode I can up this by about
+2K,  but  that knocks  all  other  users  off.   And when  I  get
+desperate in  single-user mode I can use the BASIC OVERLAY1 trick
+which gives  me an  additional 5K for editing but  doesn't let me
+run or debug what I'm writing.
+
+I calculate that BASIC must normally take up about 32K of memory.
+What I am  wondering is why it couldn't  be set up to locate that
+(and the  SYSTEM NUCLEUS,  for that matter) in one  partition and
+let me  work  with  a  second  partition entirely  available  for
+program space?  That would theoretically give 64K available for a
+program---a much more  liveable size.  After all, OASIS  in other
+respects seems  designed for business applications, but this size
+constraint  seems  to   limit  us  to  little  "fun   and  games"
+applications.  Can this  be explored with Tim?  Has  it been?  Do
+you have any suggestions?  This looks to me like the most serious
+problem with  OASIS, and potentially serious enough to keep us on
+the byways and off the highways of operating systems.
+Enough for now.   I  want  to  get  back to  debugging  CATAUPD1.
+Greetings to Tommi, and good thoughts to you both.
+
+                                             Joe T.
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL38.FEEDBACK                                 1 June 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST38:VOL38                                         01/29/85 17:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+WISH LIST #38 - I wish somebody would ............... 15 May 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+70. A version  of FILELIST  which will allow us to  specify which
+drives to include in the combined list.
+
+69. An Oasis-8 shell  to run under Oasis-16 so  that old software
+can be run without modification.
+
+68. A SUPER  <esc>Q that  will allow us to break  out of a system
+lockup (impossible???).
+
+67. A set of  "standard" business letters in SCRIPT  format ready
+to accept address information in an interactive mode.
+
+66. Custom dictionary files for special areas like law, medicine,
+engineering, etc.  to work with the PROOF spelling checker.
+
+65. A  program  for  recording  and  analyzing a  tennis player's
+performance.   Statistically evaluated  faults might help players
+(like me) improve.
+
+64. OASIS implemented on MANY more Z80 machines.
+
+63. Programs  that   integrate  logical  groups  of  OUG  library
+programs.
+
+62. Someone to write reviews of the contents of the OUG Library.
+
+61. A truly portable Oasis compatible computer.
+
+60. A MOUSE input for CONIN to work with menu screens or windows,
+together  with the  necessary software  to make it work with  the
+keyboard (through an RS232C port?).
+
+58. I  need  faster  means  for  manufacturing new  volumes.  The
+combination of INITDISK and BACKUP takes too long now.  How about
+one command that does both functions in one pass?  I've been told
+it can't be done!!  (the FL set helped a lot, but ...)
+
+56. We  must   develop  a  networking  (LAN)  and/or  distributed
+processing capability under Oasis.
+
+55. Windows for running multiple applications simultaneously from
+one terminal in multiple partitions.
+
+53. We need a  comparison chart showing for Oasis  Basic with the
+others.
+
+52. We need a method for RESTORING around a bad sector (or fixing
+it) in an ARCHIVE file.
+
+51. As we  begin to  get more people using Oasis-16  we will need
+some new utilities  for moving things back and  forth between the
+two versions.   In  particular,  we  will  need new  versions  of
+SEND/RECEIVE (GIVE/GET??).
+
+49. We need  class code source for any devices not now covered in
+the library (see volumes 18 and 34).
+
+48. Someone  to  collect and  summarize information about all the
+various commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+39. We  need the  compliment of  GETFILE  (PUTFILE?) for CP/M and
+other operating systems.
+
+36. More  people  to  write articles  about OASIS  or  letters to
+publications  about  such  articles  they have  seen.  More press
+releases  about  your  own OASIS  compatible commercial software.
+Etc.
+
+30. A  utility  for  automatically figuring  out the optimum disk
+ATTACH  values  for HDL,  STP, and  STS for all of the  different
+systems now operating under OASIS.
+
+29. A  list  of  the 500  most frequently  used  words in English
+writing  for use  with Chapman's latest spelling checker's CUSTOM
+dictionaries.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, ADA, etc.
+
+23. A spelling  checker that keeps track of frequently misspelled
+words and automatically corrects them.
+
+16. An "electronic spreadsheet" like SUPERCALC (one we can put in
+the OUG library).
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+END of WISH LIST as of 15 March 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+▼ OFTWARE.RULES:VOL38                                      01/29/85 17:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+    GUIDE FOR SUBMITTING SOFTWARE CONTRIBUTIONS TO THE OUG LIBRARY
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+The following "rules" are presented in an attempt to get some reasonable
+degree of  uniformity in the quality of things submitted to the library.
+They must be  considered preliminary forever.  We will  change the rules
+any time  the  situation seems  to warrant  it.   But, for now keep  the
+following things in  mind as you prepare stuff  for the OUG Library.  FB
+Last updated 5/27/84
+
+
+1. Assume console units (terminals) have direct cursor addressing, and a
+maximum of 24 lines of 72 columns.  I use 65 columns for text files.
+
+2. If  the  software is  hardware dependent,  make  it very, very clear.
+Also, note  the versions  of Oasis you know work  with the software.  If
+any other piece of software is required in order to use your package (eg
+SORT, CONTROL, etc), please note that, too.
+
+3. If you want  to reserve the commercial rights  to your software, make
+it clear  by including a comment in the code such as "Permission to use,
+but  not to  sell.",  "Commercial  rights  reserved."  or best  of  all:
+"Copyright  1982  XYZ Software  Company." Contributions not individually
+copyrighted by authors will be covered by the OUG copyright.
+
+4. Generally  speaking,  we  will only  release programs  for  which the
+source code is  included.  There will be exceptions  made when there are
+overriding commercial considerations involved.  Everyone wants source!
+
+5. Be sure to check out all of the different conditions included in your
+program -  better you than some unsuspecting user!  Better yet, get some
+"unsuspecting user"  of  your own  to try  it  out and pay attention  to
+anything  in  the test  that causes  even the slightest bit of  trouble.
+Think SMART when writing.  Think DUMB when testing.
+
+6. Try to anticipate all of the different possible ways a new user might
+want to use your program and make it as general as possible.
+
+7. Where ever  it makes sense, write a short EXEC to explain and run the
+program  automatically.   The   EXEC  should  be  safe.   That   is,  an
+unsuspecting new user  should not be able to  accidentally do any damage
+to any  part of his existing system (easily).  The EXEC should include a
+HELP section so that when it is executed without some necessary variable
+the user  will automatically see the HELP info.  The HELP section should
+be as  complete as necessary to make the purpose and correct use of your
+program  obvious to  even a  relatively novice new user.  It  should tie
+everything in  the package  together - I end up  writing a lot of EXEC's
+for that  purpose for  many of the things submitted,  and I would rather
+that you did it.
+
+8. For really complex  systems try to include an  automatic DEMO feature
+with some  SMALL(!) demo files for it to work against.  See the PDQ demo
+on volume  17 for one example of how this can be done.  This demo should
+either be called by the introductory EXEC or be imbedded in it.
+
+9. The  STANDARD options  available in  the  introductory EXEC are named
+DEMO, DOC, HELP,  INFO, INSTALL, and RUN (option  absent default, if not
+dangerous).  Of  course not  all options may be logically  available for
+all contributions, and  there may usually be other  unique ones for your
+particular program.
+
+10. Include the  author's name (if known) and the name(s) of anyone else
+involved  in  converting/modifying the  program and  the  name and phone
+number(s) of people  who would be willing to  talk to a new user that is
+having trouble,  etc.  This information should be put both in the source
+as REMarks and in the EXEC HELP section.
+
+11. The  major logic  flows of  the program should be noted  by imbedded
+remarks, and the more the merrier!
+
+12. When  a  previously  released program  is slightly  modified  or has
+errors corrected,  it will  be re-released on the next  volume under the
+SAME name.
+
+13. When a  new program is released that does almost the same thing as a
+previously  released  program or  when wholesale  changes  are made to a
+previously released  program, the  new program will be given  a new name
+that shows  some relationship to the earlier name.  For example: WUMPUS2
+is a greatly enhanced version of WUMPUS.
+
+14. All files related to the same process should ALL be given names that
+start  with the  same three  characters, if possible - to  make them all
+file in approximately the same place in our enormous and growing list of
+OUG  library  files.   Within this  limitation, all  names  should be as
+mnemonic as possible.  Check DISKFILE.LIBRARY to avoid duplicate names.
+
+15. Don't use any more files than necessary in your package.  Naturally,
+we don't want  files that are so big  that some people with limited user
+memory can't work  with them, but on the  other hand, we also don't want
+ten  single  block files  when one  file of ten blocks would  do just as
+well.  As our library grows, it gets harder and harder to find things.
+
+16. Use <tab>  for indenting  when writing BASIC programs rather  than a
+string of spaces.  It saves an average of 10% in space and produces more
+consistent code layout.
+
+17. SCRIPT files should  be capable of being directed  to either the CRT
+or the printer.  I generally break your SCRIPT files into two pieces and
+make  two versions  of the  first piece, each of which calls the bulk of
+your  original  file.   That makes  the output  look  correct for either
+selection of CRT or printer.  Everyone may not want to print out your 50
+page masterpiece without first taking a quick peek on the CRT.
+
+18. Exceptions to these guidelines may be taken by anyone at anytime for
+any good reason.  (But, I'm keeping an eye on you).
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Let's hear more ideas about guidelines.                       May  1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 38.
+
+*****************************************************************
+
+
+BRBNOTES.EXEC (error corrected on volume 37 release)
+ICHPIC.BASICOBJ (corrupted STARDOC file on volume 26)
+ULETTER.SCRIPT (ommited from volume 37 UOASIS system)
+
+WANT TO LIST THE EXEC AND SCRIPT FILES NOW? [Y/N]:N
+
+
+
+
+
+HAT$.EXEC
+CHAT.ASSEMBLE/COMMAND
+
+CHAT allows two partitions to chat with each other.  It seems
+to need to reside on my system disk to work in my setup,   so
+I try to copy it to the "S" drive before running it  as  long
+as you are using this  CHAT$.EXEC  to play with it.  CHAT was
+contributed by:
+
+Tom Papke
+Hillpark Drive #308
+Hollywood, CA  90068
+
+(213) 874-2394
+
+
+ENTER: [RUN - DEMO - QUIT]:
+WANT TO LIST THE ASSEMBLY PROGRAM NOW? [Y/N]:N
+EV20A.EXEC/MACRO/OBJECT
+SYSTEM.DEV20A
+
+This is a 2741  driver.  It is given in  macro form because there
+are still  a few  little quirks in the program  which someone may
+have to change.  Mike Cole says at least parts of the program are
+system  dependent.   Not being  an assembler programmer, I accept
+his word.   Mike can be found at our office (206) 786-8866, or at
+(206) 753-6820.  We  use the program to drive  a Harris Cope 1035
+Selectric terminal  as a letter quality printer.  Sounds strange,
+but it works and such terminals can be had very cheap if you know
+how to keep them running.
+
+Bill Sheldon
+
+WANT TO LIST THE MACRO NOW? [Y/N]:N
+EV27A.ASSEMBLE/EXEC
+SYSTEM.DEV27A
+
+This is a device  driver for Centronics 737 attached  to parallel
+port  3 in  Digital Group  System.  It uses standard hookup  (ie.
+BRIDGE) Chris Mallam (613) 236-0374.
+
+WANT TO LIST IT NOW? [Y/N]:N
+NCADEMO.EXEC
+ENCADEMO.EXEC + ENCASE.ASSEMBLE/COMMAND + ENCASED.WORDS
+
+
+This is an improved (and corrected) version of the previously
+released program to convert an UPPER CASED file to lower case.
+
+
+Two new options are provided:
+
+    1. Caps      Will convert the 1st letter of every word to
+                 Upper Case and the remainder of each word to
+                 lower case.  This option is meant to be used
+                 for a "Name & Address" type of SCRIPT file.
+
+    2. Quoted    Process all words, regardless of quotations.
+                 (Also meant to allow processing for SCRIPT).
+
+
+                         Gary Bergman
+                         TWX 710 480 6282  ADS NBRU
+
+Want to see more info {Y/N}?:N
+ORSAMPL EXEC     FORSAMPL SCREENS  FORTH    TUTORIAL
+FORSELEC ASSEMBLE FORTH    COMMAND  FORTH    DOC
+FORTH    INTRO    FORTH$   EXEC
+
+This is an Oasis implementation of FIG-FORTH.
+
+FORTH SIG: The new  availability of a FORTH compiler  under Oasis
+opens up  a great opportunity to establish the first of our often
+discussed  Special  Interest  Groups (SIG).   Gerald Hasty in Las
+Vegas has  volunteered to be our coordinator.  And so it is.  Our
+first  SIG.   Jerry will  be our  official  contact point for all
+matters  of  interest  to users  of the  FORTH  language.  Please
+contact  him  to let  him  know  of  your  interest.  He  can  be
+contacted at:  Gerald Hasty  Co., 5130 East Charlston #5315,  Las
+Vegas  NV  89122  phone  (702)  452-3368.   He  has  a Bell  212A
+compatible  modem  and an  IBC Middi  Cadet.   I will assist with
+media conversions as necessary.
+
+
+WANT TO DO MORE WITH IT NOW? [Y/N]:N
+OLIDAY.BASIC/EXEC
+
+This is a really cute Christmas Tree display submitted by Jim
+Halpin (201)548-5656, who converted it for Oasis from a Tandy
+magazine article some time back.  I'll bet this one gets more
+customization than anything we have released recently. I most
+like the way the "lights" twinkle!  FB
+
+WANT TO TRY IT NOW? [Y/N]:N
+RTSETUP.BASIC/EXEC
+
+This is a setup routine for a Centronics 737 printer.  It allows
+you to specify proportional spacing,  monospaced,  or  16.7  cpi
+spacing.  It must be customized before using (ie. printer SIOn)
+Chris Mallam (613) 236-0374.
+
+WANT TO LIST IT NOW? [Y/N]:N
+ESEARCH.BASIC/EXEC/SCREEN
+
+This is a generalized litigation document management program, and
+a generalized research retrieval program, both of which go to the
+idea of an electronic "institutional memory" within a law office.
+
+This probably  sounds  trivial  to  someone with  a good computer
+background,  but  for  someone  in  a  small  law  office, it  is
+exciting.  It would be even more exciting if I had some help with
+it.
+
+Mack Muratet Braly
+(918) 582-2806
+
+NOTE: We have  other programs to do what  this does (see BRBNOTES
+on Volume  37),  but this  is the  first  one I've seen that  was
+generated by CONTROL.  Frankly, if this is typical, it looks like
+an awful lot of code to do a mighty small job! FB
+
+MORE? [Y/N]:N
+OLODEX.BASIC/EXEC/SCREEN
+
+This is a master "Rolodex" file, containing names, addresses, and
+other  vital  information  on  everyone or  everything that comes
+through  my  office,  clients and  non clients,  with  search and
+access  sentences  to produce  different lists for various needs,
+and  'hooks' to  other dbms  programs for other uses.  The  basic
+idea is to  tie everything together in a  single control database
+and use  related programs as necessary.  I am enclosing a copy of
+the 'Rolodex' screen  and BASIC program file, but  these are only
+second  generations  of  my first  Control efforts.   I  am still
+working on this.
+
+Mack Muratet Braly (918) 582-2806
+
+MORE? [Y/N]:N
+CRIPTU.BASIC/EXEC
+
+This  is  a nifty little program for doing things with SCRIPT files
+now residing on all of the  disks attached to your system.  Perhaps
+the nicest  feature  is the  concise  listing of all  files of type
+SCRIPT.    After you  see the list you  are given  the choice  of a
+number of things you can do with them, including editing, printing,
+deleting, etc.  It was contributed by Royce Bordman (713) 460-1500.
+It could do with a little more explanation, but most of the options
+are pretty self evident. FB
+
+FUNCTION:   To list all the SCRIPT files on all the attached disks
+            and allow you to edit and/or print any of them.
+
+SYNTAX:     SCRIPTU <option>
+
+OPTIONS:
+            HELP    Gives this display.
+            INFO    A brief discussion of the SCRIPTU program.
+            MENU    Generates a new list of your SCRIPT files.
+            none    Runs the SCRIPT file manipulation program.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+YSE.ASSEMBLE/COMMAND
+
+This is a "more  enhanced" version the program to  initialize the
+Function-Keys  for  the WYSE-100  terminal.  This version accepts
+the first  token of the command to decide which setup of Function
+Keys  to  use.  Any  subsequent tokens  are  displayed on the top
+"status line" of the terminal in low-intensity.
+
+The program is  fairly simple and well documented to allow you to
+modify the Function Key assignments and the "Status" lines.
+
+Gary Bergman (201) 246-7285
+
+4NOTE: ONLY WORKS WITH CLASS38!0
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 38.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>

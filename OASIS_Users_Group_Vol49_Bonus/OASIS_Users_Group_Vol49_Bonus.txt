@@ -1,0 +1,201 @@
+>F :A(OWN
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+AC$AP000 BASICOBJ A 11/26/84 17:49    85    3 S   243 BONUS49
+AC$AP031 BASICOBJ A 03/24/85 11:20    60    4 S   243 BONUS49
+AC$AP120 BASICOBJ A 11/11/84 11:16   117    4 S   243 BONUS49
+AC$GL000 BASICOBJ A 11/11/84 13:55    70    3 S   243 BONUS49
+AC$GL010 BASICOBJ A 01/14/85 09:15   391   12 S   243 BONUS49
+AC$GL120 BASICOBJ A 11/11/84 14:16   113    4 S   243 BONUS49
+AC$PR000 BASICOBJ A 03/23/85 13:37   138    5 S   243 BONUS49
+AC$PR070 BASICOBJ A 03/23/85 17:03    41    3 S   243 BONUS49
+AC$PR100 BASICOBJ A 03/23/85 17:05   505   14 S   243 BONUS49
+AC$PR220 BASICOBJ A 01/01/85 19:39   233    7 S   243 BONUS49
+AC$PR320 BASICOBJ A 11/11/84 12:33   114    4 S   243 BONUS49
+MEMBERS  $REGULAR A 07/17/85 10:00   277   52 S   255 BONUS49
+MEMBERS  $STDORD  A 07/17/85 10:00   227   45 S   255 BONUS49
+MEMBERS  $YEAROLD A 07/17/85 10:00   147   29 S   255 BONUS49
+OASIS    HARDWARE A 07/17/85 10:00   147   10 S    77 BONUS49
+PCFCONV  BASIC    A 07/02/85 10:00    32    2 S   141 BONUS49
+PROOF1   ASSEMBLE A 07/02/85 10:00  1580   34 S    76 BONUS49
+PROOF1   COMMAND  A 07/02/85 10:00    28    7 R   256 BONUS49
+PROOF1   NOTES    A 07/16/85 10:00    51    3 S    65 BONUS49
+PROOFSUB MACLIB   A 01/06/83 17:39   168    3 S    62 BONUS49
+20 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+PROOF1.NOTES:A copied to PROOF1.NOTES:D
+PROOF1.COMMAND:A copied to PROOF1.COMMAND:D
+AC$AP031.BASICOBJ:A copied to AC$AP031.BASICOBJ:D
+MEMBERS.$REGULAR:A copied to MEMBERS.$REGULAR:D
+AC$AP120.BASICOBJ:A copied to AC$AP120.BASICOBJ:D
+AC$PR220.BASICOBJ:A copied to AC$PR220.BASICOBJ:D
+AC$PR070.BASICOBJ:A copied to AC$PR070.BASICOBJ:D
+PCFCONV.BASIC:A copied to PCFCONV.BASIC:D
+AC$GL120.BASICOBJ:A copied to AC$GL120.BASICOBJ:D
+MEMBERS.$STDORD:A copied to MEMBERS.$STDORD:D
+AC$GL010.BASICOBJ:A copied to AC$GL010.BASICOBJ:D
+AC$PR320.BASICOBJ:A copied to AC$PR320.BASICOBJ:D
+PROOF1.ASSEMBLE:A copied to PROOF1.ASSEMBLE:D
+PROOFSUB.MACLIB:A replaces PROOFSUB.MACLIB:D
+AC$PR000.BASICOBJ:A copied to AC$PR000.BASICOBJ:D
+MEMBERS.$YEAROLD:A copied to MEMBERS.$YEAROLD:D
+OASIS.HARDWARE:A replaces OASIS.HARDWARE:D
+AC$GL000.BASICOBJ:A copied to AC$GL000.BASICOBJ:D
+AC$AP000.BASICOBJ:A copied to AC$AP000.BASICOBJ:D
+AC$PR100.BASICOBJ:A copied to AC$PR100.BASICOBJ:D
+
+>LIST OASIS.HARDWARE:A
+OASIS.HARDWARE:BONUS49                                    01/31/85 07:28 Page 1
+
+-----------------------------------------------------------|--------|-------|
+                                                           |        |       |
+            OASIS-COMPATIBLE COMPUTER SYSTEMS              | IMPLEM-| AVAIL |
+            (With Oasis floppy disk  formats)              |   BY   | FROM  |
+                                                           |        |       |
+-----------------------------------------------------------|--------|-------|
+Advanced Digital Systems Super Six (Z80H)  77-1/2-13/26 (8)|        |       |
+Aeon (Z80) (Digital Group components)      77-1/2-13/26 (8)|        |       |
+Altos 5-15 + 580 (Z80A)                    80- 2 - 16   (5)| 3      |       |
+Altos 586 + 986 (8086)                     80- 2 - 16   (5)| 3      |       |
+Altos 8000-n (Z80)                         77-1/2-13/26 (8)| 3      |       |
+Astrocom                                  *TK-HDS-SECTS 5-8|   *    |   *   |
+B A S F                                   *TK-HDS-SECTS 5-8|   *    |   *   |
+Billings (Z80)                            *80- 2 - 18   (5)|   *    |   *   |
+California Computer Systems 3nn/4nn (Z80) *77-1/2-13/26 (8)|   *    |   *   |
+California Computer Systems Calstar (Z80) *77-1/2-13/26 (8)|   *    |   *   |
+Canberra Industries Imacs 50/70/90 (8086)  80- 2 - 16   (5)|        |       |
+Canon                                     *TK-HDS-SECTS 5-8|   *    |   *   |
+Columbia PC (8086)                         TK-HDS-SECTS (5)|        |       |
+Commodore ? (8086?)                       *TK-HDS-SECTS 5-8| 1      |       |
+Compaq (8088)                              40- 2 - 16   (5)|        |       |
+Compucorp                                 *TK-HDS-SECTS 5-8|   *    |   *   |
+Compudata (Z80)                            80- 2 - 16   (5)|        |       |
+Compudata (Z80)                            77-1/2-13/26 (8)|        |       |
+CompuPro/Godbout (8086)                   *TK-HDS-SECTS 5-8|   *    |   *   |
+CompuPro/Godbout (Z80)                     77-1/2-13/26 (8)|        |       |
+Computer Modular CM80 (Z80)                80- 2 - 16   (5)| 11     |       |
+Cromemco (Z80)                            *77-1/2-13/26 (8)|   *    |   *   |
+Digital Group (Z80) (non std DD trk 0)    *77-1/2-13/26 (8)|   *    |   *   |
+Digital Microsystems DSC-2 (Z80)          *77-1/2-13/29 (8)| 7      |       |
+Digital Microsystems DSC-3 (Z80)          *77-1/2-13/29 (8)| 7      |       |
+Digital Microsystems DSC-4 (Z80)           77-1/2-13/26 (8)| 7      |       |
+Digitex 4nnn/8100 (Z80)                   *77-1/2-13/26 (8)|   *    |   *   |
+Dynabyte 55nn/56nn/57nn (Z80)              77- 1 - 16   (5)|        |       |
+Dynabyte 5510           (Z80)              77-1/2-13/27 (8)|        |       |
+Dynabyte Monarch 6n00 (Z80)                77-1/2-13/26 (8)|        |       |
+Dynabyte PC (8088)                         40- 2 - 16?  (5)|        |       |
+Eagle PC (8088)                           *40- 2 - 16   (5)|   *    |   *   |
+Elmicron                                  *TK-HDS-SECTS 5-8|   *    |   *   |
+Ericcson ? (8086?)                        *TK-HDS-SECTS 5-8| 1      |       |
+IBC Cadet nn (Z80)                         77-1/2-13/26 (8)| 4      |       |
+IBC Ensign (68000) (avail late 1985?)     *77-1/2-13/26 (5)| 4      |       |
+IBC Middi Cadet (Z80B) (Multi-star II)     77-1/2-13/26 (5)| 4      |       |
+IBC Middi Cadet HP (Z80H) (Multi-star III) 77-1/2-13/26 (5)| 4      |       |
+IBC Multi-Star I   (Z80B)                  80- 2 - 16   (5)| 4      |       |
+IBC Multi-Star II  (Z80B)                  77-1/2-13/26 (5)| 4      |       |
+IBC Multi-Star III (Z80H) was HP Middi     77-1/2-13/26 (5)| 4      |       |
+IBM PC/AT (80286) (avail late 1985?)      *80- 2 - 15   (5)| 10     |       |
+IBM PC/XT (8088)                           40- 2 - 16?  (5)| 10     |       |
+Index                                     *TK-HDS-SECTS 5-8|   *    |   *   |
+Intersystems                              *TK-HDS-SECTS 5-8|   *    |   *   |
+Intertechnique (French)                    TK-HDS-SECTS 5-8|        |       |
+ITT XTRA (808?)                            TK-HDS-SECTS 5-8|        |       |
+Kaypro 10 (Z80)                            40- 2 - 20   (5)| 2      |       |
+Kontron PSI-80           (Z80)             76- 1 - 16   (5)| 11     |       |
+Kontron PSI-980          (Z80)             80- 2 - 16   (5)| 11     |       |
+Mercator Business Systems (Z80)           *TK-HDS-SECTS 5-8|   *    |   *   |
+Micromation Doubler                       *TK-HDS-SECTS 5-8|   *    |   *   |
+Molecular Series 4/9/36 (Z80)              77- 1 -13/26 (8)| 12     |       |
+Molecular Computer (Z80? + ??)             80- 2 - 16   (5)| 12     |       |
+Morrow Designs/Thinker Toys               *77-1/2-13/26 (8)|   *    |   *   |
+NNC Electronics 5n/80W (Z80)               77-1/2-13/26 (8)| 5      |       |
+NNC Electronics 520/540 (Z80)              77-1/2-13/26 5-8| 5      |       |
+NNC Electronics 820/840 (Z80)              77-1/2-13/26 (8)| 5      |       |
+NNC Electronics System 20/40 (Z80)         77-1/2-13/26 (5)| 5      |       |
+National Semiconductor (Z80)              *77-1/2-13/26 (8)|   *    |   *   |
+Northstar Horizon   (Z80) (hard sectored) *35- 2 - 20   (5)|   *    |   *   |
+Olivetti ATT (8086)                        TK-HDS-SECTS 5-8| 1      |       |
+Olivetti M24 (Z80)                         TK-HDS-SECTS 5-8|        |       |
+Onyx 186 (8086)                            80- 2 -16/18 (5)| 6      |       |
+Onyx 5001 (Z80A)                           tape only       | 6      |       |
+Onyx 5010D (Z80A)                          tape only       | 6      |       |
+Onyx 8000/8001 (Z80A)                      tape only       | 6      |       |
+Onyx Sundance I/II (Z80A)                  TK-HDS-SECTS 5-8| 6      |       |
+Pentel (8086)                             *TK-HDS-SECTS 5-8|   *    |   *   |
+Proteus (German) (Z80)                     77-1/2- 13   5-8| 11     |       |
+Quay                                       TK-HDS-SECTS 5-8|        |       |
+Rekers Condor 16-1000 (Z80B)               77-1/2- 13/26(8)| 11     |       |
+Rekers Condor Junior (Z80A)                77-1/2-13/26 (5)| 11     |       |
+RW Sales (Z80)                            *77-1/2-13/26 (8)| 9      |       |
+SD Systems (Z80)                          *77-1/2-13/26 (8)|   *    |   *   |
+SD Systems ?? (Z80)                       *80- 2 - 16   (5)|   *    |   *   |
+Secoinsa ?? (Spanish) (Z80)                77-1/2-13/26 (8)| 8      |       |
+Secoinsa ?? (Spanish) (Z80)                80-1/2- 16   (5)| 8      |       |
+SKS Nano (German) (80186)                 *TK-HDS-SECTS (5)|   *    |   *   |
+SKS Nano (German) (Z80)                   *TK-HDS-SECTS (5)|   *    |   *   |
+Seiko 8600 (8086)                          80- 2 -16/18 (5)| 13     |       |
+Seiko 8700 (80286) (avail late 1985?)      80- 2 -16/18 (5)| 13     |       |
+Sirius (Victor)                           *TK-HDS-SECTS 5-8|   *    |   *   |
+Systems Group (Z80)                       *77-1/2-13/26 (8)|   *    |   *   |
+Tandy/Radio Shack TRS-80 Mod II (Z80)     *77-1/2-13/26 (8)|   *    |   *   |
+Tandy/Radio Shack TRS-80 Mod 12 (Z80)     *77-1/2-13/26 (8)|   *    |   *   |
+Tandy/Radio Shack TRS-80 Mod 16 (Z80)     *77-1/2-13/26 (8)|   *    |   *   |
+Teletek                                   *TK-HDS-SECTS 5-8|   *    |   *   |
+Televideo 804 (Z80)                        80- 2 - 16   (5)|        |       |
+Titan                                     *tape only       |   *    |   *   |
+Toshiba T100 (Z80)                         39- 2 - 15   (5)| 11     |       |
+Toshiba T300 (Z80)                         TK-HDS-SECTS 5-8|        |       |
+Vector Graphic (Z80) (hard sectors)       *TK-HDS- 16   (5)|   *    |   *   |
+Vorimex                                   *TK-HDS-SECTS 5-8|   *    |   *   |
+Wavemate Bullet/Superbullet (Z80)          80- 2 - 16   (5)| 11     |       |
+Wavemate Bullet/Superbullet (Z80)          77-1/2-13/26 (8)| 11     |       |
+Wyse PC (8088)                             40- 2 - 16?  (5)|        |       |
+Zenith 150 (8088)                          40- 2 - 20   (5)|        |       |
+Zicomp Ultra-SE (Z80H)                     77-1/2-13/26 (8)|        |       |
+Zicomp Ultra-SE (8086)                     77-1/2-13/26 (8)|        |       |
+-----------------------------------------------------------|--------|-------|
+
+* Current availability or support thought to be questionable.
+
+TK=tracks, HDS=no of heads, SECTS=sectors/track, 5-8=diskette size.
+
+CAPACITIES: 77-1-13=250K, 77-1-26=500K, 77-2-13=500K, 77-2-26=1000K
+            77-1-29=254K, 77-1-16=???K, 77-1-27=???K, 80-2-16=640K
+            40-2-16=???K, 40-2-20=???K, 76-1-16=???K, 39-2-15=???K
+            80-2-15=1200K?
+
+20 July 1985
+-----------------------------------------------------------|--------|-------|
+IMPLEMENTORS:
+
+1.   Marc DeCroo, Compusoft, Sint-Lievenslaan 78, B8900 Gent Belgium.
+     (091) 25-49-98
+2.   Brian Goodheim, RealSoft, 2595 Spruce St., Bolder CO 80302.
+     (303) 442-2855
+3.   Jim Simmons, Microcosm, 5367 Fieldgreen Dr., Stone Mountain GA 30071.
+     (404) 498-2794
+4.   Integrated Business Computers, 21621 Nordhoff St., Chatsworth CA 91311.
+     (818) 882-9007
+5.   NNC Electronics, 15641 Computer Lane, Huntington Beach CA 92649.
+     (714) 895-8000
+6.   Onyx Systems, 25 East Trimble Rd., San Jose CA 95131.
+     (408) 946-6330
+7.   Digital Microsystems, 1840 Embarcadero, Oakland CA 94606.
+     (415) 532-3686
+8.   Secoinsa, Almagro 40, Madrid 4, Spain
+     (91) 435-7836
+9.   Rex Widmar, RW Sales, 5024 Halsey, Shawnee KS 66216.
+     (913) 631-1057
+10.  Theos Software Corp., 201 Lafayette Circle #100, Lafayette CA 94549.
+     (415) 283-4290
+11.  MBP Software, Semerteichstrasse 47, D4600 Dortmund 1 Germany.
+     (0231) 43480
+12.  David Shirley, C I C, Spirella Bldg, Letchworth SG6 4ET England
+     (04626) 79466
+13.  Jeff Bahr, CET Tech, 5405 Garden Grove Blvd #160, Westminster CA 92683
+     (714) 895-4345
+
+>

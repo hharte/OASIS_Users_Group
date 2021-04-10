@@ -1,0 +1,943 @@
+June 1984                       Volume: 39
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST39  A 04/18/84 21:24    60    3 S    65 VOL39
+ACCEPT39 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL39
+ASCII    CINCLUDE A 10/28/82 10:31    40    3 S    72 VOL39
+BELL     ASSEMBLE A 03/03/84 19:06    54    2 S    66 VOL39
+BELL     COMMAND  A 04/16/84 22:13     2    1 R   256 VOL39
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL39
+DEKDEMO  BASIC    A 06/01/84 18:16    14    1 S    66 VOL39
+DEKDEMO  BASICCOM A 04/17/84 00:04     2    1 SR  254 VOL39
+DEKDEMO  DOC      A 06/01/84 18:16   151    7 S    65 VOL39
+DEKDEMO  EXEC     A 06/01/84 18:16   191    5 S    70 VOL39
+DIAL1    EXEC     A 05/28/84 18:16   119    3 S    70 VOL39
+EASY     COMMAND  A 05/25/84 21:12   122   31 R   256 VOL39
+EASYCOMM ASSEMBLE A 06/02/84 14:09   644   11 S    64 VOL39
+EASYCOMM COMMAND  A 06/02/84 14:03    12    3 R   256 VOL39
+EASYDEMO EXEC     A 06/03/84 23:49   255    8 S    74 VOL39
+EASYHELP EXEC     A 06/03/84 00:12   118    4 S    67 VOL39
+EASYLINK EXEC     A 06/03/84 21:53   173    4 S    76 VOL39
+EASYLINK NUMBERS  A 05/23/84 04:45    11    1 S    76 VOL39
+EASYLINK WUW      A 05/24/84 00:01   209    4 S    71 VOL39
+EASYOUT  MSG      A 06/03/84 23:15    14    1 S    59 VOL39
+KEY      EXEC     A 06/01/84 18:16    92    3 S    67 VOL39
+KEYDEMO  EXEC     A 05/28/84 18:16    89    2 S    72 VOL39
+KEYEXAMP EXEC     A 05/28/84 18:16    23    1 S    61 VOL39
+KEYLOAD  BASIC    A 05/28/84 18:16    77    4 S    79 VOL39
+KEYLOAD  C        A 07/04/83 19:25   154    4 S    76 VOL39
+KEYLOAD  COMMAND  A 07/03/83 22:33    20    5 R   256 VOL39
+KEYLOAD  DOC      A 05/28/84 18:16   365   16 S    79 VOL39
+KEYLOAD  DOCCRT   A 06/01/84 18:16    60    2 S    79 VOL39
+KEYLOAD  DOCPRT   A 05/28/84 18:16    60    2 S    79 VOL39
+LOOKUP   ASSEMBLE A 10/23/83 04:40   118    4 S    59 VOL39
+LOOKUP   COMMAND  A 04/16/84 22:13     5    2 R   256 VOL39
+MOVES    EXEC     A 06/01/84 18:16    53    2 S    66 VOL39
+OASIS    CINCLUDE A 07/04/83 19:18    37    2 S    72 VOL39
+PRINTS   EXEC     A 06/01/84 18:16    44    2 S    76 VOL39
+SED      ASSEMBLE A 04/16/84 21:57  1033   26 S    57 VOL39
+SED      COMMAND  A 04/16/84 22:14    14    4 R   256 VOL39
+SELECT39 EXEC     A 06/01/84 18:16    54    3 S    46 VOL39
+SRCHBYTE ASSEMBLE A 03/29/84 23:58   344   12 S    73 VOL39
+SRCHBYTE COMMAND  A 04/16/84 22:14     7    2 R   256 VOL39
+STRIP    ASSEMBLE A 02/26/84 15:48   196    8 S    70 VOL39
+STRIP    COMMAND  A 04/16/84 22:14     6    2 R   256 VOL39
+STRIP    DOC      A 06/01/84 18:16    14    1 S    65 VOL39
+USR0     ASSEMBLE A 01/04/84 23:42    15    1 S    34 VOL39
+USR0     BASICUSR A 01/04/84 23:43     2    1 R   256 VOL39
+VOL39    CONTENTS A 06/01/84 18:16   130    6 S    76 VOL39
+VOL39    EXEC     A 06/01/84 18:16   120    3 S    73 VOL39
+VOL39    FEEDBACK A 06/01/84 18:16   311   15 S    65 VOL39
+VOL39    NEWS     A 06/09/84 18:16   179   10 S    65 VOL39
+WHATTERM ASSEMBLE A 08/06/83 18:40     9    1 S    51 VOL39
+WHATTERM BASICUSR A 08/06/83 18:41     2    1 R   256 VOL39
+WHERE    ASSEMBLE A 09/08/83 09:36    13    1 S    58 VOL39
+WHERE    COMMAND  A 04/16/84 22:14     2    1 R   256 VOL39
+WHO1     ASSEMBLE A 08/24/83 18:11    44    1 S    56 VOL39
+WHO1     COMMAND  A 04/16/84 22:14     2    1 R   256 VOL39
+54 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+EASYOUT.MSG:A copied to EASYOUT.MSG:D
+OASIS.CINCLUDE:A copied to OASIS.CINCLUDE:D
+VOL39.CONTENTS:A copied to VOL39.CONTENTS:D
+DEKDEMO.BASIC:A copied to DEKDEMO.BASIC:D
+ACCEPT39.COMMAND:A copied to ACCEPT39.COMMAND:D
+KEYLOAD.DOC:A copied to KEYLOAD.DOC:D
+WHATTERM.ASSEMBLE:A copied to WHATTERM.ASSEMBLE:D
+WHERE.ASSEMBLE:A copied to WHERE.ASSEMBLE:D
+BELL.ASSEMBLE:A copied to BELL.ASSEMBLE:D
+DEKDEMO.BASICCOM:A copied to DEKDEMO.BASICCOM:D
+DIAL1.EXEC:A copied to DIAL1.EXEC:D
+EASYCOMM.COMMAND:A copied to EASYCOMM.COMMAND:D
+KEYLOAD.DOCCRT:A copied to KEYLOAD.DOCCRT:D
+USR0.ASSEMBLE:A copied to USR0.ASSEMBLE:D
+$README.FIRST39:A copied to $README.FIRST39:D
+EASYLINK.EXEC:A copied to EASYLINK.EXEC:D
+EASYLINK.NUMBERS:A copied to EASYLINK.NUMBERS:D
+SRCHBYTE.ASSEMBLE:A copied to SRCHBYTE.ASSEMBLE:D
+KEYLOAD.COMMAND:A copied to KEYLOAD.COMMAND:D
+LOOKUP.COMMAND:A copied to LOOKUP.COMMAND:D
+PRINTS.EXEC:A copied to PRINTS.EXEC:D
+STRIP.ASSEMBLE:A copied to STRIP.ASSEMBLE:D
+VOL39.NEWS:A copied to VOL39.NEWS:D
+DEKDEMO.DOC:A copied to DEKDEMO.DOC:D
+EASYLINK.WUW:A copied to EASYLINK.WUW:D
+KEYLOAD.DOCPRT:A copied to KEYLOAD.DOCPRT:D
+MOVES.EXEC:A copied to MOVES.EXEC:D
+VOL39.EXEC:A copied to VOL39.EXEC:D
+EASY.COMMAND:A copied to EASY.COMMAND:D
+KEYEXAMP.EXEC:A copied to KEYEXAMP.EXEC:D
+KEYLOAD.BASIC:A copied to KEYLOAD.BASIC:D
+SED.ASSEMBLE:A copied to SED.ASSEMBLE:D
+SELECT39.EXEC:A copied to SELECT39.EXEC:D
+STRIP.DOC:A copied to STRIP.DOC:D
+WHERE.COMMAND:A copied to WHERE.COMMAND:D
+WHO1.ASSEMBLE:A copied to WHO1.ASSEMBLE:D
+BELL.COMMAND:A copied to BELL.COMMAND:D
+DEKDEMO.EXEC:A copied to DEKDEMO.EXEC:D
+EASYCOMM.ASSEMBLE:A copied to EASYCOMM.ASSEMBLE:D
+KEYDEMO.EXEC:A copied to KEYDEMO.EXEC:D
+SED.COMMAND:A copied to SED.COMMAND:D
+VOL39.FEEDBACK:A copied to VOL39.FEEDBACK:D
+WHATTERM.BASICUSR:A copied to WHATTERM.BASICUSR:D
+WHO1.COMMAND:A copied to WHO1.COMMAND:D
+ASCII.CINCLUDE:A copied to ASCII.CINCLUDE:D
+COPYRITE.BASICCOM:A replaces COPYRITE.BASICCOM:D
+EASYHELP.EXEC:A copied to EASYHELP.EXEC:D
+KEY.EXEC:A copied to KEY.EXEC:D
+KEYLOAD.C:A copied to KEYLOAD.C:D
+SRCHBYTE.COMMAND:A copied to SRCHBYTE.COMMAND:D
+USR0.BASICUSR:A copied to USR0.BASICUSR:D
+EASYDEMO.EXEC:A copied to EASYDEMO.EXEC:D
+LOOKUP.ASSEMBLE:A copied to LOOKUP.ASSEMBLE:D
+STRIP.COMMAND:A copied to STRIP.COMMAND:D
+
+>VOL39
+4     COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P      0
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+   ==================================================================
+   :           VOLUME 39 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   : "What we need is more people who specialize in the impossible.":
+   :                                              Theodore Roethke  :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 39  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  39,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST39  A 04/18/84 21:24    60    3 S    65 VOL39
+ACCEPT39 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL39
+ASCII    CINCLUDE A 10/28/82 10:31    40    3 S    72 VOL39
+BELL     ASSEMBLE A 03/03/84 19:06    54    2 S    66 VOL39
+BELL     COMMAND  A 04/16/84 22:13     2    1 R   256 VOL39
+COPYRITE BASICCOM A 03/27/84 20:43     4    1 SR  254 VOL39
+DEKDEMO  BASIC    A 06/01/84 18:16    14    1 S    66 VOL39
+DEKDEMO  BASICCOM A 04/17/84 00:04     2    1 SR  254 VOL39
+DEKDEMO  DOC      A 06/01/84 18:16   151    7 S    65 VOL39
+DEKDEMO  EXEC     A 06/01/84 18:16   191    5 S    70 VOL39
+DIAL1    EXEC     A 05/28/84 18:16   119    3 S    70 VOL39
+EASY     COMMAND  A 05/25/84 21:12   122   31 R   256 VOL39
+EASYCOMM ASSEMBLE A 06/02/84 14:09   644   11 S    64 VOL39
+EASYCOMM COMMAND  A 06/02/84 14:03    12    3 R   256 VOL39
+EASYDEMO EXEC     A 06/03/84 23:49   255    8 S    74 VOL39
+EASYHELP EXEC     A 06/03/84 00:12   118    4 S    67 VOL39
+EASYLINK EXEC     A 06/03/84 21:53   173    4 S    76 VOL39
+EASYLINK NUMBERS  A 05/23/84 04:45    11    1 S    76 VOL39
+EASYLINK WUW      A 05/24/84 00:01   209    4 S    71 VOL39
+EASYOUT  MSG      A 06/03/84 23:15    14    1 S    59 VOL39
+KEY      EXEC     A 06/01/84 18:16    92    3 S    67 VOL39
+KEYDEMO  EXEC     A 05/28/84 18:16    89    2 S    72 VOL39
+KEYEXAMP EXEC     A 05/28/84 18:16    23    1 S    61 VOL39
+KEYLOAD  BASIC    A 05/28/84 18:16    77    4 S    79 VOL39
+KEYLOAD  C        A 07/04/83 19:25   154    4 S    76 VOL39
+KEYLOAD  COMMAND  A 07/03/83 22:33    20    5 R   256 VOL39
+KEYLOAD  DOC      A 05/28/84 18:16   365   16 S    79 VOL39
+KEYLOAD  DOCCRT   A 06/01/84 18:16    60    2 S    79 VOL39
+KEYLOAD  DOCPRT   A 05/28/84 18:16    60    2 S    79 VOL39
+LOOKUP   ASSEMBLE A 10/23/83 04:40   118    4 S    59 VOL39
+LOOKUP   COMMAND  A 04/16/84 22:13     5    2 R   256 VOL39
+MOVES    EXEC     A 06/01/84 18:16    53    2 S    66 VOL39
+OASIS    CINCLUDE A 07/04/83 19:18    37    2 S    72 VOL39
+PRINTS   EXEC     A 06/01/84 18:16    44    2 S    76 VOL39
+SED      ASSEMBLE A 04/16/84 21:57  1033   26 S    57 VOL39
+SED      COMMAND  A 04/16/84 22:14    14    4 R   256 VOL39
+SELECT39 EXEC     A 06/01/84 18:16    54    3 S    46 VOL39
+SRCHBYTE ASSEMBLE A 03/29/84 23:58   344   12 S    73 VOL39
+SRCHBYTE COMMAND  A 04/16/84 22:14     7    2 R   256 VOL39
+STRIP    ASSEMBLE A 02/26/84 15:48   196    8 S    70 VOL39
+STRIP    COMMAND  A 04/16/84 22:14     6    2 R   256 VOL39
+STRIP    DOC      A 06/01/84 18:16    14    1 S    65 VOL39
+USR0     ASSEMBLE A 01/04/84 23:42    15    1 S    34 VOL39
+USR0     BASICUSR A 01/04/84 23:43     2    1 R   256 VOL39
+VOL39    CONTENTS A 06/01/84 18:16   130    6 S    76 VOL39
+VOL39    EXEC     A 06/01/84 18:16   120    3 S    73 VOL39
+VOL39    FEEDBACK A 06/01/84 18:16   311   15 S    65 VOL39
+VOL39    NEWS     A 06/09/84 18:16   179   10 S    65 VOL39
+WHATTERM ASSEMBLE A 08/06/83 18:40     9    1 S    51 VOL39
+WHATTERM BASICUSR A 08/06/83 18:41     2    1 R   256 VOL39
+WHERE    ASSEMBLE A 09/08/83 09:36    13    1 S    58 VOL39
+WHERE    COMMAND  A 04/16/84 22:14     2    1 R   256 VOL39
+WHO1     ASSEMBLE A 08/24/83 18:11    44    1 S    56 VOL39
+WHO1     COMMAND  A 04/16/84 22:14     2    1 R   256 VOL39
+54 file(s), 247 block(s).
+▼ OL39.NEWS:VOL39                                          02/01/85 11:32 Page 1
+
+-----------------------------------------------------------------
+10 June 1984            N E W S   L E T T E R           Volume 39
+-----------------------------------------------------------------
+
+
+
+
+Hello again;
+
+VOL39: HEAVY, HEAVY.  From Dave Klotzman comes a package of eight
+useful  utilities  which he  offers to  OUG  members as our first
+"FREEWARE"  contribution  - send  him voluntarily a small royalty
+each time  you use a module in any commercial way.  The utilities
+include several for searching and manipulating files and a couple
+for  showing  you  more  detailed  information about  your system
+environment.   One makes  ordinarily non-editable files from some
+word processors editable. Next, Gary Bergman (who must spend half
+his waking  hours creating gems for the OUG) has sent us EASYLINK
+which turns your computer into an automatic Western Union station
+for access  to such  services as TELEX, E-COM letters,  MAILGRAM,
+FYI services,  etc.  This  is a very comprehensive system  and is
+well  documented.  Henry Aylward sends us KEYLOAD which loads the
+function keys  on the Ampex D175 terminal  (and can be customized
+for other terminals).     There is an EXEC to dial stored numbers
+through a Hayes SmartModem.  Finally, a couple more useful little
+utilities: MOVES, and PRINTS. Three BIG professional packages and
+three little ones this time.
+
+ARTIFICIAL INTELLIGENCE:  and  the fifth  generation "information
+access  machines"  are  getting lots  of press  these  days.  The
+entire 26 March  issue of the Brain Mind  Bulletin was devoted to
+the  subject of  human intuition  and AI.  And, the 18  June 1984
+InfoWorld carries  a pretty good overview of the general subject.
+IW Reporter, Peggy Watt says that one computer book store insists
+that "the  field is this season's 'hot topic,' and their AI shelf
+is stuffed with recent books on the subject." DM Data, an Arizona
+research  firm,  says  that AI  "will grow  to  be a $2.8 billion
+industry  in the  U.S.  market  by the end of the  decade." It is
+clear  that  this  is  a  most  promising  area  of research  and
+development for the near term.
+
+Expert systems which  mimic the consulting interactions with real
+live  experts are  showing up  all over the place.  The  Japanese
+have  a  nationally  funded and  coordinated project to leap-frog
+ahead to the fifth generation, thus wresting the current few year
+lead away  from  the US.   No doubt  they  will do it, too.   The
+question in my mind is can we even stay in the game.  Those of us
+in the Oasis  software business need to pay  more attention to AI
+and  how we  may be  able to take advantage of  the new ideas and
+techniques now making their appearance.  A new AI SIG wouldn't be
+a bad idea.  Any interest?
+
+REPLACEMENT COSTS:  If  you  should  ever discover  that you have
+screwed up your  only copy of an OUG  library volume, I am always
+happy to get  you a replacement for a  nominal $5 per volume fee.
+In the case of ONYX tapes the fee is $35 per tape copied from one
+of our  ARCHIVE  tapes,  or  $35  per tape  plus  $5 per selected
+volume.  As you  know minor errors are constantly  being fixed in
+our master  copies of the library.  The corrections are scattered
+all over later  volumes that you receive.  If  you are interested
+in  having  a complete  replacement copy  of  the entire library,
+we'll work out some kind of special fee.  Just let me know.
+
+OASIS-8 EMULATION: Jim Halpin asked why someone hasn't thought to
+make Oasis-8 run as a job under UNIX.  That way we could have the
+best of both  worlds goes his thinking (see  VOL38.FEEDBACK).  It
+is an  idea worth considering even though it would be an enormous
+task to  translate the Z80 assembly code to "C".  I do understand
+that Tim  actually did have an 8-bit prototype version running on
+the IBM PC at one time, but that it was so so slow he shelved the
+project.  Later in the same week Brian Goodheim suggested that an
+Oasis  shell  under  MSDOS might  be well  received.   He said he
+thought someone was already working on a shell for UNIX.
+
+It got  me  to thinking  about all  those IBM PCs out there  that
+could run Oasis-8,  if it were available.  After  all the 8088 is
+really  an 8-bit  processor anyway,  and Oasis-8 is a great  time
+proven  operating  system  that  on  many systems  currently runs
+faster  than the  16-bit implementation  on either the IBM PC  or
+Seiko  8600.   True, several  suppliers are now offering packages
+that run Oasis Basic under UNIX.  (Feith Systems has been pushing
+hard with  their marketing of UX-BASIC and SMI has been doing the
+same with their S-Tran)
+
+But, what is really needed is a full implementation of Oasis with
+all of  its superior  system development features.  If the  Oasis
+warriors were  to go  on the offensive once again,  I think there
+might well be some new battles worth winning out there.
+
+COMMERCIAL PRODUCT REVIEWS: We  don't have any.  What we  do have
+is comments from  users on various products they  have personally
+used and  about which  they have strong feelings, one  way or the
+other.   I get  calls several  times a week from people  who want
+advice  about  which  system they  should get.   Not  having done
+careful comparisons, I  usually must refer the callers  to people
+who  are  currently   using  the  products  in  which   they  are
+interested.  Unsolicited  feedback from members about things they
+are using  helps  a  lot.   So,  forgive me  for  soliciting more
+unsolicited feedback!
+
+OASIS-16: Oscar   Ortega   has  been   calling  various  software
+suppliers to see when stuff will be available for use on Oasis-16
+machines.  He says the Palm Tree WP is expected around September,
+MultiCalc  (plus a  their new  word  processor) sometime in July,
+Groundstar  by about  August, and  that he already has a  copy of
+QISORT running on his Altos 986.  If you have made the conversion
+of your stuff  for use under Oasis-16, let  me know and I'll help
+spread the word.
+
+DIGITEX: seems to be no more.  Their old phone is now answered by
+some  other   company  receptionist  who  refers  callers  to  an
+attorney,  Gary David  (213) 552-2500.  David's secretary told me
+Digitex had  shut down and that none of the officers or technical
+people were  available any more for discussions of any kind.  She
+declined  to  say  if  they  were  in  Chapter  11,  or what  the
+disposition was of  Digitex's assets.  She took my  phone number,
+but no one ever called back.  So, they come and they go.
+
+TELEVIDEO TS804: I called  to try and get the  latest poop on the
+action  at  Televideo  and did  learn a  few  interesting things.
+First,  those 10000  copies of  the  Oasis software directory are
+being sent out to purchasers of the TS804 who REQUEST a FREE copy
+of the Oasis  operating system for their machine.   It seems that
+the machines  are being shipped with MP/M II as the standard O/S,
+but that you  may request the free copy  of Oasis if you want it.
+What  a  deal.  I  wonder why  they don't just go ahead  and give
+everyone a copy.
+
+They have not  yet built up any significant capability with Oasis
+in Systems  Technical Support  according to Craig Simons, one  of
+the  people with  some knowledge  of Oasis.   His  phone   number
+outside   of  California   is  (800)  538-8725  X282  and  within
+California  it   is  (408)  745-7760  X282.   I  got  the  strong
+impression that  they are still getting their act together as far
+as Oasis goes.  If the action around their booth at Comdex Spring
+is any  indication, they may be putting most of their promotional
+attention on the  new IBM PC compatible TS-1605  according to one
+member's report.   Hope they  have a little energy for  the TS804
+with Oasis.   The last big advertising splash I saw for the 8-bit
+machine was a couple of months ago.
+
+UNIX: There  is an  interesting article  in the July 84 issue  of
+Popular  Computing dealing  with 16-bit operating systems.  While
+Oasis is  not even mentioned by the author, he does have a lot to
+say  about "Dark  Horses", using  for an example another new  O/S
+designed  by  Niklaus  Wirth  around  his  Modula-2  language,  a
+"modernized Pascal."
+
+"Will UNIX be the wave of the future?  No one really knows, and a
+dark horse  operating system  could just as easily break  out and
+steal the race."  That statement pretty well summarizes  the tone
+of the article even though writer, Jerry Pournelle concludes that
+"A  lot  of micro  experts don't  much care for UNIX but  believe
+we'll be  forced to it for lack of anything else...  UNIX is very
+large: if  you  get the  system for  the  IBM PC, it comes  on 15
+disks.  You'd have  to have a hard disk  to make use of Unix, and
+even  then it  would be  pretty slow on a micro...   Other system
+developers believe  that Unix is the wave of the past.  'Too big,
+too slow, and  too hard to use,' says  Sage Computer's president,
+Rod Coleman." What  about the ol' dark horse  we're riding?  What
+would it  take for  Oasis to begin making its  virtues known to a
+wider audience?
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 to get CARAVAN, our on-line information system.
+Runs 24 hours a day, 7 days a week at 300 Baud on weekends and
+at 1200 Baud during the weekdays. Give it a try.
+
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 39
+-----------------------------------------------------------------
+▼ OL39.FEEDBACK:VOL39                                      02/01/85 11:32 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL39.FEEDBACK                                       15 June 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+Hi Fred,
+
+Just touching  base  with you  before you  switch  to 300 for the
+weekend.   (It wasn't  too long  ago I had to wait  for you to do
+that!...)
+
+The FL1 command  fails to  mount the disk to be  copied to before
+writing  on  it.  Therefore  if the  disk  being copied was write
+protected  by  the  INITDISK  command,  FL1  will  say  that  the
+DESTINATION disk is ALSO write protected!  I also had FL1 looking
+for track  177 on  a 152-track disk!  (ouch!) Where's  the source
+code?
+
+I have heard that  OASIS 5.7 is nearing completion,  and that the
+system default synonyms have been slightly altered, so be sure to
+spell all command names fully in ALL EXECs!!!!!
+
+Gotta run; thanks  for  the  credit  issued  in exchange  for  my
+contribution.   I  trust  you  received  the disk  intact.
+-dave klotzman (303) 473-5880
+
+-----------------------------------------------------------------
+01081,03,03/01/84,10:16,SHAUN SWEENEY,ALL
+COMMUNICATIONS,,
+
+I AM LOOKING FOR A BISYNCRONOUS COMMUNICATION PACKAGE TO RUN ON
+MIDDI-CADET  TO  HOST  3780 IBM.   ANYONE WITH  INFO  PLEASE CALL
+COLLECT SHAUN AT 604-753-5823
+
+-----------------------------------------------------------------
+01082,22,03/03/84,00:48,SCOTT SHUEY,FRED BELLOMY
+SPREADSHEET FOR OASIS.,,
+
+Fred....re your  wishliist  comments  in Vol  34 (or  35?)  for a
+spreadsheet like  Visicalc running under Oasis - suggest you look
+at multiCALC  by Logic Extension Resources (LXR).  LXR is located
+in  Rancho  Cucamonga,  CA; (714)  980-0046.  I  have  been using
+program for  almost a  year now and am very  pleased with it.  (I
+also  did some  beta  testing  on  it).   All features  found  on
+Visicalc  and  similar programs  are included.  However since the
+program is  disk-based (vs ram-based) it does run a little slower
+than some of the other spreadsheeets, but not much.  On the other
+hand, it is possible to build very large models (65,000 records).
+The  price  is  about  $550  list,  and  graphics  and color  are
+available for  about  $150  extra.   (Prices  are not  exact  but
+according to my memory).  Excellent product - we have gotten very
+good use out  of it.  (When reviewing this  message I see several
+places  where  extra  characters are  inserted....sorry for goofy
+looking memo.  I  do not know if the  problem is my system or the
+line  or what.   However, during  the time it took to  enter this
+short message  the line (or your system)kicked me off twice; when
+I re-dialed the system did not know I had left).
+
+-----------------------------------------------------------------
+01083,16,03/03/84,01:13,SCOTT SHUEY,ALL
+DATABASE FOR OASIS,,
+
+If anyone has  a need for a powerful and flexible (and expensive)
+database  for  Oasis  systems, you  might look  into  UserBase by
+UserWare International  (Escondido, CA), (619) 741-8825.  We have
+been using this program for about 9 months now and are very happy
+with  iit.  In  fact, I  am not sure how we  got along without it
+before.  It  is a relational database with very flexible features
+for  sorting,  reporting, searching,  maintaining, etc , data.  I
+won't waste time  here to describe all the  capacities, features,
+etc.  of the  program since they are extensive.   As I mentioned,
+it is expensive - about $1500 list!  For our business we consider
+it an  excellent investment,  but we also use it  every day.  One
+other thing, the program code alone is 1 megabyte, and even small
+databases  require  100K of  storage sppace.   It  is obviously a
+hard-disk based program.
+
+-----------------------------------------------------------------
+01084,54,03/02/84,02:13,MIKE HOBACH,FRED BELLOMY
+OASIS BULLETIN BOARD,MODT,
+
+Fred, I just thought I would leave a message here reminding   you
+that we have  developed a new Information Exchange  System called
+MIRAGE which is  now on line.  The best  part is it is running on
+OASIS.   The  system was  written in  OASIS  BASIC with a special
+class code  to allow us to run some standard software.{The system
+is  completely  hardware  independent  so  there  are  no special
+drivers  for specific  machines.  It  also  supports both 300 and
+1200 baud !!!  AND IT WORKS.
+
+At present it  is running on a Big Board II with a 26mb hard disk
+but it will  soon be moved to a  multi-user system with 4-6 phone
+lines.  The system features at present more than 26 special topic
+Bulletin  Boards,  1  Public General  Purpose Board, Private mail
+boxes, News section w/ Int, Local, City, and State columms, Towne
+Crier w  review of local restaurants, plays, nite clubs etc, Game
+section featuring  some public domain games and a comment section
+for you  to leave  your complaints or comments to  the operators.
+In the  very  near future  we will  be  connected to a few  local
+computer merchants  to offer computer shopping.  We are presently
+working  on  the  classified  advertising section  and commercial
+advertising section, these should be finished next week.
+
+The reason I  am leaving this message here is because I know that
+OASIS people  frequent this board and we would like to have these
+people call  our system and leave us some opinions on it's design
+and  speed.   We would  be willing  to donate a copy to  the user
+group for use on CARAVAN if you wish.  The system was designed to
+be marketed to computer Manufacturers, Distributors and Retailers
+although just about  any business could set one  of these up as a
+mini  Compuserve  or Source.   We at  present  are setting up the
+system called SUE (Serious Users Exchange) here in Milwaukee as a
+pay system.   We allow non paying users on the system 5 times for
+free, if they wish to access the system after that they will have
+to pay $24.00 a year for the service.
+
+I WOULD LIKE TO  INVITE EVERYONE READING THIS TO  GIVE SUE A CALL
+AND TRY A  TRUE OASIS INFORMATION SYSTEM.  THE  NUMBER TO CALL IS
+(414) 645-6849.   When you  connect, at either 300 or  1200 baud,
+the system  will automatically  start.  There is no need  to type
+CR's to start  the system.  Once on the  system indicate that you
+are a member of the OUG so that we know who you are.  If you have
+any questions  or comments that you would like answered in person
+you can give me a call at:
+
+       Modern Technology (office - voice only !)
+       (414) 762-7382
+
+       System (S.U.E.) (300 or 1200 baud - modem only !)
+       (414) 645-6849
+
+-----------------------------------------------------------------
+01085,05,03/01/84,22:46,FRANK GREGOIRE,BRIAN GOODHEIM
+REALSOFT SYSTEM,,
+
+BRIAN  THE  SYSTEM IS  GREAT,  WE  ARE  CHURNING  THEM OUT  AT  A
+FANTASTIC RATE  AND WITH  EXCEPTIONAL QUALITY.  JUST WANT TO  LET
+YOU KNOW HOW  PLEASED WE ARE.  LOOKING FORWARD  TO MEETING YOU IN
+COLORADO OR ATLANTA ONE OF THESE DAYS SOON.
+
+-----------------------------------------------------------------
+01086,10,03/01/84,22:24,BOB BORTZ,ALL
+BPGEN,,
+
+I'm offering  to OUG  members, a  money  back guarantee on BPGEN,
+(BASIC Program  Generator).  BPGEN  has been reduced in price  to
+$250.00.   For more  information about  BPGEN,  call or write BOB
+Bortz of BRB Software Systems, 9820 San Jose Blvd.  Jacksonville,
+FL  32217 (904)  268-2665 The  manual is available for $5.00.   A
+demo  diskette  is also  available for  $5.00  (must order manual
+too).  Also NOTE  that the BPGEN Demo system  was included on the
+unscheduled bonus volume standing order members got with vol 37.
+
+-----------------------------------------------------------------
+01089,06,03/02/84,03:02,JOHN FRIESE,ALL
+COMPUPRO DRIVES FOR SALE,,
+
+I HAVE A COMPUPRO  8" SUB SYSTEM FOR SALE.   IT INCLUDES TWO QUME
+DOUBLE SIDED,  DOUBLE DENSITY DRIVES WITH THE POWER SUPPLY IN THE
+COMPUPRO CABINET.  THESE DRIVES WORK PERFECTLY AND HAVE FEW HOURS
+LOGGED ON  THEM.  $1000.00 FOR THE PACKAGE.  I ALSO KNOW OF A NEW
+COMPUPRO DISK 1  CONTROLLER CARD THAT IS AVAILABLE.   JOHN FRIESE
+(805) 682-6822 days,or 682-3490.
+
+-----------------------------------------------------------------
+01090,22,04/01/84,14:58,JOE TRIMBLE,FRED BELLOMY
+MODEM WORKING.,,
+
+Well, guess what--
+
+I finally made  this connection.   The Rixon is doing its  thing,
+though I  had to  switch lines 2 and 3  on the RS232 connector to
+the CPU  from what Dave Klotzman had used, and I don't have ENAB4
+working.   However, I  sure am  grateful that Dave gave you  (and
+therefore us) the  info he had---I wouldn't have  gotten this far
+without it,  or at least not without a LOT of work.  Now if I can
+just figure out  what all the lights and  switches mean (like MB,
+MR, TM lights  and ST, RDL, and DL  switches) maybe I can be like
+you!
+
+Since this is a prime time call, I'll quit now.  I have made more
+progress on  the Library shell, but it will be another week or so
+before I have anything concrete to send.
+
+     Greetings to Tomoko.   Peace,
+
+        Joe
+
+
+-----------------------------------------------------------------
+01093,18,04/18/84,01:47,BRIAN HASCALL,ALL
+NEED MEDICAL EQUIP. PKG.,,
+
+We're  looking  for  a  DURABLE- MEDICAL  EQUIPMENT package (eg.,
+Billing   Medicare  for   services   rendered).     Have  several
+customers  that need  it badly.  Haven't contacted Phase-One yet,
+to  see  if  anyone has advertised such  a package.  Just haven't
+had the time  to write what we need.   If anyone out there either
+HAS  a  package   or  KNOWS  of  one  they   can  contact  us  at
+207-797-2912.  Oh,  by the  way, We've gotten quite a  bit of use
+out of  'SELECTX' (Vol34).  Have had a number of fried ISAM files
+which we  we're able to get untangled.  Do have a question or two
+about it for someone, at some future time.  P.S.: this is the 3rd
+time we've called the caravan, each time using a different modem.
+Haven't  had  a  lick of  trouble with  either  the MICROCOM, the
+VENTEL, or the SIGNALMAN.  Guess we live right.
+
+-- BRIAN HASCALL
+-----------------------------------------------------------------
+01094,09,03/03/84,01:40,MARK AMBER,ALL
+GRAMER SPELING  PUNKCHEWASHUN,,
+
+Wye iz it  thet their seam two bee so meny grammar, spelling, and
+punctuation errers in  alot uv the stuff yew  reed on{ cumpewtor.
+Eye thawt wee wer intullektuals??. Cum on yew guys, lets cleen up
+are  act!.   Sum misstayx  our obvius  and  this iz uncalled for.
+Butt Im evin  irritatded bye homonym errers lyke  YOUR/YOU'RE and
+WRITE/RIGHT  esp.  in  COPYRIGHT [the  RIGHT  to COPY] I'm really
+tired syntax errors from humans.  Enuff sed.
+
+-----------------------------------------------------------------
+01095,12,03/03/84,02:02,MARK AMBER,FRED BELLOMY
+MODEM NOISE,,
+
+I'm feeling sarcastic today  and while I'm at it...   I know from
+experience that the brand of modem makes a big difference in it's
+rejection of  noise on the line.  Modems that tout 212A encoding{
+aren't  equal.{{A  brace  [{]  is  th{  indication  of{th{  212's
+unability to  unencode due t{ nois{ that it was unable to filter.
+Quality  brands  will{often punch  through the noise where others
+fail.  Highly  recommend Racil-Vadic or Hayes.  NEVER{ have noise
+when the two{talk together
+
+-----------------------------------------------------------------
+01097,03,05/15/84,12:50,ALAN BLIGH,ALL
+TERM CLASS CODE FOR TRS-100,,
+
+TRYING TO  USE TRS-100  WITH OASIS  AND IBC CADET - CLASS  CODE A
+PROBLEM -  CANNOT USE BASIC - NOT USING MODEM BUT USING 232C PORT
+AT 300 BAUD (FAST AS TRS-100 WILL WORK)
+
+-----------------------------------------------------------------
+01101,25,03/02/84,05:46,STEPHEN JOHNSON,FRED
+VOLUME 1,,
+
+Dear Fred,
+
+I received library  Volume 1  last week and absolutely loved  it.
+I've  spent  most of  my free  time during the weekend just  play
+ADVENTURE and get  time myself lost in the  maze and fighting the
+dragon.   I  also  greatly appreciated  the fast  response  to my
+order, I wasn't expecting the disk until this week or next.
+
+▼ OL39.FEEDBACK:VOL39                                      02/01/85 11:32 Page 2
+
+I like the quality of the disk that you sent and I'd like to know
+what brand it is.{
+
+I  am  preparing  a disk  of program submissions to the  library.
+The  disk  will include  some utilities  that we use here at  the
+office and in our software products.  One of the more useful ones
+are a  BASICUSR routine that will return the current account name
+and/or account number and a BASIC MERGE EXEC that merges to BASIC
+object files.
+
+Before I forget, I  would like to establish a  standing order and
+the answer to your questions: My double density format is 77-2-26
+and a  full description of our system will be with the submission
+diskette in the mail.
+
+STEPHEN JOHNSON
+
+-----------------------------------------------------------------
+01102,16,03/02/84,06:07,STEPHEN JOHNSON,JOE TRIMBLE
+DUNGEONS AND DRAGONS,,
+
+DEAR JOE,
+
+I AM THRILLED  TO KNOW THAT THERE IS SOMEONE ELSE THAT USES OASIS
+IS  ALSO  INTERESTED IN  DUNGEONS AND  DRAGONS.  I AM NEW TO  THE
+USER'S GROUP  AND SAW YOUR PLAYERS FORM IN LIBRARY VOL 1.  I ALSO
+AM INTERESTED IN D D AS A PLAYER AND A DM.  WE HAVE A LOCAL GROUP
+WHICH PLAYS ON  THE AVERAGE 2 TIMES A  WEEK.  WE HAVE ABOUT 30 TO
+40 PEOPLE  WHO COME  AND PLAY WITH ABOUT 10  DIFFERENT CAMPAIGNS.
+AND ALSO  WE  PLAY  SEVERAL  OTHER  ROLE PLAYING  GAMES,  SUCH AS
+CHAMPIONS, TRAVELLER,  AND MANY OTHER.  BUT ENOUGH OF ME, TELL ME
+ABOUT YOUR GROUP ON CARAVAN.
+
+STEPHEN JOHNSON
+
+P.S. I'M GOING TO GEN-CON IN AUGUST, ARE YOU?????
+
+-----------------------------------------------------------------
+01103,04,03/02/84,07:21,JERRY HASTY,ALL
+WANT TO BUY OASIS COMPUTER,,
+
+NEED A GOOD MULTI-USER OASIS MACHINE CAPABLE OF HANDLING 3 USERS.
+LOOKING  FOR GOOD  USED MACHINE  AT A GOOD PRICE.  WHAT'CHA  GOT?
+CALL JERRY HASTY AT (702) 452-3368 IN LAS VEGAS.
+
+-----------------------------------------------------------------
+
+From Kevin Hansen comes a warning to IBC Middi Cadet owners  that
+doing a SYSGEN with MCACHE active can cause a system crash. Also,
+the floppy copy utility FL2 will default to the "A" drive and  it
+will wipe out whatever disk is in that drive.  (Note: I've talked
+to Lew Murray and he is going to send us a new safer version. FB)
+
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL39.FEEDBACK                                15 June 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:   N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 39.
+
+*****************************************************************
+
+DEKDEMO
+ELL    .ASSEMBLE BELL    .COMMAND  DEKDEMO .BASICCOM
+DEKDEMO .BASIC    DEKDEMO .DOC      DEKDEMO .EXEC
+LOOKUP  .ASSEMBLE LOOKUP  .COMMAND  SED     .ASSEMBLE
+SED     .COMMAND  SRCHBYTE.ASSEMBLE SRCHBYTE.COMMAND
+STRIP   .ASSEMBLE STRIP   .COMMAND  STRIP   .DOC
+USR0    .ASSEMBLE USR0    .BASICUSR WHATTERM.ASSEMBLE
+WHATTERM.BASICUSR WHERE   .ASSEMBLE WHERE   .COMMAND
+WHO1    .ASSEMBLE WHO1    .COMMAND
+
+This is  a  package  of utilities  from Dave  Klotzman.   Dave is
+asking  anyone who  uses  any  of  his  modules in  a  commercial
+application to  send him  a nominal fee of one  dollar per module
+for  each installation  in which  it is used.  This is  our first
+example of "FREEWARE"  that has been discussed so  much lately in
+the press.  Dave's phone number is (303) 473-5880.
+
+The DEKDEMO.EXEC  demonstrates  each  of  the separate  utilities
+(with the exceptions of STRIP).  This one has a separate DOC file
+of information,  as  it  does  not  lend itself  to  an automatic
+demonstration.
+WANT TO SEE A DEMO? [Y/N]:N
+IAL1
+IAL1.EXEC
+
+This EXEC utility just  dials one of several modem  phone numbers
+you have  stored and connects your Oasis system to the modem.  It
+does assume that you have a Hayes Smartmodem.  You must customize
+several things  for your  own application: the SIO port  to which
+you  have   attached  a  modem,  the  correct  specification  for
+reattaching  your printer,  and the  names  and phone numbers you
+actually want  to dial.  I have left the numbers alone that Chris
+Mallam  (613)  236-0374,  the contributor,  has provided - except
+that I added  the number for CARAVAN, the  online OUG information
+service.
+
+It is a good model as it stands and I am sure some of you will be
+able to use it after making the necessary modifications.  FB
+
+▼ ASYLINK
+ASYDEMO.EXEC  /  EASYLINK.NUMBERS  /  EASY.COMMAND  /  EASYLINK.WUW
+EASYLINK.EXEC  /  EASYHELP.EXEC  /  EASYCOMM.COMMAND  /  EASYOUT.MSG
+
+
+This system allows you to communicate via Western Union's EASYLINK.
+
+Send an OASIS text file as a TELEX, MAILGRAM, E-COM letter,
+etc. thru the EASYLINK network.  Access FYI services and
+pick-up messages from your EASYLINK "mailbox account".
+
+
+     If you have Multi-User OASIS and an auto-answer modem,
+     you will be able to process with "Auto-answer Service".
+
+                          Gary Bergman
+                          TWX 710 4806282 ADS NBRU
+
+
+
+Want to see more info {Y/N}?:N
+EYLOAD
+
+
+
+EYDEMO .EXEC     KEYEXAMP.EXEC     KEYLOAD .BASIC
+KEYLOAD .C        KEYLOAD .COMMAND  KEYLOAD .DOC
+KEYLOAD .DOCCRT   KEYLOAD .DOCPRT   KEY     .EXEC
+
+Henry Aylward  sends us this one which loads the  function keys on
+the Ampex D175 terminal (and can be customized for other terminals
+as well).  There is a good set of  documentation  and an automatic
+demonstration option provided. Henry's phone # is (808) 696-2589.
+
+WANT TO SEE A DEMO OF KEYLOAD NOW? [Y/N]:N
+OVES
+*****************************************************
+* * *   MOVE  -   Gary Bergman Associates Inc.  * * *
+*****************************************************
+
+Function:    To move a file from one disk to another.
+             (erases source file if copy successful)
+
+Syntax:      >MOVE  fn.ft:fd fn[.ft[:fd]] [(options)]
+
+             The destination filename may be different
+             from the source or may be coded as (=).
+             (The syntax is identical to COPYFILE.)
+
+Note:        If the destination drive is not specified,
+             RENAME is executed instead of COPY/ERASE.
+
+             Wildcard specifications are NOT allowed.
+             (EXEC can only move one file at a time.)
+
+
+Gary's phone number is (201) 246-7285.
+▼ RINTS
+
+     FUNCTION:  To copy the specified file(s) to the printer multiple times.
+
+     FORMAT:    PRINT fn ft fd (copies)
+
+                Where fn = name of the file to be printed
+                      ft = type of the file to be printed
+                      fd = disk of the file to be printed
+                  copies = the number of copies desired.
+
+               The first three parameters are required.  If the (copies)
+                    parameter is omitted, only one copy will be printed.
+
+                Notes:  Wildcards (* and ?) may be used anywhere in the
+                    fn ft fd description, thus allowing multiple files
+                    to be printed.  A period and colon may also be used in
+                    the file description in place of the spaces, thus:
+
+               PRINT fn.ft:fd (copies)
+
+From Joe Trimble (415) 839-3281.
+▼ ^
+
+ELL, THAT'S  THE END  OF VOLUME 39.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>
+

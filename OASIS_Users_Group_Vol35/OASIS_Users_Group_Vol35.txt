@@ -1,0 +1,1061 @@
+iles owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST35  A 02/08/84 14:15    60    3 S    65 VOL35
+CC       BASIC    A 02/17/84 15:32    88    3 S    73 VOL35
+CC       EXEC     A 02/17/84 14:33   171    6 S    77 VOL35
+CC84B    DIRFILE  A 01/06/83 07:23     5    1 D    80 VOL35
+CC84B    FILE     A 01/06/83 07:23     0    2 I    80 VOL35
+CCBALB   BASIC    A 01/08/83 19:26   117    5 S    83 VOL35
+CCBALB1  BASIC    A 01/08/83 19:26    18    1 S    70 VOL35
+CCDBMB   BASIC    A 01/08/83 19:27   156    6 S    74 VOL35
+CCENTB   BASIC    A 01/08/83 19:27   161    6 S    81 VOL35
+CCERR    BASIC    A 01/08/83 19:27    27    1 S    73 VOL35
+CCFIRSTB BASIC    A 01/08/83 19:27    24    1 S    75 VOL35
+CCINB    BASIC    A 01/08/83 19:28    18    1 S    65 VOL35
+CCLISTB  BASIC    A 01/08/83 19:28    57    2 S    78 VOL35
+CCYE2    BASIC    A 01/31/83 22:21    22    1 S    65 VOL35
+CK       BASIC    A 01/08/83 19:28    86    3 S    72 VOL35
+CK       EXEC     A 02/17/84 14:38   210    7 S    77 VOL35
+CK84A    CHECK    A 01/06/83 07:23     5    1 D    70 VOL35
+CK84A    DEP      A 01/06/83 07:23     5    1 D    20 VOL35
+CKBALA   BASIC    A 01/08/83 19:29   148    6 S    77 VOL35
+CKDBMA   BASIC    A 01/08/83 19:29    66    3 S    78 VOL35
+CKDEPA   BASIC    A 01/08/83 19:30    46    2 S    67 VOL35
+CKENTA1  BASIC    A 01/08/83 19:30    24    1 S    57 VOL35
+CKENTA2  BASIC    A 01/08/83 19:30    78    3 S    73 VOL35
+CKENTA3  BASIC    A 01/08/83 19:30    45    2 S    63 VOL35
+CKERRA   BASIC    A 01/08/83 19:31    25    1 S    52 VOL35
+CKFIRSTA BASIC    A 01/08/83 19:31    29    1 S    86 VOL35
+CKLISTA  BASIC    A 01/08/83 19:31    73    3 S    78 VOL35
+CKSCREEN BASIC    A 01/08/83 19:31    45    2 S    60 VOL35
+CKYE2    BASIC    A 01/08/83 19:31    19    1 S    34 VOL35
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL35
+DATECONV BASIC    A 02/17/84 18:03    53    3 S    99 VOL35
+DATECONV COBOL    A 02/17/84 18:06    47    2 S    72 VOL35
+DATEDATA COBOL    A 02/17/84 18:10    26    2 S    64 VOL35
+DIRFIX   ASSEMBLE A 10/25/83 09:34    37    1 S    52 VOL35
+DIRFIX   BASICUSR A 02/17/84 15:11     3    1 R   256 VOL35
+DIRFIX   NOTES    A 02/17/84 14:42    54    3 S    78 VOL35
+FC$INTRO EXEC     A 02/17/84 14:55    45    1 S    72 VOL35
+FCBILL   DOC      A 02/17/84 14:48   108    5 S    65 VOL35
+FCCOMP   EXEC     A 02/17/84 17:09    40    2 S    73 VOL35
+FCDELETE BASIC    A 02/17/84 16:18    27    1 S    85 VOL35
+FCDOC    BASIC    A 02/17/84 14:11    15    1 S    54 VOL35
+FCHISTOR BASIC    A 02/17/84 14:11    54    3 S    81 VOL35
+FCMASLIS BASIC    A 02/17/84 14:11    29    1 S    87 VOL35
+FCMASPRT BASIC    A 02/17/84 14:11    33    2 S    89 VOL35
+FCMAST   BASIC    A 02/17/84 16:19    85    4 S    84 VOL35
+FCMENU   BASIC    A 02/17/84 14:12    46    2 S    77 VOL35
+FCSETUP  BASIC    A 02/17/84 17:27    20    2 S   113 VOL35
+FCSPECAL BASIC    A 02/17/84 16:08   166    7 S   112 VOL35
+FCSTATE  BASIC    A 02/17/84 14:12   176    9 S   148 VOL35
+FCTRAN   BASIC    A 02/17/84 14:13    59    3 S   104 VOL35
+FCTRANTB BASIC    A 02/17/84 14:13    48    3 S   115 VOL35
+LOAN2    BASIC    A 01/25/83 22:31   106    5 S   120 VOL35
+LOAN3    BASIC    A 01/24/84 13:18    64    3 S   136 VOL35
+NUMBERS  BASIC    A 02/17/84 14:13   127    3 S    70 VOL35
+OPERATOR ASSEMBLE A 10/25/83 09:36    37    1 S    59 VOL35
+OPERATOR NOTES    A 02/17/84 14:39    85    4 S    78 VOL35
+PIPE     BASIC    A 02/17/84 14:01   232   10 S   189 VOL35
+PIPE     DATA     A 02/17/84 13:58    34   13 D   384 VOL35
+PIPE     EXEC     A 02/17/84 14:04    12    1 S    46 VOL35
+RCOMM    DOC      A 02/17/84 14:23    37    2 S    65 VOL35
+RCOMM    EXEC     A 02/17/84 14:30   126    3 S    62 VOL35
+SELECT35 EXEC     A 02/17/84 21:17    70    4 S    46 VOL35
+SOFTWARE RULES    A 02/17/84 19:23    96    5 S    72 VOL35
+TECH     NOTE4    A 01/01/84 14:55   189    8 S    79 VOL35
+TIMEOUT  BASIC    A 02/17/84 13:46    20    1 S    98 VOL35
+VOL35    CONTENTS A 02/17/84 17:36   195    8 S    65 VOL35
+VOL35    EXEC     A 02/17/84 19:03   433   12 S    73 VOL35
+VOL35    FEEDBACK A 02/17/84 19:19   275   13 S    65 VOL35
+VOL35    NEWS     A 02/17/84 19:17   185   10 S    65 VOL35
+WISH     LIST35   A 02/17/84 21:16    62    3 S    72 VOL35
+70 file(s), 244 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+CC84B.DIRFILE:A copied to CC84B.DIRFILE:D
+CCBALB.BASIC:A copied to CCBALB.BASIC:D
+CKYE2.BASIC:A copied to CKYE2.BASIC:D
+DIRFIX.BASICUSR:A copied to DIRFIX.BASICUSR:D
+FCDELETE.BASIC:A copied to FCDELETE.BASIC:D
+FCSPECAL.BASIC:A copied to FCSPECAL.BASIC:D
+FCTRANTB.BASIC:A copied to FCTRANTB.BASIC:D
+LOAN3.BASIC:A copied to LOAN3.BASIC:D
+CCINB.BASIC:A copied to CCINB.BASIC:D
+OPERATOR.ASSEMBLE:A copied to OPERATOR.ASSEMBLE:D
+RCOMM.DOC:A copied to RCOMM.DOC:D
+TIMEOUT.BASIC:A copied to TIMEOUT.BASIC:D
+VOL35.EXEC:A copied to VOL35.EXEC:D
+WISH.LIST35:A copied to WISH.LIST35:D
+CCBALB1.BASIC:A copied to CCBALB1.BASIC:D
+CCYE2.BASIC:A copied to CCYE2.BASIC:D
+CK84A.DEP:A copied to CK84A.DEP:D
+CKENTA1.BASIC:A copied to CKENTA1.BASIC:D
+CKFIRSTA.BASIC:A copied to CKFIRSTA.BASIC:D
+OPERATOR.NOTES:A copied to OPERATOR.NOTES:D
+SELECT35.EXEC:A copied to SELECT35.EXEC:D
+VOL35.NEWS:A copied to VOL35.NEWS:D
+CK.BASIC:A copied to CK.BASIC:D
+CKSCREEN.BASIC:A copied to CKSCREEN.BASIC:D
+FCSETUP.BASIC:A copied to FCSETUP.BASIC:D
+LOAN2.BASIC:A copied to LOAN2.BASIC:D
+RCOMM.EXEC:A copied to RCOMM.EXEC:D
+SOFTWARE.RULES:A copied to SOFTWARE.RULES:D
+VOL35.FEEDBACK:A copied to VOL35.FEEDBACK:D
+CK.EXEC:A copied to CK.EXEC:D
+CKENTA3.BASIC:A copied to CKENTA3.BASIC:D
+DATEDATA.COBOL:A copied to DATEDATA.COBOL:D
+DIRFIX.ASSEMBLE:A copied to DIRFIX.ASSEMBLE:D
+FC$INTRO.EXEC:A copied to FC$INTRO.EXEC:D
+FCMAST.BASIC:A copied to FCMAST.BASIC:D
+PIPE.BASIC:A copied to PIPE.BASIC:D
+PIPE.DATA:A copied to PIPE.DATA:D
+CC.BASIC:A copied to CC.BASIC:D
+CCFIRSTB.BASIC:A copied to CCFIRSTB.BASIC:D
+COPYRITE.NOTICE:A copied to COPYRITE.NOTICE:D
+DIRFIX.NOTES:A copied to DIRFIX.NOTES:D
+FCBILL.DOC:A copied to FCBILL.DOC:D
+NUMBERS.BASIC:A copied to NUMBERS.BASIC:D
+PIPE.EXEC:A copied to PIPE.EXEC:D
+CC.EXEC:A copied to CC.EXEC:D
+CCLISTB.BASIC:A copied to CCLISTB.BASIC:D
+CK84A.CHECK:A copied to CK84A.CHECK:D
+CKDBMA.BASIC:A copied to CKDBMA.BASIC:D
+FCDOC.BASIC:A copied to FCDOC.BASIC:D
+FCMASPRT.BASIC:A copied to FCMASPRT.BASIC:D
+VOL35.CONTENTS:A copied to VOL35.CONTENTS:D
+CCERR.BASIC:A copied to CCERR.BASIC:D
+CKBALA.BASIC:A copied to CKBALA.BASIC:D
+CKDEPA.BASIC:A copied to CKDEPA.BASIC:D
+DATECONV.COBOL:A copied to DATECONV.COBOL:D
+FCMASLIS.BASIC:A copied to FCMASLIS.BASIC:D
+FCSTATE.BASIC:A copied to FCSTATE.BASIC:D
+TECH.NOTE4:A copied to TECH.NOTE4:D
+CKENTA2.BASIC:A copied to CKENTA2.BASIC:D
+CKERRA.BASIC:A copied to CKERRA.BASIC:D
+CKLISTA.BASIC:A copied to CKLISTA.BASIC:D
+FCHISTOR.BASIC:A copied to FCHISTOR.BASIC:D
+$README.FIRST35:A copied to $README.FIRST35:D
+CC84B.FILE:A copied to CC84B.FILE:D
+CCDBMB.BASIC:A copied to CCDBMB.BASIC:D
+CCENTB.BASIC:A copied to CCENTB.BASIC:D
+DATECONV.BASIC:A copied to DATECONV.BASIC:D
+FCCOMP.EXEC:A copied to FCCOMP.EXEC:D
+FCMENU.BASIC:A copied to FCMENU.BASIC:D
+FCTRAN.BASIC:A copied to FCTRAN.BASIC:D
+
+>VOL35
+=================================================================
+:                                                                :
+:           VOLUME 35 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "We are what we pretend to be,                                :
+:               so we must be careful what we pretend to be."    :
+:                                             Kurt Vonnegut      :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL35 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 35  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  35,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST35  A 02/08/84 14:15    60    3 S    65 VOL35
+CC       BASIC    A 02/17/84 15:32    88    3 S    73 VOL35
+CC       EXEC     A 02/17/84 14:33   171    6 S    77 VOL35
+CC84B    DIRFILE  A 01/06/83 07:23     5    1 D    80 VOL35
+CC84B    FILE     A 01/06/83 07:23     0    2 I    80 VOL35
+CCBALB   BASIC    A 01/08/83 19:26   117    5 S    83 VOL35
+CCBALB1  BASIC    A 01/08/83 19:26    18    1 S    70 VOL35
+CCDBMB   BASIC    A 01/08/83 19:27   156    6 S    74 VOL35
+CCENTB   BASIC    A 01/08/83 19:27   161    6 S    81 VOL35
+CCERR    BASIC    A 01/08/83 19:27    27    1 S    73 VOL35
+CCFIRSTB BASIC    A 01/08/83 19:27    24    1 S    75 VOL35
+CCINB    BASIC    A 01/08/83 19:28    18    1 S    65 VOL35
+CCLISTB  BASIC    A 01/08/83 19:28    57    2 S    78 VOL35
+CCYE2    BASIC    A 01/31/83 22:21    22    1 S    65 VOL35
+CK       BASIC    A 01/08/83 19:28    86    3 S    72 VOL35
+CK       EXEC     A 02/17/84 14:38   210    7 S    77 VOL35
+CK84A    CHECK    A 01/06/83 07:23     5    1 D    70 VOL35
+CK84A    DEP      A 01/06/83 07:23     5    1 D    20 VOL35
+CKBALA   BASIC    A 01/08/83 19:29   148    6 S    77 VOL35
+CKDBMA   BASIC    A 01/08/83 19:29    66    3 S    78 VOL35
+CKDEPA   BASIC    A 01/08/83 19:30    46    2 S    67 VOL35
+CKENTA1  BASIC    A 01/08/83 19:30    24    1 S    57 VOL35
+CKENTA2  BASIC    A 01/08/83 19:30    78    3 S    73 VOL35
+CKENTA3  BASIC    A 01/08/83 19:30    45    2 S    63 VOL35
+CKERRA   BASIC    A 01/08/83 19:31    25    1 S    52 VOL35
+CKFIRSTA BASIC    A 01/08/83 19:31    29    1 S    86 VOL35
+CKLISTA  BASIC    A 01/08/83 19:31    73    3 S    78 VOL35
+CKSCREEN BASIC    A 01/08/83 19:31    45    2 S    60 VOL35
+CKYE2    BASIC    A 01/08/83 19:31    19    1 S    34 VOL35
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL35
+DATECONV BASIC    A 02/17/84 18:03    53    3 S    99 VOL35
+DATECONV COBOL    A 02/17/84 18:06    47    2 S    72 VOL35
+DATEDATA COBOL    A 02/17/84 18:10    26    2 S    64 VOL35
+DIRFIX   ASSEMBLE A 10/25/83 09:34    37    1 S    52 VOL35
+DIRFIX   BASICUSR A 02/17/84 15:11     3    1 R   256 VOL35
+DIRFIX   NOTES    A 02/17/84 14:42    54    3 S    78 VOL35
+FC$INTRO EXEC     A 02/17/84 14:55    45    1 S    72 VOL35
+FCBILL   DOC      A 02/17/84 14:48   108    5 S    65 VOL35
+FCCOMP   EXEC     A 02/17/84 17:09    40    2 S    73 VOL35
+FCDELETE BASIC    A 02/17/84 16:18    27    1 S    85 VOL35
+FCDOC    BASIC    A 02/17/84 14:11    15    1 S    54 VOL35
+FCHISTOR BASIC    A 02/17/84 14:11    54    3 S    81 VOL35
+FCMASLIS BASIC    A 02/17/84 14:11    29    1 S    87 VOL35
+FCMASPRT BASIC    A 02/17/84 14:11    33    2 S    89 VOL35
+FCMAST   BASIC    A 02/17/84 16:19    85    4 S    84 VOL35
+FCMENU   BASIC    A 02/17/84 14:12    46    2 S    77 VOL35
+FCSETUP  BASIC    A 02/17/84 17:27    20    2 S   113 VOL35
+FCSPECAL BASIC    A 02/17/84 16:08   166    7 S   112 VOL35
+FCSTATE  BASIC    A 02/17/84 14:12   176    9 S   148 VOL35
+FCTRAN   BASIC    A 02/17/84 14:13    59    3 S   104 VOL35
+FCTRANTB BASIC    A 02/17/84 14:13    48    3 S   115 VOL35
+LOAN2    BASIC    A 01/25/83 22:31   106    5 S   120 VOL35
+LOAN3    BASIC    A 01/24/84 13:18    64    3 S   136 VOL35
+NUMBERS  BASIC    A 02/17/84 14:13   127    3 S    70 VOL35
+OPERATOR ASSEMBLE A 10/25/83 09:36    37    1 S    59 VOL35
+OPERATOR NOTES    A 02/17/84 14:39    85    4 S    78 VOL35
+PIPE     BASIC    A 02/17/84 14:01   232   10 S   189 VOL35
+PIPE     DATA     A 02/17/84 13:58    34   13 D   384 VOL35
+PIPE     EXEC     A 02/17/84 14:04    12    1 S    46 VOL35
+RCOMM    DOC      A 02/17/84 14:23    37    2 S    65 VOL35
+RCOMM    EXEC     A 02/17/84 14:30   126    3 S    62 VOL35
+SELECT35 EXEC     A 02/17/84 21:17    70    4 S    46 VOL35
+SOFTWARE RULES    A 02/17/84 19:23    96    5 S    72 VOL35
+TECH     NOTE4    A 01/01/84 14:55   189    8 S    79 VOL35
+TIMEOUT  BASIC    A 02/17/84 13:46    20    1 S    98 VOL35
+VOL35    CONTENTS A 02/17/84 17:36   195    8 S    65 VOL35
+VOL35    EXEC     A 02/17/84 19:03   433   12 S    73 VOL35
+VOL35    FEEDBACK A 02/17/84 19:19   275   13 S    65 VOL35
+VOL35    NEWS     A 02/17/84 19:17   185   10 S    65 VOL35
+WISH     LIST35   A 02/17/84 21:16    62    3 S    72 VOL35
+70 file(s), 244 block(s).
+▼ OL35.NEWS:VOL35                                          01/29/85 17:06 Page 1
+
+-----------------------------------------------------------------
+20 February 1984        N E W S   L E T T E R           Volume 35
+-----------------------------------------------------------------
+
+
+
+
+Good Morning OUG Member;
+
+VOL35: I've  reached  way back  in our  bag  of contributions and
+tried to  get all the oldest things out in this volume.  There is
+generally no logic  to why some things get  "lost", except that I
+usually try  to release "balanced" volumes - whatever that means.
+In  this  volume you  will find  a nifty billing system from  Jim
+Tillman,  credit  card and  checkbook balancing systems from Paul
+Schindler,  a  technique  for  working  around a  sequential file
+access bug  from  Dave  Cline,  a  serial number  checking  (etc)
+utility  also  from  Dave,  a nifty  piping contractor estimating
+system from Jim  Halpin, TWO new loan amortization  programs (one
+from  Harry  Schauwecker  and  the  other  from  Jim  Halpin),  a
+communications  controlling  EXEC  from Tony  Zabel, a time delay
+program for Basic menus from Jim Halpin, a program for displaying
+numbers   in  words   from  Jim  Tillman,  Larry  Plumb's  latest
+TECH.NOTE4 dealing with  the creation of class codes,  and a pair
+of  programs from  Dave Skulski  for  converting various forms of
+date  designations to  consistent numerical designations.  All in
+all a well balanced diet with something for everyone.
+
+TIM WILLIAMS TRIMS BEARD: That's only one of the things I learned
+today in  my chat  with the quiet, but industrious  Tim Williams.
+He tells  me they have fixed some of the newly discovered bugs in
+Oasis-16 and  will be  releasing a new version 6.4  on 1 March to
+the  manufacturers.  Tim  says he  will again be putting in  some
+time on  Oasis-8 starting in March.  He wants to clean up some of
+the  known  bugs  including  the  notorious  ISAM  corrupted link
+problem.   On  relations  with  Phase  One,  Tim  replied: "still
+somewhat strained, but workable."....Improving?  "Yes."
+
+TELEVIDEO: The big  news this time is that Televideo will release
+Oasis-8 on their  TS-804 machine next month.  They  and Phase One
+have been working closely to meet the release date.  Phase One is
+making a  video  tape  for  them  which features  Oasis  on their
+machine.  In  talking with Stewart Wachs I learned that Phase One
+hopes to be able to offer hardware dependent promotional services
+like  this to  other manufacturers  in the future as well.   Stay
+tuned for some really important announcements along this line.
+
+KAYPRO: No one seems  to know the status of  this implementation.
+Neither Tim  Williams nor Stewart could say much, other than that
+Oasis  apparently  has been  successfully installed on the Kaypro
+machines and that no final contract has as yet been signed.  But,
+one  of  our members  sent in  some class code drivers for  three
+Kaypro models (vol 34), so you know something is going on!
+
+ALTOS: At last Phase  One and Altos have reached  an agreement on
+distribution  of Oasis-16  on the  586 and 986 machines!  I  know
+that is  going  to be  good news  to  a lot of you  who have been
+concerned about an upward mobility path with the Altos equipment.
+The current agreement  has Phase One doing the  distribution, but
+all  the  talking  isn't  finished  yet.   The  cost  for a  full
+development version of Oasis-16 will be $1495.
+
+IBM: Phase  One  has  sold lots  of copies  of  the PC version of
+Oasis-16  in  the first  few months  of  its availability on that
+machine.  The  first copies  delivered had more bugs than  anyone
+imagined  and Phase  One has  sent replacement copies to the  few
+people  who  were  lucky/unfortunate  enough  to  get  the  first
+deliveries.  Tim  has been busy upgrading the current version and
+expects  to release  the new  version 6.4 on March 1.   I learned
+from Stewart that the $795 price on the PC version was not a full
+development system - that the "C" compiler for example would have
+to  be purchased  separately when  it  became available.  So, the
+lower bargain price wasn't that big a bargain after all.
+
+COMPUPRO: That  one remains  a perplexing enigma.  Why should the
+very  machine  that Tim  Williams  does  all  his  8 and  16  bit
+development  work  on,  also  be  one  of  the  apparently  least
+available  versions????   Part  of  the  answers is  that Godbout
+doesn't  feel  there  is  a  big  enough  market  to warrant  the
+investment  required  to  support  the variety  of configurations
+available  with their  board level marketing approach.  There are
+rumors that  a third  party is negotiating to handle  support for
+Godbout, but no  one seems to know the  details.  Tim indicated a
+willingness to  be  involved,  but  no  one had  asked  him as of
+January.
+
+DYNABYTE: Tim told me that Dynabyte has now committed to offering
+Oasis on  their Monarch machine in the near future, but he had no
+further details.
+
+CCS: The first  rumor I  heard was that they were  getting out of
+the  computer  business  and going  to sell  only  boards.  So, I
+called them and  spoke to a marketing type  who says, "No, we are
+still very  much  in  business  and  will sell  both  systems and
+boards." The company is going through some reorganization and now
+has a  new president, Mike Lynch, I am told.  Jim Squire has left
+the company for unknown destinations.
+
+MORE IMPLEMENTATIONS: There  are lots of great machines out there
+that ought  to offer  Oasis as an optional O/S.   A number of our
+members  have  expressed  an interest  in taking  on  the task of
+putting Oasis up  on a variety of additional  machines.  It seems
+to  me   that  everyone  would  benefit  from  more  third  party
+implementations.  I understand there are contractual complexities
+envolved with Phase One, but in the long run I'm sure it would be
+worth the effort for everyone.
+
+GRUMBLING: I  heard  second  hand  that someone  doesn't like the
+commercial orientation  of the  OUG.  They think we should  cater
+more to  end users and that the fees for services should be lower
+-  more like  the CP/M  Users Group.  So, this is  a good time to
+remind  everyone that  I am  certainly not getting rich and  that
+most of  our members are in fact commercially oriented.  With all
+the  unscheduled  free  bonus volumes  we have  been  throwing in
+lately, the average  cost to standing order members  is less than
+$18  per  volume.  That  we copyright  everything  in the library
+follows from  the commercial orientation of our activities.  Most
+significant   contributions   are  copyrighted   by  the  authors
+themselves.   The OUG  is not  a hobby run by part-time  computer
+enthusiasts.  Those  are the facts of life as they have developed
+for  our  activities  so  far.   I  suppose  it  will  always  be
+impossible to please everyone equally.
+
+MANUFACTURERS LIST:  I am finally putting together a manufacturer
+information  list,  including  CEO,  sales, and technical (Oasis)
+contact people's names.  If you have any of this already compiled
+in some nice form, slip it in an envelop and send it to me.
+
+ALTERNATE LONG DISTANCE DIALING SERVICE: Western Union Metrophone
+was the  first of the alternate long distance dialing services to
+come to  Santa Barbara,  so I joined up.  My  personal experience
+with it has  not been good.  There is  a monthly flat rate charge
+of $8 and then you "save" anywhere from about 10% to 40%  on toll
+charges.  The average is much closer to 10% for my calling, about
+15%.   However, after  you take off the fixed  $8 monthly charge,
+the  percent  savings  is less.   Worse yet,  when  you reach the
+operator at  the other end for any reason, Metrophone charges you
+for  a completed  call.  And,  Metrophone  itself made some wrong
+connections for me.   All of these are billed  (if you want to go
+to the trouble  to complain, they will make  an adjustment).  The
+last straw occurred when I was gone for a full billing period and
+they  charged  me the  full monthly  minimum  of $48, blowing any
+"savings" I might have realized for several months!
+
+The "savings" aspect of the services is just plain false economy.
+The extra time it takes to place a call is not only annoying, but
+costly.  Every  call takes at least 10-15 seconds when everything
+goes  right.  When  Metorphone is  busy, it waits until you  have
+finished  dialing to  tell you,  and then of course you  can just
+forget  about  calling any  place not  near  a major metropolitan
+areas, except that you don't find out until you've wasted a bunch
+of time trying.  If you count your time, it probably costs you to
+use these services  for long distance calling where  most of your
+use is in your office/home.
+
+But, that's  not  the  whole story.   If you  make  a lot of long
+distance calls while  you are out of town,  you might well save a
+lot  on  operator  assisted calls.   They also  have  an in-bound
+service so that  your customers can call you  toll free.  It is a
+little  more  complicated than  an 800  number  and not nearly as
+reliable,  but  your  minimum cost  could be  as  low as $13 plus
+regular long  distance charges.   I have been told, but  have not
+confirmed,  that you  can  use  the  service  for 300  baud  data
+communications.
+
+The bottom  line  is  that  the  alternate long  distance dialing
+services are not  a way to save much  money under ordinary office
+conditions, but  for people who travel a lot or as an alternative
+to 800 numbers, they might well make sense.
+
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 CARAVAN - OUG information service.
+1200 Baud weekdays and 300 Baud on weekends.
+
+-----------------------------------------------------------------
+End of .  .  .  .       N E W S   L E T T E R           Volume 35
+-----------------------------------------------------------------
+▼ OL35.FEEDBACK:VOL35                                      01/29/85 17:07 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL35.FEEDBACK                                   20 February 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+September 22, 1983
+
+
+Mr.  Fred Bellomy
+Oasis Users Group
+P.O.  Box 2400
+Santa Barbara, CA 93120
+
+
+Dear Fred:
+
+At last I have a minute to follow up on our conversation.  I hope
+you can  read a Magic Wand formatted letter.  I don't know how to
+use Script, so this was the best I can do.
+
+I am very  anxious to  'connect' with other Oasis users,  as I am
+much  in need  of help.   Basically I had my Altos  and Oasis for
+over a year, since Nov.  1981, without knowing anything about it.
+All it  was being used for was wp, and the staff didn't know much
+about  it beyond  that.  None  of  the file handling capabilities
+were being used.
+
+Then I went to  the systems manager school and  control school in
+Oakland last  November, and my law practice was ruined.  I know I
+have  put more  time in  on the computer in the  last year than I
+have in practicing  law.  I still am a  dummy with computers, but
+now I know how big a dummy I am.
+
+Some of  my  current  projects  are:  A  master  "Rolodex"  file,
+containing  names,  addresses,  and  other  vital information  on
+everyone or  everything that comes through my office, clients and
+non  clients,   with  search  and  access  sentences  to  produce
+different  lists  for various  needs, and  'hooks'  to other dbms
+programs  for other  uses.  The  basic idea is to tie  everything
+together in a single control database and use related programs as
+necessary.   I am  enclosing a  copy of the 'Rolodex' screen  and
+basic object  file, but  these are only second generations  of my
+first Control efforts.  I am working on this.
+
+I am also working on a generalized litigation document management
+program,  and  a generalized  research retrieval program, both of
+which  go  to the  idea of  an  electronic "institutional memory"
+within a law office.
+
+This probably  sounds  trivial  to  someone with  a good computer
+background,  but  for  someone  in  a  small  law  office, it  is
+exciting.  It would be even more exciting if I had some help with
+it.
+
+A time and billing system is on the horizon, but a long way off.
+
+I am also  using quite a bit of modem communications now--Source,
+Dialog,  and   Bancroft-Whitney's  Auto  Cite.   Westlaw  is  now
+available through  any computer, and we ran a test with them this
+morning which went smoothly.  I expect to be using a computer for
+all research within the month.  Because I managed to work out the
+dip  switch  settings with  a Hayes  modem so I could use  a dumb
+terminal at  home to call my office Altos, Phase 1 has me down as
+the national Hayes expert for Oasis.  I dunno, I was able to help
+Sean  Sweeney  in Vancouver,  but when  Alan  Haz`ard, in Noumea,
+Micronesia,  called  wanting  an  Assembly  Language  programmer,
+because he was referred by Dominique Pfaff, I was disappointed to
+tell him I could not help.
+
+My Problems and Needs: (1) I have an older version of Magic Wand,
+before Anacomp acquired  it.  I can not make  it run on the Oasis
+Spooler.  I need help with that badly.  (2) The Class drivers for
+the two terminals I am using (Zenith Z-19's and TV - 950's) don't
+fully use  all the special functions available.  For example, the
+Z-19   special  function   keys  are  supposed  to  transmit  Esc
+S,T,U,V,W,  P,Q,R respectively;  but Oasis is translating them as
+(same order) Control A (Magic Wand = Home), Control B (Magic Wand
+=  Go to  Bottom  of  Document)  Control  C, (Magic  Wand  = Page
+Advance), Control  D (Oasis  wont respond but Magic Wand  uses as
+Character  Delete), Control  E (Magic  Wand  = Scroll Down), (The
+Blue  Key  has  absolutely no  response in  either  Magic Wand or
+Oasis, but is supposed to transmit Esc P), Esc Q (Oasis Esc, Esc,
+Q  = System  Cancel, No  double Esc necessary), and Esc  C (Oasis
+Program Cancel  (Esc Esc C), but no double escape necessary there
+either).  On  the other hand the special shifted keypad keys have
+single  stroke functions  which would  be  very useful, but which
+Oasis  is  reading  as  redundant  of  other  control codes.   So
+obviously I  need  help  in  modifying  the C-29  and  C-31 class
+drivers so as to fully use my special function keys.  I also need
+help in writing a program to load user definable routines for the
+22  programmable  special  function  keys  on the  Televideo 950.
+Finally,  my  version of  Magic Wand  came  only configured for a
+Diablo printer.   I  would  like  to  add a  parallel  dot matrix
+printer, but  I can  not make one run on  Magic Wand.  I have the
+dealer  source  code  for Magic  Wand, I  just  don't know how to
+modify it to use the capabilities of a high speed draft printer.
+
+I will  forward  a  completed  version  of  my  Rolodex  program,
+together with  my calendar and master client list program as soon
+as they are  debugged.  I really don't think  they will be of too
+much interest to  OUG, but if they get  me free software, my time
+in  creating  them isn't  completely wasted.   In  any event I am
+enjoying the intro discs, especially LEM (so are my kids).
+
+Yours very truly,
+
+Mack Muratet Braly
+
+-----------------------------------------------------------------
+
+10/25/83
+
+Dear fred,
+
+After receiving  and  reviewing  our  first  two  volumes  of OUG
+software, I am very impressed with the group.  I am sending you a
+couple of  items on this diskette which I would like to trade for
+a new volume  (or 2) of OUG software.   You will find a couple of
+BASICUSR subroutines  and full  notes on all of the  stuff I have
+sent.  Feel free  to make changes where applicable.   If you want
+to return  OUG software on the diskette that I have sent you that
+would be  fine.  If you want to punch another hole in it and make
+it a flippy thats fine too.
+
+Anyway we will  be sending  you various things from time  to time
+because wee  like to  get in on all of  this free software and we
+are too  tight to pay the $700.00 for the rest of the volumes.  I
+think everybody benefits  this way.  Please call if  you have any
+questions.
+
+Thanks,
+
+ Dave Cline
+ (206) 282-9911
+
+-----------------------------------------------------------------
+
+Dear Fred:
+
+Here are  a couple  of simple  programs that I had once  written.
+Someone  might  find  them  useful.   PIPE    is  a table  driven
+take-off  program  for  estimating that  we use  every  once in a
+while; some sample data is provided.
+
+I was very interested  in the letter on Volume  33, where someone
+wrote  in  about  an  OASIS  Basic  to  Unix  C translator.   The
+gentlemen's name  was  given,  but  there  was no  company  name,
+address or phone number.  Please send more information.
+
+Also, the  OASIS  compatible hardware  list contains the names of
+manufacturers that have  not implemented OASIS.  Is there  a list
+(published by  anybody) that has computers that you can buy OASIS
+for as of this point in time?  Phase One tells me that they don't
+have such a list, because it is constantly changing.  No kidding!
+I was tempted to offer to show the young lady how to use Edit and
+Script  to more  easily handle  such a large task.  I'm  sure the
+information is available;  maybe someone in the User's  group has
+it?
+
+The volumes are very interesting.  I appreciate the utilities and
+the Phase  One gossip; could you include more background on Phase
+One (since day one) and on Tim Williams?
+
+Take care,
+
+Jim Halpin
+1/30/84
+
+-----------------------------------------------------------------
+
+Dear Fred,
+
+I seem these  days to  be falling further behind in  the constant
+struggle  to meet  both obligations and self-imposed goals.  This
+contribution is  not, I  must say, as formidable as  I would have
+liked, but  it  is  the  kind  of thing  which  can be useful; it
+certainly has been for me.
+
+Although I  recognize  a  certain compulsiveness  on my part with
+regard to certain minor issues, I am reasonably sure there are at
+least a  few  other  people  out  there who  share  some of these
+feelings.  The peeve my current offering addresses is that of the
+numeric  date.  I  HATE NUMERIC  DATES!  You Americans do it  one
+way; the  British another.   Why don't we all just  use something
+absolutely  unambiguous  like  the  good old  alpha-numeric form?
+Just  because  numeric  dates are  easier to  compute  with is no
+excuse not to  have intelligent user interfacing.  After  all, we
+don't ask for Julian inputs, do we?
+
+The routines I have  thus provided aren't so much  an algorithmic
+break-through  as  pleas  to  software  writers  to  consider the
+question a bit.   In any case, I believe  these will be the first
+items in  OUG  library  in  COBOL,  so I  have  a little smile of
+satisfaction for that.
+
+While on the subject  of peeves, let me congratulate  you on your
+vast  improvement in  spelling and  grammar  (or does Bob Chapman
+deserve  the  credit?).  There  remains only  a  firm tendency to
+confuse  "its"  and   "it's".   The  latter  is,  of   course,  a
+contraction  of  "it is"  NOT the  genitive  of "it".  Similarly,
+there is  the occasional "your" when you obviously mean "you're".
+I hope you will read these comments in the spirit with which they
+are  intended.   I  seem  only  to  sound  either patronizing  or
+parsimonious and I wish to be neither.
+
+As you  regularly  observe,  the  quality  of  the  contributions
+continues to rise  and I would like to  add my acknowledgement of
+this  phenomenon.  Gary  Bergman and  Mark  Amber, not to mention
+several others,  have made the relationship of the machine to all
+the users  on  the system  here a  whole  lot better than it  was
+before (and it wasn't bad).
+
+I would like  to suggest,  though, that it would be  very nice to
+have  further  "tutorial"  type  of material,  like Joe Trimble's
+'LESSONS' and  Ron Brubaker's 'SORTING' overview.  It's obviously
+not everybody's need  but I surely am not  the only one who would
+appreciate it.  A number of the members are programming teachers;
+surely  they  have  prepared material  they could easily convert.
+Anyway, it's a thought.
+
+In the meantime,  have a great trip to Japan, much fun, and we'll
+be in touch when you get back.
+
+
+    Peace,
+    Dave Skulski
+    EdiBaubles
+    P.O.  Box 754
+    Point Roberts, WA 98281
+    (604) 689-4117
+
+-----------------------------------------------------------------
+
+Dear Fred,
+
+I know it has been sometime since I last contributed something to
+the OUG  and I  haven't forgotten the billing system  you wanted.
+To make  along Story  short our ALTOS computer has  been down for
+the last  ninety days and the result has been the loss of a great
+deal to data.  I also told you that I was going to contribute the
+basic part of our income tax system, well you can guess in all of
+the computer  problems  we  lost  the  main program.   HOW?   The
+archive  utility has  a little  bug that renders the user  rather
+helpless when  it is discovered that the tape is unreadable.  All
+of our  tapes have a Crc error at the front and that's the story.
+ALTOS seems to be willing to try to compensate us somehow, but we
+have not agreed to date.  I'll let you know how we come out.
+
+Enclosed you will find a several programs which you maybe able to
+use for your billing system.  I have also enclosed the form which
+the system is  designed to print on.  You  of course could modify
+the output to best suit your needs.
+
+▼ OL35.FEEDBACK:VOL35                                      01/29/85 17:07 Page 2
+
+We will  soon be  in the  process of putting our tax  system back
+together.  When  it is test and corrected again I will send it to
+you.  Some  of  our members  may find  it  fun to play with  when
+figuring their tax liabilities.
+
+
+I have also included a program called NUMBERS which I wrote along
+time  ago   for  a  software  house  that  produces  real  estate
+appraisals and  they used  it to print the final  amount.  No big
+deal,  Just thought  you might  like to have for the  collection.
+Who knows you may want to combine its function in the billing.
+
+
+Jim Tillman
+Performance Software
+(303) 630-8383
+August 22, 1983
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL35.FEEDBACK                            20 February 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST35:VOL35                                         01/29/85 17:07 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #34 - I wish somebody would.................. 17 February 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+54. I need a means for QUICKLY making sure that all the files listed in
+an earlier SELECTED.EXEC still reside on the disk.
+
+53. We need a comparison chart showing for Oasis Basic with the others.
+
+52. We neen a method for RESTORING around a bad sector (or fixing it) in
+an ARCHIVE file.
+
+51. As we begin to get more people using Oasis-16 we will need some new
+utilities for moving things back and forth between the two versions. In
+particular, we will need new versions of SEND/RECEIVE (GIVE/GET??).
+
+50. We need  a diskette format compatibility/interchangeability summary.
+8" double density and all 5.25" format diskettes are problems.
+
+49. We  need class  code source  for any devices not now  covered in the
+library (see volume 18 and 34).
+
+48. Someone to collect  and summarize information about all  the various
+commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+43. A utility for assigning synonyms for commands would be nice.
+
+39. We  need  the compliment  of GETFILE  (PUTFILE?)  for CP/M and other
+formats.
+
+38. The  equivelent  of the  BASIC  PRINT  USING  "!"  for use  in  EXEC
+routines.
+
+36. More people to write articles about OASIS or letters to publications
+about such  articles they have seen.  More press releases about your own
+OASIS compatible commercial software.  Etc.
+
+30. A  utility for  automatically figuring  out  the optimum disk ATTACH
+values for  HDL,  STP,  and  STS  for all  of  the different systems now
+operating under OASIS.
+
+29. A list  of the 500 most frequently used words in English writing for
+use with Chapman's latest spelling checker's CUSTOM dictionaries.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again every time.
+
+16. An "electronic spreadsheet" like SUPERCALC!
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 17 February 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ OFTWARE.RULES:VOL35                                      01/29/85 17:07 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+    GUIDE FOR SUBMITTING SOFTWARE CONTRIBUTIONS TO THE OUG LIBRARY
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+The following "rules" are presented in an attempt to get some reasonable
+degree of  uniformity in the quality of things submitted to the library.
+They must be  considered preliminary forever.  We will  change the rules
+any time  the  situation seems  to warrant  it.   But, for now keep  the
+following things in  mind as you prepare stuff  for the OUG Library.  FB
+2/20/84
+
+
+1. Assume  console units  (terminals) have direct cursor addressing, and
+24 lines of 72 columns.
+
+2. If the software is hardware dependent, make it very, very clear.
+
+3. If you want  to reserve the commercial rights  to your software, make
+it clear  by including a comment in the code such as "Permission to use,
+but  not to  sell.",  "Commercial  rights  reserved."  or best  of  all:
+"Copyright 1982 XYZ Software Company." Contributions not individually
+copyrighted by authors will be covered by the OUG copyright.
+
+4. Generally  speaking,  we  will only  include programs  for  which the
+source code is  included.  There will be exceptions  made when there are
+overriding commercial considerations involved.
+
+5. Be sure to check out all of the different conditions included in your
+program -  better you than some unsuspecting user!  Better yet, get some
+"unsuspecting user"  of  your own  to try  it  out and pay attention  to
+anything  in  the test  that causes  even the slightest bit of  trouble.
+Think SMART when writing.  Think DUMB when testing.
+
+6. Try to anticipate all of the different possible ways a new user might
+want to use your program and make it as general as possible.
+
+7. Include the author's  name (if known) and the  name(s) of anyone else
+involved  in  converting/modifying the  program and  the  name and phone
+number(s) of people  who would be willing to  talk to a new user that is
+having trouble,  etc.  This information should be put both in the source
+as REMarks and in the EXEC HELP section.
+
+8. Where ever  it makes sense, write a short EXEC to explain and run the
+program  automatically.   The   EXEC  should  be  safe.   That   is,  an
+unsuspecting new user  should not be able to  accidentally do any damage
+to any  part of his existing system (easily).  The EXEC should include a
+HELP  section so  that when  it is executed with out  variables the user
+will  automatically see  the HELP  info.  The HELP section should  be as
+complete as  necessary  to  make  the  purpose and  correct  use of your
+program  obvious to  even a  relatively novice new user.  It  should tie
+everything in  the package  together - I end up  writing a lot of EXEC's
+for  that  purpose  for many of the things submitted, and I would rather
+that you did it.
+
+9. The  major  logic flows  of the  program should be noted by  imbedded
+remarks, and the more the merrier!
+
+10. When  a  previously  released program  is slightly  modified  or has
+errors corrected,  it will  be re-released on the next  volume under the
+SAME name.
+
+11. When a  new program is released that does almost the same thing as a
+previously  released  program or  when wholesale  changes  are made to a
+previously released  program, the  new program will be given  a new name
+that shows  some relationship to the earlier name.  For example: WUMPUS2
+is a greatly enhanced version of WUMPUS.
+
+12. Exceptions to these guidelines may be taken by anyone at anytime for
+any good reason.  (But, I'm keeping an eye on you).
+
+13. All files related to the same process should ALL be given names that
+start  with the  same three  characters, if possible - to  make them all
+file in approximately the same place in our enormous and growing list of
+OUG  library  files.   Within this  limitation, all  names  should be as
+mnemonic as possible.
+
+14. Don't use any more files than necessary in your package.  Naturally,
+we don't want  files that are so big  that some people with limited user
+memory can't work  with them, but on the  other hand, we also don't want
+ten  single  block files  when one  file of ten blocks would  do just as
+well.  As our library grows, it gets harder and harder to find things.
+
+15. Use  <tab>  for indenting when writing  BASIC programs rather than a
+string of spaces.  It saves an average of  10%  in  space  and  produces
+more consistant code layout.
+
+16. For really complex systems try to include an automatic demo feature
+with some SMALL demo files for it to work against.  See the PDQ demo on
+volume 17 for one example of how this can be done.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Let's hear more ideas about guidelines.                   February 1984
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 35.
+
+*****************************************************************
+
+
+CC      .BASIC     CC      .EXEC      CC84B   .DIRFILE
+CC84B   .FILE      CCBALB  .BASIC     CCBALB1 .BASIC
+CCDBMB  .BASIC     CCENTB  .BASIC     CCERR   .BASIC
+CCFIRSTB.BASIC     CCINB   .BASIC     CCLISTB .BASIC
+CCYE2   .BASIC
+
+ 1) ALLOWS YOU  TO BALANCE CREDIT CARD (CC) SLIPS AGAINST BILLS AT
+ THE END OF EACH MONTH WHEN THE BILL COMES IN.
+
+ 2) ALLOWS YOU AT ANY TIME TO TOTAL OUTSTANDING (LIVE) CREDIT CARD
+ SLIPS NOT YET BILLED.
+
+ 3) PRODUCES TAX  RECORDS EVERY  MONTH -- DO YOUR TAX  RETURN FROM
+ SUMMARY FORMS, NOT ACTUAL CREDIT CARD SLIPS, ALLOWING YOU TO KEEP
+ ALL THE SLIPS FROM A PARTICULAR MONTH IN ONE PLACE.
+
+ 4) USING THE YREND FUNCTION, CAN AID BUDGETING BY TELLING YOU HOW
+ MUCH YOU SPENT IN PARTICULAR CATEGORIES.
+
+                 AUTHOR: PAUL E. SCHINDLER JR.
+                 (415) 254-4923 DAY OR NIGHT
+
+WANT MORE INFO NOW? [Y/N]:N
+
+K      .BASIC     CK      .EXEC      CK84A   .CHECK
+CK84A   .DEP       CKBALA  .BASIC     CKDBMA  .BASIC
+CKDEPA  .BASIC     CKENTA1 .BASIC     CKENTA2 .BASIC
+CKENTA3 .BASIC     CKERRA  .BASIC     CKFIRSTA.BASIC
+CKLISTA .BASIC     CKSCREEN.BASIC     CKYE2    BASIC
+
+-1 HELPS BALANCE YOUR CHECKBOOK AT THE END OF THE MONTH.
+
+-2 ALLOWS YOU AT ANY TIME TO TOTAL OUTSTANDING (LIVE) CHECKS.
+
+-3 PRODUCES TAX  RECORDS EVERY  MONTH -- DO YOUR TAX  RETURN FROM
+SUMMARY FORMS,  NOT ACTUAL  CHECKS, ALLOWING YOU TO KEEP  ALL THE
+CANCELLED CHECKS FROM A PARTICULAR MONTH IN ONE PLACE.
+
+-4 USING THE YREND FUNCTION, CAN AID BUDGETING BY TELLING YOU HOW
+MUCH YOU SPENT IN PARTICULAR CATEGORIES.
+
+                 AUTHOR: PAUL E. SCHINDLER JR.
+                 (415) 254-4923 DAY OR NIGHT
+
+WANT MORE INFO NOW? [Y/N]:N
+
+ATECONV.BASIC/COBOL
+DATEDATA.COBOL
+
+These are  two   subroutines  for  converting  alphanumeric  date
+designations  to  all  numeric  notation.   They  come  from Dave
+Skulski (604) 689-4117.   He provides two versions, one  in Basic
+and the other in Cobol.
+
+WANT TO LIST THEM NOW NOW? [Y/N]:N
+
+IRFIX.ASSEMBLE/BASICUSR/NOTES
+
+This is a BASICUSR  subroutine called DIRFIX and was  written out
+of frustration  due to a bug in OASIS that has not been corrected
+yet  and  has  been around  since 5.5A.   The  bug is as follows:
+Whenever  a sequential  file is  created  and it contains records
+that have a length greater that 255 the directory is only updated
+with a  maximum  length of  255.  So  if  you have a file  with a
+couple of records  that are lets say 310  bytes long and you want
+to  sort  it  (we use  QUANTUMNS QISORT)  the  sort will bomb off
+because  it uses  that maximum  record  length to allocate memory
+blocks for  work space.   There are probably other programs  that
+key  in on  this field  also but I just have  not run across them
+yet.  The only way around the problem was to write a routine that
+would go out and alter the maximum record length in the directory
+for sequential files AFTER it has been closed.  It is very simple
+to use.  Contributed by Dave Cline (206) 282-9911.
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+C$INTRO.EXEC      FCBILL  .DOC       FCCOMP  .EXEC
+FCDELETE.BASIC     FCDOC   .BASIC     FCHISTOR.BASIC
+FCMASLIS.BASIC     FCMASPRT.BASIC     FCMAST  .BASIC
+FCMENU  .BASIC     FCSETUP .BASIC     FCSPECAL.BASIC
+FCSTATE .BASIC     FCTRAN  .BASIC     FCTRANTB.BASIC
+
+This is  a  complete  stand-alone  billing system.   It maintains
+customer  files and  allows for  a trial balance, in addition  to
+printing   out  bills   (statements/invoices)  on  standard  (NCR
+-14631)  continuous billing  forms.  It has been contributed by
+Jim Tillman, Performance Software (303) 630-8383 August 22, 1983
+
+WANT MORE INFO NOW? [Y/N]:N
+
+OAN2.BASIC
+
+Another loan amortization program.  This one from Harry Schauwecker.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+OAN3.BASIC
+
+Another loan amortization program. From Jim Halpin (201) 548-5656.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+UMBERS.BASIC
+
+This is really cute!   Enter any number between 1  and 999999 and
+the program returns  the number in words with  dollars (no cents)
+at the  end.  Just what you need as a starting point for a custom
+check writing program.  It comes from Jim Tillman (303) 630-8383.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+PERATOR.ASSEMBLE/NOTES
+
+The OPERATOR subroutine currently performs 4 useful functions:
+
+ 1. Returns Operator ID #
+ 2. Returns operator Privilege level
+ 3. Checks for printer attachment BEFORE open statement
+ 4. Performs serial # check outside of A BASIC program.
+
+Contributed by Dave Cline (206) 282-9911.
+WANT LIST IT NOW? [Y/N]:N
+
+IPE.BASIC/DATA/EXEC
+
+This is an elegant  program for estimating the cost  of materials
+for  a  piping contractor.   You tell  it how many ells and  tees
+(etc) you want and the cost per unit  of everything, and it gives
+you a summary of costs.  It comes from Jim Halpin (201) 548-5656.
+I  imagine  it could  form the  basis for a variety of  other job
+estimation  programs.   With its  very large data file it  is too
+big to run  through the interpreter, so you  will need to compile
+it (use PIPE.EXEC) before execution.
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+COMM.DOC/EXEC
+
+RCOMM COMMUNICATIONS  -  WRITTEN  BY  TONY  ZABEL  SEPT-83  - ATT
+MICROSYSTEMS,  INC.   RCOMM  was  developed  as  a  user-friendly
+communications  tool  to be  used by  end  users with no previous
+OASIS experience.  It's  menu driven style makes it  easy for the
+first  time  user to  benefit from  the  powerful features of the
+OASIS  SEND/RECEIVE/TERMINAL  features.   When  sending  multiple
+files they  can be received unattended and without the use of the
+NOEOT  feature of  the SEND  command.  NOTE: It does assume  that
+COMM  is attached  as PORT6,  so you will need to modify the code
+before using it.  FB
+
+IT WILL NOT WORK IF YOUR COM IS NOT ATTACHED AS PORT6!!!
+WANT TO TRY IT NOW? [Y/N]:N
+
+IMEOUT.BASIC
+
+Here is another  cute one.   This program shows you how  to put a
+time limit on responses in a menu.  It runs as is with a delay of
+ seconds,  but  you  can  customize  it  of  course.   It  was
+contributed by Jim Halpin (201) 548-5656.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 35.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+baud during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>

@@ -1,0 +1,14 @@
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+EASYBASE PREVIEW  A 11/06/85 10:00   122    5 S    78 BONUS52
+LOGGER   EXEC     A 10/17/83 03:48    42    2 S    71 BONUS52
+MEMBERS  ADDRESS  A 11/06/85 10:00  1048  197 S   255 BONUS52
+QUIP     COMMAND  A 10/15/85 10:00     6    2 R   256 BONUS52
+QUIP     DATA     A 04/12/83 12:07   503   41 S   682 BONUS52
+QUIP     INFO     A 10/30/85 10:00    15    1 S    65 BONUS52
+QUIP     RECORD   A 10/30/85 10:00    32    1 D     4 BONUS52
+7 file(s), 249 block(s).
+
+>

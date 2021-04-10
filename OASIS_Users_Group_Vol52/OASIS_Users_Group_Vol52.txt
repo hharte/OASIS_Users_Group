@@ -1,0 +1,1369 @@
+November 1985                   Volume: 52
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL52
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL52
+ASCIDUMP ASSEMBLE A 05/05/84 01:57   660   15 S    74 VOL52
+ASCIDUMP COMMAND  A 10/15/85 18:34     9    3 R   256 VOL52
+CAR$$$$$ INFO     A 10/30/85 10:00    36    2 S    65 VOL52
+CAR$IPL  EXEC     A 10/30/85 10:00     5    1 S    16 VOL52
+CAR$IPLC EXEC     A 10/30/85 10:00    28    1 S    34 VOL52
+CARAVAN  EXEC     A 10/30/85 10:00   246    7 S    79 VOL52
+CARAVAN  ORDERING A 10/30/85 10:00    94    4 S    65 VOL52
+CARLOCAL EXEC     A 10/30/85 10:00    79    2 S    68 VOL52
+CARLOCAL INFO     A 07/11/85 04:12    19    1 S    65 VOL52
+CARLSRCH BASIC    A 01/05/85 10:00   246   11 S    80 VOL52
+CARMSRCH BASIC    A 10/30/85 10:00   207    8 S   159 VOL52
+CAROASIS EXEC     A 10/30/85 10:00    90    3 S    65 VOL52
+CARORDER BASIC    A 02/01/85 13:07    58    3 S   111 VOL52
+CARSIGNU BASIC    A 02/01/85 13:01    61    3 S   111 VOL52
+FLIST    HELP     A 09/06/85 12:25    75    4 S    78 VOL52
+FLIST    READ$1ST A 11/06/85 10:00    49    3 S    73 VOL52
+FLISTDM  COMMAND  A 11/04/85 11:50    42   11 R   256 VOL52
+FLISTDM  SCRIPT   A 11/04/85 10:05  1416   61 S    81 VOL52
+PLOT     BASIC    A 10/30/85 10:00   136    6 S   101 VOL52
+PLOT     INFO     A 10/30/85 10:00    36    1 S    65 VOL52
+PLOTDEMO DATA     A 10/30/85 10:00    51    1 S    19 VOL52
+PLOTDEMO EXEC     A 10/30/85 10:00     8    1 S    13 VOL52
+REPORT   BASIC    A 10/30/85 10:00    60    2 S   101 VOL52
+REPORT   INFO     A 10/30/85 10:00     4    1 S    77 VOL52
+RTSPATCH EXEC     A 07/26/85 16:24    44    2 S    72 VOL52
+SELECT52 EXEC     A 11/06/85 10:00    39    2 S    46 VOL52
+VOL52    CONTENTS A 11/06/85 10:00   207    8 S    65 VOL52
+VOL52    EXEC     A 11/06/85 10:00   490   14 S    84 VOL52
+VOL52    FEEDBACK A 11/06/85 10:00   433   18 S    69 VOL52
+VOL52    NEWS     A 11/06/85 10:00   229   12 S    68 VOL52
+WORD$WPF EXEC     A 10/30/85 10:00    76    2 S    70 VOL52
+WORDCNT  C        A 05/04/84 22:18   126    4 S    71 VOL52
+WORDCNT  COMMAND  A 05/04/84 06:25    29    8 R   256 VOL52
+WORDCNT  INFO     A 10/30/85 10:00    20    1 S    65 VOL52
+WPF2TEXT C        A 05/05/84 15:09   153    5 S    76 VOL52
+WPF2TEXT COMMAND  A 05/05/84 15:59    41   11 R   256 VOL52
+WPF2TEXT INFO     A 10/30/85 10:00    13    1 S    65 VOL52
+39 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+CARAVAN.ORDERING:A copied to CARAVAN.ORDERING:D
+$OUGB.COMMAND:A replaces $OUGB.COMMAND:D
+FLIST.HELP:A copied to FLIST.HELP:D
+WPF2TEXT.INFO:A copied to WPF2TEXT.INFO:D
+PLOTDEMO.DATA:A copied to PLOTDEMO.DATA:D
+WORDCNT.COMMAND:A copied to WORDCNT.COMMAND:D
+CARLOCAL.EXEC:A copied to CARLOCAL.EXEC:D
+REPORT.INFO:A copied to REPORT.INFO:D
+WPF2TEXT.COMMAND:A copied to WPF2TEXT.COMMAND:D
+WORD$WPF.EXEC:A copied to WORD$WPF.EXEC:D
+CARLSRCH.BASIC:A copied to CARLSRCH.BASIC:D
+PLOT.INFO:A copied to PLOT.INFO:D
+CAR$$$$$.INFO:A copied to CAR$$$$$.INFO:D
+VOL52.NEWS:A copied to VOL52.NEWS:D
+CARSIGNU.BASIC:A copied to CARSIGNU.BASIC:D
+CARAVAN.EXEC:A copied to CARAVAN.EXEC:D
+PLOT.BASIC:A copied to PLOT.BASIC:D
+ASCIDUMP.ASSEMBLE:A copied to ASCIDUMP.ASSEMBLE:D
+CARMSRCH.BASIC:A copied to CARMSRCH.BASIC:D
+VOL52.FEEDBACK:A copied to VOL52.FEEDBACK:D
+CAROASIS.EXEC:A copied to CAROASIS.EXEC:D
+CAR$IPLC.EXEC:A copied to CAR$IPLC.EXEC:D
+FLISTDM.COMMAND:A copied to FLISTDM.COMMAND:D
+PLOTDEMO.EXEC:A copied to PLOTDEMO.EXEC:D
+WORDCNT.C:A copied to WORDCNT.C:D
+CAR$IPL.EXEC:A copied to CAR$IPL.EXEC:D
+CARORDER.BASIC:A copied to CARORDER.BASIC:D
+VOL52.CONTENTS:A copied to VOL52.CONTENTS:D
+REPORT.BASIC:A copied to REPORT.BASIC:D
+$README.FIRST:A replaces $README.FIRST:D
+WORDCNT.INFO:A copied to WORDCNT.INFO:D
+VOL52.EXEC:A copied to VOL52.EXEC:D
+CARLOCAL.INFO:A copied to CARLOCAL.INFO:D
+SELECT52.EXEC:A copied to SELECT52.EXEC:D
+FLIST.READ$1ST:A copied to FLIST.READ$1ST:D
+WPF2TEXT.C:A copied to WPF2TEXT.C:D
+RTSPATCH.EXEC:A copied to RTSPATCH.EXEC:D
+FLISTDM.SCRIPT:A copied to FLISTDM.SCRIPT:D
+ASCIDUMP.COMMAND:A replaces ASCIDUMP.COMMAND:D
+
+>VOL52
+0      4OOOOOOOOOOO0        4UUU0              4UUU0        4GGGGGGGGGGGG0
+    4OOOOOOOOOOOOOOO0      4UUU0              4UUU0      4GGGGGGGGGGGGGGGG0
+   4OOOO0         4OOOO0     4UUU0              4UUU0     4GGGG0          4GGGG0
+  4OOO0             4OOO0    4UUU0              4UUU0    4GGG0              4GGG0
+  4OOO0             4OOO0    4UUU0              4UUU0    4GGG0              4GGG0
+  4OOO0             4OOO0    4UUU0              4UUU0    4GGG0
+  4OOO0             4OOO0    4UUU0    VOLUME    4UUU0    4GGG0
+  4OOO0             4OOO0    4UUU0      52      4UUU0    4GGG0          4GGGGGGG0
+  4OOO0             4OOO0    4UUU0              4UUU0    4GGG0          4GGGGGGG0
+  4OOO0             4OOO0    4UUU0              4UUU0    4GGG0              4GGG0
+   4OOOO0         4OOOO0      4UUU0            4UUU0      4GGGG0          4GGGG0
+    4OOOOOOOOOOOOOOO0        4UUUUUUUUUUUUUUUU0        4GGGGGGGGGGGGGGGG0
+      4OOOOOOOOOOO0            4UUUUUUUUUUUU0            4GGGGGGGGGGGG0
+
+      Copyright 1985   T H E   O A S I S   U S E R S   G R O U P
+
+=====================================================================
+:                                                                   :
+:     "That which has no single cause, can have no single cure."    :
+:                                     1984 Berlin Wall grafiti      :
+:                                                                   :
+=====================================================================
+▼ ♂♂♂♂♂♂♂♂
+4. . . . . . OUG library volume 52 is mounted on drive A . . . . . . .
+0
+4 1  COMPLETE INTRODUCTION TO VOLUME        5  LIST VOLUME NEWSLETTER
+ 2  LIST SUMMARY OF VOLUME SOFTWARE        6  LIST MEMBER'S FEEDBACK
+ 3  RUN SOFTWARE CONTRIBUTIONS ONLY        7  LIST CURRENT WISH LIST
+ 4  DISPLAY CONTENTS OF THIS VOLUME        8  QUIT
+0
+YOUR CHOICE? [1-8] ===> 1
+
+
+CONTENTS OF OUG VOLUME 52 ON DRIVE A
+
+>FILELIS A
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL52
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL52
+ASCIDUMP ASSEMBLE A 05/05/84 01:57   660   15 S    74 VOL52
+ASCIDUMP COMMAND  A 10/15/85 18:34     9    3 R   256 VOL52
+CAR$$$$$ INFO     A 10/30/85 10:00    36    2 S    65 VOL52
+CAR$IPL  EXEC     A 10/30/85 10:00     5    1 S    16 VOL52
+CAR$IPLC EXEC     A 10/30/85 10:00    28    1 S    34 VOL52
+CARAVAN  EXEC     A 10/30/85 10:00   246    7 S    79 VOL52
+CARAVAN  ORDERING A 10/30/85 10:00    94    4 S    65 VOL52
+CARLOCAL EXEC     A 10/30/85 10:00    79    2 S    68 VOL52
+CARLOCAL INFO     A 07/11/85 04:12    19    1 S    65 VOL52
+CARLSRCH BASIC    A 01/05/85 10:00   246   11 S    80 VOL52
+CARMSRCH BASIC    A 10/30/85 10:00   207    8 S   159 VOL52
+CAROASIS EXEC     A 10/30/85 10:00    90    3 S    65 VOL52
+CARORDER BASIC    A 02/01/85 13:07    58    3 S   111 VOL52
+CARSIGNU BASIC    A 02/01/85 13:01    61    3 S   111 VOL52
+FLIST    HELP     A 09/06/85 12:25    75    4 S    78 VOL52
+FLIST    READ$1ST A 11/06/85 10:00    49    3 S    73 VOL52
+FLISTDM  COMMAND  A 11/04/85 11:50    42   11 R   256 VOL52
+FLISTDM  SCRIPT   A 11/04/85 10:05  1416   61 S    81 VOL52
+PLOT     BASIC    A 10/30/85 10:00   136    6 S   101 VOL52
+PLOT     INFO     A 10/30/85 10:00    36    1 S    65 VOL52
+PLOTDEMO DATA     A 10/30/85 10:00    51    1 S    19 VOL52
+PLOTDEMO EXEC     A 10/30/85 10:00     8    1 S    13 VOL52
+REPORT   BASIC    A 10/30/85 10:00    60    2 S   101 VOL52
+REPORT   INFO     A 10/30/85 10:00     4    1 S    77 VOL52
+RTSPATCH EXEC     A 07/26/85 16:24    44    2 S    72 VOL52
+SELECT52 EXEC     A 11/06/85 10:00    39    2 S    46 VOL52
+VOL52    CONTENTS A 11/06/85 10:00   207    8 S    65 VOL52
+VOL52    EXEC     A 11/06/85 10:00   490   14 S    84 VOL52
+VOL52    FEEDBACK A 11/06/85 10:00   433   18 S    69 VOL52
+VOL52    NEWS     A 11/06/85 10:00   229   12 S    68 VOL52
+WORD$WPF EXEC     A 10/30/85 10:00    76    2 S    70 VOL52
+WORDCNT  C        A 05/04/84 22:18   126    4 S    71 VOL52
+WORDCNT  COMMAND  A 05/04/84 06:25    29    8 R   256 VOL52
+WORDCNT  INFO     A 10/30/85 10:00    20    1 S    65 VOL52
+WPF2TEXT C        A 05/05/84 15:09   153    5 S    76 VOL52
+WPF2TEXT COMMAND  A 05/05/84 15:59    41   11 R   256 VOL52
+WPF2TEXT INFO     A 10/30/85 10:00    13    1 S    65 VOL52
+39 file(s), 248 block(s).
+▼ ^
+>LIST VOL52 NEWS A
+OL52.NEWS:VOL52                                          01/30/85 16:25 Page 1
+
+-----------------------------------------------------------------
+8 November 1985         N E W S   L E T T E R           Volume 52
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+
+VOL52: is a real  winner.  My favorite is the  fantastic utility,
+FLIST.   This is  an interactive diskfile management utility that
+on  the surface  works like  the FILELIST command, but then  goes
+light years  beyond.   With  it  you  can sort  on  most FILELIST
+fields, rename  or erase  selective files and more, all  by using
+on-screen  commands  without  leaving the  utility.  Bruce Pearce
+created this gem and has contributed a limited version to the OUG
+library  (the  commercial  version  allows  paging  backward  and
+forward through the entire "FILELIST" display).
+
+I have  received so  many requests  of  copies of our information
+system, CARAVAN, that the time has come to put something into the
+library.  Volume  52 contains  part of it.  The portion  included
+covers  the  upload/download, help,  sign-up, ordering, tutorial,
+members information search, and help functions.  The CBBS message
+program  must  be  ordered  directly  from Ward  Christensen, the
+author.  Ordering information is included.
+
+Henry Aylward has sent  us a bunch of nifty  utilities.  ASCIDUMP
+allows you  to save the physical contents of any file in an ASCII
+sequential  file.   Systems  level  programmers will  immediately
+appreciate  its  possibilities.   Then, he  gave us WORDCNT which
+just counts the characters, words, and lines in sequential files.
+Finally,  there  is  WPF2TEXT  which converts  the "funny" output
+files  from  several  word  processors  (like  MultiWrite)  to an
+ordinary ASCII file  that you can print.  It  works great and has
+already saved me many minutes.
+
+From Al Whitaker we  get REPORT, a shell designed  especially for
+untrained users,  that simplifies using the SPOOLER.  RTSPATCH is
+a modem  device driver patch which makes it possible recover when
+some remote  user causes  the system to "hang", thus  locking out
+other user coming in through the modem port.  Mike Scheidell sent
+it to us.
+
+Finally, Wayne  Lauritsen  has contributed  PLOT,  a program that
+produces automatically scaled bar charts from user provided data.
+Wayne is  also in the process of updating the earliest volumes so
+that they  now include all of the fancy improvements we have been
+adding over the years to the later volumes.
+
+BONUS52: contains   the   latest  copy   of  the  OUG  membership
+information  file needed  to use  the  WHO feature under CARAVAN.
+Then there is  a consolidated QUIP file that  brings together all
+four  smaller  files  of  quips  released  on  different volumes.
+Several of you  have told me that the  smaller file you are using
+has  cycled around  one or  more times.  It will take  longer for
+this one  to start repeating.  Finally, Easybase is scheduled for
+release next time  and there is a sneak  preview included on this
+bonus volume.
+
+COMDEX: is shaping up.  Theos Software is having an open house on
+Thursday, 21 November,  in the Tracy Tower Gable  room at the MGM
+Hotel.  Time is 7PM and all OUG members are invited.  Look for an
+important announcement that just might boost Theos into stardom.
+
+Randy Rogers tells me that IBC is coordinating a round of golf on
+Tuesday morning.   Call Don Graves at IBC (818) 882-9007 for time
+and  place in  Las Vegas.   I hate to eat alone  all the time, so
+would  welcome  the  opportunity  to  get  together  with  anyone
+interested in  breakfast or dinner during the 20-24 November show
+period.  Leave  word at  the main conference hall message  center
+where  you can  be reached,  and I will let the  folks at the IBC
+booth #1372 know where I can be reached.
+
+OUG MEETING AT COMDEX:  As announced in the last  newsletters, we
+will  once again  have a  general meeting at Comdex.  The  Friday
+afternoon gathering will  be held from 2-5 PM  in the New Orleans
+Room  of  the  Best  Western  Mardi  Gras  Motel  very  near  the
+convention  center.   In  addition  to our  usual discussions and
+announcements, this  year's meeting will include a celebration of
+our  1000'th  member  with a  special gift presentation ceremony.
+Robert Pressey,  the lucky  winner, will be there to  receive the
+presentations.  In addition to all the other goodies mentioned in
+the last newsletter, IBC is awarding him a copy of their new $150
+Fast ISAM package for use on one of his IBC machines.
+
+AGENDA: for the OUG meeting will look something like this...
+
+          2:00      1985 OUG activities and announcements
+          2:30      Theos Software announcements
+          3:00      Member's brief announcements
+          3:30      New Product presentations
+          4:30      Celebration of 1000th new member.
+          5:00      Adjourn
+
+THEOS86: Buddy  Auble  of Theos  tells me  that  version 8 is now
+being delivered and  that the product is moving  pretty well.  He
+also says they have completed new drivers for the Alloy disk/tape
+drives being sold  as add-ons for the IBM  PC/XT and compatibles.
+Buddy says version  8 now handles all hard  disk drives supported
+by IBM, including  20 Mbyte and larger.  Kevin  Hansen informs us
+that he  solved the problem of getting the IBM PC/XT to boot with
+a  color  graphics  card  installed (see  VOL52.FEEDBACK file for
+details).
+
+From various  sources  we  have learned  that the following PC/XT
+compatibles work  fine with Theos86: NCR PC, ITT XTRA, Sperry PC,
+Bondwell XT,  and Sanyo PC.  I also learned from Buddy that about
+40 to 50  dealers have completed the process  of converting their
+8-bit applications for use on 16-bit machines.
+
+What we need now to make Theos86 and Theos286 really take off are
+some  new applications  written to specifically take advantage of
+the  increased capabilities  of the 16-bit processors.  While the
+XT  is no  speed demon,  it does offer the potential  for running
+much more complex programs and for using much larger files.  And,
+I like  to think  of it as a popular  stepping stone to the 80286
+based  machines,  which  do  offer  some significant  performance
+advantages over their 8-bit predecessors.
+
+THEOS286: Ron Austin  says he has learned that the Compupro PC/AT
+compatible  will  run  THEOS286  and  Kevin  Hansen  has reported
+enthusiastically  on  his  experience  with  the Kaypro  286 (see
+VOL52.FEEDBACK).   It seems  to run compiled Basic programs about
+twice as fast as the fastest Z80 machines, but execution of Basic
+programs  through  the interpreter  is considerably slower!  Disk
+access is  a function  of the speed of the  drives of course, and
+the Kaypro's are  on the slower side in  comparison with a number
+of the 8-bit Oasis systems we have looked at.
+
+THIRD COAST TECHNOLOGIES: has announced the availability of a new
+8Mhz 80286 system that operates in the Protected Virtual Mode for
+performance that  is said  to out-class the IBM PC/AT  by a speed
+factor  of four.   The system  will support 14 to 32  users under
+Theos286 with  85  to 506  Mbytes of  hard  disk space and up  to
+sixteen  Mbytes of  DRAM.  This  guy looks like the first  of the
+Theos  supermicros.   If  it is  only half  as  good as its specs
+imply,  we  have   moved  onto  a  new  plateau   of  Theos/Oasis
+performance!   They are  at Comdex,  MGM-120.   Mike Pappas is VP
+Mkt.
+
+OASIS8: Han  Juerges  called  from  Germany  to  say  that Rekers
+Digital Technique GMbh  is now shipping an Oasis8  machine called
+the Condor Jr.   that uses the Hitachi 64180  microprocessor.  He
+says  it  incorporates a  fast (23  msec) 85 Mbyte hard disk  and
+appears to  run  about  fifty  percent  faster than  the  current
+fastest 8-bit Oasis system.  No further details at this time.
+
+ONYX: I visited  the new Corvus offices to see how Onyx was doing
+now  that the  merger and  physical move have been completed.   I
+discovered that  they are  doing just fine, thank you.   They are
+working on a  new 6.1 version of Oasis  to be released by the end
+of  the year.   The new  Corvus  facilities are luxurious.  Randy
+Weber and Diane Byrne seem happy to be pushing what they maintain
+are the best Oasis machines now available.  On the darker side, I
+have  confirmed  that Arrow  Electronics will  no  longer be Onyx
+dealers once their existing stocks of machines are gone.
+
+ALTOS UPGRADE:  article in  the last newsletter was very popular.
+I am  told that  all of the 40 Mbyte  drives are now gone at BNF,
+but they  do still have some of the 20 Mbyte left at $150.  BNF's
+number is  (617) 531-5774.   My Onyx tape cartridge deal  is also
+sold out, though  there is a possibility that  my source may come
+up with more tapes in the future.
+
+PRESS: The latest issue of PC Week has an article comparing Theos
+with  PC/DOS and  networking schemes.   It  concludes that no one
+solution  is  best for  all applications  and  that Theos has its
+natural niche.  I've  finally gotten to the bottom  of my pile of
+old computer newspapers  and found the long articles  about Oasis
+changing its  name to  Theos and the companion article  about Ron
+Gibbs taking over  Phase One - both articles  side by side in the
+19 August issue of Computer Systems News.  Each leaves the reader
+with a  positive impression.   I see that Dr.  Dobb's  Journal is
+scheduling  an issue  devoted to  operating  systems next year in
+December.  Article deadline  is 9/1/86.  I think it  is essential
+that Theos/Oasis be represented in that issue, if at all possible.
+
+SPECIAL INTEREST GROUPS: We  have three more this time.   For the
+orphan  Systems  Group  computer  owners  there  is  SIG-SG  with
+coordinator  Macy  Hallock (216)  723-3000.  A common information
+exchange  point  for owners  of Altos  machines  running Oasis is
+SIG-ALTOS coordinated by Jim Simmons (404) 498-2794.  Finally, we
+have a coordinator for our growing number of health professionals
+who use Oasis  machines, SIG-MED coordinated by Jon  Rosser (817)
+261-8620.   All  of   these  people  have  agreed  to   serve  as
+information exchange points for their respective areas of special
+interest.  Give  them a call and let them know they are not alone
+in their interests.
+
+UXBASIC: is  in the  news.  CSN  7 October reports that IBM  will
+market  a  version  of UX-BASIC  for the  System/370.   From Bear
+Systems Group I  have received a review copy  of four new manuals
+dealing with  UX-BASIC.  The  first is a 50 page  tutorial ($10).
+The  second is  a 50  page User Guide ($20).  The  third is a 230
+page Reference  Manual ($40),  and the last is a  100 page set of
+Syntax Charts ($15).   Each has several kinds of  indexes and the
+Reference Manual has  a "see-also" feature for each  statement or
+function.  The Syntax Charts are unique.  The graphic flow charts
+might   be  an   easier  way   for  some  people  to  learn   the
+characteristics  of  commands and  functions.  The sets are loose
+leaf 8.5X11  typed pages  punched for a three ring  binder.  They
+sell the whole package for $50 which seem a bit pricy compared to
+other  comparable  publications.   Contact  Jeff  Levinger  (415)
+824-3332 for more information.
+
+CARAVAN: has been rather  busy lately.  Some of you  have already
+discovered that a new feature, WHO, has been introduced.  With it
+you may locate other members who either live near you or who have
+some particular  piece of equipment or software.  The facility is
+available  only to  current paid  up members and requires you  to
+enter your  membership number.   This has proven to be  a popular
+feature.   Sometime  in  December our  OUG library locator system
+will become available  on CARAVAN too.  With it  you will be able
+to search  the library  description file by key words.   I use it
+all the time now and it is just great!
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265 and (805) 965-5415 for CARAVAN-information system.
+
+-----------------------------------------------------------------
+end of .......          N E W S   L E T T E R           Volume 52
+-----------------------------------------------------------------
+▼ ^
+>LIST VOL52 FEEDBACK A
+OL52.FEEDBACK:VOL52                                      01/30/85 16:29 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL52.FEEDBACK                                    8 November 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+01276,16,09/28/85,12:00,HARRY SCHAUWECKER,ALL
+
+OASIS BASIC  PROGRAMMER  NEEDED,,  Los  Angeles firm  needs OASIS
+BASIC  programmer to  super- vise dual OASIS/IBC computer systems
+and develop financial investment programs.  Minimum of six months
+OASIS   BASIC   programming   experience  required.    Good  pay.
+Individual  must be  mature and  able to work effectively with  a
+team of 10 dedicated individuals with little computer experience.
+Technical direction from an experienced consultant.
+
+   CONTACT:  Harry Schauwecker
+        EXECUTEC
+        3868 Carson Street Suite 321
+        Torrance, CA 90503
+
+by mail  or after  October 25,  1985 by phone at (213)  540-0591.
+You  can leave  message  before  Oct  25,  but call  will  not be
+returned until after Oct 25 because I am in China.
+
+
+-----------------------------------------------------------------
+01278,14,10/03/85,06:32,GEORGE WILLIS,ALL
+
+HI SPEED DOT MATRIX PTR,,
+
+THE GOOD NEWS:  NEC has  released the P5, which is  a 24-pin head
+dot  matrix printer.   Have had  one here for evaluation, and  am
+impressed.  Spec sheet says 290 cps in 12 pitch, 240 in 10 pitch,
+and  100 in  NLQ.  These  figures are actually close to  what the
+printer does, and the quality is outstanding.
+THE BAD  NEWS:  Tractors not  released yet  (as  of 10/3/85), and
+shortage of  ribbons ($12.50 ea.), but both items are going to be
+available  `any day  now'.  COMMENT:  Can sell to OUG members  at
+discount (list=$1320 for printer, $180 for tractors).
+
+     GREAT WESTERN SOFTWARE
+     George Willis
+     Tempe, AZ   (602) 820-6778
+
+
+-----------------------------------------------------------------
+01280,21,10/06/85,12:43,DAVE KLOTZMAN,ALL
+
+SYSTEMS PROGRAMMER  AVAILABLE,DJFK, When  my employer sold out to
+BRC from Dallas, Texas, I could see the end coming...
+
+Rather than  move  from  the  silicon  mountain  the  the silicon
+prairie just to have a job, I have founded DEK Research Co.
+
+I already have a series of products available, including:
+
+NFL Scheduling, A TRUE OASIS BBS!  (better than this one: faster,
+300/1200), Virtual  LIST management (maintain a 1M list of things
+to  do),  A new  way to  call ARCHIVE to EASILY maintain  current
+backups,  A   Real  Estate  Leasing  system  (tracks  prospective
+tenants), and Various EXECs to simplify some system operations.
+
+I am also available  for your custom programming needs  in BASIC,
+EXEC, and Z80 assembler.
+
+Contact Dave  Klotzman  at  (303)  635-3732  2137 Friendship  Pl.
+Colo.  Spgs., CO 80904
+
+
+-----------------------------------------------------------------
+01282,14,10/08/85,11:10,MICHAEL ACKERMAN,ALL
+
+TYPESETTING AND  LAYOUT,,  We  have  been  sending  type  for our
+newsletters,  magazines and  other publications to the typesetter
+via modem for  over two years.  Now our  typesetters tell us that
+there is  a program  available for the IBM pc  called IMMEDIATYPE
+that will allow you to layout complete pages on your terminal.  I
+sure wonder  if such a pa will be available on THEOS in a year or
+two.   Anybody  knowing of  such a  creature  in existence today?
+Give me a call at (415) 392-4511 Thanks!
+
+Michael Ackerman
+San Francisco Chamber of Commerce
+465 California Street, Suite 900
+San Francisco, CA 94104
+
+
+-----------------------------------------------------------------
+01283,09,10/08/85,18:42,WELDEN ANDERSEN,ALL
+
+NNC 820  FOR SALE  W/ GROUNDSTAR,,  NNC820 W/ 8" FLOPPY AND  20Mb
+HARD  DISK  FOR  SALE.  FULL  ACCOUNTING SOFTWARE FROM GROUNDSTAR
+(ALL MODULES),  SPELLBINDER FOR WORD PROCESSING, CONTROL DATABASE
+WITH  FORMS OPTION,  TWO TERMINALS (924 TELEVIDEO, KIMTRON KT-7).
+COMPUTER ALSO  HAS CP/M INSTALLED FOR SINGLE USERS, 256K RAM WITH
+10 SERIAL AND 2 PAR PORTS.
+
+   CONTACT WELDEN ANDERSEN AT (213) 474-1894 AND MAKE AN
+   OFFER.  BEST TIME TO CALL IS 7:15-8:00am
+
+-----------------------------------------------------------------
+10/05/85,00:42:08, 2144,X,KEVIN HANSEN,(208) 852-0832
+
+]HI FRED:  CAN YOU  PUT ME  IN CONTACT WITH THE PERSON  WHO WROTE
+CARAVAN OR  IS  THERE A  WAY TO  GET  THE SOURCE FOR IT  ?  AFTER
+HAVING  LOOKED  IT OVER  A BIT  I HAVE SOME REALLY NEAT  IDEAS OF
+THINGS TO DO TO IT.  SUCH AS UPLOAD/DOWNLOAD FOR OASIS CPM AND MS
+DOS BUILT  IN TO THE PROGRAM AND A COUPLE OF OTHER THINGS TO MAKE
+IT HARDER  TO CRASH OR BREAK INTO.  IF YOU HAVE IT OR NOW WHERE I
+CAN GET  IT, I WOULD BE GLAD TO DO SOME OF THE THINGS I HAVE BEEN
+THINKING  ABOUT ALONG  WITH WHAT  EVER YOU WOULD LIKE CHANGED  OR
+ADDED TO IT .
+
+THE BIT  OF CALLING  IT FROM  AN EXEC WORKS OK IF  YOU DON'T KNOW
+OASIS TOO WELL. BUT IF YOU KNOW ABOUT THE .25 SECONDS YOU CAN HIT
+THE ESC KEY  BEFORE THE EXEC GETS LOADED,  YOU CAN GET RIGHT INTO
+THE SYSTEM AND DO WHAT EVER YOU WANT.
+
+WELL JUST AN IDEA  I HAD.  LET ME KNOW  WHAT YOUR THOUGHTS ARE ON
+THIS.  BYE...........  KEVIN -- KEVIN HANSEN
+
+-----------------------------------------------------------------
+ HERE IS PATCH TO ENABLE IBC SUPERCADET TO DO WHAT IT IS SUPPOSED TO
+DO WITH MODEM CONTROL LINE (PIN 20/5)
+
+ALSO,:
+>PATCH CHANGE
+\VER 00DB FE 06
+\REP 00DB FE 08
+\END
+NOW YOU CAN CHADNGE PRIV LEVELS TO 6 AND 7....
+
+PS. ANYONE WANT UP TO 32 PARTITIONS ON OASIS?
+>PATCH SET
+\VER 07DE FE 11
+\REP 07DE FE 21
+\END
+
+DOES WEIRD THINGS WITH SHOW MEM * IF YOU HAVE MORE THAN 22 PARTITIONS
+STARTED.
+PPS. I HAVE MY SPOOLER RUNNING IN BG#25.
+
+MICHAEL S. SCHEIDELL
+FLORIDA DATAMATION, INC.
+305 368-2855
+
+-----------------------------------------------------------------
+Zurich, October 29, 1985
+
+Dear Fred
+
+Do you remember the  problem of losing memory, I  reported to you
+some weeks ago on the phone?
+
+The problem gets actual, when you detach Printers or Tapes not in
+the opposite way  you've attached them.  Now I  ask you, if not a
+crack of your  crew knows a way or  a program to clear the memory
+without re-ipl the system.
+
+I look forward to hear from you and remain,
+
+sincerely yours, Roland
+
+Roland D.  Steinberger Service
+Im Wyl 42
+Zurich 8055, Switzerland
+phone 01/462-6404
+
+
+-----------------------------------------------------------------
+10/16/85,21:47:20, 2139,X,MARTIN DAVIS/ JR.,404-872-7723
+
+]Hello, Fred!   I hope  what I've  discussed  in my message #1290
+will  spur some  debate.  I've  found since coming to Atlanta  to
+Georgia  Tech  that  bulletin  boards  are  only  fun if  there's
+discussion going  on!  I  really think we, the users,  should put
+pressure on  Williams to develop THEOS into the 1st class product
+it  could  be,  one which  would wipe  out  things like UNIX.  --
+MARTIN DAVIS/ JR.
+
+
+-----------------------------------------------------------------
+10/19/85,00:10:18, 2145,X,KEVIN HANSEN,(208) 852-0832
+
+]HI FRED:  finally  GOT  OASIS UP  ON THE  KAYPRO  286.  I LEFT A
+MESSAGE ON THE BOARD ABOUT IT.
+
+BOY OH BOY AM I IMPRESSED WITH IT (THEOS286)!
+
+THAT GUY THAT LEFT THE MESSAGE ABOUT THE REVIEW MUST BE FRESH OUT
+OF  SOME HI  POWERED COLLEGE  OR SOMETHING, THINKING THAT HE  CAN
+CHANGE THE WORLD OVER NIGHT.
+
+WELL BY FOR NOW -- KEVIN HANSEN
+
+-----------------------------------------------------------------
+10/24/85,23:57:53, 2165,X,KEVIN HANSEN,(208) 852-0832
+
+]HI FRED:  I JUST  DOWN LOADED  A COUPLE OF BENCH MARKS  FOR YOU.
+THE  FIRST IS  CALLED BENCH.K286i  and it's from the Kaypro  286.
+The second is called BENCH.IMIDDI and it's from the IBC Middi.
+
+THEOS286 is  really neat.   I am  very impressed with it.  I  did
+have a  little trouble getting it going though.  See the messages
+I left on CARAVAN.
+
+THEOS86 for the  IBM XT will not work in the Kaypro 16.  It seems
+to have  something  to  do  with  the way  Kaypro  did the memory
+management (any way that's what it feels like).
+
+It does however, work  very nicely on the BONDWELL  (damn slow on
+floppy).
+
+If you would like  me to send the benchmark  programs for the 286
+version of  oasis, let me know.  They are the ones from vol49.  I
+have converted them to THEOS286.
+
+The conversion  from  Oasis8 is  fairly easy and straight forward
+(if you  write clean code).  Some of the things that Oasis8 Basic
+lets you get  away with, Oasis286 Basic makes  you do right.  The
+compiler generates  very nice  code.  Tim did a very  good job on
+Oasis286.  -- KEVIN HANSEN
+
+
+-----------------------------------------------------------------
+01286,05,10/14/85,22:03,KEVIN HANSEN,ALL
+
+KAYPRO 286I OASIS,, **** THE VERSION OF OASIS FOR THE IBM MACHINE
+WILL NOT WORK  ON THE KAYPRO 286i UNLESS  YOU HAVE THE MONOCHROME
+VIDEO CARD ANY WAY THAT'S WHAT KAYPRO SAID.  I AM CURRENT WAITING
+FOR A MONO CARD TO CHECK THIS OUT FURTHER.  THIS WILL PROBABLY BE
+A CONSIDERATION FOR OTHER BRANDS ALSO.
+
+
+-----------------------------------------------------------------
+01287,16,10/14/85,22:09,KEVIN HANSEN,ALL
+
+SB180 (HITACHI CPU),, THE  CPU USED IN THE SB180  (SEE BYTE SEPT)
+HAS  A LOT  OF POSSIBILITY  BUT DON'T LET THE 512K  ADDRESS SPACE
+FOOL YOU.   IT  IS NOT  DIRECT ADDRESSING  !   BUT USES A 18  BIT
+ADDRESS  BUSS  AND A  FEW TRICKS  TO GET TO IT THE  SOFTWARE THAT
+COMES WITH  IT IS JUST ONE BIG KLUGE SO WITH OUT A GOOD OPERATING
+SYSTEM FOR IT (THEOS) IT'S HARD TO EXPLORE ALL THE POSSIBILITIES.
+I HAVE  CONTACTED THEOS SOFTWARE ABOUT A THIRD PARTY PORT TO THIS
+PROCESSOR AND AM EXPECTING A CALL BACK IN THE NEXT FEW DAYS.
+
+I HAVE RUN  BENCH MARKS ON THIS CPU AGAINST THE 8 MHZ Z80 AND THE
+6 MHZ  80286 AND  THE PROCESSOR IS MUCH FASTER  THAN THE 8MHZ Z80
+AND  IS FASTER  THAN THE  80286 ON SOME TYPES OF  OP CODES.  THIS
+BENCH CHECKED  ONLY  PROCESSOR  FUNCTION  WITH  NO I/O  WITH  THE
+OUTSIDE WORLD.
+
+-----------------------------------------------------------------
+▼ OL52.FEEDBACK:VOL52                                      01/30/85 16:29 Page 2
+
+01290,37,10/16/85,21:54,MARTIN DAVIS/ JR.,ALL
+
+THEOS REVIEW IN BYTE., October 17, 1985     1:00 AM
+
+Has anybody else read the review of THEOS pitted against Pick and
+Coherent on the IBM PC's in the recent special issue of BYTE?   I
+personally thought  the reviewer apparently  didn't  spend enough
+time learning  how to  use THEOS.  I also suspect  there are some
+errors in  his review, but I can't be sure since we only have the
+8-bit version on our IBC.  Although he says positive things about
+THEOS, I'm  not sure  I'd want to buy it  after reading just that
+review.
+
+I do  wonder  though  if  Timothy  Williams  keeps  the research,
+development,  and  implementation of  THEOS all to himself.  That
+is, is he  the only one who ever  works on it or does he hire new
+people with advanced graduate degrees who might, just might, know
+some more things than he about operating systems design?  I think
+he's  got  the  nucleus of  an excellent  product,   but  as Marc
+Rochkind pointed out in the review,   it does now have to compete
+with operating  systems that have moved down from larger systems.
+I seriously suspect  that  he can't let  go.   If he'd let go and
+hire   recent   advanced  graduates   with  advanced  and  modern
+knowledge, then  he might  corner the market.  These are  just my
+personal philosophical reflections after having worked with THEOS
+for over four years now and having returned to graduate school.
+
+I do have  a  pragmatic  question:  How  many of  you  have Super
+Cadets,  as  we  do,  with  which  you  constantly have  hardware
+problems (e.g, SMD boards constantly failing)? I'd be  curious to
+know.  We've had an intolerably high failure rate recently.
+
+--Martin H. Davis, Jr.
+  Technical Laboratories, Inc.
+  515 Cherokee Blvd.
+  Chattanooga, TN  37405
+
+
+-----------------------------------------------------------------
+01291,13,10/17/85,00:15,KEVIN HANSEN,ALL
+
+FOR HIRE,, Experience with assembler and basic with Experience in
+identifying and resolving problems. I also have experience in the
+design of many types of mechanical and electronic devices.  And I
+have experience in pneumatic and hydraulic systems as well as  AC
+and DC control circuits.
+
+        Kevin Hansen   Ross Distributing CO.
+        78 South State Street
+        Preston Idaho 83263
+        (208) 852-0832  (call after 2:00 pm)
+        EASYLINK 62902972
+
+-----------------------------------------------------------------
+01292,23,10/19/85,00:11,KEVIN HANSEN,ALL
+
+KAYPRO 286I OASIS,, AS  I HAD STATED BEFORE THAT  IN ORDER TO GET
+OASIS TO  BOOT UP ON THE KAYPRO YOU WOULD NEED A MONOCHROME CARD.
+I HAVE FOUND OUT WHAT THE PROBLEM IS AND IT'S EASY TO FIX
+
+OASIS NORMALLY COMES  WITH THE CONSOLE ATTACHED AS 'CRT' ALL THAT
+IS  NECESSARY TO  HAVE IT  TALK TO A COLOR CARD  IS TO ATTACH THE
+CONSOLE AS 'COLORCRT' THIS IS THE SEQUENCE TO DO THIS
+
+BOOT FROM  THE FLOPPY  AFTER A  TIME YOU SHOULD HERE A  BEEP THIS
+INDICATES THAT  OASIS IS WAITING FOR YOU TO LOG ON AFTER YOU HAVE
+TYPED 'SYSTEM'  <cr> IT  THEN WANTS A PASS WORD  WHICH IS 'THEOS'
+<cr> AFTER  DOING THIS  YOU ARE AT THE CSI  YOU CAN NOW RE ATTACH
+THE CONSOLE.
+
+ATTACH CON COLORCRT <cr>
+
+CHARS SHOULD NOW APPEAR ON THE MONITOR
+
+I HOPE THIS  MAY HELP  SOMEONE AS I SPENT $150  FOR A CARD THAT I
+REALLY DIDN'T NEED HAD SOMEONE TOLD ME WHAT THE PROBLEM WAS.
+
+-----------------------------------------------------------------
+01295,08,10/24/85,16:53,BOB SMYTHE,FRED BELLOMY
+
+Also, on VOL  50, the RAZOR's contribution.  Nice, but it doesn't
+work.  Seems a  vital key entry program is  in BASICCOM, so can't
+tell why.  But  it won't accept numbers from  its principal menu.
+UNfortunately,   although   the   software   contributions   have
+increased, the bugs have too.
+
+
+-----------------------------------------------------------------
+01296,16,10/24/85,17:00,BOB SMYTHE,ALL
+
+OASIS 6.1,,  Beware  the  trojan  horse!!!!  THEOS's  6.1 for the
+ALTOS (and  I  suspect  all  the  other non  IBC  computers) is a
+disaster.  You get  a super big nucleus with  a spooler, and lose
+almost 2K  per user partition.  If you do any programming at all,
+you know how  vital memory is.  I have  application programs that
+could hardly fit in the small space under 5.6, now you can't even
+load them much less run them.  Although the IBC implementation of
+6.1  gives you  a smaller  nucleus than 5.6, and more  memory per
+partition, lookout!!!  You  lose a partition because of  it.  You
+don't  get  something  for  nothing.   Of  course,  THEOS doesn't
+mention  this  in  their advertising.   Why they incorporated the
+spooler into the nucleus is a major mystery.  I suspect less than
+50 of OASIS users use the spooler.
+
+
+-----------------------------------------------------------------
+01297,15,10/26/85,08:45,MARTIN DAVIS/ JR.,FRED BELLOMY
+
+QUESTIONS RE CARAVAN, Fred:
+
+1) How, when using  the WHO feature, do I  get the output to stop
+momentarily?   CTRL-S,  ESC,S  don't  work.   I  can't  read fast
+enough, even at only 1200 baud, to make much sense out of it.
+
+2) How  can   I  see  what's  available  for  downloading  before
+downloading it?  Thanks.
+
+--Martin H. Davis, Jr.
+  Technical Labs, Inc.
+  Chattanooga
+p.s: Just leave your answer here on Caravan is fine with me.
+
+
+-----------------------------------------------------------------
+01298,07,10/27/85,00:20,DAVE KLOTZMAN,TROJAN HORSE?
+
+I PREFER 6.1 MYSELF,, I find the trade-offs in 6.1 over 5.6 quite
+acceptable.  Having the  spooler as a NUCLEUS overlay  means that
+you don't lose memory running in multi-user mode over single-user
+mode.  So  the only programs that I could run under 5.6 that find
+insufficient  memory  under 6.1  wouldn't have  run  under 5.6 in
+multi-user mode anyway!
+
+
+-----------------------------------------------------------------
+01300,05,10/27/85,12:49,JOHN BERGMAN,ALL
+
+XMODEM COMPATIBLE  HERE,, I  HAVE A  MODEM  PROGRAM WRITTEN I 'C'
+CALLED LMODEM.   THIS IS  PUBLIC DOMAIN AND IS STILL  DESIGNED TO
+RUN  UNDER  CPM.  IT  LOOKS LIKE  IT WOULD BE EASY TO  CONVERT IF
+ANYONE IS INTEREST IN THIS PROGRAM PLEASE CALL ME AT 608-269-8711
+AND ASK FOR JOHN BERGMAN.  I WILL DOWNLOAD IT TO YOU FOR NOTHING.
+
+
+-----------------------------------------------------------------
+01301,07,10/28/85,20:32,BOB ROSS,FRED BELLOMY
+
+FRED: JUST  WANTED TO  DROP YOU  A MESSAGE AND THANK YOU  FOR OUR
+PHONE CONVERSATION AND FOR RESETTING THE BBS.  I AM EXCITED ABOUT
+GETTING  THE  LOSE  ENDS DONE  UP AND  GETTING  BACK TO YOU ABOUT
+CONTRIBUTING THE REPLACEMENT FOR CONTROL.  QUITE A PROJECT.  BOB
+ROSS
+
+
+-----------------------------------------------------------------
+01302,07,11/04/85,23:55,LARRY SCHRUPP,FRED BELLOMY
+
+OASIS-BASED BBS,, Fred, I  would be very interested in  getting a
+copy of  the software which you use to run CARAVAN, preferably as
+source.  I am  interested in setting up a  BBS for a small users'
+group  here in  Colstrip, and  of course, I want to  use my OASIS
+system as the host computer.  If the program is available, please
+leave me a message explaining how I can get it. -- Larry
+
+
+-----------------------------------------------------------------
+01303,06,11/05/85,00:12,LARRY SCHRUPP,ALL
+
+PROBLEMS WITH  XMODEM,,  Has  anyone  experienced  problems  with
+XMODEM on  OASIS besides  me?  I have a Radio  Shack Model II and
+XMODEM  seems  to have  problems transferring  large  files to my
+system.  It gets  the first block OK, but  then seems to 'get out
+of sync' and NAKs all the rest of the blocks.
+
+-----------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL52.FEEDBACK                             8 November 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ^
+
+
+elcome to volume 52in the very rapidly expanding library
+of OASIS compatible member contributed "END-USER-ONLY" software.
+
+Want a PRINTED COPY of the program info too {Y/N}? N
+
+SCIDUMP.ASSEMBLE/COMMAND
+
+This is a utility for saving the physical contents of any file in
+an ASCII  sequential file having the same name as the input file,
+but  with filetype,  SECTORS.  System level programmers will find
+this quite handy.  Contributed by Henry Aylward (808) 696-2589.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+AR$IPL .EXEC   CAR$IPLC.EXEC   CARAVAN .EXEC   CARAVAN .ORDERING
+CARLOCAL.EXEC   CARLOCAL.INFO   CARLSRCH.BASIC  CARMSRCH.BASIC
+CAROASIS.EXEC   CARORDER.BASIC  CARSIGNU.BASIC
+
+This is the set of programs, which together with the CBBS program
+go to  make up  the Oasis Users Group online  information system:
+CARAVAN.  The member information features (CARLSRCH and CARMSRCH)
+must  be used  with a  copy of the OUG MEMBERS.ADDRESS  file, the
+latest version  of  which  has  been  included on  Bonus52  which
+accompanies Volume52.
+
+The CBBS program is what we currently use for the MESSAGE feature
+on CARAVAN.   It was  originally written by Ward Christensen  and
+adapted  for use  on Oasis  By John Taylor.  John tells  me he is
+adding   features   to  his   version  and  will  have  something
+significantly  improved to  release early next year.  Information
+about ordering  the missing  CBBS program set is included  in the
+CARAVAN.ORDERING file.
+▼ ^
+The CBBS system is what is usually thought of as a bulletin board
+system.  CARAVAN  has added  a few features of its  own to better
+serve   the   special  needs   of  the   OUG   members  (such  as
+upload/download   with  SEND/RECEIVE,   member  information  file
+searches and  an interactive Oasis/Theos tutorial feature).  Only
+the programs and files needed to provide these added features are
+included here on volume 52.
+
+Some of   the   security   parameters   in   the  main   program,
+CARAVAN.EXEC, have  been altered to protect the OUG installation,
+but none have been omitted.  The IPL that starts it all is called
+CAR$IPL  here,  and  you might  want to  change  the name back to
+IPL.EXEC.
+
+Finally, I am continually evaluating improvements to the existing
+CARAVAN system  as well as alternative systems.  Your suggestions
+are appreciated.  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+LIST.HELP/READ$1ST       FLISTDM.COMMAND/SCRIPT
+
+F-LIST is a  very powerful diskfile management utility from Bruce
+Pearce.   It  has  an  excellent  built-in  HELP  function and  a
+complete reference manual.  While the OUG version only allows you
+to work  with  as many  files as  you  can display on one  screen
+(which may  be any length), you will find it extremely useful for
+much of your  diskfile management activities.  Bruce is  going to
+sell a  lot of copies of the full commercial version (OUG members
+get a big discount.) FB
+
+-----------------------------------------------------------------
+The  F-LIST  utility offers  the terminal operator the capability
+through use  of a wildcard mask, of listing groups of files whose
+identities  (name.type:disk) resemble  each other.  The directory
+entries of  the files are displayed in pages that can be recalled
+in  any order.   The  entries  can  also  be sorted  under  seven
+different   criteria  for   a  more  convenient  display  at  the
+requirement of the operator.
+▼ ^
+A SELECTED.EXEC  may  be  created  from the  displayed files.  In
+addition,  the  operator  can  rename,  erase  or  list any  file
+displayed on  his console  and continue paging through the  files
+without  leaving the  utility.  This utility effectively combines
+the four  OASIS commands:  FILELIST, ERASE, LIST, and RENAME.   A
+line editing facility  (screen editor) is included to  assist the
+terminal operator in specifying commands.
+
+The limited OUG  version of  F-LIST supports all features of  the
+commercial product except pagination, i.e.  only one page of file
+descriptions  will  be  accessed per  invocation.  Throughout the
+manual,  those  commands  that  are  not  supported  in  the  OUG
+demonstration version are so noted.
+
+       Copyright 1985 Bruce A Pearce -- ADDICTIVE SOFTWARE
+      P.O. Box 4348 -- Laguna Beach, CA  92652 (714) 494-1068
+
+WANT MORE INFO NOW? [Y/N]:N
+
+LOT.BASIC/ INFO  PLOTDEMO.DATA/ EXEC
+
+PURPOSE:
+
+    Plots data stored  in a disk file on the CRT or Line printer.
+    Output is 80  columns wide.  Data is automatically  scaled to
+    fill the page  and the scale factor is  printed at the top of
+    the page.
+
+SYNTAX:
+
+    RUN PLOT (After it is compiled)
+
+    PLOT will request the name of the data file to be used and if
+    the output should be routed to the CRT or line printer.
+
+EXAMPLE:
+
+    A short demonstration  data file named PLOT.DEMO of 50 points
+    is included which  will generate a sine wave  cycle when used
+    as input to PLOT.BASIC.
+▼ ^
+ADDITIONAL INFO:
+
+    The output plot can be "infinetly" long.  Currently PLOT will
+    handle up  to 250  data values.  the dimension statement  for
+    INDEPENDENT.VARIABLE  and  INPUT.DATA  (line 240)  should  be
+    changed to handle more data points.
+
+SUBMITTED BY:
+
+    Wayne Lauritsen
+    642 Tabor Lane
+    Santa Barbara, CA 93108
+    (805) 969-1327
+
+WANT TO SEE A DEMO NOW? [Y/N]:N
+
+EPORT.BASIC/INFO
+
+This  is  a  shell  to simplify using the SPOOLER facility in
+Oasis/Theos.   Contributed  by  Al Whitaker,   it is designed
+especially for the untrained user. NOTE:  The spooler must be
+initialized in order to use REPORT.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+TSPATCH.EXEC
+
+This patch will enable  RTS line (pin 5 on  Super Cadet, pin 4 on
+Middi) to  control modem.  Attach RTS line to pin 20 on modem and
+disable forced  DTR on  modem.  If port is not  started, attached
+modem will not  answer the phone.  Also, if  a user on modem port
+hangs up  the phone, the Oasis op system will temperarily hang up
+modem so other  users can dial in.  PS.   Will only work on Middi
+Cadet with jumper W5 and W6 and serial IO board rev c.  or rework
+of standard serial  board, or on IBC super  cadet.  Looks like it
+will work with all versions of device drivers.
+
+Michael S Scheidell
+Florida Datamation, Inc
+368-2855
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+ORDCNT.C/COMMAND
+
+This is a utility for counting the lines, words and characters in
+an ASCII text  file.  It accumulates a total  of all tokens found
+in  an ascii  text file.   A token is any sequence  of characters
+delimited by a white space or begin/end of a line.
+
+File description may  be specified  on the command line when  the
+program  is  invoked or  entered at  the  request of the program.
+Reference:  "C" Programming  Language book pg.  18 and C-Language
+by Phase One pg.  68.
+
+Written and  Copyright by  Henry W.   Aylward PE on 11 Oct  1982.
+(c) 1984 Ver 1.0 All Rights Reserved.  Last Revision 5/4/84.
+
+Aylward Enterprises
+-933 Pahano Loop
+Waianae, Hawaii 96792
+(808) 696-2589
+
+WANT TO SEE A DEMO OF IT WITH THE VOL52 NEWS FILE NOW? [Y/N]:N
+
+PF2TEXT.C/COMMAND
+
+This is a utility for converting the "funny" text files generated
+by  several  of  the word  processors (such  as  MultiWrite) into
+normal Oasis text/ASCII sequential files.
+
+Written and Copyright  by Henry W.  Aylward PE.  (c) 1984 Ver 2.0
+All Rights Reserved.  Date of Last Revision 05 MAY 1984.
+
+Aylward Enterprises
+-933 Pahano Loop
+Waianae, Hawaii 96792
+ (808) 696-2589
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+>LIST VOL52 WISHLIST A
+File not found.
+
+
+K. SO THAT'S THE END OF VOLUME 52 AND WE WOULD LIKE TO HEAR ANY
+COMMENTS YOU MIGHT HAVE ABOUT IT.  WE ARE ALL STILL LEARNING AND
+I'M SURE THAT THERE WILL BE MANY CHANGES TO COME. GIVE ME A CALL
+ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>
+
+>
+
+>LIST WORDCNT  C
+ORDCNT.C:VOL52                                           01/30/85 16:29 Page 1
+
+
+/*************************************************************
+
+Name==> WORDCNT Word Count of ASCII Text Files
+        Accumulates a total of all tokens found in an ascii text file.
+        A token is any sequence of characters delimited by a white space or
+        begin/end of line.
+        File description may be specified on the command line when the
+        program is invoked or entered at the request of the program.
+        Reference: "C" Programming Language book pg. 18
+                   C-Language by Phase One pg. 68
+Written and Copyright by Henry W. Aylward PE on 11 Oct 1982
+(c) 1984    Ver 1.0    All Rights Reserved
+Date of Last Revision 05/04/84
+Aylward Enterprises
+86-933 Pahano Loop
+Waianae, Hawaii 96792
+        (808) 696-2589
+*/
+
+#asm
+        aylwardc        'WORDCNT','2.0','04MAY84','1','00','0000'
+#endasm
+#include "stdio"
+#include "oasis"
+#include "ascii"
+#define YES 1
+#define NO 0
+unsigned total = 0;
+main(argc,argv)
+        int argc;               /* count of command line arguments */
+        char *argv[];           /* argument pointer array */
+{
+
+        /* fn = file name, ft = file type, fd = file drive
+        nl = number of lines, nw = number of words
+        nc = number of characters */
+
+        char    filename[27],
+                line[256];
+
+        static  char    fn[9] = "",
+                        ft[9] = "",
+                        fd[9] = "";
+        int     pflag=0;
+        unsigned        c, nl, nw, nc, inword, i, file;
+        inword = NO;
+        nl = nw = nc = i = 0;
+
+if((strncmp(argv[1],"HELP",strlen(argv[1]))==NULL)&&argc==2) wdcnthm();
+        strcpy(fn,"");
+
+        for (i=1; i<argc; i++)  /* exp1 will be executed only once */
+                {
+                switch (i)
+                        {
+                case 1: strcpy(fn,argv[i]);break;
+                case 2: strcpy(ft,argv[i]);break;
+                case 3: strcpy(fd,argv[i]);break;
+                default: syserr(16,21,argv[i]);
+                        }
+                }
+
+        if (strcmp(fn,"")==0)   /* no file description */
+                {
+                puts("Enter File Description < Fn.Ft [:Dr] >: ");
+                conmask("u");           /* force input to upper case */
+                gets(filename,27);      /* accept file desc */
+                ++pflag; /* set print flag */
+                }
+        else if (*ft=='\0')             /* file type missing */
+                syserr(8,3,NULL);
+        else
+                {
+                strcat(strcat(strcpy(filename,fn),"."),ft);
+                if (strcmp(fd,""))
+                        strcat(strcat(filename,":"),fd);
+                }
+        if (*filename==NULL) exit(0);           /* none requested quit */
+
+        if ((file=fopen(filename,"r"))==0)      /* open the file */
+                syserr(12,8,NULL);              /* file not found */
+        if( pflag==1) { co(CR); co(UP); co(EOL); }      /* clear line */
+        printf("Word Count for "); printf(filename); printf("\n\n");
+
+        while ((c = fgetc(file)) != EOF)
+                {
+
+                ++nc;
+                if (c == '\n')
+                        ++nl;
+                if (c == ' ' || c == '\n' || c == '\t')
+                        inword = NO;
+                else if (inword == NO)
+                        {
+                        inword = YES;
+                        ++nw;
+                printf(" Word Count--> %d",nw); co(CR);
+                        }
+                }
+        co(EOL);
+        printf("Total Lines......... ");
+        printf("%d\n",nl);
+        printf("Total Words......... ");
+        printf("%d\n",nw);
+        printf("Total Characters.... ");
+        printf("%d\n",nc);
+        fclose(file);
+}
+
+wdcnthm()
+{
+        /* Following is the Help Message */
+putsnl("Function:  To Count The Total Number of Lines, Words");
+putsnl("           and Characters Within An ASCII Text File.\n");
+putsnl("  Syntax:  WORDCNT [ Fn.Ft [:Dr]] | HELP |\n");
+putsnl("   Where:");
+putsnl("           Fn    - File Name");
+putsnl("           Ft    - File Type");
+putsnl("           Dr    - Drive Code");
+putsnl("           HELP  - This Message\n");
+putsnl("    Note:  Program will prompt for file description");
+putsnl("           if file name is missing.  Period between");
+putsnl("           file name and file type is required.");
+exit(0);
+}
+
+>F *.H
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+FORECAST H        D 06/12/81 00:00     8    2 D   160 OASIS
+1 file(s), 2 block(s).
+
+>F *.C
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+COPYRITE C        D 06/09/84 07:47    49    2 S    65 OASIS
+FORECAST C        D 05/23/81 00:00     8    1 D   125 OASIS
+WORDCNT  C        A 05/04/84 22:18   126    4 S    71 VOL52
+WORDCNT  C        D 05/04/84 22:18   126    4 S    71 OASIS
+WPF2TEXT C        A 05/05/84 15:09   153    5 S    76 VOL52
+WPF2TEXT C        D 05/05/84 15:09   153    5 S    76 OASIS
+6 file(s), 21 block(s).
+
+>LIST WPF2TEXT.C
+PF2TEXT.C:VOL52                                          01/30/85 16:30 Page 1
+
+/*************************************************************
+
+Name==> WPF2TEXT Word Processing File to Text File, Normal Format
+Written and Copyright by Henry W. Aylward PE
+(c) 1984    Ver 2.0    All Rights Reserved
+Date of Last Revision 05 MAY 1984
+Aylward Enterprises
+86-933 Pahano Loop
+Waianae, Hawaii 96792
+        (808) 696-2589
+*/
+
+#asm
+        aylwardc        'WPF2TEXT','2.0','05MAY84','3','00','0000'
+#endasm
+#include "stdio"
+#include "oasis"
+#include "ascii"
+/* This is how many spaces a tab expands too */
+#define TABSP 5
+
+main(argc,argv)
+int     argc;
+char    *argv[];
+{
+char    filename[20],
+        toname[20],chr,
+        line[10],temp[200]="",out[100];
+int     frm,llen=78,st,i,hflg=0,flag,
+        to,hyph=20,tl=0;
+static  char ffn[9]="",
+        fft[9]="",
+        ffd[9]="",
+        tfn[9]="=",
+        tft[9]="TEXT",
+        tfd[9]="=",
+        opt[9]="",
+        ollen[9]="";
+static  unsigned        cnt=0;
+
+if((strncmp(argv[1],"HELP",strlen(argv[1]))==NULL)&&argc==2) wpf2txhm();
+for(flag=0,i=1; i<argc; i++)
+{
+if(strcmp(argv[i],"(")==NULL)flag=7;
+else switch (flag) {
+        case 0: strcpy(ffn,argv[i]); flag++; break;
+        case 1: strcpy(fft,argv[i]); flag++; break;
+        case 2: strcpy(ffd,argv[i]); flag++; break;
+        case 3: strcpy(tfn,argv[i]); flag++; break;
+        case 4: strcpy(tft,argv[i]); flag++; break;
+        case 5: strcpy(tfd,argv[i]); flag++; break;
+        case 7: strcpy(opt,argv[i]); flag++; break;
+        case 8: strcpy(ollen,argv[i]); flag++; break;
+        default: syserr(16,21,argv[i]);
+        }
+}
+if(strncmp(opt,"RECLEN",strlen(opt))==NULL)
+        {
+        if(match(ollen,"*#"))llen=atoi(ollen);
+        else syserr(16,7,ollen);
+        }
+if(*ffn=='\0')
+        {
+        puts("Enter Source File Description < Fn.Ft[:Dr] >: ");
+        conmask("u");
+        gets(filename,20);
+        puts("\nEnter Destination File Description < Fn.Ft[:Dr] >: ");
+        gets(toname,20);
+        co(UP);co(UP);co(UP);co(EOS);
+        }
+else if (*fft=='\0'||*tft=='\0') syserr(8,3,NULL);
+else if (*tfn=='\0') syserr(8,2,NULL);
+else    {
+        if(*tfn=='=')strcpy(tfn,ffn);
+        if(*tft=='=')strcpy(tft,fft);
+        if(*tfd=='=')strcpy(tfd,ffd);
+        strcat(strcat(strcpy(filename,ffn),"."),fft);
+        strcat(strcat(strcpy(toname,tfn),"."),tft);
+        if (*ffd!='\0') strcat(strcat(filename,":"),ffd);
+        if (*tfd!='\0') strcat(strcat(toname,":"),tfd);
+        }
+puts("Source File Name........ "); puts(filename);
+puts("\nDestination File Name... "); puts(toname); puts("\n\n");
+puts("   Working..."); co(CR);
+if (*filename==NULL||*toname==NULL) { co(EOL); exit(NULL); }
+if (strcmp(filename,toname)==NULL)
+        {
+        co(EOL);
+        printf("\nFile Description must be different!\n");
+        exit(1);
+        }
+
+if ((frm=fopen(filename,"r"))==0) { co(EOL); syserr(12,8,NULL); }
+if ((to=fopen(toname,"w"))==0) { co(EOL); syserr(13,8,NULL); }
+
+i=0;
+while(fgets(line,2,frm))
+{
+chr=(*line=='\0')?13:*line;
+if (chr=='I'-64) /* ^I=tab */
+        {               /* replace with spaces */
+                for(st=0; st<TABSP;++st)*(temp+i+st)=' ';
+                i+=st;
+                        if (i>llen){i=llen; chr=13;}
+                        else--i;
+                }
+if (chr=='N'-64) /* ^N = end of line Spellbinder */
+        {               /* replace with space */
+                for(st=0; st<1;++st)*(temp+i+st)=' ';
+                i+=st;
+                        if (i>llen){i=llen; chr=13;}
+                        else--i;
+                }
+else *(temp+i)=chr;
+if (chr==13||chr==10||i==llen)
+        {
+        *(temp+i+1)='\0';       /* mark eos */
+        hflg=0;
+        for(tl=i; tl>i-hyph;--tl) if (isspace(*(temp+tl)))break;
+        if (tl<i-hyph) { tl=i-1;hflg=1; }
+        strncpy(out,temp,tl+1);
+        if (hflg) { ++tl; *(out+tl)='-'; }
+        ++tl; *(out+tl)='\0';
+        fputs(out,to); if (chr!=13)fputc('\n',to);
+        ++cnt; co(EOL); printf("  Pass==>%d",cnt); co(CR);
+        /* unused part of temp down */
+        strcpy(temp,temp+tl);
+        i=strlen(temp);
+                }
+else ++i;
+        }       /* endwhile */
+fclose(frm); fclose(to);
+co(EOL); puts("Done...\n");
+}       /* end prog */
+
+wpf2txhm()
+{
+putsnl("Function:  To Convert Word Processing File Format to");
+putsnl("           Standard OASIS Text/ASCII Format File.\n");
+putsnl("  Syntax:  WPFTEXT [ Filein [ Fileout ]] [ ( Options ] | HELP |\n");
+putsnl("   Where:");
+putsnl("           Filein Input Word Processing File - Fn.Ft[:Dr]");
+putsnl("           Fileout - Output ASCII File - Fn.Ft[:Dr]");
+putsnl("           HELP    - This message");
+putsnl(" Options:");
+putsnl("           RECLEN nn - nn is record length, default 78");
+putsnl("    Note:");
+putsnl("           '=' Allowed in File name description.");
+putsnl("           Filein and Fileout File Names must be different.");
+putsnl("           If no file decription is declared, program");
+putsnl("           will prompt for filein and fileout.");
+exit(0);
+}
+
+>

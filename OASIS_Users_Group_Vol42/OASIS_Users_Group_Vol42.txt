@@ -1,0 +1,657 @@
+November 1984                   Volume: 42
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST42  A 10/21/84 18:16    60    3 S    65 VOL42
+ACCEPT42 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL42
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL42
+FL       INFO     A 11/01/84 18:16    39    3 S    65 VOL42
+FL0      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL42
+FL1      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL42
+FL2      COMMAND  A 02/20/84 19:08    19    5 R   256 VOL42
+OASIS    HARDWARE A 10/13/84 18:16    62    2 S    61 VOL42
+SCR$$$   EXEC     A 11/01/84 18:16   237    6 S    73 VOL42
+SCRDEMO  BASIC    A 09/29/83 01:52   129    6 S   111 VOL42
+SCRDEMO  SCRIPT   A 11/01/84 18:16     0    1 S     0 VOL42
+SCRDOCC  SCRIPT   A 11/01/84 18:16    26    1 S    40 VOL42
+SCRDOCP  SCRIPT   A 11/01/84 18:16    26    1 S    40 VOL42
+SCRFORMT BASIC    A 09/29/83 01:52   175    7 S   111 VOL42
+SCRFORMT SCRIPT   A 11/01/84 18:16    49    4 S    78 VOL42
+SCRINDMP BASIC    A 09/29/83 01:52   157    7 S   159 VOL42
+SCRINDMP SCRIPT   A 11/01/84 18:16    39    2 S    79 VOL42
+SCRINPUT BASIC    A 09/29/83 01:53   372   15 S   108 VOL42
+SCRINPUT DATAFILE A 09/18/83 16:34    24    3 DD  128 VOL42
+SCRINPUT DEMOFILE A 09/18/83 16:34    10    2 DD  128 VOL42
+SCRINPUT DUMPFILE A 09/18/83 16:34     6    1 DD  128 VOL42
+SCRINPUT FRMTFILE A 09/18/83 21:15    13    2 DD  128 VOL42
+SCRINPUT INSTFILE A 07/24/83 15:28    16    2 DD  128 VOL42
+SCRINPUT ITEMFILE A 07/28/83 01:31    11    2 DD  128 VOL42
+SCRINPUT MENUFILE A 11/01/84 18:16    13    2 DD  128 VOL42
+SCRINPUT PRNTFILE A 09/18/83 16:34    10    2 DD  128 VOL42
+SCRINPUT SCRIPT   A 11/01/84 18:16   335   18 S    79 VOL42
+SCRINSTL BASIC    A 09/29/83 01:53   182    8 S   134 VOL42
+SCRINSTL SCRIPT   A 11/01/84 18:16    91    5 S    79 VOL42
+SCRINTRO SCRIPT   A 11/01/84 18:16   109    6 S    79 VOL42
+SCRMAIL  BASIC    A 11/01/84 18:16   164    7 S   111 VOL42
+SCRMAIL  DATAFILE A 11/01/84 18:16     3   17 I   128 VOL42
+SCRMAIL  ITEMFILE A 09/17/83 00:28    16    2 D   128 VOL42
+SCRMAIL  SCRIPT   A 11/01/84 18:16    52    2 S    79 VOL42
+SCRMENU  BASIC    A 09/18/83 16:45   142    6 S   111 VOL42
+SCRMENU  SCRIPT   A 11/01/84 18:16    51    4 S    78 VOL42
+SCRPRINT BASIC    A 08/21/83 06:15   181    8 S   111 VOL42
+SCRPRINT SCRIPT   A 11/01/84 18:16    42    3 S    79 VOL42
+SCRPRNT  BASIC    A 09/18/83 16:51   175    8 S   111 VOL42
+SCRPRNT  SCRIPT   A 11/01/84 18:16    43    3 S    79 VOL42
+SCRPRO2  BASIC    A 09/29/83 00:39   118    6 S   111 VOL42
+SCRPROTO BASIC    A 09/29/83 00:39   115    5 S   111 VOL42
+SCRPROTO SCRIPT   A 11/01/84 18:16   255   12 S    79 VOL42
+SELECT42 EXEC     A 11/01/84 18:16    48    3 S    46 VOL42
+VOL42    CONTENTS A 11/01/84 18:16    58    3 S    65 VOL42
+VOL42    EXEC     A 11/01/84 18:16   169    6 S    73 VOL42
+VOL42    FEEDBACK A 11/01/84 18:16   147    8 S    65 VOL42
+VOL42    NEWS     A 11/01/84 18:16   241   13 S    66 VOL42
+48 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+COPYRITE.COMMAND:A replaces COPYRITE.COMMAND:D
+FL1.COMMAND:A replaces FL1.COMMAND:D
+SCRDEMO.BASIC:A copied to SCRDEMO.BASIC:D
+SCRDOCP.SCRIPT:A copied to SCRDOCP.SCRIPT:D
+SCRINDMP.BASIC:A copied to SCRINDMP.BASIC:D
+SCRINPUT.BASIC:A copied to SCRINPUT.BASIC:D
+SCRINPUT.DATAFILE:A copied to SCRINPUT.DATAFILE:D
+SCRINPUT.INSTFILE:A copied to SCRINPUT.INSTFILE:D
+SCRFORMT.BASIC:A copied to SCRFORMT.BASIC:D
+SCRINPUT.DUMPFILE:A copied to SCRINPUT.DUMPFILE:D
+SCRINTRO.SCRIPT:A copied to SCRINTRO.SCRIPT:D
+SCRMAIL.BASIC:A copied to SCRMAIL.BASIC:D
+SCRMAIL.DATAFILE:A copied to SCRMAIL.DATAFILE:D
+SCRPRINT.BASIC:A copied to SCRPRINT.BASIC:D
+SCRPRINT.SCRIPT:A copied to SCRPRINT.SCRIPT:D
+SCRPRNT.BASIC:A copied to SCRPRNT.BASIC:D
+$README.FIRST42:A copied to $README.FIRST42:D
+FL0.COMMAND:A replaces FL0.COMMAND:D
+SCR$$$.EXEC:A copied to SCR$$$.EXEC:D
+SCRDEMO.SCRIPT:A copied to SCRDEMO.SCRIPT:D
+SCRDOCC.SCRIPT:A copied to SCRDOCC.SCRIPT:D
+SCRINDMP.SCRIPT:A copied to SCRINDMP.SCRIPT:D
+SCRINPUT.DEMOFILE:A copied to SCRINPUT.DEMOFILE:D
+SCRINPUT.MENUFILE:A copied to SCRINPUT.MENUFILE:D
+FL.INFO:A replaces FL.INFO:D
+SCRFORMT.SCRIPT:A copied to SCRFORMT.SCRIPT:D
+SCRINPUT.ITEMFILE:A copied to SCRINPUT.ITEMFILE:D
+SCRINSTL.BASIC:A copied to SCRINSTL.BASIC:D
+SCRMAIL.SCRIPT:A copied to SCRMAIL.SCRIPT:D
+SCRPRNT.SCRIPT:A copied to SCRPRNT.SCRIPT:D
+SCRPRO2.BASIC:A copied to SCRPRO2.BASIC:D
+SCRPROTO.BASIC:A copied to SCRPROTO.BASIC:D
+ACCEPT42.COMMAND:A copied to ACCEPT42.COMMAND:D
+FL2.COMMAND:A replaces FL2.COMMAND:D
+SCRINPUT.FRMTFILE:A copied to SCRINPUT.FRMTFILE:D
+SCRINPUT.PRNTFILE:A copied to SCRINPUT.PRNTFILE:D
+SCRINPUT.SCRIPT:A copied to SCRINPUT.SCRIPT:D
+SCRMAIL.ITEMFILE:A copied to SCRMAIL.ITEMFILE:D
+SCRMENU.BASIC:A copied to SCRMENU.BASIC:D
+SCRMENU.SCRIPT:A copied to SCRMENU.SCRIPT:D
+OASIS.HARDWARE:A copied to OASIS.HARDWARE:D
+SCRINSTL.SCRIPT:A copied to SCRINSTL.SCRIPT:D
+SCRPROTO.SCRIPT:A copied to SCRPROTO.SCRIPT:D
+SELECT42.EXEC:A copied to SELECT42.EXEC:D
+VOL42.CONTENTS:A copied to VOL42.CONTENTS:D
+VOL42.EXEC:A copied to VOL42.EXEC:D
+VOL42.FEEDBACK:A copied to VOL42.FEEDBACK:D
+VOL42.NEWS:A copied to VOL42.NEWS:D
+
+>VOL42
+♂OUG ver 2.0 09JUN84 Copyright Aylward Enterprises
+
+40      COPYRIGHT 1984   T H E    O A S I S    U S E R S    G R O U P       #$    $#   %"   &"   '"   ("   )"   *"   +"   ,#   -$    .%              /'          -0    ,2   +3   *3   )3   (3   '3   &3   %3   $2   #0    "%              !'          !:   ":   #:   $:   %:   &:   ':   (:   ):   *:   +:   ,;   -<    .=              /?          -H    ,J   +K   *K   )K   (K   'K   &K   %K   $K   #K   "K   !K   %c   $b   #`    "U              !W          #T    $S   %R   &R   'R   (R   )R   *R   +R   ,S   -T    .U              /W          -`    ,b   +c   *_       )_       0 0
+   ==================================================================
+   :           VOLUME 42 OF THE OASIS USERS GROUP LIBRARY           :
+   :                                                                :
+   :  "I Owe, I Owe.   So off to work I go"                         :
+   :                                      California bumper sticker :
+   ==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+Welcome  to  VOLUME 42  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  42,
+the latest newsletter, and feedback from members:
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST42  A 10/21/84 18:16    60    3 S    65 VOL42
+ACCEPT42 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL42
+COPYRITE COMMAND  A 06/09/84 07:51    11    3 R   256 VOL42
+FL       INFO     A 11/01/84 18:16    39    3 S    65 VOL42
+FL0      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL42
+FL1      COMMAND  A 02/20/84 20:30    17    5 R   256 VOL42
+FL2      COMMAND  A 02/20/84 19:08    19    5 R   256 VOL42
+OASIS    HARDWARE A 10/13/84 18:16    62    2 S    61 VOL42
+SCR$$$   EXEC     A 11/01/84 18:16   237    6 S    73 VOL42
+SCRDEMO  BASIC    A 09/29/83 01:52   129    6 S   111 VOL42
+SCRDEMO  SCRIPT   A 11/01/84 18:16     0    1 S     0 VOL42
+SCRDOCC  SCRIPT   A 11/01/84 18:16    26    1 S    40 VOL42
+SCRDOCP  SCRIPT   A 11/01/84 18:16    26    1 S    40 VOL42
+SCRFORMT BASIC    A 09/29/83 01:52   175    7 S   111 VOL42
+SCRFORMT SCRIPT   A 11/01/84 18:16    49    4 S    78 VOL42
+SCRINDMP BASIC    A 09/29/83 01:52   157    7 S   159 VOL42
+SCRINDMP SCRIPT   A 11/01/84 18:16    39    2 S    79 VOL42
+SCRINPUT BASIC    A 09/29/83 01:53   372   15 S   108 VOL42
+SCRINPUT DATAFILE A 09/18/83 16:34    24    3 DD  128 VOL42
+SCRINPUT DEMOFILE A 09/18/83 16:34    10    2 DD  128 VOL42
+SCRINPUT DUMPFILE A 09/18/83 16:34     6    1 DD  128 VOL42
+SCRINPUT FRMTFILE A 09/18/83 21:15    13    2 DD  128 VOL42
+SCRINPUT INSTFILE A 07/24/83 15:28    16    2 DD  128 VOL42
+SCRINPUT ITEMFILE A 07/28/83 01:31    11    2 DD  128 VOL42
+SCRINPUT MENUFILE A 11/01/84 18:16    13    2 DD  128 VOL42
+SCRINPUT PRNTFILE A 09/18/83 16:34    10    2 DD  128 VOL42
+SCRINPUT SCRIPT   A 11/01/84 18:16   335   18 S    79 VOL42
+SCRINSTL BASIC    A 09/29/83 01:53   182    8 S   134 VOL42
+SCRINSTL SCRIPT   A 11/01/84 18:16    91    5 S    79 VOL42
+SCRINTRO SCRIPT   A 11/01/84 18:16   109    6 S    79 VOL42
+SCRMAIL  BASIC    A 11/01/84 18:16   164    7 S   111 VOL42
+SCRMAIL  DATAFILE A 11/01/84 18:16     3   17 I   128 VOL42
+SCRMAIL  ITEMFILE A 09/17/83 00:28    16    2 D   128 VOL42
+SCRMAIL  SCRIPT   A 11/01/84 18:16    52    2 S    79 VOL42
+SCRMENU  BASIC    A 09/18/83 16:45   142    6 S   111 VOL42
+SCRMENU  SCRIPT   A 11/01/84 18:16    51    4 S    78 VOL42
+SCRPRINT BASIC    A 08/21/83 06:15   181    8 S   111 VOL42
+SCRPRINT SCRIPT   A 11/01/84 18:16    42    3 S    79 VOL42
+SCRPRNT  BASIC    A 09/18/83 16:51   175    8 S   111 VOL42
+SCRPRNT  SCRIPT   A 11/01/84 18:16    43    3 S    79 VOL42
+SCRPRO2  BASIC    A 09/29/83 00:39   118    6 S   111 VOL42
+SCRPROTO BASIC    A 09/29/83 00:39   115    5 S   111 VOL42
+SCRPROTO SCRIPT   A 11/01/84 18:16   255   12 S    79 VOL42
+SELECT42 EXEC     A 11/01/84 18:16    48    3 S    46 VOL42
+VOL42    CONTENTS A 11/01/84 18:16    58    3 S    65 VOL42
+VOL42    EXEC     A 11/01/84 18:16   169    6 S    73 VOL42
+VOL42    FEEDBACK A 11/01/84 18:16   147    8 S    65 VOL42
+VOL42    NEWS     A 11/01/84 18:16   241   13 S    66 VOL42
+48 file(s), 247 block(s).
+▼ OL42.NEWS:VOL42                                          01/29/85 18:09 Page 1
+
+-----------------------------------------------------------------
+1 November 1984         N E W S   L E T T E R           Volume 42
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+VOLUME42: We'll  have  to call  this the Brubaker volume, because
+his  contribution  nearly fills  it up.   Ron  has contributed an
+excellent Input Screen Design System and has provided some of the
+best documentation  I've seen  to date.  While this is  certainly
+not  the first  screen generator to come by,  it does offer  some
+variations which make  it a winner.  The package  includes a demo
+and a prototype application package for using the generated input
+screen module.
+
+COMDEX: I hope that any of you who plan to attend the COMDEX show
+will do  a  little  probing  for  Oasis.  every  time  you see an
+interesting machine  or software package ask them if it will work
+with Oasis.  If  enough of us do it,  we might just catalyze some
+action.
+
+HANOVER FAIR:  in  Germany  is  just about  the biggest technical
+exposition in  the world.  They expect 750,000 people next April.
+We will have a meeting, and possibly representation in one of our
+members' booth.   Plans are still being made, but two people have
+agreed  to  help:  Hans Juerges  of  Dattasoft  in Hanau  Germany
+(06181-253147) and Colin Taplin of Wigwam International in Watton
+England (0953-883-800).  If  you have any ideas or  want to help,
+contact one of them.  An OUG meeting in Europe is long overdue.
+
+IBC DISKETTES: I  goofed in the last newsletter and only included
+the  California  phone  number  (800-842-7386)  for the  low cost
+source  of  Maxell  MD2-HD diskettes  (Linda Ortlinghaus at Media
+Distributing).    The   non-California  phone   number  is  (800)
+824-7385.  Sorry  about that.  Recent magazine articles about the
+new IBM  PC/AT indicate  that it will be using  the high capacity
+(high  coercivity)  5.25"  diskettes  currently being  used by at
+least IBC  and NNC  on their machines.  The October  8th issue of
+Computer System News  mentioned a lot of other  manufacturers who
+will be  using the new media, too.  No doubt this will bring down
+the price for the diskettes and make them much more available.
+
+OASIS8 VERSION 6.0: was available for distribution back in August
+and  at  least IBC  has released  copies.  The specs for 6.0  are
+exciting:   a   banked  nucleus   option  with  better  disk  I/O
+management, new  functions and extensions of both EXEC and Basic,
+a  command  level  full  function algebraic  calculator, plus the
+correction of all  known bugs in version 5.6.   I've had a couple
+of calls  about problems  the first users have discovered  in 6.0
+and learned  from Otech  that a version 6.1 is  being readied for
+release.   It  will  correct  the  early  bugs  and  offer a  few
+additional refinements  as well, including a nucleus smaller than
+5.6 had.  Gary Bergman called to report that all the 6.0 COMMANDs
+except SET  also work under 5.6 in case you are not ready to make
+the switch to the complete new version.
+
+MOTOROLA 68010:   Earlier  this   summer  I  learned  that  Oasis
+Technologies  was working  on a  version of Oasis for the  68010.
+Considering the power of this processor, I considered that a very
+important  development.   Recently, however,  I have learned that
+this particular project  has been put on the  back burner by Tim,
+pending   stronger   statements   of   support   from   equipment
+manufacturers.   Considering   this  is  the  single  most  often
+mentioned processor  for the  new generation of UNIX machines,  I
+would think the value of Oasis on it would be obvious.  I suppose
+the  reality  of it,  though, is  that the press is full  of talk
+about  UNIX and  that must  generate  an irresistible pressure to
+follow the crowd.  I hope at least one manufacturer steps forward
+soon,  because the  combination of  the 68010 and Oasis would  be
+staggering.
+
+BENCHMARKS: Two of our British members have agreed to collaborate
+on the creation of a new set of benchmark programs.  Colin Taplin
+in Watton and Paul Aldridge with SISCO in London have promised to
+put together  the  definitive  set.   If  you are  interested  in
+helping get in touch.
+
+PRESS: We did  get a little this summer.  Buzz Vanderschoot wrote
+us  one of  the best  technical introductions to Oasis I've  seen
+yet.   Though limited  in  scope,  for  what  it tries  to  do it
+succeeds admirably.  His article, entitled "Why OASIS?", appeared
+in the  July 84 issue of "The Microcomputer Investor," but may be
+reprinted in other journals I am told.
+
+The July  84  issue of  Computer Design  was  devoted entirely to
+articles   about  operating   systems  and  Oasis  at  least  got
+mentioned.    They   reprinted   the  feature   comparison  chart
+originally  published by  Multi Solutions for their S1 promotion.
+Tim Williams says there are some errors in it and they overlooked
+a number  of important  Oasis features such as EXEC  and security
+provisions, but  it is  probably the most complete comparison  so
+far published even though it did tend to favor the S1 O/S.
+
+By the  way,  there was  a review  of S1 in a recent(?)  issue of
+UNIQUE (Your  independent Unix and C Advisor) entitled "The Truth
+About  S1."   There  is  a  good  historical  review  of  the  S1
+development, and  a brief feature review.  Seems S1 still is very
+much in the developmental stages and the writer who visited Multi
+Solution's  offices  was  unable  to  actually  see  most of  the
+features of S1 which are supposed to distinguish it from ordinary
+run-of-the-mill operating systems like Unix or Oasis.
+
+The September  issue   of  Scientific  American  was  devoted  to
+microcomputer operating systems, but I haven't been able to see a
+copy yet.
+
+FLASH! I  just  got  my  Autumn  84  issue  of  the POS  Software
+Directory and there is an absolutely SUPER article in it entitled
+"OASIS-16 VS  UNIX" written  by Grayson Evans of Archinetics  and
+Rhett Tindall  of Logic eXtension Resources (neither is a current
+member of the OUG!).  I have read a lot of things about UNIX, but
+this  is  the  first  time  I  have  seen  a  feature by  feature
+comparison made  by people  who obviously know a lot  about both.
+An  article  of  this  caliber  really  should  have  much  wider
+circulation  in  one  of  the  major  publications  like Business
+Systems  News  or  InfoWorld.  While  it is  always  good to keep
+ourselves well  informed, it is equally important to get the word
+out to the rest of the world.
+
+While not exactly  press, I must mention the brochure produced by
+David  Shirley of  Computer Information Centre in England.  While
+presenting  information  about  his  company  and  products  in a
+friendly  narrative  fashion,  he  manages to  include four meaty
+paragraphs about  Oasis in which he tells his readers just why he
+has  chosen  this particular  O/S.  It  is  an excellent and very
+readable company profile which does justice to Oasis.
+
+I've seen  a few  press releases  were picked up here and  there,
+too.  Our  release  about  Forth  was  in Software  News  and the
+October  PC Faire  Rag mentioned  the  NNC M20/40 and Spellbinder
+under Oasis.
+
+IBC: Rumors  have  been   flying  and  now  there  is   a  formal
+announcement  that  IBC/Distribution and  IBC (manufacturer) have
+altered  their  distribution  agreement.  I  guess it  was  a bit
+sticky  for  a few  days, but  they both seem to have  come to an
+understanding   which   now   allows   IBC  to   make  additional
+distribution  arrangements including  selling machines to dealers
+and end  users directly.  To quote the announcement letter signed
+by both  Randy Rogers of IBC and Kent Draper of IBC/Distribution,
+"IBC feels a little competition is healthy...  Both companies are
+financially sound and both are working in harmony."
+
+One of the  results is that IBC/Distribution (there may be a name
+change  in  the  offing)  is  now  handling  a  number  of  Oasis
+compatible computers,  including those manufactured by NNC, ONYX,
+ZICOMP, as well as IBC.  IBC/D has always  handled a selection of
+peripherals and software, so this is a natural extension of their
+established product offerings policies.
+
+DYNABYTE: is  back  in  the  news.   They  filed  for Chapter  11
+protection  from  their  creditors and  are reorganizing, and are
+moving their physical plant.  They are still shipping the Monarch
+and have a new multi-user P/C compatible product.
+
+NEW MACHINES: which  run Oasis8  are cropping up fast.  While  in
+Europe I  learned about no less than 17 of which I was previously
+unaware.   Volume  43  will  contain  an  updated  list of  Oasis
+machines and  we are  making progress on the address  information
+for them.   For you collectors here is a brief list of the ones I
+learned  about  and haven't  mentioned elsewhere: Proteus, Rekers
+Condor 1600, Compaq, Toshiba T100, Computer Modular CM80, Kontron
+PSI-80  and  PSI-980,  Bullet  Superbullet,  Compudata,  Advanced
+Digital Systems (single board Z80H), and the ITT-XTRA.
+
+One of  the  most  exciting  is  the  German  SKS-Nano, a  little
+briefcase-sized portable  with a 10 Mbyte hard disk and two 5.25"
+floppies.  It  has an integral 24X80 CRT display and a detachable
+keyboard.  List  price is around $5000.  I think this is the same
+machine  some  guy in  the  US  was  selling  under the  name  of
+Execuport.  Hans Juerges of Datasoft is selling them in Germany.
+
+IBC has  introduced  a  "new"  product  they call  the Multi-Star
+series.   It looks  like it  is basically a modified entry  level
+version  of  the Middi  Cadet with  fewer  features (and an Altos
+compatible 5.25" floppy  instead of the high density  one used on
+the Middi) and a reduced price (list price starts at $4595).
+
+ZICOMP has  just  announced  the  ULTRA-SE multiuser  system with
+multiple  processors.  It  is unique  in  that it offers separate
+processors for each user, but provides access to common resources
+for  all  - kind  of a  self contained Local Area Network  (LAN).
+Their brochure says they already have three processors available:
+MC68000, 8086,  and Z80H.  And, they claim to offer six different
+operating   systems,   any   combination   of   which   can   run
+simultaneously:  OASIS,  UNIX,  XENIX, MS-DOS,  PC-DOS, and CP/M.
+Looks like a very  powerful package and I understand  there is an
+equally powerful price associated with it too.
+
+ONYX: has been  busy again,  although I have a hard  time keeping
+all  their  different  models  straight  in  my  mind.  A  recent
+promotion offered  free Oasis with both the new 5010 8-bit system
+and the 186 16-bit system.
+
+MOLECULAR: Lew   Murry   has   been  implementing   Oasis  on  an
+interesting  new machine  from Molecular Computer Corp located in
+the  Bay area  somewhere.   This  one  also  has a  separate  Z80
+processor for  each user, and it is said that they have models to
+support 9,16, and 32 users.  Lew is also trying to get Oasis86 up
+on the Zenith 150, an IBM PC look alike.
+
+RUMORS: about  the big  changes in the relationship between Otech
+and POS  have been causing some systems developers to re-evaluate
+their commitment to Oasis.  I have heard from four or five people
+who have  decided  to  throw  in  the towel  and  move to UNIX or
+MS/DOS.   Understandably,  these  people  are very  down on Oasis
+right now, even though some reluctantly admit that Oasis is still
+the best  for  development  work.   One  of them  thinks  that my
+generally optimistic assessments are the result of hearing highly
+biased responses  from people who are likely to talk to me.  That
+is, people who  don't like Oasis don't talk  to me.  It could be,
+but  that   still  doesn't  explain  all  those  folks  who  have
+complained about  what they  haven't been able to get  while with
+the same breath praised to high heaven what they have gotten.
+
+There are just  lots of people out there who still think Oasis is
+the best thing since peanut butter.  I especially like talking to
+those  Oasis  enthusiasts who  have had extensive experience with
+some  other operating  system before discovering Oasis.  It would
+take wild horses  to pull them away from  Oasis and I still think
+that most of their customers generally could care less about what
+makes the machine solve their business problems.
+
+EUROPE: There is lots more to report from  my visits with members
+throughout  Europe,  but  we have  just plain  run  out of space.
+Watch the  coming newsletters for more about our growing presence
+on the continent across the Atlantic.
+
+
+Peace,
+
+
+Fred Bellomy
+(805) 965-0265 and (805) 965-5415 to get CARAVAN.
+
+-----------------------------------------------------------------
+end of .  .  .          N E W S   L E T T E R           Volume 42
+-----------------------------------------------------------------
+▼ OL42.FEEDBACK:VOL42                                      01/29/85 18:09 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL42.FEEDBACK                                    1 November 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                                        8/21/83
+Dear Fred,
+
+Now don't go  getting all  excited.  I know that another  mailing
+list program is not just what you've been begging for.  It's only
+there to illustrate how the rest of the stuff on this disk can be
+used.
+
+The major  part of  the disk  is devoted to what I've  called the
+Input  Screen  Design  System.   This  consists  of  a series  of
+programs  that  take  a  lot  of  the  drudgery  out  of  writing
+application  programs that  include routines for requesting input
+from the keyboard.  It struck me that every time you ask the d---
+user a question you end up writing a half a page of code to check
+the idiot's  answer.  There  had to be an easier  way.  Also, how
+many times have  you sat counting characters and  spaces to place
+the questions  where you  want them on the screen  and then, when
+you display  the screen,  had your stomach turn because  it looks
+awful?  Finally, once you've got the thing running you still have
+to document  it.  That  really should include a facsimile  of the
+screen shouldn't it?  Back to counting spaces.  No way!
+
+The Input Screen Design  System allows a programmer to  design an
+input screen  by simply  moving the cursor about the  screen with
+the arrow keys  (sorry no mice around here  right now) and typing
+the  prompts,  messages,  etc.   wherever.  A  handy edit feature
+allows moving the  items about after the fact,  to get it looking
+right.  When it's completed a file has been created that contains
+everything necessary to  recreate the items on the  screen in any
+order and quantity desired.  Utilities have been provided to dump
+the  contents  of this  file in  readable  form for designing the
+actual input  routine and  for printing a hard copy  facsimile of
+the screen  as well.  Documentation is a snap too since a similar
+program is capable  of writing the facsimile to  a file which can
+be added to the documentation using the EDIT command GET.
+
+Sorry Fred,  this  system  does  not  write  the  whole  program.
+However, I have written a big piece of it call SCRPROTO.  This is
+a prototype  program which includes a number of special functions
+etc.   necessary to  utilize the  files created by the system  to
+display  the items,  gather the  user's input, and do at  least a
+minimal amount  of testing  of the input before passing  the task
+back to  you as  the programmer.  Typically one or  more items of
+input data can be obtained using a single line of code to specify
+the variable  that is to contain the answer and the record number
+of the  item that is to be used to get the answer(s).  I've found
+it to  be  rather  handy  in  the process  of  writing the system
+itself, thus the utility programs provide a number of examples of
+the use of the system.
+
+For your users  that have  various sized terminal screens I  have
+included  a  handy  installation program  that will handle screen
+sizes  from 64  x 16  to 132 x 66.  All  screens written using an
+installed system will  be formatted for the screen  size on which
+they were  written.  I  don't think I can go  much smaller but if
+there is anyone  out there with so much  money they need a bigger
+format I'm available for a price.
+There are a number of SCRIPT files on this disk.  The script file
+SCRDOC is  the master  file for a rather ambitious  document that
+describes the entire system in detail.
+
+There are still a  number of things I want  to do to improve this
+system but  I think  I've reached the point where  Version 1.0 is
+ready for field  testing.  It seems possible that  this thing has
+some  commercial  value so  I am  counting on the members of  the
+group to respect my rights.  I'll leave it up to you Fred whether
+the source  code for  SCRINPUT is distributed or not.   I believe
+the  rest should  be  distributed  in  source  code since  it  is
+necessary  to have  the source  code for SCRPROTO and all  of the
+rest of  the  programs  are  simply  applications based  on  this
+prototype.  I  am looking forward to your comments and those from
+other members  of the group.  I have seeded the MAILLIST DATAFILE
+with   my   home  and   business  addresses  to  facilitate  such
+communication.   My  phone numbers  are (312) 534-6899 (home) and
+(312) 534-5000 ext 2442 (work - Governors State University).
+
+Finally, a suggestion for the old wish list.  I am of the opinion
+that a  virtual (RAM)  disk program for Oasis would  be fantastic
+since  the  one drawback  of Oasis  is the size of the  operating
+system, its overlays,  and its frequent disk accesses.   It seems
+possible  that  one  of the  clever types  out  there that writes
+assembly language could do this rather neatly.
+
+Ronald L.  Brubaker
+-----------------------------------------------------------------
+                                            July 22, 1984
+
+
+
+
+
+Fred Bellomy
+Oasis User's Group
+P.O. Box 2400
+Santa Barbara, Ca 93120
+
+Dear Fred,
+
+I'm sorry  it took  so long to get this  to you, but I've been so
+busy lately I don't know which end is up.  As you know, I've been
+impleminting Oasis on the Mulecular Computer and people have been
+pushing me  like  mad  to  get  it finished.   So  far, I have it
+working well  in single  user mode, but multi is  presenting some
+very cute problems.  However, between myself, Andy at Oasis Tech.
+and Rolland  Husk at  Molecular, we should soon have  them worked
+out.
+
+     I have inserted  a warning in FL2 to prevent accidental loss
+of data on  the floppy drive and changed  the phone number in all
+three modules.  As  we had discussed on the  phone, I don't think
+the original release made clear th purpose of FL1.  While FL0 and
+FL2 work together to allow systems with multiple floppies to make
+multiple backups simultaineusly, FL1 allows the poor soul who has
+only one floppy to back up floppy disks almost as easily as those
+with  two.   Rather  than use  the copyfile  utility,  you merely
+insert  the  disk  to be  copied and  execute  FL1.  FL1 stores a
+sector by  sector image of the floppy in temporary storage on the
+harddisk.  When  this is  done (about two or three  minutes on my
+DSC-4)(Note: it  only takes  30 seconds on my NNC  520.  FB), the
+user is  prompted to insert the disk to be copied too and hit any
+key.  The image  is then copied back to  the floppy.  This second
+half of  the proceedure can be repeated as many times as desired.
+Since the  image is stored in un-allocated space on the harddisk,
+there is no need to erase it when the copying is finished.
+
+     Again I  apologize  for taking  so long.   If  there are any
+questions, give me a call at 717-393-7774.
+
+                                             Sincerely,
+
+
+
+
+                                             Lew Murray
+                                             Nola Data Systems
+                                             27 No. Prince St.
+                                             Lancaster, Pa 17603
+
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL42.FEEDBACK                             1 November 1984
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ File not found.
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 42.
+
+*****************************************************************
+
+
+FL0/FL1/FL2.COMMAND
+FL.INFO
+
+This is a re-release of Lew Murray's fantastic single floppy copy
+program and the  more versatile FL0/FL2 pair which  allows you to
+make much faster copies (like BACKUP) to any number of diskettes.
+The  original  releases had  the wrong  phone  number in them for
+getting  versions  serialized to  your machine  and  FL2 needed a
+warning  to  keep  some poor  unsuspecting soul from accidentally
+wiping out his A floppy, if he didn't know what he was doing.
+
+WANT MORE INFO NOW? [Y/N]:N
+
+CR$$$   EXEC       SCRDEMO  BASIC      SCRDEMO  SCRIPT
+SCRDOCC  SCRIPT     SCRDOCP  SCRIPT     SCRFORMT BASIC
+SCRFORMT SCRIPT     SCRINDMP BASIC      SCRINDMP SCRIPT
+SCRINPUT BASIC      SCRINPUT DATAFILE   SCRINPUT DEMOFILE
+SCRINPUT DUMPFILE   SCRINPUT FRMTFILE   SCRINPUT INSTFILE
+SCRINPUT ITEMFILE   SCRINPUT MENUFILE   SCRINPUT PRNTFILE
+SCRINPUT SCRIPT     SCRINSTL BASIC      SCRINSTL SCRIPT
+SCRINTRO SCRIPT     SCRMAIL  BASIC      SCRMAIL  DATAFILE
+SCRMAIL  ITEMFILE   SCRMAIL  SCRIPT     SCRMENU  BASIC
+SCRMENU  SCRIPT     SCRPRINT BASIC      SCRPRINT SCRIPT
+SCRPRNT  BASIC      SCRPRNT  SCRIPT     SCRPRO2  BASIC
+SCRPROTO BASIC      SCRPROTO SCRIPT
+
+
+
+The Input Screen Design System is intended as a programmer's tool
+which  facilitates  the process  of requesting and checking input
+from the  keyboard in  BASIC language programs.  The system  does
+not write programs.
+▼ ^
+It does, however,  relieve the programmer from much of the tedium
+involved in writing lengthy input routines to display prompts for
+input data on  the terminal screen, to obtain  responses from the
+keyboard,  and  to determine  that the responses are appropriate.
+It has  the  added  advantage,  for  lengthy input  routines,  of
+keeping the  input prompts etc.  on disk files rather than in the
+system's  memory,  thus  reducing  the  size  of  the application
+program.
+
+This is a very comprehensive system with excellent documentation.
+It was  submitted by  Ronald Brubaker who can be  reached at home
+(312)  534-6899  or  at  work (Governors  State University) (312)
+-5000 ext 2442.   He is interested in talking  with anyone who
+might be interested commercial applications and promotion.
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ELL, THAT'S  THE END  OF VOLUME 42.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE WILL ALWAYS BE LEARNING AND I'M  SURE THAT THERE
+ARE STILL MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG information service) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+             COPYRIGHT 1984 BY THE OASIS USERS GROUP
+
+****************************************************************
+
+>

@@ -1,0 +1,251 @@
+>VOL28
+==================================================================
+:                                                                :
+:           VOLUME 28 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "The only tyrant I accept in this world is the still small    :
+:                                        voice within me."       :
+:                                            - Mahatma Gandhi    :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL28 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 28  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  28,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST28  A 06/10/83 00:32    59    3 S    65 VOL28
+AC$INIT0 BASICOBJ A 07/14/83 22:02   120    5 S   230 VOL28
+AC$INIT2 BASICOBJ A 07/14/83 20:04   415   13 S   243 VOL28
+AC$INIT3 BASICOBJ A 07/14/83 20:04   252   10 S   243 VOL28
+^C$MENU  BASICOBJ A 07/14/83 21:04   102    4 S   243 VOL28
+AC$PR000 BASICOBJ A 07/14/83 20:05    92    3 S   243 VOL28
+AC$PR000 SCRIPT   A 07/15/83 10:33   200    8 S   188 VOL28
+AC$PR020 BASICOBJ A 07/14/83 20:05   466   13 S   243 VOL28
+AC$PR020 SCRIPT   A 07/15/83 10:42   255   11 S   144 VOL28
+AC$PR021 BASICOBJ A 07/14/83 20:06   370   11 S   243 VOL28
+AC$PR030 BASICOBJ A 07/14/83 20:06   370   11 S   243 VOL28
+AC$PR040 BASICOBJ A 07/14/83 20:06   100    4 S   243 VOL28
+AC$PR050 BASICOBJ A 07/14/83 20:07   266    8 S   243 VOL28
+AC$PR060 BASICOBJ A 07/14/83 20:07   207    6 S   243 VOL28
+AC$PR070 BASICOBJ A 07/15/83 08:45    34    3 S   243 VOL28
+AC$PR080 BASICOBJ A 07/14/83 20:07   335   12 S   243 VOL28
+AC$PR100 BASICOBJ A 07/14/83 20:10   508   14 S   243 VOL28
+AC$PR120 BASICOBJ A 07/14/83 20:08   305    9 S   243 VOL28
+AC$PR140 BASICOBJ A 07/14/83 20:08   238    7 S   243 VOL28
+AC$PR170 BASICOBJ A 07/14/83 20:08   143    5 S   243 VOL28
+AC$PR180 BASICOBJ A 07/14/83 20:09   287    8 S   243 VOL28
+AC$PR210 BASICOBJ A 07/14/83 20:09   334   10 S   243 VOL28
+AC$PR220 BASICOBJ A 07/14/83 20:09   231    7 S   243 VOL28
+AC$PR230 BASICOBJ A 07/14/83 20:09   191    5 S   243 VOL28
+AF$CHECK PAYROL1  A 07/14/83 20:33   100    1 S     8 VOL28
+AF$COMP  GL1      A 07/14/83 20:33     1    3 I   350 VOL28
+AF$DDUCT PAYROL1  A 04/17/83 10:25     0    1 S     0 VOL28
+AF$FED   PAYROL1  A 01/27/83 13:55    50    1 S    10 VOL28
+AF$HIST  PAYROL1  A 07/14/83 20:42     0    4 I   400 VOL28
+AF$INFO  GL1      A 07/14/83 20:04     1    4 I   100 VOL28
+AF$MSTER PAYROL1  A 07/14/83 20:33     4    5 I   512 VOL28
+AF$REG   PAYROL1  A 04/17/83 10:25     0    1 S     0 VOL28
+AF$SORT  PAYROL1  A 07/14/83 20:34    13    1 S    17 VOL28
+AF$STATE PAYROL1  A 01/11/83 00:24     1    1 S   181 VOL28
+AF$TIME  PAYROL1  A 07/14/83 20:32     2    4 I   400 VOL28
+AF$UNSRT PAYROL1  A 07/14/83 20:33    13    1 S    17 VOL28
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL28
+LEDGERP  EXEC     A 06/02/83 08:34   119    3 S    71 VOL28
+LEDGERP  INFO     A 06/02/83 09:01   130    5 S    65 VOL28
+MEMBER28 FEEDBACK A 06/02/83 08:40    36    2 S    69 VOL28
+NEWS     LETTER28 A 07/15/83 12:12    97    5 S    65 VOL28
+SELECT28 EXEC     A 07/15/83 08:40    44    3 S    46 VOL28
+VOL28    CONTENTS A 07/15/83 10:20    64    4 S    65 VOL28
+VOL28    EXEC     A 07/15/83 08:36   166    6 S    73 VOL28
+44 file(s), 246 block(s).
+NEWS.LETTER28:VOL28                                       01/31/85 08:01 Page 1
+
+-----------------------------------------------------------------
+1 August 1983           N E W S   L E T T E R           Volume 28
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+VOL28-VOL29: During the two  and a half years since  the OUG came
+into  being, hardly  a month  has passed that one or  more of you
+has not  called  to  ask  about  the  availability  of accounting
+software  in  our library.   Your patience  has  been rewarded at
+last.   Brent  Coyne's Osbourne  based accounting system is being
+released in  four modules.  The first two are released with these
+volumes.  Payroll is on volume 28 and General Ledger is on volume
+29.   Both  are  "intellegent"  conversions of  the CP/M versions
+which take advantage  of the superior Oasis BASIC  features.  The
+system  is easy  to install  and use.  I'm sure you  are going to
+like  it.   Remember  that this  implementation is copyrighted by
+Brent and that  if you would like to  do anything commercial with
+it, call him  to make the necessary arrangements.   He has done a
+lot  of work  to get  it up for Oasis, and  deserves to share any
+commercial rewards derived from it.
+
+NEED COMPUTERS:  There  are  a  number of  incompatible disk/tape
+formats on OASIS machines out there now.  In trying to accomodate
+the  people  with  such "non-standard"  computers I am constantly
+struggling with  the problem of format conversion.  So far I have
+found no one (reasonably priced) commercial source able to handle
+all of our various media formats.  Dealing with multiple sources,
+particularly member volunteers (even paid volunteers), has proven
+to be unreliable.  What I really need is access to a machine here
+for  each of  the different  formats.  So, I'm in the  market for
+VERY  reasonably  priced  equipment for  making ONYX/Altos tapes,
+Northstar/Billings/Vector/Altos/??  5.25" diskettes.  If you have
+or  know of  any such  equipment, please let me know.   The stuff
+could be  old  and  obsolete  as  long as  it  will make reliable
+distribution  media.  And,  remember that  we  are only trying to
+accomodate a relatively small number of people with the "oddball"
+machines, so the bucks must be in line with this reality.
+
+STANDING ORDERS: The  Oasis Users  Group is really that group  of
+people who  have not  only joined, but have also  set up standing
+orders for  each new  volume of contributed software as  it comes
+out.   True,  there  are lots  of benefits  to  even just being a
+member, but the ongoing dialog and member interaction really only
+occurs among  the standing order members.  This is the group with
+whom I have  the most contact and it  is the group which provides
+the  major  support for  OUG (software/advice  for  all of us and
+money for  me to  pay the bills).  I am  interested in your ideas
+for  increasing the  base of  standing order members.  And, I  am
+open  to discussions  of any  sort of deal which would  have that
+effect.  If  you can  think of a mutually beneficial  arrangement
+whereby we could  get some of the OASIS  users with whom you have
+contact  (customers?)  to establish  standing orders, I'd like to
+^alk to you about it.
+
+OUG LIBRARY ACCESS:  With about 1400 files now in the OUG library
+it is becoming increasingly difficult to find/remember what is in
+it.  A  number of people have likened it to a gold mine with lots
+of hidden  nuggets.  It is true that we now have the LIBRARY EXEC
+that  ties  together  an  index  to  files  and  descriptions  of
+systems/capabilities.  The  alphabetical listing of files/systems
+now provided by  the DISKFILE.CONTENTS system is a  big help, but
+you still must search through each listing to see what is there.
+
+The missing link is  a hierarchy of EXECs to  lead you first to a
+menu of the  nine subject catagories, and then  from there to one
+of  nine or  more other  EXECs  which categorize capabilities and
+then show  you what is in the library that deals with each of the
+capabilities.  I  will be  giving this idea some priority  in the
+future and  would welcome some help and ideas on how we should go
+about putting it all together.
+
+TRAVELS: By the time you read this my wife, Tomoko, and I will be
+in Japan.  The  trip is a combination vacation/business  trek.  I
+am hoping  to visit the Pentel and Seiko factories in addition to
+checking  out the  general computer  situation  there.  I am also
+hoping  to  find  some interesting  new electronic "gadgets" that
+haven't made  there way to the US as yet.  After Japan we will go
+down to  Hong Kong and then on to Hawaii to visit members in both
+locations (as well as to enjoy a change of scenery).
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 28
+-----------------------------------------------------------------
+^EMBER28.FEEDBACK:VOL28                                   01/31/85 08:01 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER28.FEEDBACK                                   1 August 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+April 16, 1983
+
+
+Fred,
+
+Here are the G/L  and P/R programs.  I hope  they made it through
+the mail OK.   I have already created some  very small data files
+to help  you get started.  If you want larger ones, you can erase
+them and create new ones from the first menu you get after typing
+"LEDGERP" from the  CSI.  Please  note that all data files  start
+with  AF$  and  all program  files start  with  AC$.  The program
+called  "AC$INIT3"  contains  information  about required  record
+length and key  length.  Filesize is up to  the user depending on
+how big the accounts are.
+
+There  is  more information about the programs in the file called
+LEDGERP.INFO.
+
+Have fun and call me about problems.
+
+Brent Coyne
+KMC Business Systems
+3112 Gibson
+Midland, MI 48640
+(517) 832-2207
+
+PS:  Hope someone else is motivated to generate more documentation.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER28.FEEDBACK                            1 August 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^his is an excellent  adaptation  of  the  time  honored Osbourne
+PS: Brent originally set up the sort specifications for the OASIS
+SORT package.  Bill  Berne has given me the  necessary changes to
+make it work  with his QISORT as well.   The changes are required
+in:  AC$PR070, and  AC$PR100.  If  you want to use QISORT,  check
+lines 260 and  261 in the first program  and change the six PRINT
+#11 statements  between lines  4700 and 4790 to WRITE  #11 in the
+second.  I'm sure  either Bill or Brent would  be willing to help
+if you have any trouble.  FB lot  from  one state to another  and
+federal tax rates change from year to year.
+WANT MORE INFO NOW? [Y/N]:N
+Brent Coyne can be reached at:ODULE
+
+KMC Business Systems   AC$INIT0 BASICOBJ A   AC$INIT2 BASICOBJ A
+GibsonT3 BASICOBJ A    AC$MENU  BASICOBJ A   AC$PR000 BASICOBJ A
+Midland, MI 48640 A    AC$PR020 BASICOBJ A   AC$PR020 SCRIPT   A
+(517 832-2207COBJ A    AC$PR030 BASICOBJ A   AC$PR040 BASICOBJ A
+AC$PR050 BASICOBJ A    AC$PR060 BASICOBJ A   AC$PR070 BASICOBJ A
+AC$PR080 BASICOBJ A    AC$PR100 BASICOBJ A   AC$PR120 BASICOBJ A
+AC$PR140 BASICOBJ A    AC$PR170 BASICOBJ A   AC$PR180 BASICOBJ A
+AC$PR210 BASICOBJ A    AC$PR220 BASICOBJ A   AC$PR230 BASICOBJ A
+AF$CHECK PAYROL1  A    AF$COMP  GL1      A   AF$DDUCT PAYROL1  A
+AF$FED   PAYROL1  A    AF$HIST  PAYROL1  A   AF$INFO  GL1      A
+AF$MSTER PAYROL1  A    AF$REG   PAYROL1  A   AF$SORT  PAYROL1  A
+AF$STATE PAYROL1  A    AF$TIME  PAYROL1  A   AF$UNSRT PAYROL1  A
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 28.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

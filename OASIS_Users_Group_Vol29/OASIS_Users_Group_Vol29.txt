@@ -1,0 +1,329 @@
+>VOL29
+==================================================================
+:                                                                :
+:           VOLUME 29 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Only that day dawns to which we are awake."                  :
+:                                                H. D. Thoreau   :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL29 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 29  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  29,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST29  A 07/15/83 08:37    59    3 S    65 VOL29
+^C$GL000 BASICOBJ A 07/14/83 20:05    63    3 S   243 VOL29
+AC$GL010 BASICOBJ A 07/14/83 20:11   389   12 S   243 VOL29
+AC$GL011 BASICOBJ A 07/14/83 20:14   151    6 S   243 VOL29
+AC$GL012 BASICOBJ A 07/14/83 20:16   129    6 S   243 VOL29
+AC$GL020 BASICOBJ A 06/02/83 08:39    36    3 S   243 VOL29
+AC$GL030 BASICOBJ A 07/14/83 20:20   321   13 S   243 VOL29
+AC$GL040 BASICOBJ A 07/14/83 20:12   184    5 S   243 VOL29
+AC$GL041 BASICOBJ A 07/14/83 20:28   367   14 S   243 VOL29
+AC$GL042 BASICOBJ A 07/14/83 20:32    99    4 S   243 VOL29
+AC$GL050 BASICOBJ A 07/14/83 20:33    58    3 S   243 VOL29
+AC$GL051 BASICOBJ A 07/14/83 20:38   246   10 S   243 VOL29
+AC$GL052 BASICOBJ A 07/14/83 20:40   215    8 S   243 VOL29
+AC$GL053 BASICOBJ A 07/14/83 20:43   462   13 S   243 VOL29
+AC$GL060 BASICOBJ A 07/14/83 20:54   146    5 S   243 VOL29
+AC$GL070 BASICOBJ A 07/14/83 21:00   445   14 S   238 VOL29
+AC$GL071 BASICOBJ A 07/14/83 21:02   221    8 S   243 VOL29
+AC$GL072 BASICOBJ A 07/14/83 21:04   225    8 S   243 VOL29
+AC$INIT0 BASICOBJ A 07/14/83 22:02   120    5 S   230 VOL29
+AC$INIT2 BASICOBJ A 07/14/83 20:04   415   13 S   243 VOL29
+AC$INIT3 BASICOBJ A 07/14/83 20:04   252   10 S   243 VOL29
+AC$MENU  BASICOBJ A 07/14/83 21:04   102    4 S   243 VOL29
+AF$CASH  GL1      A 07/14/83 20:04     0    1 S     0 VOL29
+AF$CHART GL1      A 07/14/83 23:04    23   13 I   380 VOL29
+AF$COMP  GL1      A 07/14/83 20:33     1    3 I   350 VOL29
+AF$ERR   GL1      A 04/17/83 10:23     0    1 S     0 VOL29
+AF$INFO  GL1      A 07/14/83 20:04     1    4 I   100 VOL29
+AF$PRIM  GL1      A 07/14/83 20:04     2    7 I   165 VOL29
+AF$SORT  GL1      A 04/17/83 10:23     0    1 S     0 VOL29
+AF$YEAR  GL1      A 04/17/83 10:24     0    9 I   165 VOL29
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL29
+LEDGERG  EXEC     A 06/02/83 08:32   107    3 S    71 VOL29
+LEDGERG  INFO     A 06/02/83 08:58   130    5 S    65 VOL29
+LOGGER   EXEC     A 07/15/83 08:42    41    2 S    71 VOL29
+MEMBER29 FEEDBACK A 06/02/83 08:42    36    2 S    69 VOL29
+NEWS     LETTER29 A 06/02/83 10:28    75    4 S    65 VOL29
+SELECT29 EXEC     A 06/02/83 10:05    40    2 S    46 VOL29
+VOL29    CONTENTS A 06/02/83 09:13    60    3 S    66 VOL29
+VOL29    EXEC     A 06/02/83 10:24   172    6 S    73 VOL29
+WATSON   PROGRAMS A 05/30/83 03:08    83    4 S    65 VOL29
+WISH     LIST29   A 06/02/83 10:26   103    5 S    74 VOL29
+41 file(s), 246 block(s).
+NEWS.LETTER29:VOL29                                       01/31/85 08:02 Page 1
+
+-----------------------------------------------------------------
+1 August 1983           N E W S   L E T T E R           Volume 29
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+
+VOLUMES 28 & 29: These two volumes contain the long awaited first
+modules of  a full blown accounting system.  Brent Coyne has done
+an  intellegent   conversion  for  OASIS  of  the  CP/M  Osbourne
+Accounting  System.   Volume  28 contains  the PAYROLL module and
+this  volume  (29)  contains  the  GENERAL  LEDGER  module.   The
+remaining  two:  ACCOUNTS  RECEIVABLE  and  ACCOUNTS PAYABLE  are
+scheduled for release on volumes 31 and 32 respectively.
+
+Be sure to  read the news letter on volume 28 where there is more
+about Brent Coyne's accounting system.  I don't want to repeat it
+all again here.
+
+PHASE ONE:   rumors  are   still  flying  about  their  financial
+condition.  Someone  who seemed to know what he was talking about
+thought they had recently acquired some equity financing.  Around
+the first  of July I made a hasty tour of their facilities.  They
+have  about doubled  their floor  space and the number of  people
+working in the area.  The place looks very plush compared to what
+it looked  like a  couple of years ago.  However,  another person
+who  claimed  to  have first  hand information,  said  that while
+hardly a  week went  by that some venture capitalist  didn't come
+knocking, they had  not as yet had any  such infusion of capital.
+Apparently, they are considering the idea, though.
+^
+I have agreed  to be  a little more diligent in  getting advanced
+information  about  any  potentially controversial/dangerous  OUG
+library items  up to them so that they can be prepared to respond
+knowledgeably  when  someone calls  to report  on  what that "OUG
+bunch" is up to.  Seems like a reasonable enough arrangement.  We
+are never  going to  please Howard with everything we  do, but it
+does seem like a good idea to as friendly as possible while still
+operating in the best interests of our members who pay the bills.
+
+JAPAN: Chris Languiss recently  returned from a trip to  Japan to
+where  he  was  contacting  various computer  manufacturers about
+OASIS.   He said there  are about  50 new machines coming out  of
+Japan  in the  near future  and that perhaps 5-10 (models)  would
+have OASIS.   As expected he didn't want to release many details,
+but  I think  I  did  detect  a  certain air  of  optimism in his
+responses.  I promised  to fill him in on  any interesting things
+we find during our July-September trip there.
+
+CREATORS: I  got  to thinking  the other  day  about the creative
+nature of the software development work we do.  It's kind of like
+building a  pyramid except that there's nothing to crumble.  Much
+of the stuff we are doing may still be in use by somebody twenty,
+fifty or even  a hundred years from now.   Some of it may even be
+immortal!  Who knows?   A few of our members  have confessed that
+this is  their primary  motive for writing programs -  a creative
+expression of their being.  Kind of beautiful, I think.
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 29
+-----------------------------------------------------------------
+^EMBER29.FEEDBACK:VOL29                                   01/31/85 08:02 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER29.FEEDBACK                                   1 August 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+April 16, 1983
+
+
+Fred,
+
+Here are the G/L  and P/R programs.  I hope  they made it through
+the mail OK.   I have already created some  very small data files
+to help  you get started.  If you want larger ones, you can erase
+them and create new ones from the first menu you get after typing
+"LEDGERG" from the  CSI.  Please  note that all data files  start
+with  AF$  and  all program  files start  with  AC$.  The program
+called  "AC$INIT3"  contains  information  about required  record
+length and key  length.  Filesize is up to  the user depending on
+how big the accounts are.
+
+There  is  more information about the programs in the file called
+LEDGERG.INFO.
+
+Have fun and call me about problems.
+
+Brent Coyne
+KMC Business Systems
+3112 Gibson
+Midland, MI 48640
+(517) 832-2207
+
+PS:  Hope someone else is motivated to generate more documentation.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER29.FEEDBACK                            1 August 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WISH.LIST29:VOL29                                         01/31/85 08:02 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #29 - I wish somebody would..................... 1 August 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+48. Someone to collect and summarize information about all the various
+    commercial software packages around now.
+
+47. Patches, procedures, or programs for writing multiple diskette formats
+    on a single machine (eg. make an Altos compatible 5.25" diskette on
+    an NNC or IBC computer, etc.).
+
+46. A set of indexes to all the Phase One OASIS manuals.
+
+45. We need more people to report the results of running our benchmarks
+    against all of the OASIS machines that are now around.
+
+44. We need an OASIS "Shell" like those that are beginning to show up
+for CP/M.  I know OASIS is already "user friendly", but a menu system
+that displayed everything you can do and tied in the HELP displays
+would help new users.  I'm thinking of something that goes further than
+the OASIS.EXEC in volume 3.
+
+43. A utility for assigning synonyms for commands would be nice.
+
+41. Improvements to any and all programs in the library - especially
+    the utilities and other "serious" programs.
+
+39. We need a utility for converting all upper case text to upper/lower
+    case with capitalization following periods, etc.
+
+39. We need the compliment of GETFILE (PUTFILE?) for CP/M and other
+    formats.
+
+38. The equivelent of the BASIC PRINT USING "!" for use in EXEC routines.
+
+36. More people to write articles about OASIS or letters to publications
+    about such articles they have seen.  More press releases about your
+    own OASIS compatible commercial software. Etc.
+
+34. A CP/M emulator.
+
+33. New integrated way to find and use things in the OUG/personal library
+    (a la APPLE/LISA) - beyond subject collections and CONTENTS files.
+
+32. Major improvements to the way we introduce/review the contents of
+    new volumes - alternatives to the VOLnn.EXECs.
+
+30. A utility for automatically figuring out the optimum disk ATTACH
+    values for HDL, STP, and STS for all of the different systems
+    now operating under OASIS.
+
+29. A list of the 500 most frequently used words in English writing
+    for use with Chapman's latest spelling checker's CUSTOM dictionaries.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+24. A synchronous communication program.
+
+^3. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again every time.
+
+22. A  screen  oriented  editor (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+air and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+16. An "electronic spreadsheet" like VISACALC!
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+9. We need a data base system for maintaining a commercial software
+directory - again one that can be released into the OUG library, and one
+that will accommodate much more detail about the programs than is now
+included in the Software Directories issued by Phase One.
+
+6. We need  a conversion  routine or detailed procedure for converting
+ASSEMBLY language  code from other Z80 systems to OASIS.
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification) We also need someone to review
+the current version of MCONVERT to see if the number of exceptions can't
+be reduced significantly.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 August 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+^his is an excellent  adaptation  of  the  time  honored Osbourne
+PS: Brent originally set up the sort specifications for the OASIS
+SORT package.  Bill  Berne has given me the  necessary changes to
+make it work with his QISORT as well.  To use QISORT you must use
+the  sort  specifications  in line 311 instead of 310 in program:
+AC$GL020.  I'm sure either Bill or Brent would be willing to help
+if you have any trouble.  FB ll, no doubt, need to customize some
+of the  programs for your own particular situation.  For example,
+WANT MORE INFO NOW? [Y/N]:Na lot  from  one state to another  and
+federal tax rates change from year to year.
+
+Brent Coyne can be reached at:EDGER MODULE
+
+KMC Business Systems  AC$GL010 BASICOBJ A   AC$GL011 BASICOBJ A
+Gibson12 BASICOBJ A   AC$GL020 BASICOBJ A   AC$GL030 BASICOBJ A
+Midland, MI 48640 A   AC$GL041 BASICOBJ A   AC$GL042 BASICOBJ A
+(517 832-2207COBJ A   AC$GL051 BASICOBJ A   AC$GL052 BASICOBJ A
+AC$GL053 BASICOBJ A   AC$GL060 BASICOBJ A   AC$GL070 BASICOBJ A
+AC$GL071 BASICOBJ A   AC$GL072 BASICOBJ A   AC$INIT0 BASICOBJ A
+AC$INIT2 BASICOBJ A   AC$INIT3 BASICOBJ A   AC$MENU  BASICOBJ A
+AF$CASH  GL1      A   AF$CHART GL1      A   AF$COMP  GL1      A
+AF$ERR   GL1      A   AF$INFO  GL1      A   AF$PRIM  GL1      A
+AF$SORT  GL1      A   AF$YEAR  GL1      A
+WANT TO SEE INFO ABOUT A UTILITY PKG FROM SCOTT WATSON? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 29.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

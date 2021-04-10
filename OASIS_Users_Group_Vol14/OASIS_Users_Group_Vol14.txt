@@ -1,0 +1,620 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: June 1982
+Volume: 14
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST14  A 06/07/82 20:49    54    3 S    69 VOL$15
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$15
+DIRECTRY EXPLAIN  A 05/19/82 18:17    44    3 S    78 VOL$15
+DIRECTRY LIST$US$ A 05/10/82 14:43  1613   36 S    55 VOL$15
+DIRECTRY LISTINTL A 05/10/82 15:14   530   11 S    55 VOL$15
+DIRECTRY XREF$US$ A 05/10/82 15:05   221   10 S   148 VOL$15
+DIRECTRY XREFINTL A 05/10/82 14:40    71    4 S   162 VOL$15
+LOWPASS  BASIC    A 06/06/82 17:51   160    8 S    89 VOL$15
+MEMBER14 FEEDBACK A 06/07/82 18:53   149    8 S    79 VOL$15
+MEMGAME  BASIC    A 06/07/82 18:59    94    4 S    76 VOL$15
+NEWS     LETTER14 A 06/07/82 18:16   140    8 S    70 VOL$15
+NUCPOWER BASIC    A 06/07/82 00:12   200    9 S   151 VOL$15
+OPAMP    BASIC    A 06/06/82 17:52   156    8 S   104 VOL$15
+PIRADDAT BASIC    A 05/12/82 17:45    94   13 S   258 VOL$15
+PIRATES  BASIC    A 05/08/82 18:09   224   11 S   224 VOL$15
+PIRATOUT DATA     A 03/04/82 17:35   256   10 S   160 VOL$15
+PRUFEDIT ASSEMBLE A 05/19/82 17:40   638   16 S    69 VOL$15
+PRUFEDIT COMMAND  A 05/19/82 17:42    16    4 R   256 VOL$15
+PRUFEDIT NOTES    A 05/19/82 07:24   102    6 S    79 VOL$15
+PRUFREED ASSEMBLE A 05/20/82 21:06   596   14 S    68 VOL$15
+PRUFREED COMMAND  A 05/20/82 21:08    16    4 R   256 VOL$15
+PRUFREED NOTES    A 05/20/82 21:12    81    5 S    79 VOL$15
+QWHIZ    BASIC    A 06/07/82 19:04   142    6 S    89 VOL$15
+RCAMP    BASIC    A 06/06/82 17:53   106    6 S    87 VOL$15
+SCRIPATC EXEC     A 06/07/82 20:25    35    1 S    71 VOL$15
+SUBROUT  MACLIB   A 04/29/82 23:19    47    1 S    35 VOL$15
+TOUCH    BASIC    A 04/06/82 19:57   110    5 S    84 VOL$15
+TOWERS   BASIC    A 06/07/82 19:18   150    5 S    83 VOL$15
+TYPEDRIL BASIC    A 05/12/82 18:31    61    3 S    76 VOL$15
+TYPING   BASIC    A 06/06/82 18:01   246   11 S    75 VOL$15
+TYPING   EXEC     A 03/10/82 17:57     6    1 S    18 VOL$15
+VOL14    EXEC     A 06/07/82 18:40   393   12 S    74 VOL$15
+32 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+DIRECTRY.EXPLAIN:A copied to DIRECTRY.EXPLAIN:D
+DIRECTRY.LISTINTL:A copied to DIRECTRY.LISTINTL:D
+DIRECTRY.XREF$US$:A copied to DIRECTRY.XREF$US$:D
+PRUFEDIT.COMMAND:A copied to PRUFEDIT.COMMAND:D
+PRUFEDIT.NOTES:A copied to PRUFEDIT.NOTES:D
+PRUFREED.ASSEMBLE:A copied to PRUFREED.ASSEMBLE:D
+$README.FIRST14:A copied to $README.FIRST14:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+DIRECTRY.LIST$US$:A copied to DIRECTRY.LIST$US$:D
+MEMGAME.BASIC:A copied to MEMGAME.BASIC:D
+NEWS.LETTER14:A copied to NEWS.LETTER14:D
+MEMBER14.FEEDBACK:A copied to MEMBER14.FEEDBACK:D
+QWHIZ.BASIC:A copied to QWHIZ.BASIC:D
+TYPING.EXEC:A copied to TYPING.EXEC:D
+PRUFEDIT.ASSEMBLE:A copied to PRUFEDIT.ASSEMBLE:D
+PRUFREED.COMMAND:A copied to PRUFREED.COMMAND:D
+PRUFREED.NOTES:A copied to PRUFREED.NOTES:D
+SCRIPATC.EXEC:A copied to SCRIPATC.EXEC:D
+TOWERS.BASIC:A copied to TOWERS.BASIC:D
+TYPING.BASIC:A copied to TYPING.BASIC:D
+VOL14.EXEC:A copied to VOL14.EXEC:D
+LOWPASS.BASIC:A copied to LOWPASS.BASIC:D
+NUCPOWER.BASIC:A copied to NUCPOWER.BASIC:D
+PIRADDAT.BASIC:A copied to PIRADDAT.BASIC:D
+RCAMP.BASIC:A copied to RCAMP.BASIC:D
+TOUCH.BASIC:A copied to TOUCH.BASIC:D
+TYPEDRIL.BASIC:A copied to TYPEDRIL.BASIC:D
+DIRECTRY.XREFINTL:A copied to DIRECTRY.XREFINTL:D
+OPAMP.BASIC:A copied to OPAMP.BASIC:D
+PIRATES.BASIC:A copied to PIRATES.BASIC:D
+PIRATOUT.DATA:A copied to PIRATOUT.DATA:D
+SUBROUT.MACLIB:A copied to SUBROUT.MACLIB:D
+
+>VOL14
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 14  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+MEMBER CONTRIBUTED OASIS COMPATIBLE PUBLIC DOMAIN AND/OR
+"END-USER-ONLY" SOFTWARE. THE  FOLLOWING  IS  A  LISTING
+OF  THE  CONTENTS  OF VOLUME  14, THE LATEST NEWSLETTER,
+AND FEEDBACK FROM MEMBERS (ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST14  A 06/07/82 20:49    54    3 S    69 VOL$15
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$15
+DIRECTRY EXPLAIN  A 05/19/82 18:17    44    3 S    78 VOL$15
+DIRECTRY LIST$US$ A 05/10/82 14:43  1613   36 S    55 VOL$15
+DIRECTRY LISTINTL A 05/10/82 15:14   530   11 S    55 VOL$15
+DIRECTRY XREF$US$ A 05/10/82 15:05   221   10 S   148 VOL$15
+DIRECTRY XREFINTL A 05/10/82 14:40    71    4 S   162 VOL$15
+LOWPASS  BASIC    A 06/06/82 17:51   160    8 S    89 VOL$15
+MEMBER14 FEEDBACK A 06/07/82 18:53   149    8 S    79 VOL$15
+MEMGAME  BASIC    A 06/07/82 18:59    94    4 S    76 VOL$15
+NEWS     LETTER14 A 06/07/82 18:16   140    8 S    70 VOL$15
+NUCPOWER BASIC    A 06/07/82 00:12   200    9 S   151 VOL$15
+OPAMP    BASIC    A 06/06/82 17:52   156    8 S   104 VOL$15
+PIRADDAT BASIC    A 05/12/82 17:45    94   13 S   258 VOL$15
+PIRATES  BASIC    A 05/08/82 18:09   224   11 S   224 VOL$15
+PIRATOUT DATA     A 03/04/82 17:35   256   10 S   160 VOL$15
+PRUFEDIT ASSEMBLE A 05/19/82 17:40   638   16 S    69 VOL$15
+PRUFEDIT COMMAND  A 05/19/82 17:42    16    4 R   256 VOL$15
+PRUFEDIT NOTES    A 05/19/82 07:24   102    6 S    79 VOL$15
+PRUFREED ASSEMBLE A 05/20/82 21:06   596   14 S    68 VOL$15
+PRUFREED COMMAND  A 05/20/82 21:08    16    4 R   256 VOL$15
+PRUFREED NOTES    A 05/20/82 21:12    81    5 S    79 VOL$15
+QWHIZ    BASIC    A 06/07/82 19:04   142    6 S    89 VOL$15
+RCAMP    BASIC    A 06/06/82 17:53   106    6 S    87 VOL$15
+SCRIPATC EXEC     A 06/07/82 20:25    35    1 S    71 VOL$15
+SUBROUT  MACLIB   A 04/29/82 23:19    47    1 S    35 VOL$15
+TOUCH    BASIC    A 04/06/82 19:57   110    5 S    84 VOL$15
+TOWERS   BASIC    A 06/07/82 19:18   150    5 S    83 VOL$15
+TYPEDRIL BASIC    A 05/12/82 18:31    61    3 S    76 VOL$15
+TYPING   BASIC    A 06/06/82 18:01   246   11 S    75 VOL$15
+TYPING   EXEC     A 03/10/82 17:57     6    1 S    18 VOL$15
+VOL14    EXEC     A 06/07/82 18:40   393   12 S    74 VOL$15
+32 file(s), 247 block(s).
+▼ EWS.LETTER14:VOL$15                                      01/29/85 17:34 Page 1
+
+----------------------------------------------------------------------
+32 May 1982           N E W S   L E T T E R
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+Volume 14  (WOW!   Is  it already  14?) contains  two  new versions of
+spelling checkers, two different typing drill programs, and the latest
+commercial  software directory  with cross-reference tables from Phase
+One.   There  are  also a  few new  games,  engineering programs and a
+utility.   The new  spelling checker, PRUFEDIT.COMMAND, is much easier
+to use  and  it is  noticeably faster  -  still not comparable to  the
+commercial  ones,  but  definitely  faster.   And,  Bob  isn't through
+tinkering yet!  Go, Bob, go!  By the way, if you like his efforts, why
+not give  him a  call and let him know.   Everyone likes a little well
+deserved praise now and then.
+
+As I look  back over the past 16 months, it is apparent that I/we have
+been learning  and maturing.  The first volume issued in February 1981
+was  very amateurish  by comparison  with our most recent efforts.   I
+know a lot of the stuff that I put into the library falls far short of
+your professional standards (and mine).  To some degree we must always
+expect this  to be  the case.  If you develop  a really great piece of
+software  by  investing hundreds  of hours  of  energy, you deserve to
+receive  proper compensation.   So, you  are going to be reluctant  to
+give  it away  to  the  Users  Group.   That is  rightly  the realm of
+commercial, proprietary software.  But, what has been happening is the
+increased  sharing of  little things  which  by themselves have little
+commercial  value   -  like  device  drivers,  demonstration  systems,
+fixes/solutions to OASIS problems or shortcomings, etc.
+
+An important new development  is the submission to the  OUG library of
+high  quality  packages  which  the  authors  would  like  to  exploit
+commercially.  Still in the evaluative stages, the idea is to give you
+one copy for  your personal use and evaluation  with the hope that you
+will contact  the author  to make further arrangements for  commercial
+use   or   retail   distribution   (or   further  customized   program
+development).  When  looking over things in the new volumes, give this
+possibility some thought.  It may be an idea whose time has come.
+
+I was talking to  George Butcher the other day  and he asked about the
+decision to issue basic programs as .BASIC files.  He pointed out that
+it now  required an extra step to get them all compiled.  As we talked
+it occurred to  me that the SELECTnn.EXEC programs  could be used with
+the COMPILE.EXEC  utility to automatically compile everything on a new
+OUG library disk.   For example, to compile all  the BASIC programs on
+this (Vol 14) disk, just put it in the "A" drive and type:
+
+                              >SELECT14 COMPILE
+
+You will get  a lot of nonsense messages as the system attempts to run
+the COMPILE exec with the non-basic files, but only the BASIC programs
+will be  processed.  You have to be sure you have enough space on your
+source diskette to  handle the new BASICCOM files  that are generated,
+but aside from  that it works fine.  I  tried it.  So try it yourself.
+I must  tell you  all that this job definitely  has its rewards beyond
+the money I am now able to take out of it.  I love talking to those of
+you who  call in.   I appreciate the words of  encouragement (and even
+praise  on occasion)  that  your  calls  bring.   Every week  is  like
+Christmas around  here.  Your packages arrive and I can hardly wait to
+get them home  from the Post Office to  see what new goodies Santa has
+brought me!  Some times I wish Christmas would hurry up and come after
+a particularly enticing talk with "Santa" about what he is planning to
+bring  me.  And,  believe me  "he" is promising a lot  of really nifty
+stuff.   If you  are  one  of  my  "Santas", take  note.   I'm waiting
+patiently.
+
+I'm now spending at  least half my time running  the OUG.  In the past
+16 months we have taken in a little over $25,000 in fees from members.
+I have  paid  myself  about half  of that  and  the rest has gone  for
+expenses.  I'm  not getting rich, but then I'm not working for nothing
+any  more,  either.   To all  of  you  I  again  say "Thank  you"  for
+continuing to  make this  enough of a success to  justify the time and
+energy I put into it.
+
+By the time  you read this the conversion of BusinessMaster II will be
+well under  way.  Our  five partners already have their  copies of the
+partially translated source code and their assignments.  These are:
+
+     Stu Rosenthol    (516) 757-2403 (Accounts Receivables)
+     Bill Anderson    (415) 441-6971 (General Ledger)
+     Loren Rueter     (305) 724-8915 (Payroll)
+     Don Vanderlinden (816) 231-3748 (Fixed Asset Accounting)
+     Scotty Robinson  (404) 355-2950 (Accounts Payable)
+     Fred Bellomy     (805) 965-0265 (What ever needs doing)
+
+I am asking  everyone to try and finish their first pass by 15 July so
+that we can  aim for a completion date  of 1 August.  Looking over the
+partially  translated code,  it  doesn't  look  like  it will  be  too
+difficult to complete the job.  So, August 1 looks reasonable.
+
+On occasion I have purchased surplus and/or good used diskettes to use
+for backups or  special communications with members.  There  have been
+many times  when I  ran out of my supply  of regular new diskettes and
+just finished  up with what ever other diskettes I happened to have on
+hand.  Most  of the  time it has worked out  fine, but there have been
+several instances where,  unknown to me, a flaky  disk got through the
+initialization and  verification process.  Naturally, I always made it
+right immediately upon being notified of the problem.  But, now I find
+that even diskettes that verify as "perfect" may in fact be "weak."
+
+One way to test  the "strength" of a disk  is to run the SEEK command.
+Really good diskettes will just cause the number on the screen to keep
+changing in  place a  very high percentage of the  time, assuming that
+your disk system  is working properly, of course.   When ever a sector
+is read in error the sector number and error number is reported on the
+screen  and  the cursor  moves down  one  line.  (Check the Diagnostic
+manual  for  details) One  batch of  "first  quality", new diskettes I
+bought gave lots of error checks using this more sensitive test.  Such
+disks generally  still work  O.K.  because the system keeps  trying to
+read the "weak"  sector many times until it  finally (usually) gets it
+right.  The only problem with this is that it takes extra time to read
+the  disk  and so  your system  runs slower and there is  an increased
+chance (slightly) of lost data.
+
+To get around the problem of variable diskette quality/availability, I
+have just made a deal to buy large quantities of un-branded, but major
+brand, first  quality bulk  diskettes in plain brown (actually  white)
+wrappers (Tyvek).  I  am buying them for well  under $2 each and could
+share the wealth with anyone who needs them in multiples of a full box
+(100).   I'm  getting  a  special  deal  on  the  assumption that  the
+quantities I  buy will continue to increase significantly.  If you use
+large quantities  of diskettes, maybe we can help each other.  Give me
+a call.
+
+The process of  copying diskettes now consumes a significant amount of
+time, and  I'm beginning to look into the feasibility of acquiring one
+of those  automated disk copying machines.  If you know of a good deal
+on either  a new  or used machine, please get  in touch.  I suppose we
+might consider  offering a  disk copying service at some  point in the
+future, if we actually do get a machine.  It's a thought.
+
+Well, that's it for Volume 14 and this news-letter.
+
+Peace,
+
+
+Fred Bellomy
+(805) 965-0265 or 965-5555
+▼ EMBER14.FEEDBACK:VOL$15                                  01/29/85 17:34 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER14.FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                              Robert Chapman
+                                              465 Lakeshore Road West
+                                              Oakville, Ontario
+                                              Canada  L6K1G4
+
+                                              05/09/82
+  Dear Fred,
+
+     Well, here  is  my  first  contribution  to  the  UG.I  have included  an
+  assembly-language  spelling  checker program  as well as several posters.The
+  posters came from  a fun library which circulates  in this part of the world
+  on  IBM S/34  systems.They were  in the form of data  files output using RPG
+  programs.All I  did was to transfer them to OASIS (using the GETIBM utility)
+  and  then   edit  them  to  conform  to  the  OASIS  ASCII  sequential  file
+  parameters.They are  meant to be printed on 15" paper as there are up to 132
+  characters  on a  line.They can,  however be printed on 8  1/2" paper if the
+  printer can output  16.7 CPI instead of the  normal 10 CPI.When this is done
+  the   printer  should   be  set   for  half  line-feeds  only  to   maintain
+  close-to-normal proportions.
+
+     The spelling checker  was an idea you proposed in one of your newsletters
+  and  I thought  that it  would be a good exercise  to learn to write a stand
+  alone assembly-language  program using OASIS.The result works reasonably well
+  and supports  word-checking from the keyboard as well as from text files and
+  has options to  print or make a disk  file of words it does not recognize.It
+  also  has  several  options  for  changing  the  case  of  the  words to  be
+  checked.Speed, however, is  still not its strong suit.The  delay seems to be
+  in the  length of  time it takes to look  up a word.  I am considering other
+  ways of  speeding it  up such as developing a  hash scheme,using grammatical
+  rules,or restructuring the dictionary.I'm not really sure how other spelling
+  checkers  get their  speed but  I will be investigating.  The  program has a
+  HELP  function  and  is further  documented in  the  file PRUFREED NOTES.The
+  source code  is  also provided  for anyone  who  may wish to make  their own
+  modifications  or for  those  who  just  want  to know  how  it works.  Also
+  included is  the file  SUBROUT.MACLIB which contains the two  macros used in
+  the  program.The  FCB macro  is an  example taken straight out of  the MACRO
+  user's manual and serves the purpose just nicely.  The program could be made
+  more  compact  but I  left  it  expanded  so  that it  could  be more easily
+  understood.(by people like myself!)
+
+     The program  that  I wanted  to  write  (but  was  afraid to  try)  was a
+  Disk/Memory  Modification Utility  similar to  Superzap  (and others) that I
+  have used on  smaller computers (i.e.RS Model 1).Another  program that would
+  be useful is  a TRSDOS to OASIS conversion  utility.Both these ideas deserve
+  further investigation.Do you know if anyone is currently working on these or
+  similar programs?   In any  case I shall be working  on them and if anything
+  useable develops I will send it along.
+
+     I still  haven't gone  through all  11 volumes of the OUG  Library but it
+  does look  like  there  are  some  good programs  there  (along with some of
+  questionable value).The MODEM program looks especially good.
+
+     Please tell your  friends at Phase One that the more I use OASIS the more
+  it becomes  evident what a great system it is.HOWEVER, it needs a few things
+  like:
+
+  Short Precision Variables in Basic
+       -13 digits are seldom needed and use up too much memory
+  Dynamic File Allocation
+       -for Direct and Indexed files
+  Unformatted Files accessible from Basic
+  Faster calculations-Short Precision would help
+
+  That shouldn't be too much to ask,do you think?
+
+     I also  hope,  in the  midst of  the introduction of several versions  of
+  OASIS 16, that 8-bit OASIS doesn't get orphaned.
+
+     I must finish this  letter now so that I  can get it in the mail before I
+  think of more revisions to the programs on this disk.Happy computing!
+
+                                              Yours sincerely,
+                                              Bob Chapman
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A few days later I got another package from Bob with the following letter.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                       Robert Chapman
+                                       465 Lakeshore Road West
+                                       Oakville, Ontario, Canada
+                                       L6K 1G4
+
+                                       MAY 20, 1982
+
+Dear Fred,
+
+  I guess this is  what happens when you are  a compulsive programmer and can't
+leave your programs  well enough alone.  Enclosed please  find another spelling
+checker program as well as a minor revision of the program I sent you two weeks
+ago.  The  revised program  is PRUFREED, in which I  discovered a few bugs and,
+hopefully, corrected  them.   There  was  a  problem with  the  printed list of
+notfound  words   where  the  printout  would  run  continuously  without  page
+breaks.This has been corrected.  As well, the program would accept as part of a
+word, the  ASCII  characters found  between "Z"  and  "a".  This also has  been
+corrected.  So far as I know there are no other bugs.(haha)
+
+  The new program, PRUFEDIT,  is a direct descendant of  the first and uses the
+same  indexed  files (SPELLING.SIZEn)  to check  spelling but it has the  added
+ability  to  write a  corrected file  to disk and/or to the  printer.  It has a
+somewhat similar set  of options as PRUFREED and  both programs will now accept
+short  forms in  the option  list.  PRUFEDIT is further documented  in the file
+PRUFEDIT.NOTES.  Source code is also provided on an end-user basis only.
+
+
+                                       Yours truly,
+
+
+                                       Bob Chapman.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MAY 31, 1982
+Dear Fred:
+          In addition to the the revised programs per our earlier telephone
+I am also including another version of BLACJACK. It has a reshuffle feature.
+The player has to be watchful and demand a reshuffle because the dealer
+sometimes deals from the bottom of the deck!
+
+          I have also included a patch to modify the OASIS SCRIPT command.
+Its intended use is to allow non letter-quality printers to do boldfacing
+and underlining (not a true underline).
+          The revised QWHIZ has a few more explanations than the earlier
+one I sent.These deal with how to add more, or a new set of questions.
+
+          I am working on the RECSRC program and an application for the
+rastering program.I'll forward them as they develop.
+          Some comments about program format: On the question of supplying
+only compiled or only object code, I think that the BASICOBJ format is a
+better alternative. My principal reason for this is to allow the user to
+modify and/or debug the supplied programs.
+
+        I am very pleased with the volumes received thus far. The utilities
+in the Group library will surely prove to be its stongest asset!
+
+Sincerely,
+
+M.Hanief Edwards
+5936 Headley Road
+Gahanna OH 43230
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 14.
+
+***************************************************************
+
+
+DIRECTRY.EXPLAIN/LIST$US$/LISTINTL/XREF$US$/XREFINTL
+
+This is the latest edition of the commercial software directory
+that Phase One maintains and publishes in the Software Monitor.
+The cross-reference charts are new and not generally available
+elsewhere.  We owe Jerry Weltner our thanks for making it possible
+for us to include them in the OUG library.
+
+
+TO SEE THEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OWPASS.BASIC
+
+Operational amplifier filter design program for lowpass or highpass
+filters.  It was written in 1978 by Frank Dacey and I converted it
+for OASIS 6/7/82. These filters are unity gain types with about a nine
+db/octave rolloff. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EMGAME.BASIC
+
+This is not really a game at all, but a memory training device.  I would
+call it a tachistoscopic device, but I'm afraid no one would be able to
+pronounce it.  It is quite elegant and displays a type of learning as it
+assesses the learner's progress or lack of it.  It was submitted by
+Hanief Edwards who converted it for OASIS form a version that appeared
+in Interface Age (Nov 80) by Al Baker.  I think it has redeeming social
+value - you're bound to be a more observant person after using it.
+It does require that your terminal have direct cursor addressing.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UCPOWER.BASIC
+
+This is another one of those simulation games that border on being
+training programs rather than true games.  It is fun to "play" with,
+so I guess that does qualify it as a game in any case.  I tried to
+keep my city supplied with cheap nuclear power, but only succeeded
+in either turning off everyone's electricity or causing the darn
+terminal to ding its bell at me and scream: MELTDOWN!  MELTDOWN!
+I think it must have been slipped into the public domain by some of
+those anti-nuclear activists who want to show us just how dangerous
+nuclear reactors can be in the hands of idiots.  This version is based
+on the article by S.R. Berggren in the Dec 1980 issue of Creative
+Computing.  I made the necessary changes for operation with OASIS.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PAMP.BASIC
+
+This is an operational amplifier design program which allows you to
+design one of three different types of circuits:  an inverting amplifier,
+a non-inverting amplifier, and a differential amplifier.  These days,
+almost no one does their own circuit design, but you never know when you
+might find yourself stranded on a deserted island stocked with circa 1960
+electronic components and an urgent need to put together one of these
+dandy little circuits.  It was originally written by Frank Dacey
+in about 1978 and I converted it for OASIS (I'm not sure why).  FB 6/7/82.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+IRADDAT.BASIC
+PIRATES.BASIC
+PIRATOUT.DATA
+
+The original version was written in 1978 by Scott Adams and appeared
+in the Dec 1980 issue of Byte Magazine.  Hanief Edwards converted
+it for OASIS. 6/1/82  It is a game of swashbucklers, pirates,
+priceless treasure, and adventure.  Sounds like a TV advertisement,
+doesn't it.  File it away, and some rainy day when the rest of the
+family has gone south for the winter you may want to play with it.
+It's not bad, as these games go.  Unfortunately, it only runs under
+OASIS Version 5.5 or later.  Sorry.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RUFEDIT.ASSEMBLE/COMMAND/NOTES
+PRUFREED.ASSEMBLE/COMMAND/NOTES
+SUBROUT.MACLIB
+
+These are the long awaited assembly versions of SPELCHEK, or more
+accurately, entirely new programs inspired by that first effort.
+PRUFREED, follows more closely the logical approach used in the
+early basic program - producing a list of error words for later
+use in correcting the source document.  PRUFEDIT works more like
+the commercial programs, pausing to let you accept, correct, or
+"learn" words not found in the current version of the dictionary.
+
+Bob Chapman (416) 845-2203 or 827-4173 is the author of both.  He
+is still working on improvements to the programs and would like
+feedback from anyone who is interested in the further development
+of the program.  I've had several conversations with him and find
+him a very energetic and innovative person.  Give him a call.
+
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+WHIZ.BASIC
+
+This is the "shell" for self-administered tests.  There are a few
+sample questions included in the program to show you how it works,
+but basically you just add your own questions and answers (using
+multiple choice questions) and the program gives the test to the
+unsuspecting student.  Not a bad little program, that has a lot of
+potential in areas other than traditional education.  It originally
+appeared in the April 1980 issue of Microcomputing, and was converted
+for operation with OASIS by Hanief Edwards. 6/1/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+CAMP.BASIC
+
+A program to design R-C phase shift oscillators using the type 741
+operational amplifier.  It was written originally by Frank Dacy in
+and I converted it for OASIS. FB 6/7/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+CRIPATC.EXEC
+
+This is an EXEC to generate an alternate version of the  SCRIPT.COMMAND.
+The new version, called SCRIPT2, allows some printers like the DEC LA34
+to print with boldface and underlines.  I didn't try it because my
+Sanders Media 12/7 printer is already too fancy, but I don't see any
+reason why it couldn't be adapted to other printers as well as the DEC
+LA34.  I'd suggest you try it and then contact the author for more info
+if you need it.  It was submitted by Hanief Edwards (614) 855-9618.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OUCH.BASIC
+
+This is another one of those "is it a game" games.  At the right (wrong??)
+kind of party it could certainly be played by a lot of people just having
+a little fun.  But, with people seriously exploring their feelings about
+physical touching, sexuality, and intimacy it could be just the simple
+vehicle needed to reach important breakthroughs.  I am quite sure there
+will be some old prudes (or is it prunes) out there who will see nothing
+of value in it from any point of view.  But, far be it from me to be the
+one to do the censuring.  It was originally published in the Oct 79
+issue of Kilobaud, and I converted it for use under OASIS.  FB 6/7/82.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OWERS.BASIC
+
+For those of you who can't afford the little wooden version of this
+ancient Indian puzzle, here is one that will run on just about any
+thousand dollar computer.  Move the different size disks from one
+of the three pegs to another without putting a larger disk on top
+of a smaller one, and do it in the shortest number of steps possible.
+It is said that certain religious monks spend their entire lives
+working on a giant version of this more simple version.  So, maybe
+they know something we don't.  Hanief Edwards converted it from an
+original version that appeared in an old issue of Creative Computing.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+YPEDRIL.BASIC
+TYPING.BASIC/EXEC
+
+Two different programs for helping you to speed up your touch typing.
+TYPEDRIL  was converted by Hanief Edwards for OASIS from an original
+article by Arthur Armstrong in the Dec 79 issue of Byte Magazine.
+I did the conversion for the TYPING program from a program originally
+written by J. Kennedy 7/14/81.  Both are excellent drills and I
+recommend that you give them a try.  We can always use more speed
+at the keyboard.
+
+TO TRY THEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 14.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>
+

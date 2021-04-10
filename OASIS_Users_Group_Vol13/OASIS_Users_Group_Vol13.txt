@@ -1,0 +1,515 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: June 1982
+Volume: 13
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST13  A 04/30/82 19:41    53    3 S    69 VOL$13
+ANIMAL   BASIC    A 05/27/82 21:32    85    4 S   101 VOL$13
+ANIMAL   GAME     A 05/27/82 21:30    30    1 S    40 VOL$13
+ANTONYMS BASIC    A 04/30/82 17:57   181    7 S    82 VOL$13
+BIOSPIN  BASIC    A 04/30/82 18:08   215    9 S    96 VOL$13
+CALENDUR BASIC    A 04/06/82 22:00   218    8 S   101 VOL$13
+CALENDUR DATA     A 04/06/82 20:55     3    1 S    19 VOL$13
+CALENDUR EXEC     A 04/06/82 21:58    36    1 S    60 VOL$13
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$13
+CUBE     BASIC    A 05/27/82 23:54   155    5 S    76 VOL$13
+DEFUSE   BASIC    A 05/28/82 00:07    44    3 S    75 VOL$13
+DEV99    ASSEMBLE A 05/27/82 19:05   224    6 S    68 VOL$13
+DEV99    EXEC     A 05/28/82 18:59    17    1 S    67 VOL$13
+ELECCALC BASIC    A 05/03/82 21:36   284   12 S   100 VOL$13
+HAMBEAM  BASIC    A 05/05/82 20:34   500   19 S    92 VOL$13
+HAMHELP  BASIC    A 05/05/82 21:16   155    4 S    69 VOL$13
+LUST     BASIC    A 05/28/82 19:32    45    2 S    60 VOL$13
+MEMBADD  BASIC    A 04/30/82 20:10    51    3 S    99 VOL$13
+MEMBER13 FEEDBACK A 05/17/82 17:36    21    2 S    78 VOL$13
+MEMBERS  ADDRESS  A 05/11/82 21:06   298   47 S   241 VOL$13
+MEMBSEG  BASIC    A 04/30/82 20:10    30    2 S    78 VOL$13
+MEMBSORT BASIC    A 05/11/82 17:48   128    6 S   132 VOL$13
+MEMBSORT EXEC     A 05/28/82 20:00    20    1 S    62 VOL$13
+NECPLOT  BASICOBJ A 05/27/82 20:06   489   17 S    78 VOL$13
+NECPLOT  EXEC     A 05/28/82 19:55    57    2 S    73 VOL$13
+NEWS     LETTER13 A 05/11/82 18:05    70    4 S    70 VOL$13
+PATCHARC EXEC     A 05/31/82 19:44    30    1 S    78 VOL$13
+QUBIC    BASIC    A 05/08/82 17:53   339   14 S   137 VOL$13
+QUBIC2   BASIC    A 05/12/82 18:02   248    7 S    88 VOL$13
+SELECT13 EXEC     A 05/27/82 19:49    41    2 S    46 VOL$13
+SPELL950 ASSEMBLE A 07/05/81 19:09    42    2 S    54 VOL$13
+SPELL950 COMMAND  A 11/23/81 17:50     2    1 R   256 VOL$13
+SPELLSET EXEC     A 11/23/81 18:06    25    1 S    69 VOL$13
+SQUARES  BASIC    A 04/30/82 19:29   201    9 S    99 VOL$13
+SUNRISE  BASIC    A 04/30/82 20:07    70    4 S   149 VOL$13
+SUNRISE  EXEC     A 04/30/82 20:06    18    1 S    60 VOL$13
+SWORDS   BASIC    A 05/03/82 19:04   427   12 S    83 VOL$13
+SYNONYMS BASIC    A 04/30/82 18:07   211    8 S    76 VOL$13
+SYSTEM   DEV99    A 05/27/82 19:09     4    1 R   256 VOL$13
+VOL13    EXEC     A 06/07/82 17:48   482   13 S    72 VOL$13
+40 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+MEMBSORT.BASIC:A copied to MEMBSORT.BASIC:D
+QUBIC2.BASIC:A copied to QUBIC2.BASIC:D
+SPELLSET.EXEC:A copied to SPELLSET.EXEC:D
+SWORDS.BASIC:A copied to SWORDS.BASIC:D
+ANTONYMS.BASIC:A copied to ANTONYMS.BASIC:D
+HAMHELP.BASIC:A copied to HAMHELP.BASIC:D
+MEMBSORT.EXEC:A copied to MEMBSORT.EXEC:D
+NECPLOT.BASICOBJ:A copied to NECPLOT.BASICOBJ:D
+PATCHARC.EXEC:A copied to PATCHARC.EXEC:D
+MEMBSEG.BASIC:A copied to MEMBSEG.BASIC:D
+QUBIC.BASIC:A copied to QUBIC.BASIC:D
+DEV99.EXEC:A copied to DEV99.EXEC:D
+SPELL950.COMMAND:A copied to SPELL950.COMMAND:D
+SQUARES.BASIC:A copied to SQUARES.BASIC:D
+CUBE.BASIC:A copied to CUBE.BASIC:D
+SYNONYMS.BASIC:A copied to SYNONYMS.BASIC:D
+$README.FIRST13:A copied to $README.FIRST13:D
+CALENDUR.EXEC:A copied to CALENDUR.EXEC:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+LUST.BASIC:A copied to LUST.BASIC:D
+MEMBADD.BASIC:A copied to MEMBADD.BASIC:D
+NECPLOT.EXEC:A copied to NECPLOT.EXEC:D
+SUNRISE.EXEC:A copied to SUNRISE.EXEC:D
+HAMBEAM.BASIC:A copied to HAMBEAM.BASIC:D
+SYSTEM.DEV99:A copied to SYSTEM.DEV99:D
+ANIMAL.BASIC:A copied to ANIMAL.BASIC:D
+ANIMAL.GAME:A copied to ANIMAL.GAME:D
+BIOSPIN.BASIC:A copied to BIOSPIN.BASIC:D
+DEFUSE.BASIC:A copied to DEFUSE.BASIC:D
+MEMBER13.FEEDBACK:A replaces MEMBER13.FEEDBACK:D
+VOL13.EXEC:A copied to VOL13.EXEC:D
+MEMBERS.ADDRESS:A copied to MEMBERS.ADDRESS:D
+CALENDUR.BASIC:A copied to CALENDUR.BASIC:D
+CALENDUR.DATA:A copied to CALENDUR.DATA:D
+NEWS.LETTER13:A replaces NEWS.LETTER13:D
+SELECT13.EXEC:A copied to SELECT13.EXEC:D
+SPELL950.ASSEMBLE:A copied to SPELL950.ASSEMBLE:D
+SUNRISE.BASIC:A copied to SUNRISE.BASIC:D
+DEV99.ASSEMBLE:A copied to DEV99.ASSEMBLE:D
+ELECCALC.BASIC:A copied to ELECCALC.BASIC:D
+
+>VOL13
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 13  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY" SOFTWARE.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  13,
+THE LATEST NEWSLETTER, AND FEEDBACK FROM MEMBERS:
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST13  A 04/30/82 19:41    53    3 S    69 VOL$13
+ANIMAL   BASIC    A 05/27/82 21:32    85    4 S   101 VOL$13
+ANIMAL   GAME     A 05/27/82 21:30    30    1 S    40 VOL$13
+ANTONYMS BASIC    A 04/30/82 17:57   181    7 S    82 VOL$13
+BIOSPIN  BASIC    A 04/30/82 18:08   215    9 S    96 VOL$13
+CALENDUR BASIC    A 04/06/82 22:00   218    8 S   101 VOL$13
+CALENDUR DATA     A 04/06/82 20:55     3    1 S    19 VOL$13
+CALENDUR EXEC     A 04/06/82 21:58    36    1 S    60 VOL$13
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$13
+CUBE     BASIC    A 05/27/82 23:54   155    5 S    76 VOL$13
+DEFUSE   BASIC    A 05/28/82 00:07    44    3 S    75 VOL$13
+DEV99    ASSEMBLE A 05/27/82 19:05   224    6 S    68 VOL$13
+DEV99    EXEC     A 05/28/82 18:59    17    1 S    67 VOL$13
+ELECCALC BASIC    A 05/03/82 21:36   284   12 S   100 VOL$13
+HAMBEAM  BASIC    A 05/05/82 20:34   500   19 S    92 VOL$13
+HAMHELP  BASIC    A 05/05/82 21:16   155    4 S    69 VOL$13
+LUST     BASIC    A 05/28/82 19:32    45    2 S    60 VOL$13
+MEMBADD  BASIC    A 04/30/82 20:10    51    3 S    99 VOL$13
+MEMBER13 FEEDBACK A 05/17/82 17:36    21    2 S    78 VOL$13
+MEMBERS  ADDRESS  A 05/11/82 21:06   298   47 S   241 VOL$13
+MEMBSEG  BASIC    A 04/30/82 20:10    30    2 S    78 VOL$13
+MEMBSORT BASIC    A 05/11/82 17:48   128    6 S   132 VOL$13
+MEMBSORT EXEC     A 05/28/82 20:00    20    1 S    62 VOL$13
+NECPLOT  BASICOBJ A 05/27/82 20:06   489   17 S    78 VOL$13
+NECPLOT  EXEC     A 05/28/82 19:55    57    2 S    73 VOL$13
+NEWS     LETTER13 A 05/11/82 18:05    70    4 S    70 VOL$13
+PATCHARC EXEC     A 05/31/82 19:44    30    1 S    78 VOL$13
+QUBIC    BASIC    A 05/08/82 17:53   339   14 S   137 VOL$13
+QUBIC2   BASIC    A 05/12/82 18:02   248    7 S    88 VOL$13
+SELECT13 EXEC     A 05/27/82 19:49    41    2 S    46 VOL$13
+SPELL950 ASSEMBLE A 07/05/81 19:09    42    2 S    54 VOL$13
+SPELL950 COMMAND  A 11/23/81 17:50     2    1 R   256 VOL$13
+SPELLSET EXEC     A 11/23/81 18:06    25    1 S    69 VOL$13
+SQUARES  BASIC    A 04/30/82 19:29   201    9 S    99 VOL$13
+SUNRISE  BASIC    A 04/30/82 20:07    70    4 S   149 VOL$13
+SUNRISE  EXEC     A 04/30/82 20:06    18    1 S    60 VOL$13
+SWORDS   BASIC    A 05/03/82 19:04   427   12 S    83 VOL$13
+SYNONYMS BASIC    A 04/30/82 18:07   211    8 S    76 VOL$13
+SYSTEM   DEV99    A 05/27/82 19:09     4    1 R   256 VOL$13
+VOL13    EXEC     A 06/07/82 17:48   482   13 S    72 VOL$13
+40 file(s), 247 block(s).
+▼ EWS.LETTER:OASIS                                         01/30/85 18:25 Page 1
+----------------------------------------------------------------------
+VOLUME 13   -   27 May 1982             N E W S   L E T T E R
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+BusinessMaster II is  finally ready  to be sent to the  several people
+who volunteered to help get it working under Oasis Basic.  I have just
+processed the  CBASIC  code  through  an  early version  of  the CTRAN
+program Phase One  is developing.  The conversion is  not perfect, but
+the lines are now numbered and most of the obvious syntactical changes
+have been  made.  I  have tried to "run" a  couple of the programs and
+much to  my surprise, they actually do start to run.  The problems are
+with  file definitions  and CBASIC  statements for which there are  no
+direct conversions to  Oasis Basic.  It is not  going to be that tough
+to get  them to  work now that we have  them partially translated.  If
+you are  one  of the  people who  said  you would like to  work on the
+project and you haven't heard from me by the time you see this, please
+get in  touch with me right away.  Or, if you now want to help, get in
+touch.
+
+Volume 14 is full  and may be issued with  this one.  But, I think the
+really  big  news is  going to  happen in volume 15 or  16.  We have a
+member  who  has  a Visacalc  type spread  sheet  program in the final
+stages of preparation.   It is being written in  the "C" language, and
+will probably  be issued both in source code and as a COMMAND file for
+most of us  who don't have the "C"  processor.  Another of our members
+has  produced  an  assembly version  of our  spelling  checker.  He is
+working  on even  more  enhanced  versions,  he  says.  But,  the  two
+versions he has  already submitted are better than  the first SPELCHEC
+that  I put  together, and  they are almost twice as  fast.  Now he is
+working on  a modified  dictionary with suffixes truncated to  make it
+smaller and a  new version of the spelling  checker program to use the
+truncated dictionary.  I  love it!  Another member is  doing a cleanup
+of the dictionary  to eleminate the nonwords or  mispelled words.  So,
+all in all we should be in really good shape for spelling checking.
+
+This volume has  its share of games again for you games fans.  But, it
+also   has  several   important  utilities,  some  amateur  radio  and
+electrical  engineering  calculation  programs,  a  couple  vocabulary
+building  programs,  and  the  latest  membership  list  together with
+programs for manipulating  it in various ways (including  a customized
+sort program).  All in all, full and generally satisfying.
+
+A final note  on ownership  of the OUG mailing list.   It is not to be
+used for any commercial purpose which is contrary to the objectives of
+the  Oasis  Users Group.   We own  the copyright.  If you receive  any
+mailings which  you think  are not in the best  interest of the OUG or
+its  members, let  me know.   If you have any question  about your own
+proposed  use  of  the list,  check with  me  before proceeding.  This
+applies particularly to  non-members who shouldn't have copies  of it,
+in any case.
+
+I've been starting to look at all the available public domain programs
+that are written  in ASSEMBLY.  In principle, it  doesn't seem like it
+should be  all that  much trouble to write a  conversion program (like
+MCONVERT or CTRAN)  that would give us a  version that would run under
+OASIS.  If anyone  has had any experience along  these lines, I'd like
+to hear from them.
+
+That's it for volume  13.  Keep the contributions coming  in.  I get a
+big kick out  of finding a package with  a disk in it in the mail box.
+I'm always  anxious  to  get it  home and  on  the system to see  what
+goodies one of you has taken the time to send in.
+
+Peace,
+
+
+Fred L. Bellomy
+
+
+▼ EMBER13.FEEDBACK:VOL$13                                  01/30/85 18:25 Page 1
+
+Dear Fred, et. al.:
+
+It was obviously in Phase One's best interest to develop the "get" capability,
+which allows one to take in a CP/M text file for processing under Oasis.  It
+is equally obvious that it is not in the firm's best interest to develop a
+"put" program that allows output of CP/M compatible files.  I need a program
+like that, and I know several other users who do too.  A friend of mine who is
+an expert programmer in both Oasis and CP/M believes he can develop a CP/M
+utility to do the job, but says it could cost up to $1,000 of his time.  I
+can't afford it alone.  But if five other members of the user's group were
+interested, we could each get it for a mere $200.  Or, someone may have
+already done it, under either CP/M or OASIS. HELP!!!
+
+If you want an Oasis to CP/M file transfer utility, and are willing to pay for
+it, or have one that works and want to sell it, please contact me (I get 40
+calls a day, so please write, don't call):
+
+Paul Schindler
+23 Greenwood Court
+Orinda, California 94563
+
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 13.
+
+***************************************************************
+
+
+ANIMAL.BASIC/GAME
+
+This is a classic animal guessing game that learns as you guess new
+animals not currently in the data base.  It starts off with a handful
+of animals and questions to distinguish them from one another.  It asks
+a series of questions (originally supplied by previous players) until
+it either knows the animal or guesses wrong and gives you a chance to
+teach it about another animal.  Kids will probably get a kick out of
+this one.  The original author is unknown, although it did come out of
+a collection written for DEC.  Our M. H. Edwards converted it for OASIS.
+Unfortunately, it will only work with OASIS Versions 5.5 and later.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+NTOMYMS.BASIC and SYNONYMS.BASIC
+
+These two programs test you on your knowledge of english words that
+either mean the same thing (SYNONYMS) or have the opposite meaning
+(ANTONYMS).  The list of words is limited and the related words are
+not always precise and many obvious words are missing.  But, it is
+still a good learning tool for those who need it.  The author is not
+known and I converted it for OASIS.  FB 5/82
+
+TO TRY THEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+IOSPIN.BASIC
+
+Yet another biorhythm program, but this is a completely original
+version written by Vince Oster and has some nice features not found
+in the earlier versions I've seen.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ALENDUR.BASIC/DATA/EXEC
+
+This is a very nice program that not only prints a "wall" calendar,
+but lets you put notes in the day boxes.  It was written by an unknown
+person eons ago and has been through several translations before I
+found it and converted it for OASIS.  FB  5/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UBE.BASIC
+
+This is a simple minded "game" that asks you to move from one corner
+of a 3X3 cube to the opposite corner, moving only one square at a
+time without running into one of the five hidden "bombs."  No one
+wants to own up to doing the original work on this one, and I'm a
+little reluctant to admit that I converted it for use with OASIS. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EFUSE.BASIC
+
+This is really a very clever little game.  For its size it provides a
+lot of suspense and has a good "story line."  It was originally
+written by Tom Karzes and subsequently modified by several others
+before I got it and fixed it to work with OASIS. FB 5/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EV99.ASSEMBLE/EXEC
+SYSTEM.DEV99
+
+This is a device driver for the NEC SpinWriter which handles head
+optimization bi-directional printing.
+It was created by Vince Oster (605) 342-8455.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+LECCALC.BASIC
+
+This program provides a menu of 18 common electronic calculations from
+which to choose.  You give it the circuit parameters and resonance
+frequency, reactance, etc.  The original author was Paul Crabtree.
+I converted it for Oasis. FB 4/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AMBEAM.BASIC
+
+Program for calculating the direction and distance of any location
+in the world for use by amituer radio (HAMS) operators.  You input
+the latitude and longitude of your location and it does the rest.
+I suppose if you are into that sort of thing, you could use it for
+programming your home built ICBM's, too.  The original author is no
+longer known, as this program has been through many conversions.
+I adapted the MBASIC version for use with Oasis. FB 4/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AMHELP.BASIC
+
+This program performs a number of calculations of interest to amituer
+radio operators (HAMS) related to antenna design, etc.  It was created
+by Willis Software Systems in 1978 and converted for Oasis by me. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UST.BASIC
+
+Someone with a strange sense of humor must have written this
+take off on the classical LOVE poster.  I must confess to finding
+it pretty funny, myself - especially if you are expecting the
+LOVE poster.  I have no idea who thought it up, but I converted
+it for Oasis. FB 4/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EMBADD.BASIC
+MEMBERS.ADDRESS
+MEMBSEG.BASIC
+MEMBSORT.BASIC
+
+This is the current OUG membership list together with the programs
+I use for maintaining the file and producing printouts sorted by
+various data elements.  The MEMBSEG program produces subfiles for
+members with standing orders, regular members, and exception members.
+MEMBADD is the program I currently use to add new members to the
+master address file.  Not too elegant, but it works for now. FB
+
+You can review the alphabetical by last name list now, if you want.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ECPLOT.BASIC/EXEC
+
+NEC SpinWriter demonstration program - really fancy!  Contributed
+by David Shirley in England.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ATCHARC.EXEC
+
+Patch for making the ARCHIVE COMMAND a little safer to use in some
+cases where unintended files might get erased.  Submitted by Hanief
+Edwards (614) 855-9618.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UBIC.BASIC
+QUBIC2.BASIC
+
+These are two versions of a 4X4X4 Tic-Tac-Toe game.  Both versions
+have their places.  The first (QUBIC) was originally written by
+Steve Covey and was then modified by Hanief Edward for Oasis.
+It uses direct cursor addressing and is very fast.  The second
+version in one I found somewhere and modified for Oasis myself.
+It does not use direct cursor addressing, but is VERY slow!  So,
+take your pick.
+
+TO TRY ONE NOW ENTER "<name>" ELSE HIT THE <CR> TO CONTINUE:
+
+PELL950.ASSEMBLE/COMMAND
+SPELLSET.EXEC
+
+A nifty little utility to set the function keys on the Televidio 950
+for easy operation with the Spellbinder word processor.  It was sent
+in by Vince Oster (605) 342-8455.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+QUARES.BASIC
+
+A very challenging game of logic for one or two players.  Try to
+be first to get four markers to form a square on the matrix.
+It was originally written by Mac Oglesby and described in vol.1
+issue 3 of Calculators-Computers magazine.  I converted it for
+operation with Oasis.  FB  5/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UNRISE.BASIC/EXEC
+
+Calculate the times of sunrise/sunset for any geographical location
+once you tell the program what day it is and where you are located
+on the earth.  The original author is unknown.  I converted it for
+Oasis.  FB 5/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+WORDS.BASIC
+
+Another "Adventure" type game with dungeons, elfin princess,
+dark forests, etc.  It originally was published in the August 1978
+issue of Kilobaud magazine.  I converted it for operation with
+Oasis.  FB 5/82
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+
+ELL, THAT'S  THE END  OF VOLUME 13.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>F NEWS.LETTER:A
+No files found.
+
+>F :A
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST13  A 04/30/82 19:41    53    3 S    69 VOL$13
+ANIMAL   BASIC    A 05/27/82 21:32    85    4 S   101 VOL$13
+ANIMAL   GAME     A 05/27/82 21:30    30    1 S    40 VOL$13
+ANTONYMS BASIC    A 04/30/82 17:57   181    7 S    82 VOL$13
+BIOSPIN  BASIC    A 04/30/82 18:08   215    9 S    96 VOL$13
+CALENDUR BASIC    A 04/06/82 22:00   218    8 S   101 VOL$13
+CALENDUR DATA     A 04/06/82 20:55     3    1 S    19 VOL$13
+CALENDUR EXEC     A 04/06/82 21:58    36    1 S    60 VOL$13
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL$13
+CUBE     BASIC    A 05/27/82 23:54   155    5 S    76 VOL$13
+DEFUSE   BASIC    A 05/28/82 00:07    44    3 S    75 VOL$13
+DEV99    ASSEMBLE A 05/27/82 19:05   224    6 S    68 VOL$13
+DEV99    EXEC     A 05/28/82 18:59    17    1 S    67 VOL$13
+ELECCALC BASIC    A 05/03/82 21:36   284   12 S   100 VOL$13
+HAMBEAM  BASIC    A 05/05/82 20:34   500   19 S    92 VOL$13
+HAMHELP  BASIC    A 05/05/82 21:16   155    4 S    69 VOL$13
+LUST     BASIC    A 05/28/82 19:32    45    2 S    60 VOL$13
+MEMBADD  BASIC    A 04/30/82 20:10    51    3 S    99 VOL$13
+MEMBER13 FEEDBACK A 05/17/82 17:36    21    2 S    78 VOL$13
+MEMBERS  ADDRESS  A 05/11/82 21:06   298   47 S   241 VOL$13
+MEMBSEG  BASIC    A 04/30/82 20:10    30    2 S    78 VOL$13
+MEMBSORT BASIC    A 05/11/82 17:48   128    6 S   132 VOL$13
+MEMBSORT EXEC     A 05/28/82 20:00    20    1 S    62 VOL$13
+NECPLOT  BASICOBJ A 05/27/82 20:06   489   17 S    78 VOL$13
+NECPLOT  EXEC     A 05/28/82 19:55    57    2 S    73 VOL$13
+NEWS     LETTER13 A 05/11/82 18:05    70    4 S    70 VOL$13
+PATCHARC EXEC     A 05/31/82 19:44    30    1 S    78 VOL$13
+QUBIC    BASIC    A 05/08/82 17:53   339   14 S   137 VOL$13
+QUBIC2   BASIC    A 05/12/82 18:02   248    7 S    88 VOL$13
+SELECT13 EXEC     A 05/27/82 19:49    41    2 S    46 VOL$13
+SPELL950 ASSEMBLE A 07/05/81 19:09    42    2 S    54 VOL$13
+SPELL950 COMMAND  A 11/23/81 17:50     2    1 R   256 VOL$13
+SPELLSET EXEC     A 11/23/81 18:06    25    1 S    69 VOL$13
+SQUARES  BASIC    A 04/30/82 19:29   201    9 S    99 VOL$13
+SUNRISE  BASIC    A 04/30/82 20:07    70    4 S   149 VOL$13
+SUNRISE  EXEC     A 04/30/82 20:06    18    1 S    60 VOL$13
+SWORDS   BASIC    A 05/03/82 19:04   427   12 S    83 VOL$13
+SYNONYMS BASIC    A 04/30/82 18:07   211    8 S    76 VOL$13
+SYSTEM   DEV99    A 05/27/82 19:09     4    1 R   256 VOL$13
+VOL13    EXEC     A 06/07/82 17:48   482   13 S    72 VOL$13
+40 file(s), 247 block(s).
+
+>LIST NEWS.LETTER13
+EWS.LETTER13:VOL$13                                      01/30/85 18:26 Page 1
+
+
+>

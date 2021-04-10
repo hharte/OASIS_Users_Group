@@ -1,0 +1,584 @@
+>VOL22
+==================================================================
+:                                                                :
+:           VOLUME 22 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "Never tell people how to do things.  Tell them what to do"   :
+:          "and they will surprise you with their ingenuuity."   :
+:                                  Gen. George S. Patton, Jr.    :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL22 MOUNTED? [ A-G S ]:
+
+There is nothing so small that can't be blown out of proportion.
+
+
+
+
+
+Welcome  to  VOLUME 22  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  22,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST22  A 03/22/83 21:15    59    3 S    65 VOL22
+ADV290   EXEC     A 03/25/83 22:28   500    8 S    69 VOL22
+BADSPOT  COMMAND  A 03/04/83 01:39    10    3 R   256 VOL22
+BADSPOT$ EXEC     A 03/25/83 01:38   159    4 S    72 VOL22
+BELLS    ASSEMBLE A 03/07/83 06:20    54    1 S    61 VOL22
+BELLS    COMMAND  A 03/07/83 06:21     2    1 R   256 VOL22
+CALC     ASSEMBLE A 02/25/83 20:21   840   13 S    74 VOL22
+CALC     COMMAND  A 02/25/83 20:22    19    5 R   256 VOL22
+^OPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL22
+DEV1650  ASSEMBLE A 03/10/83 12:59   446   10 S    61 VOL22
+DEV24S   ASSEMBLE A 01/25/83 11:29   284    5 S    59 VOL22
+DISKIO   ADVICE   A 03/24/83 22:03    26    1 S    68 VOL22
+DISKIT   COMMAND  A 03/15/83 21:38    54   14 R   256 VOL22
+DISKIT$  EXEC     A 03/25/83 23:06    79    2 S    68 VOL22
+EDITORS  ADDRESS  A 03/27/83 21:43   198   27 S   166 VOL22
+EDITQSRT EXEC     A 03/17/83 20:38    91    2 S    73 VOL22
+EDITSORT BASIC    A 03/26/83 00:00   128    6 S   132 VOL22
+EDITSORT EXEC     A 03/22/83 22:35    24    1 S    62 VOL22
+ENVELOPS EXEC     A 03/26/83 00:35    35    1 S    70 VOL22
+ENVELOPS SCRIPT   A 03/26/83 01:37    14    1 S    61 VOL22
+FINANCE  BASIC    A 03/24/83 21:27   282   10 S   154 VOL22
+MATH     ASSEMBLE A 02/16/83 15:57   397    6 S    61 VOL22
+MATH     OBJECT   A 02/16/83 15:58    17    1 SD  128 VOL22
+MEMBER22 FEEDBACK A 03/25/83 21:38   119    5 S    65 VOL22
+N        EXEC     A 03/17/83 20:23     1    1 S    43 VOL22
+NEWS     LETTER22 A 03/26/83 23:40   100    5 S    65 VOL22
+NUM      ASSEMBLE A 02/16/83 16:57   115    3 S    58 VOL22
+NUM      COMMAND  A 02/16/83 17:09     5    2 R   256 VOL22
+OUG      RELEASE1 A 03/24/83 22:55   113    4 S    65 VOL22
+PRESS    RELEASES A 03/26/83 22:36   354   15 S    65 VOL22
+PRESSREL EXEC     A 03/27/83 00:15    83    3 S    80 VOL22
+QUIP     ASSEMBLE A 03/07/83 03:10   142    3 S    65 VOL22
+QUIP     COMMAND  A 03/07/83 02:53     6    2 R   256 VOL22
+QUIP     DATA     A 03/13/83 15:26   125    7 S   135 VOL22
+QUIP     RECORD   A 03/26/83 23:57    32    1 D     4 VOL22
+QUIT     EXEC     A 03/26/83 23:41     5    1 S    50 VOL22
+RECORD1  BASIC    A 03/14/83 19:53   206    7 S   110 VOL22
+SCRIPTIT EXEC     A 03/25/83 00:00    16    1 S    45 VOL22
+SELECT22 EXEC     A 03/27/83 00:17    48    3 S    46 VOL22
+SHIT     COMMAND  A 06/18/82 16:23     2    1 R   256 VOL22
+SWARMS2  BASIC    A 03/24/83 22:34   442   16 S    79 VOL22
+SYSTEM   DEV1650  A 03/24/83 23:00     5    2 R   256 VOL22
+SYSTEM   DEV24S   A 03/24/83 21:13     3    1 R   256 VOL22
+TOTAL    ASSEMBLE A 02/15/83 14:26   396    7 S    64 VOL22
+TOTAL    COMMAND  A 02/16/83 17:10    14    4 R   256 VOL22
+VOL22    CONTENTS A 03/26/83 21:34   334   12 S    69 VOL22
+VOL22    EXEC     A 03/27/83 00:07   555   15 S    74 VOL22
+Y        EXEC     A 03/17/83 20:23     1    1 S    43 VOL22
+48 file(s), 248 block(s).
+NEWS.LETTER22:VOL22                                       01/31/85 07:42 Page 1
+
+-----------------------------------------------------------------
+1 April 1983            N E W S   L E T T E R           Volume 22
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+
+I just finished writing the newsletter for volume 21 about a week
+ago.  So,  this is more of a postscript than a whole new separate
+letter.
+
+Volume 22 contains  some very  important things.  In it are:  the
+Press  Release   System,  a  "Super-Zap"  type  disk  maintenance
+utility,  assembly  language math  subroutines, and lots of other
+miscellaneous goodies.  I like QUIP and BELLS, myself.
+
+At last, we  have the  long promised Press Release System.   I am
+optimistically  hoping  that  most  of our  software professional
+members will  take  advantage  of  this  new capability  and  get
+something out  to  the  press  in  the next  few  weeks.  Can you
+imagine what will  happen when all those editors  start getting a
+constant "torrent" of news releases dealing with OASIS compatible
+software?  It's bound  to help us all.  So,  please do your part,
+and  then sit  back with  me to see what happens.   Should be fun
+(not to mention profitable!)
+
+We need to look beyond the professional publications, too.  There
+are other  important groups of organizations that can promote our
+products: forms manufacturers like NEB, software wholesalers like
+Software   Distributors  and   Software  Wholesalers,  and  OASIS
+compatible  hardware manufacturers.   I want to create a separate
+mailing  list  for  all  OASIS compatible  hardware manufacturers
+next.
+
+It occurred to me  after finishing the list of  editors that news
+releases should probably be sent to the computer manufacturers as
+well.   I know  that many  maintain their own lists of  available
+OASIS software, and some bundle software with hardware sales.  If
+you have  a starting  list, please send it to  me.  Also, I would
+appreciate  comments of  all kinds  on  the Editors list: errors,
+omissions, inappropriate inclusions, etc.
+
+This volume is  heavy with contributions from Gary Bergman.  Gary
+had sent  in several disks containing things and updated versions
+of  stuff  on  previous  submissions.   I really  appreciated the
+logical way he introduced each disk and tied it in with things on
+other  disks.   His   EXEC's  made  the  job  of   reviewing  and
+integrating his  things into this volume much much easier than it
+often is with contributions from members.
+
+I know I  am way behind in getting things people have sent in put
+into the library,  but there is a LOT  of work involved.  Nothing
+goes into the library until I have exercised it myself as well as
+I can.  I  could use some help in  this process.  If you would be
+interested   in   reviewing   "raw"  stuff,   commenting  on  the
+^dequacy/inadequacy, and/or  preparing introductory notes/EXEC's,
+etc.; get  it  touch.   Those  kinds  of contributions  would  be
+appreciated   especially   during   these  times   of  heavy  new
+contribution influx.
+
+Several of our commercial software producing members have offered
+to give  members discounts for mentioning their membership in the
+OUG.  I  plan to consolidate all of these offers soon and let all
+members know  who  is  offering  discounts.   If you  want  to be
+included in the list, drop me a short note to that effect.
+
+I don't want to beat this one to death, but I would like to get a
+"feel" for  the extent that unethical activities may be occurring
+in OASIS Land.  If you have any direct knowledge of "piracy" type
+behavior anywhere  out there,  give me a call (in  confidence, of
+course).  I think  our little niche in the  software world may be
+pretty clean, but a few people have voiced worries that sometimes
+border  on  paranoia.   I'd like  better idea  of  what we may be
+facing in this regard.
+
+Finally, a bonus for  members of the OUG.  I  have just concluded
+an agreement with Patch Publications to send all of our members a
+free  ($10 value)  one year  trial  subscription to their monthly
+publication, Computer Shopper.   You may,  of course,  stop it at
+any time,  if you want.   They  are  also going to  run our press
+releases as a regular feature in their Users Group section.
+
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 22
+-----------------------------------------------------------------
+MEMBER22.FEEDBACK:VOL22                                   01/31/85 07:42 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER22.FEEDBACK                                    1 April 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+03/14/83
+
+Dear Fred:
+
+In the VOL13 EXEC you have mispelled ANTONYM so it won't run.
+
+I have  put  a program  in for  you to add to the  library, if it
+warrants it  - it's  for a record (phonograph) collection  that I
+adapated from "Basic  Computer Programs for the Home"  by Charles
+D.  Sternberg.  Titled "RECORD1.BASICOBJ".
+
+
+Yours Truly,
+
+
+Joel Wasserman
+Magnet Wire Incorporated
+112-01 Northern Blvd
+Corona, NY 11368
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Fred:                                   March 7, 1983
+
+All enclosed contributions are explained by: EXEC GARY5
+
+If you wish to  call, for any reason, at  any time, please use my
+Home phone  (201) 246-7285.   If no one answers, you  can leave a
+message at the business number.
+
+My business  phone  (201)  247-2727 is  usually answered by other
+people during  normal  working  hours  (9-5  EST) at  our  remote
+office.   (247-2727 rings  simultaneously at  home  so that I can
+monitor the call).
+
+
+If you wish  to connect to my system (Multi-user), Send me a copy
+of "SYSTEM.CLASSxx"  to support your terminal, let me know if you
+have 300 or 1200 baud, and I'll set you up with a LOGON ID.
+
+If you are serious about learning assembler, I recommend:
+
+          "Programming the Z80" by Rodnay Zaks
+           Published by SYBEX
+
+The most  difficult areas of Z80 programming, (stack maintenance,
+I/O, and relocatibility),  are all taken care of  by OASIS.  Even
+though  the Z80  may become  extinct, once you get the  "feel" of
+real programming, you can easily adapt to new methods and get the
+most  out  of  any computer.   I hope  you  will be encouraged to
+undertake the effort.
+
+                                        February 18, 1983
+
+The contributions on this disk are targeted for the Z80 assembler
+audience.
+
+As the  saying  goes:  Write  critical routines  in assembler and
+comedy routines in BASIC.
+
+Any serious  programming   development  done  in  assembler  will
+require some  "basic" mathematic subroutines.  The most difficult
+of these are  mutliplication and division.  OASIS provides  SC 38
+39, however they  only work on 2 byte  values (also a restriction
+in "C").
+
+Included on this disk are some math subroutines I have developed.
+These subroutines provide 4-byte precision, which is adequate for
+most business oriented applications (numbers up to 42,949,672.95)
+Take a look at the files named: CALC, MATH, NUM, and TOTAL.
+
+
+Benchmark feedback:
+^
+BENCH1:  158 Corvus 10M       188 Persci Voice coil floppy
+BENCH11: 198 Corvus 10M       261 Persci Voice coil floppy
+
+        (floppy disk / clock interference)???
+        (I guess that's why they refer to it as CRUMMYCO).
+
+BENCH2:  110      (155 compiled)
+BENCH22: 121      (174 compiled)
+
+
+
+
+Some questions:  My system (5.5b) allows 2 users to EDIT the same
+file concurrently.  Either  EDIT is not LOCKING the  file or FILE
+LOCK does not work with sequential files.
+
+
+I am running  a CROMEMCO SYSTEM 3 which uses vectored interrupts.
+with the DC HAYES S-100 MODEM.  My driver logic uses a SC 79 loop
+waiting  for the  phone to  ring.  The modem can be  strapped for
+Interrupt 7 on  phone ringing.  (Also available on  my 9 TRK TAPE
+CONTROLLER for certain transport signals).
+
+What techniques can I  use to take advantage of  these interrupts
+(or should I)?
+
+                         Gary Bergman
+                         14 Hickory Lane
+                         North Brunswick, New Jersey  08902
+                         (201) 246-7285
+                         TWX 710 480 6282   ADS NBRU
+
+P.S.
+RE:  Your comments about INVADERS;
+It was  written  by  me  from  scratch, therefore,  the copyright
+notice as with the contributions on this disk.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER22.FEEDBACK                             1 April 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+Note that in  ADVENTUR.MEMO on volume 1 they claim a score of 350
+is possible!  Looks like we still have a big challange left. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 22.
+
+***************************************************************
+
+
+ADV290.EXEC
+
+Automatically runs  the  "ADVENTUR"  game  from the  OASIS USER'S
+GROUP - VOL1.
+
+This EXEC  was  developed  from  "user  experience", and  may not
+necessarily  contain  the  most efficient,  or correct, method of
+solving  the game.   In fact,  it could have been shorter,  but I
+wanted  to  make sure  that every  location  was visited at least
+once.
+
+You may specify how  much of a "head-start" you  would like.  The
+entire EXEC  deposits all "treasures" in the building, giving you
+a SCORE  of 290  points.  You will still be  in the cave just one
+move away from the final obstacle.
+
+The only trouble is, that I haven't yet learned how to solve this
+one.   If  someone out  there knows,  please give me a call.
+
+The EXEC allows you to select the point at which you want to take
+over from the automatic play.  Good Luck !!!
+
+Gary Bergman (201) 246-7285
+
+BADSPOT$.COMMAND
+BADSPOT.EXEC
+
+     A nifty utility to let you salvage disketts that have
+     trouble spots. The program is self explanatory and very
+     "safe". Also converts "cylinder,head,sector " to sector
+     number.
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+BELLS.ASSEMBLE/COMMAND
+
+A cute little routine to rings some bells, like we did at the
+beginning of this introduction. Gary Bergman put it together.
+
+THIS IS WHAT YOU GET:
+^
+CALC ASSEMBLE / COMMAND
+MATH.ASSEMBLE/COMMAND
+Is a full-blown  calculator program that lets your fingers do the
+walking.  om an assembler application program.  It accepts values
+to  be passed  to the  various MATH subroutines and displays  the
+Some user friendly features:status.  and related applications and
+   . Direct cursor addressinging goes: Write critical routines in
+   . Multiply or divide (with subtotal).  Any serious programming
+   . Running totalsMMAND assembler   will  require  some  "basic"
+   . Repetative entry (+ or -)e   most  difficult  of  these  are
+   . Clear key (back off previous entry)program  that  reads  any
+   . Multi-column printer option scans each record looking for an
+   . Help displaylue.  The "total" is displayed at End-of-File or
+ESC-C.  broutines provide 4-byte precision, which is adequate for
+It only  takes  a  few  minutes  of  experimenting  to learn  its
+personality.  (Now,  if  I  could  carry  my computer  in  my hip
+pocket...)
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+TO TRY SOME NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DEV1650.ASSEMBLE
+SYSTEM.DEV1650
+
+     A working model of a device driver to support
+     the Xerox/Diablo model 1640 or 1650 printer.
+
+     The source code is well documented and can be
+     easily adapted to any hardware configuration.
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+TO LIST IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DEV24S.ASSEMBLE
+SYSTEM.DEV24S
+
+     A device driver for the DC-HAYES S100 Micromodem.
+
+ This is a general purpose device driver for the
+ DC HAYES S-100 modem.   This driver communicates
+ directly with the S-100 modem without interrupts.
+
+ The INIT routine gets control when the DEVICE is
+ ATTACHed.  The routine will AUTO-DIAL a specific
+ phone number and establish communications if the
+ other party answers within 10 rings. If there is
+ no answer, it then waits for someone to dial in.
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+TO LIST IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DISKIO.ADVICE
+
+I pulled this gem out of Gary Bergman's letters because
+it looks to me like it is an extreemly important piece
+of advice for anyone writing applications using large
+files (such as Chapman's PROOF, etc.).  FB
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+DISKIT.COMMAND
+DISKIT$.EXEC
+
+     "Everything you wanted to do on disk, but were afraid to clobber it."
+
+          Files supported:
+
+                INDEXED  KEYED  DIRECT  ABSOLUTE  &  RELOCATABLE
+
+          5 help screens:   1 external,  4 internal
+
+          Unique demonstration feature:
+
+               If the program is not loaded from the "system-disk"
+               it will not allow any updates. An attempt to do so
+               will provide you with the appropriate help screen.
+
+               This provides a safe way to explore the program.
+               Once you feel comfortable with its personality,
+               you can copy it to your "system-disk".
+
+
+     The program assumes that a file key is smaller than its record
+     length.  It therefore looks a little funny on DISKFILE LIBRARY.
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+EDITORS.ADDRESS
+EDITQSRT.EXEC
+EDITSORT.BASIC/EXEC
+ENVELOPS.EXEC/SCRIPT
+OUG.RELEASE1
+PRESS.RELEASES
+PRESSREL.EXEC
+
+This is the long awaited OUG Press Release system, including
+a mailing list of appropriate publications.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+FINANCE.BASIC
+
+I took all of those little OSBORNE programs from VOL11
+and combined them into a single menu-driven program.
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+This is very nice and I intend to try and use this basic
+idea for the collections in the future.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+N.EXEC
+QUIT.EXEC
+Y.EXEC
+SHIT.EXEC (That's what the author calls it!)
+
+I put the first three into my system after the thousandth time of
+seeing [File "Y.COMMAND" not found.] after typing ahead blind and
+missing the  correct response to some intermediate question.  You
+might want to  change the message or add  other similar "special"
+EXEC's to cover the kinds of frequent boo-boos that you happen to
+make.   The  last program  in this  series  was submitted by Gary
+Bergman.   I almost  disn't put  it in because the name  will, no
+doubt, be considered of questionable taste by someone.  But, then
+I realized how  often many of us feel  like cussing at these dumb
+"Giant nincompoops"  and just  how appropriate the title of  this
+program is!  So, it's included, but without source.  FB
+
+TO TRY THEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+QUIP.ASSEMBLE/COMMAND/DATA/RECORD
+
+ The program simply displays one record from the QUIP DATA file.
+ It updates the QUIP RECORD (by partition number) to keep
+ track of the last QUIP DATA record displayed. At end of file
+ it starts over.
+ This program is meant to be used as part of a logon EXEC to
+ make your "sign-on" a little more interesting.
+
+
+ This program uses 2 files:
+  1. QUIP DATA contains the encoded message text.
+   (uneditable sequential file)
+  2. QUIP RECORD contains the next record number.
+   (By partition # if "multi-user")
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+HERE ARE TWO EXAMPLES
+
+
+
+
+There is nothing so small that can't be blown out of proportion.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+Disk write-protected because the image contains compressed sectors. Use IMDU to uncompress.
+
+RECORD1.BASIC
+
+This is a program for storing and retrieving information about
+your personal record collection.  It originally came from "Basic
+Computer Programs for the Home" by Carles Sternberg and was
+converted for use with OASIS by Joel Wasserman (212) 651-0900.
+It must be modified with information about your own record
+collection, although it does contain a few demonstration
+records.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SCRIPTIT.EXEC
+
+This is a handy utility I put together to tidy up all
+the text files you send in.  First I go through a new
+file using the editor and put in the necessary script
+commands: .SIZE 1,65,1 at the beginning, .END at the
+end, and .FILL and .NOFILL at various appropriate
+places in the text.  Then I use this.  Works great and
+saves a lot of time, and I end up with a pretty text
+file.  FB
+
+TO LIST IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+SWARMS2.BASIC
+
+This is essentially the same game as released on VOL4, but
+with a few significant changes.
+
+     . Automatic help
+     . More information provided
+     . Enhanced with RANDOMIZE & SLEEP verbs
+     . NUCLEAR DESTRUCTION is harder to do,
+       but, more graphically executed.
+       (direct cursor addressing)
+
+Gary Bergman - 14 Hickory Lane, North Brunswick, NJ 08902
+(201) 246-7285  TWX 710 480 6282 ADS NBRU
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+***************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 22.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+***************************************************************
+
+>

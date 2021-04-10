@@ -1,0 +1,1146 @@
+February 1983                   Volume: 20
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+AMORT    BASIC    A 01/13/83 16:17   208    8 S   176 VOL20
+CHNGPRIV COMMAND  A 04/04/82 02:40     2    1 R   256 VOL20
+DUMPDSK  ASSEMBLE A 12/14/82 10:38   193    5 S    69 VOL20
+DUMPMEM  ASSEMBLE A 12/10/82 16:49   100    3 S    67 VOL20
+EXPANDIX BASIC    A 02/13/83 23:51    61    3 S   102 VOL20
+FIXIND   EXEC     A 02/03/83 00:14    29    1 S    71 VOL20
+FIXINDEX ASSEMBLE A 01/11/83 10:58    17    3 S   128 VOL20
+FIXINDEX COMMAND  A 01/11/83 09:19     6    2 R   256 VOL20
+LAZERGUN BASIC    A 02/15/83 00:49   292   13 S   108 VOL20
+MACRO$1  MACLIB   A 01/16/83 16:14   152    3 S    62 VOL20
+MEMBER20 FEEDBACK A 02/16/83 00:03   309   15 S    65 VOL20
+MOVE     MACRO    A 06/11/80 01:34    27    1 S    46 VOL20
+NAMEIT   BASIC    A 02/08/83 03:29    62    3 S    82 VOL20
+NEWS     LETTER20 A 02/18/83 02:43   175    9 S    65 VOL20
+OTHELLO  BASIC    A 12/26/82 22:14   185    9 S   143 VOL20
+OUG      CONTENTS A 02/08/83 00:22    65    2 S    39 VOL20
+PACK     COMMAND  A 10/05/82 18:27    90   23 R   256 VOL20
+PROOF    COMMAND  A 12/04/82 10:59    26    7 R   256 VOL20
+RAIDER   BASIC    A 02/15/83 00:23   203   10 S   113 VOL20
+RETCODE  ASSEMBLE A 11/06/80 23:58     9    1 S    37 VOL20
+RETCODE  COMMAND  A 07/12/80 14:28     1    1 R   256 VOL20
+RETCODEX EXEC     A 02/03/83 01:35    25    1 S    54 VOL20
+SELECT20 EXEC     A 02/18/83 02:05    46    3 S    46 VOL20
+SERIAL   IZATION  A 02/03/83 00:35    77    4 S    78 VOL20
+SHOOTER  BASIC    A 11/30/82 09:13    59    3 S    78 VOL20
+SNOOPY   BASIC    A 02/15/83 00:52    99    5 S    88 VOL20
+TRSDIR   ASSEMBLE A 01/16/83 16:18   477   10 S    72 VOL20
+TRSDIR   EXEC     A 02/12/83 02:26     9    1 S    25 VOL20
+TRSDIR   NOTES    A 02/12/83 02:32    33    2 S    79 VOL20
+TRSDIR$  COMMAND  A 01/07/83 18:09     7    2 R   256 VOL20
+TRSGET   ASSEMBLE A 01/16/83 16:16   525   12 S    71 VOL20
+TRSGET   EXEC     A 02/12/83 02:23     9    1 S    25 VOL20
+TRSGET   NOTES    A 02/12/83 02:30    37    2 S    79 VOL20
+TRSGET$  COMMAND  A 01/07/83 18:22    10    3 R   256 VOL20
+UNLOCK   ASSEMBLE A 12/16/82 16:24    87    3 S    62 VOL20
+UNLOCK   BASIC    A 02/15/83 01:03    22    1 S   111 VOL20
+UNLOCK   BASICUSR A 12/16/82 16:24     4    1 R   256 VOL20
+UNLOCK   EXEC     A 02/15/83 00:20    29    1 S    67 VOL20
+VOL18FIX EXEC     A 11/15/82 18:36    20    1 S    59 VOL20
+VOL20    CONTENTS A 02/18/83 02:40   276   12 S    65 VOL20
+VOL20    EXEC     A 02/17/83 22:18   620   18 S    71 VOL20
+WISH     LIST20   A 02/16/83 01:05    97    4 S    73 VOL20
+ZAP      ASSEMBLE A 01/16/83 16:15   950   19 S    59 VOL20
+ZAP      EXEC     A 01/20/83 20:43     9    1 S    25 VOL20
+ZAP      NOTES    A 01/09/83 13:54    80    5 S    80 VOL20
+ZAP$     COMMAND  A 01/09/83 13:24    14    4 R   256 VOL20
+46 file(s), 242 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+MEMBER20.FEEDBACK:A copied to MEMBER20.FEEDBACK:D
+SNOOPY.BASIC:A copied to SNOOPY.BASIC:D
+VOL20.EXEC:A copied to VOL20.EXEC:D
+WISH.LIST20:A copied to WISH.LIST20:D
+ZAP.EXEC:A copied to ZAP.EXEC:D
+DUMPMEM.ASSEMBLE:A copied to DUMPMEM.ASSEMBLE:D
+NEWS.LETTER20:A copied to NEWS.LETTER20:D
+RETCODE.ASSEMBLE:A copied to RETCODE.ASSEMBLE:D
+SELECT20.EXEC:A copied to SELECT20.EXEC:D
+TRSDIR.EXEC:A copied to TRSDIR.EXEC:D
+UNLOCK.BASICUSR:A copied to UNLOCK.BASICUSR:D
+PACK.COMMAND:A copied to PACK.COMMAND:D
+TRSGET.EXEC:A copied to TRSGET.EXEC:D
+FIXINDEX.ASSEMBLE:A copied to FIXINDEX.ASSEMBLE:D
+NAMEIT.BASIC:A copied to NAMEIT.BASIC:D
+CHNGPRIV.COMMAND:A copied to CHNGPRIV.COMMAND:D
+OTHELLO.BASIC:A copied to OTHELLO.BASIC:D
+OUG.CONTENTS:A copied to OUG.CONTENTS:D
+RETCODEX.EXEC:A copied to RETCODEX.EXEC:D
+UNLOCK.ASSEMBLE:A copied to UNLOCK.ASSEMBLE:D
+VOL20.CONTENTS:A copied to VOL20.CONTENTS:D
+ZAP$.COMMAND:A copied to ZAP$.COMMAND:D
+RETCODE.COMMAND:A copied to RETCODE.COMMAND:D
+TRSDIR$.COMMAND:A copied to TRSDIR$.COMMAND:D
+ZAP.ASSEMBLE:A copied to ZAP.ASSEMBLE:D
+AMORT.BASIC:A copied to AMORT.BASIC:D
+EXPANDIX.BASIC:A copied to EXPANDIX.BASIC:D
+PROOF.COMMAND:A copied to PROOF.COMMAND:D
+RAIDER.BASIC:A copied to RAIDER.BASIC:D
+TRSDIR.ASSEMBLE:A copied to TRSDIR.ASSEMBLE:D
+TRSGET$.COMMAND:A copied to TRSGET$.COMMAND:D
+VOL18FIX.EXEC:A copied to VOL18FIX.EXEC:D
+ZAP.NOTES:A copied to ZAP.NOTES:D
+FIXINDEX.COMMAND:A copied to FIXINDEX.COMMAND:D
+MACRO$1.MACLIB:A copied to MACRO$1.MACLIB:D
+SHOOTER.BASIC:A copied to SHOOTER.BASIC:D
+TRSDIR.NOTES:A copied to TRSDIR.NOTES:D
+TRSGET.ASSEMBLE:A copied to TRSGET.ASSEMBLE:D
+UNLOCK.BASIC:A copied to UNLOCK.BASIC:D
+DUMPDSK.ASSEMBLE:A copied to DUMPDSK.ASSEMBLE:D
+FIXIND.EXEC:A copied to FIXIND.EXEC:D
+LAZERGUN.BASIC:A copied to LAZERGUN.BASIC:D
+MOVE.MACRO:A copied to MOVE.MACRO:D
+SERIAL.IZATION:A copied to SERIAL.IZATION:D
+TRSGET.NOTES:A copied to TRSGET.NOTES:D
+UNLOCK.EXEC:A copied to UNLOCK.EXEC:D
+
+>VOL20
+=================================================================
+:                                                                :
+:           VOLUME 20 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "What was most significant about the lunar voyage             :
+:   was not that men set foot on the moon, but that they         :
+:   set eye on the earth."                     Norman Cousins    :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL20 MOUNTED? [ A-G S ]:A
+-LOAD SNOOPY
+-RUN
+HOW MANY COPIES DO YOU WANT ? 1
+TO LINE PRINTER OR SCREEN (L OR S) ? S
+
+
+
+
+
+
+
+
+              XXXX
+            X  ***  X                XXXXX
+           X  *****  X            XXX     XX
+        XXXX ******* XXX      XXXX          XX
+      XX   X ******  XXXXXXXXX                XX XXX
+    XX      X ****  X                            X** X
+   X        XX    XX      //                     X***X
+  X         //XXXX       //                      XXXX
+ X         //   X                              XX
+X         //    X          XXXXXXXXXXXXXXXXXX/
+X     XXX//    X          X
+X    X   X     X         X
+X    X    X    X        X
+ X   X    X    X        X                    XX
+ X    X   X    X        X                 XXX  XX
+  X    XXX      X        X               X  X X  X
+  X             X         X              XX X  XXXX
+   X             X         XXXXXXXX/     XX   XX  X
+    XX            XX              X     X    X   XX
+      XX            XXXX   XXXXXX/     X     XXXX
+        XXX             XX***         X     X
+           XXXXXXXXXXXXX *   *       X     X
+                        *---* X     X     X
+                       *-* *   XXX X     X
+                       *- *       XXX   X
+                      *- *X          XXX
+                      *- *X  X          XXX
+                     *- *X    X            XX
+                     *- *XX    X             X
+                    *  *X  X    X             X
+                    *  *X   X    X             X
+                   *  * X**  X   XXXX          X
+                   *  * X**  XX     X          X
+                  *  ** X** X     XX          X
+                  *  **  X*  XXX   X         X
+                 *  **    XX   XXXX       XXX
+                *  * *      XXXX      X     X
+               *   * *          X     X     X
+ =======*******   * *           X     X      XXXXXXXX)
+        *         * *      /XXXXX      XXXXXXXX)      )
+   =====**********  *     X                     )  /H)  )
+     ====*         *     X               )  )   )XXXXX
+=========**********       XXXXXXXXXXXXXXXXXXXXXXX
+
+
+VV    VV  EEEEEE  RRRRRR    DDDDD     AAAAA   MM     MM  MM     MM  TTTTTT
+ VV  VV   EE      RR   RR   DD   DD  AA   AA  MMM   MMM  MMM   MMM    TT
+ VV  VV   EEEE    RRRRRR    DD   DD  AAAAAAA  M MM MM M  M MM MM M    TT
+  VVVV    EE      RR  RR    DD   DD  AA   AA  M  MMM  M  M  MMM  M    TT
+   VV     EEEEEE  RR   RR   DDDDD    AA   AA  M   M   M  M   M   M    TT
+
+
+DDDDD    IIIIII   CCCCC   HH    HH
+DD   DD    II    CC   CC  HH    HH
+DD   DD    II    CC       HHHHHHHH
+DD   DD    II    CC   CC  HH    HH  ,,,
+DDDDD    IIIIII   CCCCC   HH    HH  ,,
+                                    ,
+
+
+RRRRRR    OOOOO  TTTTTT     BBBBBB    AAAAA   RRRRRR    OOOOO   NN    NN  !!
+RR   RR  OO   OO   TT       BB   BB  AA   AA  RR   RR  OO   OO  NNN   NN  !!
+RRRRRR   OO   OO   TT       BBBBBB   AAAAAAA  RRRRRR   OO   OO  N  NN NN  !!
+RR  RR   OO   OO   TT       BB   BB  AA   AA  RR  RR   OO   OO  NN   NNN
+RR   RR   OOOOO    TT       BBBBBB   AA   AA  RR   RR   OOOOO   NN    NN  !!
+
+
+
+
+
+
+
+
+
+Welcome  to  VOLUME 20  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  20,
+the latest newsletter, and feedback from members:
+
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+AMORT    BASIC    A 01/13/83 16:17   208    8 S   176 VOL20
+CHNGPRIV COMMAND  A 04/04/82 02:40     2    1 R   256 VOL20
+DUMPDSK  ASSEMBLE A 12/14/82 10:38   193    5 S    69 VOL20
+DUMPMEM  ASSEMBLE A 12/10/82 16:49   100    3 S    67 VOL20
+EXPANDIX BASIC    A 02/13/83 23:51    61    3 S   102 VOL20
+FIXIND   EXEC     A 02/03/83 00:14    29    1 S    71 VOL20
+FIXINDEX ASSEMBLE A 01/11/83 10:58    17    3 S   128 VOL20
+FIXINDEX COMMAND  A 01/11/83 09:19     6    2 R   256 VOL20
+LAZERGUN BASIC    A 02/15/83 00:49   292   13 S   108 VOL20
+MACRO$1  MACLIB   A 01/16/83 16:14   152    3 S    62 VOL20
+MEMBER20 FEEDBACK A 02/16/83 00:03   309   15 S    65 VOL20
+MOVE     MACRO    A 06/11/80 01:34    27    1 S    46 VOL20
+NAMEIT   BASIC    A 02/08/83 03:29    62    3 S    82 VOL20
+NEWS     LETTER20 A 02/18/83 02:43   175    9 S    65 VOL20
+OTHELLO  BASIC    A 12/26/82 22:14   185    9 S   143 VOL20
+OUG      CONTENTS A 02/08/83 00:22    65    2 S    39 VOL20
+PACK     COMMAND  A 10/05/82 18:27    90   23 R   256 VOL20
+PROOF    COMMAND  A 12/04/82 10:59    26    7 R   256 VOL20
+RAIDER   BASIC    A 02/15/83 00:23   203   10 S   113 VOL20
+RETCODE  ASSEMBLE A 11/06/80 23:58     9    1 S    37 VOL20
+RETCODE  COMMAND  A 07/12/80 14:28     1    1 R   256 VOL20
+RETCODEX EXEC     A 02/03/83 01:35    25    1 S    54 VOL20
+SELECT20 EXEC     A 02/18/83 02:05    46    3 S    46 VOL20
+SERIAL   IZATION  A 02/03/83 00:35    77    4 S    78 VOL20
+SHOOTER  BASIC    A 11/30/82 09:13    59    3 S    78 VOL20
+SNOOPY   BASIC    A 02/15/83 00:52    99    5 S    88 VOL20
+TRSDIR   ASSEMBLE A 01/16/83 16:18   477   10 S    72 VOL20
+TRSDIR   EXEC     A 02/12/83 02:26     9    1 S    25 VOL20
+TRSDIR   NOTES    A 02/12/83 02:32    33    2 S    79 VOL20
+TRSDIR$  COMMAND  A 01/07/83 18:09     7    2 R   256 VOL20
+TRSGET   ASSEMBLE A 01/16/83 16:16   525   12 S    71 VOL20
+TRSGET   EXEC     A 02/12/83 02:23     9    1 S    25 VOL20
+TRSGET   NOTES    A 02/12/83 02:30    37    2 S    79 VOL20
+TRSGET$  COMMAND  A 01/07/83 18:22    10    3 R   256 VOL20
+UNLOCK   ASSEMBLE A 12/16/82 16:24    87    3 S    62 VOL20
+UNLOCK   BASIC    A 02/15/83 01:03    22    1 S   111 VOL20
+UNLOCK   BASICUSR A 12/16/82 16:24     4    1 R   256 VOL20
+UNLOCK   EXEC     A 02/15/83 00:20    29    1 S    67 VOL20
+VOL18FIX EXEC     A 11/15/82 18:36    20    1 S    59 VOL20
+VOL20    CONTENTS A 02/18/83 02:40   276   12 S    65 VOL20
+VOL20    EXEC     A 02/17/83 22:18   620   18 S    71 VOL20
+WISH     LIST20   A 02/16/83 01:05    97    4 S    73 VOL20
+ZAP      ASSEMBLE A 01/16/83 16:15   950   19 S    59 VOL20
+ZAP      EXEC     A 01/20/83 20:43     9    1 S    25 VOL20
+ZAP      NOTES    A 01/09/83 13:54    80    5 S    80 VOL20
+ZAP$     COMMAND  A 01/09/83 13:24    14    4 R   256 VOL20
+46 file(s), 242 block(s).
+▼ EWS.LETTER20:VOL20                                       01/29/85 17:02 Page 1
+
+-----------------------------------------------------------------
+17 Februray 1983        N E W S   L E T T E R           Volume 20
+-----------------------------------------------------------------
+
+
+
+
+Dear Member;
+
+
+Well, it certainly has  been a long time since  volume 19, hasn't
+it.   I  have been  super busy,  as I know some of  you have also
+been.  First  was COMDEX  and dealing with all of  the stuff that
+got  started  there.   Then  I  started  working  on the  subject
+collections.   Everything is  now divided among eight catagories:
+Utilities,     Games,     Business/Finance,     Engineering/Math,
+Miscellaneous/Education, Spelling Checker/Dictionary, System, and
+Information.   In  a future  volume you  will get all of the  new
+EXECs that tie all of the things in each catagory together.  That
+means you can  use UTILITY.EXEC to locate and  execute any of the
+utilities, etc.
+
+Many of  you   have  been  busy  too.   I  now  have  a  pile  of
+contributions that will make us about another three volumes.  The
+arrival  of  every   new  contribution  sets  me  to   work  with
+preliminary  preparations  to insure  the author hasn't made some
+catastophic  booboo and  that the  stuff  is basically O.K.  And,
+during the past couple of months I've had a lot of that to do.
+
+The biggest  news,  of  course,  has  to  do  with  our  changing
+interaction  with  Phase One.   Howard Sidorsky's presence at our
+Los Vegas  COMDEX meeting  was a welcome signal that  he knows we
+can help each other in increasingly significant ways, despite our
+differing views  on some issues - or perhaps because of them.  In
+any case, we're  off to a new beginning  and Phase One is already
+demonstrating it's good will in a number of ways.  They made us a
+Northstar  master copy  of  the  OUG  library,  and a  number  of
+potential  new  members  have  indicated  someone  at  Phase  One
+suggested they  get in touch with us.  Howard has pledged to give
+us as  much support as he can, including more frequent mention in
+their  publications,   and  access  to  more  of  their  internal
+information sources (eg publication mailing lists).
+
+I learned all  of these things in a long conversation with Howard
+a few  weeks  ago.  We  talked about  a  wide range of topics  of
+mutual interest  to  Phase  One  and  our members.   I  asked him
+bluntly  about the  rumors I  have been hearing that they  are in
+financial  trouble.   What he  told me  was  that they are indeed
+reorganizing  internally   and  restructuring  their  promotional
+activities.   They  may be  looking for  venture  capital at some
+point in  the near future, but are not engaged in any acquisition
+negotiations  with  anyone.   The  recent layoffs  of several key
+people  are a  results of  changing  internal priorities and have
+been  offset  by new  hires.  In  writing it down here I  know it
+sounds like  a lot pat answers formulated for public consumption.
+But, I sensed a special spontaneous candidness in Howards answers
+that  sounded right  to me.   I think some of that  restructuring
+means more  confidence in  the OASIS user community's ability  to
+handle the  truth, even  when it may not be  as rosy as one might
+wish.
+
+In that  regard, I  told Howard  how very much concerned a  large
+number of you are about the delayed availability of OASIS-16.  He
+related  all the  expected reasons  for the delays and gave  me a
+capsule summary  of the current anticipated release schedule.  He
+said  that OASIS-16  is now  available for the Compupro, will  be
+released for  a special  purpose machine, the Canberra in  March,
+and that the next two machines on the priority list are the Seako
+and Cannon 8086 (a few months later).
+
+I stopped by the Compupro booth at the recent West Coast Computer
+Faire  and  asked  if they  were actually  delivering  units with
+OASIS-16 and  the  guy  I  talked  to said  that  they hadn't yet
+received the final release version for distribution, but expected
+it momentarily.   Later, I had another long talk with Dick Wrenn,
+Phase One director of sales, and he clarified the situation some.
+Phase  One  works  with "sophisticated"  software developers on a
+case by case  basis and makes available early  release copies for
+testing and  use to  a few such people.  They  are very selective
+and  only  work  with  vertical  market  software  developers  or
+software  houses  in  this way  - those  who  will help swat bugs
+without   a   lot   of   extraneous   resource  consuming   phone
+conversations.  You get the idea.
+
+How about  the  IBM/PC version?   Why hasn't  it  been given more
+priority?  Howard says  they don't want to do  a hard disk driver
+for the  Corvus drive and so they are waiting until IBM announces
+their own hard  disk.  Dick Wrenn, volunteered that  a version is
+already running with  a Corvus disk and a  few people are already
+working  with  it.   Further, they  are getting  both  Devong and
+Seagate  hard disk  drives and will immediately start preparation
+of the  drivers for these.  He thinks an early version with these
+drives may  be available  as soon as March or  April.  If you are
+one of the  people who has indicated to  me that you are facing a
+decision crises regarding  the PC, give Dick a  call at Phase One
+(415) 562-8085.   He is not prepared to talk to the idly curious,
+however.
+
+I had occasion to  talk to the Oasis person  at the Altos factory
+and he confirmed that they have declined to implement OASIS-16 on
+one of  their machines only because it is now obsolete.  They are
+working on implementation for their newer 16 bit units.
+
+Two of you have  suggested to me that you  would be interested in
+doing  OASIS   implementations  on  new  machines,  but  you  had
+understood  that Phase  One was  not  interested.  I asked Howard
+about it  and  he  said  he  is open  to  considering any and all
+proposals  for  independent  implementations  on  a case  by case
+basis.  He reminded me of their long standing "Guest Implementor"
+program where a machine manufacturer pays $10,000 (was $5000) and
+gets unlimited  support  with  their  own  efforts to  get  OASIS
+running  on their  machine.   But,  he  says  there is  room  for
+discussion. So if you have a special proposition, give him a call
+(415) 562-8085.
+
+The first versions  of OASIS-16 will, of course, be incomplete as
+well as having a few well hidden bugs in them.  For one thing, it
+will only  have a BASIC compiler so that programs developed under
+OASIS-8 can  be moved  to the 16 bit machines,  but not developed
+with a 16 bit interpreter.  The earliest versions may not include
+full support of  ISAM files either.  But, they  are working their
+tails  off  up there,  I am  assured by everybody!  So, keep  the
+faith, baby.  It's coming.
+
+On a different  front, people  who know OASIS are in  big demand.
+At  least  I have  been contacted  several  times during the past
+months regarding  the availability of OASIS programmers and other
+support people.  I have heard that Compupro, Onyx, Northstar, and
+even Digital Research are looking for OASIS knowledgeable people.
+If you are  available (or if you are  looking for someone) let me
+know so I can put people in touch with you when they call.
+
+This reminds me of a really interesting rumor I heard from a head
+hunter.  Digital Research (the CP/M people, you know) is supposed
+to be  about to release a more user friendly version of CP/M that
+uses OASIS-like  command structures.  I guess it will be the same
+old  CP/M  but you  will be  able to COPYFILE instead of  PIPing.
+Interesting,  no?  They  say that  imitation  is the most sincere
+form of flattery.
+
+Along the  "help wanted"  line, Hans  Juerges,  one of our german
+members is  looking for  someone to translate the german  textual
+displays of  his word  processor, AGTEXT, into good English.   If
+interested, drop him a line.
+
+
+All of my harping  about more publicity for OASIS  and compatible
+products has resulted in more people telling me about things they
+are doing.   If you are aware of any recent articles dealing with
+any  aspect of  OASIS, let  me know.  I'm thinking in  terms of a
+bibliography.
+
+One of  our  members sent  me a  "happy  birthday" wish recently.
+Well,  we  have been  in existence  since February of 1981, so  I
+guess this  is our  second birthday of sorts.  HAPPY  BIRTHDAY TO
+US.   HAPPY  BIRTHDAY  TO US.   HAPPY BIRTHDAY  DEAR  OASIS USERS
+GROUP.  HAPPY BIRTHDAY TO US!
+
+
+
+
+
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 20
+-----------------------------------------------------------------
+▼ EMBER20.FEEDBACK:VOL20                                   01/29/85 17:02 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER20.FEEDBACK                                 31 January 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                 December 3, 1982
+
+
+
+
+Fred Bellomy
+Oasis Users Group
+P.O. Box 2400
+Santa Barbara, Ca  93120
+
+Dear Fred,
+
+The Users' group  meeting was  interesting, to say the least.   I
+think  some  positive  progress  was  make there  in establishing
+cooperation with  Phase One.   I do not believe Phase  One should
+act as  an absolute censor to submissions.  Their comments should
+be  taken  into account.   Even if  they do not want some-  thing
+distributed, it  still may be distributed if it is justified.  If
+it gets  out of  hand the members will let  you know, I'm sure of
+that.   This should  not create  any animosity with Phase One  if
+this situation occurs.
+
+One attitude  expressed  (by  a sizable  minority) in the meeting
+that  surprised  me  was one  of a  desire  for a non-competitive
+environment.  I  will not  mention specifics however, I was  even
+more surprised  when Phase One partially supported this attitude.
+The  industry  we're  involved  in  is extremely  competitive, it
+benefits  us all.   An  example  would  be  our Qisort  (no  plug
+intended, you may delete the specific name).  We were faster than
+the  competition,  when we  first released  it.   They speeded up
+their sort.   We speeded up and enhanced our sort.  Customers who
+buy either sort  benefit.  In the cases where  somebody undercuts
+to  the  point  of  being  unprofitable,  we're  still selling  a
+service, which implies  after the sale service and  support, that
+is a very marketable item which most discounters can not provide.
+Also they  can not survive long on extremely thin or non-existent
+profits.
+
+Enclosed with this  letter is a write up on a method to serialize
+software to the Oasis Operating System.  It is only one approach,
+use  it as  a basis  for serializing your own code,  be original.
+Because  it does  identify a  critical point in the nucleus  (the
+serial  number),  please show  it and  discuss  it with Phase One
+first.   I  recommend  that they  use a  similar  tact within the
+nucleus  and for  important commands  such  as ATTACH, etc.  Then
+there would be no problem in releasing this method.
+
+Well I've spent enough time on this for now.  I've got a stack of
+things to evaluate from COMDEX that you wouldn't believe.
+
+It was  a  good  meeting.   I  enjoyed  meeting  and  talking  to
+everybody.  Have a good day.  Until the next time.
+
+
+                                             Bill Berne
+
+Enc.
+
+
+PS: Between the  time I wrote this letter and got it out, I wrote
+two programs for  submission to the OUG.  DUMPMEM,  allows you to
+dump any memory  address to the console.  DUMPDSK,  allows you to
+dump any disk sector to the console.  On both of them you enter a
+decimal  number  (memory address  or disk  sector)  or a 'C' (for
+cancel)  and they  will dump  at that point.  If you  make a null
+entry  (no  characters  or non-numeric)  they will continue where
+they left  off (upon  entry they will start at  zero).  The drive
+code on  the  disk  dump  is  set by  the  first parameter of the
+command line  (default is  S), ie.  DUMPDSK A, will  dump sectors
+off drive  A.  Note that these programs do not allow modification
+of  memory or  disk, they  are therefore a lot safer  than upping
+your privilege level.  Again, until the next time.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear Fred,
+
+You and  I  recently had  a conversation about software companies
+and  their decisions  to release  source code or not.  At  ABS we
+have  taken a  very rational  stand on this issue as  we feel all
+software  companies  should.   That is,  we decided, when mulling
+over the  issue of  source code releases, that no  matter what we
+did, someone  out their will be able to punch holes in our stuff.
+That is,  whether we  choose to release source code  or not, some
+hot  programmer or  garage  whiz  kid  is  gonna get  in.   We've
+resigned ourselves  to that  fact and all we can  do is deal with
+it.   So we  decided that  there was no other good  reason not to
+release source code to reputable dealers.  Why worry?
+
+Therefore, we have  also decided to release to the OUG, a copy of
+a utility that we have had lots of fun with called 'UNLOCK'.  Get
+ready for  this, IT REMOVES 'READ' PROTECTION FROM OASIS PROGRAMS
+AND FILES!   Bet you'll have just as much fun with it as we have.
+Not to  mention  the  headaches  it  will save  when  you or some
+unknown person  'accidently' READ protects your files -- or worse
+your entire disk.
+
+So, with that  we wish you a merry christmas and a very happy new
+year  and happy  birthday (so  to speak) to the user's  group for
+another  years  existance.  We  love the  entire  OUG library and
+recommend it highly to all Oasis user's.  Keep up the good work.
+
+                                            Sincerely,
+                                            Jesse F. Josserand
+                                            Executive Vice Presid
+                                            Senior Systems Analys
+                                            ABS, Inc.
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                  January 19, 198
+
+
+
+Fred Bellomy
+OASIS USERS GROUP
+P.O. BOX 2400
+SANTA BARBARA, CA. 93120
+
+Dear Fred:
+I would  like  to  ask  the  Group membership  to  respond to the
+following questions  if they  are able.  I am willing  to pay for
+the costs involved.
+
+1. I create indexed  files up to 65000 records  each, all updated
+in multi-user mode.  The record count is maintained for the first
+operator to  access the  file.  This is unacceptable for  obvious
+reasons.  I need a patch or routine that keeps an accurate record
+count.   I  currently keep  the count  in a separate file, but  I
+shouldn't have to.
+
+2. Most  of  my  clients  use the  ALTOS-8000 multi-user computer
+system.   The ALTOS  OASIS software  allows  2 physical hard disk
+drives, and a  maximum of 2 floppy disk  drives.  I would like to
+drive up  to 4  floppys with the hard disks.   I can easily do it
+under MPM  11, but not with OASIS.  I have asked ALTOS, and PHASE
+ONE, but they either won't or can't oblige me.  Someone must know
+how to patch the system (5.5) so it will.
+
+3. I would like  to find a low cost  single-user computer capable
+of supporting OASIS.  Something like the BASIS-108 would be ideal
+!!  I have a pending vert- ical market need for approximately 100
+for openers.   The price  is the key, as is  maintainability, and
+product support.  I  am not anxious to pioneer  after 25 years in
+this business, so  those with breadboards or prototypes  need not
+apply.
+
+4. Fred, keep  up the good work.  As to OASIS promotion, the only
+publication  that  routinely reviews  OASIS is Interface Age.  I,
+for one, do  not intend to promote OASIS.   My clients could care
+less  whether I  use MPM,  CPM, Xenix, or RSX-11M.  Promotion  is
+PHASE  ONE's responsibility.   DECUS does not promote Digital, we
+should not  have to sing PHASE ONE's praises, especially when the
+software has glaring  faults (try spooling to a  disk that cannot
+hold a large spool file !!!), the manufacturer is not responsive,
+and makes promises  it can't keep.  I lost  2 large orders due to
+the  unavailabilty of  OASIS-16, although promised months ago.  I
+think,  if  not for  the USER  group, I would have dropped  OASIS
+several clients ago.
+
+
+                                        Sincerely yours,
+
+
+                                        Robert E. Smythe
+                                   President, MICROMAGIC, INC.
+                                   P.O. BOX 23  HULL, MA. 02045
+                                   (617) 925-1260 OR
+                                   (617) 828-2500, EXT 431
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                    Robert Chapman
+                                    465 Lakeshore Road West
+                                    Oakville, Ontario
+                                    Canada        L6K1G4
+
+                                    January 7, 1983
+
+Dear Fred,
+
+As  you  can tell  from the  label on this diskette I  am finally
+getting  finished some  of the  projects I mentioned in my  first
+letter.   This  diskette has  two programs for transferring files
+from Model  II TRSDOS  diskettes to OASIS.  The only  other way I
+know of to do this is via TRSDOS-->CPM-->OASIS.  GETRS allows you
+to  do a  direct  conversion  without  the  expense of  buying  a
+REFORMATTER package.  RSDIR is a utility which allows you to read
+the directory  on TRSDOS diskette and either display or print it.
+These programs  function similar  to the GETFILE utility in  that
+they only  allow reading  of the foreign diskettes and  do not do
+program conversions.   As you  are aware, Microsoft Basic is  not
+compatible  with  OASIS  Basic  and the  programs require further
+translation.The  program  SNOOPY  BASIC on  this diskette was the
+first file I used GETRS on and is included for purely sentimental
+reasons.
+
+I am well  on the way to completion of a disk sector modification
+utility  similar  to  SUPERZAP  and  called, appropriately,  ZAP.
+(being much  too modest for the 'super' prefix.) My intention was
+to  include  it on  this diskette  but as always, it seems,  last
+minute  changes crop  up -  in testing ZAP I found  minor bugs in
+GETRS and RSDIR - so ZAP will have to wait for the next diskette.
+
+Also on  this diskette  is  a  new  revision  of PROOF  which  is
+somewhat   faster   than  the   previous  one  while  maintaining
+compatibility  with  the spelling  file structure.  Hopefully, at
+some future date, I will compress the SPELLING files so that they
+will fit on  a single double density diskette.   I also intend to
+investigate  faster   methods  of  verifying  spelling  than  are
+presently used in PROOF.
+
+The more  I program  with  OASIS  the  more  I like  it.   I must
+honestly say  that I am in awe of Timothy S.  Williams.  OASIS is
+a remarkable  achievement.  The fact that it is so good, however,
+only further exacerbates the problem of poor software for the end
+user.   I  have in  mind the  MASTERPLAN  package currently being
+distributed  by  Phase  One  Systems.   This  package  is written
+entirely in  BASIC, and  while it is very ambitious  in its scope
+and  capabilities,  it is  horrendously slow!   It  is the raison
+d'etre of microcomputers to have software that is interactive and
+quick  responding  to the  user.  This  package  is certainly not
+that.  Even  to process  the examples shown in the  documentation
+(which, by the way, is excellent) takes enough time for you to go
+have a  coffee!  Interpreted or pseudo-compiled BASIC is just not
+fast enough to  handle this type of application.   I realize that
+this  is  not  a spreadsheet  program but  it  lacks entirely the
+facility  for  instant  'what-ifs'  that  makes  these  types  of
+programs   so   usable   to  the   non-programmer.   I  was  very
+disappointed in  MASTERPLAN.  I regret my purchase of it.  On the
+other hand,  if we had a true compiler for BASIC then perhaps the
+performance  of  this  package could  be improved.  Compilers are
+available  for  the  other  8-bit  operating  systems  which will
+greatly outperform an  OASIS BASIC program.  Why isn't  there one
+for OASIS?  And what ever happened to the Pascal compiler we were
+supposed  to have  in August?   Is it ever going to  appear?  I'm
+sorry, Fred,  if this sounds like a lot of griping but this is an
+open letter  to other users (and perhaps Phase One) and I do feel
+like I have been 'had' with this MASTERPLAN package.
+
+Well, I  have rambled  a bit  in this letter but at  least I feel
+better now.   I was very disappointed to read the COMDEX issue of
+Info-World and not find one mention of OASIS.  It sure seems like
+CP/M has  the world by the short ones.  I am familiar mainly with
+Radio Shack computers  (and there sure are a  lot of THEM around)
+and subscribe to  two magazines which are published  for users of
+the  Model  II.  Both  of them  are  actively promoting their own
+favourite operating  system for  the II.  Once they sell  you the
+operating system they will get to sell you all the 'improvements'
+▼ EMBER20.FEEDBACK:VOL20                                   01/29/85 17:02 Page 2
+
+that should have  been there in the first  place.  No wonder they
+aren't interested in reviewing OASIS.
+
+Alas, I wax cynical  and now that I feel  bad again it is time to
+close.
+
+                        Be well and,
+                        May all your parentheses be balanced,
+
+
+                                Bob
+                                            January 9,1983
+P.S.
+I got ZAP  finished sooner than expected and  have included it on
+this  diskette.   I would  appreciate any feedback or suggestions
+regarding any of the programs on this diskette.
+
+                                               B.C.
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+FRED:
+THIS IS MY FIRST CONTRIBUTION TO THE OASIS USERS' GROUP.
+
+THE AMORT  PROGRAM,  ALTHOUGH A  POSSIBLE DUPLICATION OF WHAT YOU
+MAY ALREADY HAVE, CONTAINS SOME UNUSUAL FEATURES.
+
+THE NAMEIT PROGRAM  IS FUN, AND WAS CONVERTED BY ME FROM M-BASIC.
+IT WAS CONVERTED BY HAND, AND THEREFORE IS RATHER ELEMENTARY.
+
+THE CHNGPRIV PROGRAM IS INTENDED TO CHANGE THE PRIVILEGE LEVEL UP
+TO  7  (THE FACTORY  LEVEL FOR  OASIS).  IT WILL EN- ABLE  YOU TO
+EXECUTE THINGS LIKE ACCOUNT FROM ANY ACCOUNT.
+
+USE YOUR DISCRETION AS TO A GENERAL RELEASE OF THIS VERY POWERFUL
+ROUTINE...   IT  ISN'T FOR  EVERYBODY, AS  IT  ENABLES ONE TO GET
+INSIDE OF THE  NUCLEUS, AND DO ALL SORTS  OF DAMAGE IF YOU'RE NOT
+CAREFUL.
+
+PLEASE NOTE THAT I AM DEVELOPING A CONVERTER WHICH WILL TRANSLATE
+OASIS  TO  "C"  FOR RUNNING  UNDER UNIX.   IF  ANY MEMBERS OF THE
+USERS' GROUP  HAVE AN INTEREST IN THIS SORT OF TRANSLATOR, PLEASE
+HAVE THEM DROP ME A LINE AT:
+
+          PARKE-RANDALL MANAGEMENT CO.
+          6728 HILLPARK DRIVE #308
+          HOLLYWOOD, CA 90068
+               ATTN: TOM PAPKE
+
+     HAPPY HOLIDAYS...
+                                   TOM PAPKE
+                                   OUG MEMBER
+                                   (213) 874-2394
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF VOLUME20 FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ISH.LIST20:VOL20                                         01/29/85 17:02 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #20 - I wish somebody would...................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification)
+
+6. We need  a conversion  routine for converting ASSEMBLY language  code
+from other Z80 systems to OASIS.
+
+7. We need a BASIC disassembler.
+
+9. I  need a  data base  system for maintaining  a  commercial  software
+directory - again one that can be released into the OUG library.
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+11. We need  lots more  applications to run against the  dictionary data
+base.
+
+
+13. WE BADLY NEED  A MODIFICATION TO SYSTEM.NUCLEUS THAT  WILL IMPLEMENT
+THE BREAK  FUNCTION.  PHASE ONE hasn't been responsive to the pleas from
+(at least) several members.  This may be hardware dependent.
+
+14. We  need someone  to run  our dictionary through one or  more of the
+other spelling checkers.  There are MANY misspelled words in the current
+version of our word list, as well as many more non-words.
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+
+19. We very  much need a comparison of the features of the various major
+operating systems (including OASIS, naturally).
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+air and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+22. A  screen  oriented  editer (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again each time.
+
+24. A synchronous communication program.
+
+25. People to search through other users groups libraries for worthwhile
+things to  convert for operation under OASIS which we do not yet have in
+the OUG library.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+27. A grammatical error checker.
+
+28. A fast assembly language SORT.
+
+29. A list of the 500 most frequently used words in English writing
+    for use with Chapman's new spelling checker.
+
+30. A utility for automatically figuring out the optimum disk ATTACH
+    values for HDL, STP, and STS for all of the different systems
+    now operating under OASIS.
+
+31. A generalized "25th line/prompt line" generator with fast cursor
+    selection of options for execution of user programs/EXECs.
+
+32. Major improvements to the way we introduce/review the contents of
+    new volumes - alternatives to the VOLnn.EXECs.
+
+33. New integrated way to find and use things in the OUG/personal library
+    (a la APPLE/LISA) - beyond subject collections and CONTENTS files.
+
+34. A CP/M emulator.
+
+35. More demonstration packages of commercial software for our collection
+    of those available to members.
+
+36. More people to write articles about OASIS or letters to publications
+    about such articles they have seen.  More press releases about your
+    own OASIS compatible commercial software. Etc.
+
+37.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 15 February 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 20.
+
+***************************************************************
+
+
+AMORT.BASIC
+
+Yet another amortization program, but with a few new kinks that
+definitely justify adding it to the library.  It was contributed by
+it's author, Tom Papke.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HNGPRIV.COMMAND
+
+The CHNGPRIV utility is intended to change the privilege
+level up to 7 (the factory level for OASIS).  It will enable
+you to execute things like ACCOUNT from any account. No
+source was provided.
+
+Be careful with this very powerful routine... it isn't for
+everybody, as it enables one to get inside of the nucleus,
+and do all sorts of damage if you're not careful.
+
+Tom Papke (213) 874-2394
+
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UMPDSK.ASSEMBLE
+DUMPMEM.ASSEMBLE
+
+DUMPMEM, allows you to dump any memory address to the console.
+DUMPDSK, allows you to dump any disk sector to the console.
+On both of them you enter a decimal number (memory address
+or disk sector) or a 'C' (for cancel) and they will dump at that
+point. If you make a null entry (no characters or non-numeric)
+they will continue where they left off (upon entry they will start
+at zero). The drive code on the disk dump is set by the first
+parameter of the command line (default is S), ie. DUMPDSK A, will
+dump sectors off drive  A.  Note that these programs do not allow
+modification of memory or disk, they are therefore a lot safer than
+upping your privilege level.  Bill Berne (206) 789-2888
+
+▼ Only the ASSEMBLY versions of these two programs are included
+because they are serialized for your machine number.  This in
+itself is a valuable contribution because it shows how it is done,
+and lots of you have been asking.  Be sure to also take a look at
+the SERIAL.IZATION file Bill sent in for more thoughts on software
+protection schemes.
+
+You may assemble both of the programs either using the automatic
+feature in this EXEC or by simply typing ASM DUMPDSK and ASM DUMPMEM
+and then following the instructions on your screen.
+
+WANT TO ASSEMBLE THEM NOW? [Y/N]:
+File "DUMPDSK.COMMAND" not found.
+
+
+
+TO TRY DUMPDSK NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+TO TRY DUMPMEM NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+XPANDIX.BASIC
+
+This is a slightly revised version of EXPANDI, a program for
+expanding the size of an index sequential file, originally released
+on Volume 11.  David Shirley had trouble making my original one
+work and fixed it to meet his needs.  Try both versions.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+IXIND.EXEC
+FIXINDEX.ASSEMBLE/COMMAND
+MOVE.MACRO
+
+This utility is used for fixing an invalid record count in an
+indexed file.  The record count is maintained in the directory
+entry block (DEB) for each file.  If several users are updating
+the same file at once, the record count quickly gets out of synch.
+An invalid record count is simply a nuisance in most cases.
+However, it can be a serious problem if you are using the OASIS
+Sort Utility, which assumes the record count is valid.  The
+FIXINDEX program reads through the entire index file, counts the
+number of records, and the updates the DEB.
+from John Lapenta (315) 735-6421
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AZERGUN.BASIC
+
+This is a nifty little strategy game about trying to direct
+"laser" bolts at an Unidentified Flying Object from outer
+space. It's a little slow, but kept my interest for at least
+a few minutes (might have been more inclined to play longer,
+if I hadn't been working on getting Volume 20 out!).  It was
+contributed by Jesse Josserand who I think wrote it.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AMEIT.BASIC
+
+This is a great pseudo-utility for generating new names of companies
+and/or products from random selections of 48 prefixes and 48 suffixes.
+List the program to see if your own company/product can be generated
+from the current list.  This program can form the basis for many other
+similar ones by just changing the contents of the DATA lines.  For
+example, I'd like to see someone come up with a phrase generator for
+writing nonsense technical sentences.  I'll bet you can think of other
+even more interesting variations.  This program was contributed by
+Tom Papke who converted it from an anonymous M-Basic version.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+THELLO.BASIC
+
+This is the old classic game based on the Japanese game GO.  You
+try to get the largest number of spaces covered by your markers
+by capturing any of the opponent's  which you can bracket.  This
+version was converted for OASIS by Jesse Josserand.  It is VERY
+slow when the computer is deciding which move it wants to make,
+and it wastes a lot of time re-painting the  display each time
+instead of making use of the excellent OASIS direct cursor
+addressing capability (a la HEXAPAWN, etc.).  If you have a mind
+to do it, send us a rewritten version that runs faster.  It's a
+great game of strategy - lots of fun to play.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UG.CONTENTS
+
+Gary Thompson wanted to print out the complete set of volume
+descriptions (VOLnn.CONTENTS) in a nice format.  So, he put
+this SCRIPT file together to tie it all together.  Be sure
+you have a copy of all the VOLnn.CONTENTS files in your system
+before trying to use this aid.
+
+TO PRINT OUT ALL THE <content FILES NOW TYPE "RUN".
+ELSE HIT THE <CR> TO CONTINUE:
+
+ACK.COMMAND
+
+This is a true disk(ette) file compaction utility that will squeeze
+out all interfile spaces, moving it all to the end of the disk.  It
+was contributed to the library by Han-George Juerges of DATASOFT in
+Germany - Telephone (06181)253737 (he speaks fairly good English).
+This is a commercial product donated to the library for your own use
+and demonstration purposes only.  He has sold hundreds of copies in
+Europe and would like to find some US distributors.  As a consequence,
+no source code is provided.
+
+I use it all the time and it is great.  It does occasionally leave one
+block uncompacted for some reason with floppies, and it is VERY slow
+with my 13 Mbyte hard disk - taking at least four passes of 10-20
+minutes each to squeeze out most of the blank spaces.  This compares
+with the Quantum Information "SQUEEZE.COMMAND" which does the whole
+job in a little under ten minutes.  BUT! the PACK.COMMAND is three
+times faster than SQUEEZE.COMMAND with a double density floppy
+containing about 130 sequential files.  So, take you pick.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ROOF.COMMAND
+
+The saga continues.  This is the latest version of Bob Chapman's
+spelling checker program.  It incorporates several improvements
+that makes it faster and more natural to use.  Just replace your
+old version with this one - it's better.  And, let Bob know you
+like it sometime (416) 827-4173.  He tells me he hasn't had much
+feedback from members who use it???  I use it all the time and
+think its the greatest thing since peanut butter!
+
+BE SURE THE NEW VERSION IS THE ONLY ONE IN YOUR SYSTEM.
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AIDER.BASIC
+
+This is and OASIS version of the popular arcade game Space Raiders.
+It was contributed by Jesse Josserand.  It is slow and the response
+is jerky, but if you are in to shooting at spaceships while they
+shoot back at you, you may enjoy this new contribution.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ETCODE.ASSEMBLE/COMMAND
+RETCODEX.EXEC
+
+This utility allows you to set the Return Code to any value between
+and 255 in an EXEC procedure.  It was contributed by
+Gary Thompson of Design Systems (314) 391-0450
+
+TO SEE SYNTAX TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ERIAL.IZATION
+
+This is a write up on a method to serialize software to the Oasis
+Operating System. It is only one approach, use it as a basis for
+serializing your own code, be original. I recommend that Phase One
+use a similar tact within the nucleus and for important commands
+such as ATTACH, etc. Bill Berne (206) 789-2888
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+HOOTER.BASIC
+
+Another one of those shooting gallery type "action" games.  After
+about two minutes fooling around with this one I figured out the
+optimum strategy, so its greatest appeal is going to be for the
+kids on a rainy day.  It was submitted by Gary Thompson and a note
+in the program says it was written by Johnny Pumphandle.  Really?
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+NOOPY.BASIC
+
+Another picture of my favorite hound dog, Snoopy.  I know we have
+several others, but what the heck.  Besides, it was submitted by
+one of our more active and creative members, Bob Chapman.
+
+TO SEE IT AGAIN TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+RSDIR.ASSEMBLE/COMMAND
+TRSGET.ASSEMBLE/COMMAND/NOTES
+
+These are two programs for transferring files from Model II TRSDOS
+diskettes to OASIS. The only other way I know of to do this is via
+TRSDOS-->CPM-->OASIS. TRSGET allows you to do a direct conversion
+without the expense of buying a REFORMATTER package. TRSDIR is a
+utility which allows you to read the directory on TRSDOS diskette
+and either display or print it. These programs function similar to
+the GETFILE utility in that they only allow reading of the foreign
+diskettes and do not do program conversions. As you are aware,
+Microsoft Basic is not compatible with OASIS Basic and the programs
+require further translation.  Robert Chapman (416) 827-4173
+
+TO TRY TRSDIR NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+TO TRY TRSGET NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+NLOCK.ASSEMBLE/BASIC/BASICUSR/EXEC
+
+We have decided to release to the OUG, a copy of a utility that
+we have had lots of fun with called 'UNLOCK'. Get ready for this,
+IT REMOVES 'READ' PROTECTION FROM OASIS PROGRAMS AND FILES!
+Bet you'll have just as much fun with it as we have. Not to
+mention the headaches it will save when you or some unknown
+person 'accidentally' READ protects your files -- or worse
+your entire disk.
+
+Jesse Josserand, American Business Solutions Inc. (214) 484-8096
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+AP.ASSEMBLE/EXEC/NOTES
+ZAP$.COMMAND
+
+This is a disk sector modification utility similar to SUPERZAP and
+called, appropriately, ZAP. It uses full screen editing and
+is quite elegant.  It was written by Bob Chapman (416) 827-4173
+one of our most professional "hobbyist" members.  I'll bet this
+one is going to save somebody's rear end sometime when they find
+that the only copy of a very important disk has gotten corrupted
+somehow.  I haven't had any occasion to use it much, but it is very
+easy to use.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+OL18FIX.EXEC
+
+There was a catastrophic error in the VOL18.EXEC.  This EXEC
+routine corrects it.  Copy it to the Volume 18 diskette and then
+execute it.  It's automatic.
+
+▼ ^
+
+ELL, THAT'S  THE END  OF VOLUME 20.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+(805) 965-5555 (Answering machine)
+
+***************************************************************
+
+>

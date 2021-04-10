@@ -1,0 +1,1565 @@
+June 1985                       Volume: 47
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+>VOL47
+        OOOOOOOOOO@        DUUU@              DUUU@        DGGGGGGGGGGGG@
+    DOOOOOOOOOOOOOOO@      DUUU@              DUUU@      DGGGGGGGGGGGGGGGG@
+   DOOOO@         DOOOO@     DUUU@              DUUU@     DGGGG@          DGGGG@
+  DOOO@             DOOO@    DUUU@              DUUU@    DGGG@              DGGG@
+  DOOO@             DOOO@    DUUU@              DUUU@    DGGG@              DGGG@
+  DOOO@             DOOO@    DUUU@              DUUU@    DGGG@
+  DOOO@             DOOO@    DUUU@    VOLUME    DUUU@    DGGG@
+  DOOO@             DOOO@    DUUU@      47      DUUU@    DGGG@          DGGGGGGG@
+  DOOO@             DOOO@    DUUU@              DUUU@    DGGG@          DGGGGGGG@
+  DOOO@             DOOO@    DUUU@              DUUU@    DGGG@              DGGG@
+   DOOOO@         DOOOO@      DUUU@            DUUU@      DGGGG@          DGGGG@
+    DOOOOOOOOOOOOOOO@        DUUUUUUUUUUUUUUUU@        DGGGGGGGGGGGGGGGG@
+      DOOOOOOOOOOO@            DUUUUUUUUUUUU@            DGGGGGGGGGGGG@
+
+      Copyright 1985   T H E   O A S I S   U S E R S   G R O U P
+
+=====================================================================
+:                                                                   :
+:  "To become conscious of ourselves as body is to become           :
+:            conscious of humankind as one."  Norman O. Brown       :
+:                                                                   :
+=====================================================================
+▼ ♂♂♂♂♂♂♂♂
+D. . . . . . OUG library volume 47 is mounted on drive A . . . . . . .
+@
+D 1  COMPLETE INTRODUCTION TO VOLUME        5  LIST VOLUME NEWSLETTER
+ 2  LIST SUMMARY OF VOLUME SOFTWARE        6  LIST MEMBER'S FEEDBACK
+ 3  RUN SOFTWARE CONTRIBUTIONS ONLY        7  LIST CURRENT WISH LIST
+ 4  DISPLAY CONTENTS OF THIS VOLUME        8  QUIT
+@
+YOUR CHOICE? [1-8] ===> 1
+
+
+CONTENTS OF OUG VOLUME 47 ON DRIVE A
+
+>FILELIS A
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL47
+$README  FIRST    A 01/16/85 10:00    60    3 S    66 VOL47
+AUTOOFF  ASSEMBLE A 06/12/84 01:31    68    2 S    75 VOL47
+AUTOOFF  COMMAND  A 06/12/84 01:48     3    1 R   256 VOL47
+BASICED$ EXEC     A 05/16/85 08:27    81    3 S    65 VOL47
+BAUDRATE BASIC    A 05/16/85 08:27    32    2 S   138 VOL47
+BAUDRATE BASICUSR A 04/03/85 21:44     2    1 R   256 VOL47
+BENCHMF  BASIC    A 06/05/85 08:27    25    2 S    78 VOL47
+CALENDER BASIC    A 06/05/85 08:27   133    5 S   111 VOL47
+COMP     EXEC     A 05/16/85 08:27   102    3 S    74 VOL47
+COMP0    BASIC    A 05/16/85 08:27    56    3 S   171 VOL47
+COMP1    BASIC    A 05/16/85 08:27    88    5 S   123 VOL47
+CONTRAN  BASIC    A 03/30/85 12:35    64    3 S   118 VOL47
+CONV     ASSEMBLE A 03/06/85 16:27   154    3 S    71 VOL47
+CONV     COMMAND  A 01/10/85 19:27     5    2 R   256 VOL47
+CPMSYS   COPY     A 03/06/85 16:38   419   10 S    72 VOL47
+CRTFAST  EXEC     A 05/16/85 08:27    21    1 S    35 VOL47
+CRTSLOW  EXEC     A 05/16/85 08:27    21    1 S    36 VOL47
+DELAY    ASSEMBLE A 03/29/85 16:56    69    3 S    78 VOL47
+DELAY    COMMAND  A 05/16/85 08:27     2    1 R   256 VOL47
+DEV$IM2  ASSEMBLE A 05/16/85 08:27   281    4 S    75 VOL47
+EDOMAC   EXEC     A 05/16/85 08:27    37    1 S    61 VOL47
+FIXDIR   BASIC    A 05/16/85 08:27    80    4 S   121 VOL47
+FIXUSER3 ASSEMBLE A 06/01/84 02:57    80    3 S    74 VOL47
+FIXUSER3 BASICUSR A 05/16/85 08:27     3    1 R   256 VOL47
+FORM     ASSEMBLE A 02/20/85 23:08   159    2 S    65 VOL47
+FORM     COMMAND  A 02/20/85 04:52     8    2 R   256 VOL47
+FORMAT3  EXEC     A 05/16/85 08:27    86    3 S    77 VOL47
+HERB     BASIC    A 04/04/85 11:40    27    2 S   119 VOL47
+HERB     EXEC     A 05/16/85 08:27    19    1 S    44 VOL47
+KIFILES  ASSEMBLE A 03/06/85 16:16    90    2 S    70 VOL47
+KIFILES  COMMAND  A 01/31/85 22:57     4    1 R   256 VOL47
+OASISLIB MACLIB   A 03/07/85 00:56   129    3 S    72 VOL47
+OBJBASIC EXEC     A 05/16/85 08:27    20    1 S    61 VOL47
+RESET    EXEC     A 05/16/85 08:27    43    1 S    35 VOL47
+SELECT47 EXEC     A 06/05/85 08:27    64    3 S    46 VOL47
+SLOT3    BASIC    A 06/05/85 08:27   165    7 S   111 VOL47
+SLOTKT7  BASIC    A 06/05/85 08:27    98    5 S    82 VOL47
+SLOTV200 BASIC    A 06/05/85 08:27    96    4 S    84 VOL47
+SPEC     ASSEMBLE A 05/16/85 08:27   448    7 S    78 VOL47
+SPEC     COMMAND  A 05/16/85 08:27     9    3 R   256 VOL47
+SPOTS    BASIC    A 06/05/85 08:27    15    1 S    42 VOL47
+SUBDEMO  SUBLIB   A 05/16/85 08:27    32    2 SWD  28 VOL47
+SUBIN    EXEC     A 05/16/85 08:27     1    1 S    22 VOL47
+SUBIN33  EXEC     A 05/16/85 08:27     5    1 S    37 VOL47
+SUBLIB   COMMAND  A 06/03/85 21:08    23    6 R   256 VOL47
+SUBLIB   INFO     A 05/16/85 08:27    34    2 S    63 VOL47
+SUBLIB$  EXEC     A 06/05/85 08:27   114    4 S    68 VOL47
+SUBOUT   EXEC     A 05/16/85 08:27     1    1 S    23 VOL47
+SUBOUT33 EXEC     A 05/16/85 08:27     4    1 S    34 VOL47
+SUBTEST1 SUBDEMO  A 03/20/85 00:48     2    1 S    31 VOL47
+SUBTEST2 SUBDEMO  A 03/20/85 00:48     2    1 S    80 VOL47
+SUBTEST3 SUBDEMO  A 03/20/85 00:48     2    1 S    31 VOL47
+SYSTEM   DEV$IM2  A 05/16/85 08:27     3    1 R   256 VOL47
+TAPEDRIV ASSEMBLE A 05/16/85 08:27   218    3 S    69 VOL47
+TAPEDRIV BASICUSR A 05/16/85 08:27     5    2 R   256 VOL47
+TAPEDRIV EXEC     A 06/05/85 08:27    44    2 S    65 VOL47
+TAPEFORM ASSEMBLE A 05/16/85 08:27   198    3 S    65 VOL47
+UNDO     EXEC     A 05/16/85 08:27   134    4 S    86 VOL47
+VOL46BFX EXEC     A 06/05/85 08:27    16    1 S    54 VOL47
+VOL47    CONTENTS A 06/05/85 08:27   504   19 S    68 VOL47
+VOL47    EXEC     A 06/05/85 08:27  1109   27 S    84 VOL47
+VOL47    FEEDBACK A 06/05/85 08:27   523   21 S    66 VOL47
+VOL47    NEWS     A 06/05/85 08:27   399   22 S    65 VOL47
+64 file(s), 243 block(s).
+▼ ^
+>LIST VOL47 NEWS A
+OL47.NEWS:VOL47                                          01/30/85 14:06 Page 1
+
+-----------------------------------------------------------------
+9 June 1985             N E W S   L E T T E R           Volume 47
+-----------------------------------------------------------------
+
+
+
+
+Good Morning;
+
+
+
+VOL47: is crammed  full of utilities - 18 of them, plus 6 systems
+related  contributions;  a  little  lopsided  this time.   My big
+favorite is  the SUBLIB  system from Gary Bergman which  makes it
+possible to  hold many related sequential files in a single named
+library file that  takes up just one directory  entry.  This will
+be a big  winner with anyone who has  been bumping up against the
+1800-1900 file maximum  allowed in the Oasis disk  directory.  In
+my case it  means I can now keep  all 2400 OUG library files on a
+single 16 Mbyte hard disk for convenient online access.
+
+Gary also  sent  us several  versions of slot machine simulations
+that thoroughly exercise the graphics capabilities of the Kimtron
+KT7 and  Visual 200  terminals.  The graphics displays are  quite
+elegant on  these terminals and still useable on others.  The new
+FORMAT3 diskette initializer is based on his suggestions, too.
+
+For those of  you who have been playing around with moving things
+back   and   forth   between  Oasis   and  CP/M,  Kevin  Hansen's
+contributions   will   be   of  special   interest.   First,  his
+CPMSYS.COPY will  be useful to those trying to make CP/M assembly
+programs run  as commands under Oasis.  His library of frequently
+used  functions, OASISLIB.MACLIB,  should speed assembly language
+programming.   His  CONV.COMMAND converts  Oasis COMMAND files to
+Ascii binary COM files for transmission to CP/M machines.
+
+Kevin Hansen also  sent us a whole bunch of utilities.  One fixes
+corrupted ISAM/Keyed file record counts, another reports the data
+format  in ISAM  files, another  checks for empty files, and  one
+displays  file  specifications.  There  is a utility for shutting
+down  a  system  after  warning  all  users  and  a  program  for
+formatting tape cartridges.   He has a program for  listing files
+containing  control characters  in the  keys and a handy EXEC  to
+control the  editing, assembly, and linking of BASICUSR programs.
+There  is  an auto-compiler  for all  of  a user's BASICOBJ files
+residing  on  the  same disk,  and a  device  driver for IM2 type
+hardware.  Finally, Kevin offers us a new benchmark program which
+tests  a system's  speed in  processing math functions, and as  a
+diversion  he  included SPOTS  that creates  a  random pattern of
+several  hundred "spots"  on the  screen.  That's a lot of  stuff
+from Kevin this time.
+
+Dave Klotzman  also sent  a couple  of  utilities: one for easily
+setting the  baud  rate  of  the  COM port  and  another pair for
+slowing down (and  speeding up) the CRT display  rate.  Not to be
+out  done, Bill  Berne sent  his own elegant assembly version  to
+control the display rate.
+
+Mike Scheidell  contributed  three  utilities:  one to  erase all
+kinds of  working  files  for  all  users, one  to  control reset
+conditions,  and  another  to  reinstate  a  backup  file as  the
+original.  George  Willis sent in another wall calendar and I put
+together  an EXEC  to make  BASIC versions of all BASICOBJ  files
+that are on  the same disk.  I've also  included VOL46BFX.EXEC to
+fix two annoying errors in the main EXEC on Bonus 46 last time.
+
+The FEEDBACK  file   on  volume  47  is  packed  with  especially
+important messages and ideas this time.  Two EXECs on this volume
+utilize  innovative  programming  techniques: UNDO  and OBJBASIC.
+Check them out.
+
+TOO MUCH:  is  a complaint I often hear about our library.  There
+is  now so  much  stuff  that  it  is almost  impossible  to find
+anything.
+
+Take heart.  I  am now  using the prototype of a  great new, fast
+finding tool created  by Joe Trimble that makes  finding anything
+in our  library (or  any other database) easy.  So,  when someone
+calls me  now and wants to know which volume "that doctors office
+system" was  on,  it  is  as  easy as  typing:  LOCATE DOCTOR AND
+OFFICE.  Quick as  a wink (really) back comes  the short contents
+description of  STARDOC on  volume 26/27.  When we have  finished
+developing it  and checking it out, it will be released on one of
+the  regular   OUG  volumes.    The  data  bases  for  the   file
+descriptions and  indexes take  more than a Mbyte of  storage, so
+not  everyone  will  want to  keep them  online  all the time.  I
+intend  to  make it  available on  CARAVAN,  however.  If you are
+interested in assisting with the beta testing, let me know.
+
+CUSTOMIZING: things  now  in  the  OUG library  for some specific
+application in your  shop may be trivial.  But,  it might also be
+not so trivial.  Generally speaking, your best source for help in
+understanding an  obscure aspect of an OUG library program is the
+author.   Most are  happy to  answer  short questions about their
+progeny.   If  you  want  to  make  major  modifications or  need
+extensive  help  with installation,  even the authors might balk.
+When you  find yourself needing more help than you can reasonably
+expect to  get free,  give me a call and  I will help arrange for
+some paid professional assistance.
+
+OASIS TECHNOLOGIES:  There is  something big related to promotion
+in the offing.  No one will provide any details yet, but it looks
+like we  can expect major changes in the ways Oasis products will
+be marketed in the near future.
+
+What is  known at  this point  is that the new Phase  One Systems
+under  the   direction  of  Don  Drew  and  his  fledgling  Oasis
+Developers Association,  is pressing for royalties based on their
+ownership of  the Oasis  trade name.  Tim Williams and  Forth Try
+considered the 5% of gross  demanded  by  POS to  be unreasonable
+(Buddy Auble pointed out to me that  5%  of gross could represent
+as much as half of OT's profits!). On 5 June POS filed a petition
+to have OT restrained from using the trade name Oasis.  The court
+considered and denied the petition on 7 June, so Otech is free to
+continue doing business as usual.
+
+I must say  that I am disappointed with this latest POS move.  My
+understanding was  that the  "new" Phase One Systems intended  to
+bend over backwards to establish a constructive relationship with
+Otech, and would  do everything possible to heal  the old wounds.
+It certainly  would seem  to be in their best  interests to do so
+considering that  the  old  lawsuit  against  them is  yet  to be
+resolved.  It's all very puzzling.
+
+In discussing the  possibility of name changes for one or more of
+the operating system products, several people told me they didn't
+think it would  make all that much difference.   After all, Oasis
+is  marketed  mainly through  computer manufacturers and software
+houses,  and they  know what  it is no matter what  it is called.
+Don Drew  has been  unavailable for comment and Otech  reps would
+not comment  on any  speculations other than to say  that a major
+announcement related to marketing would be made very soon.  Watch
+the CARAVAN sign-on bulletin for the latest.
+
+PHASE ONE SYSTEMS: has  moved to smaller offices and  cut back to
+two  full  time  people according  to Ron  Gibbs,  the new VP and
+General Manager.   Hildi Langewis has stayed on and is the second
+member of  the staff.  The offices are now located at 2950 Merced
+Street #101, San Leandro, CA 94577.  They can be reached at (415)
+895-0832.  They  continue  to  sell  Control  and the  other  POS
+software products, do Control training classes, and offer a blind
+mailing service with  their 16,000 name Oasis mailing  list.  Ron
+says  they   have  deferred  publication  of  the  next  Software
+Directory,  but  still plan  to do  it  sometime.  They are again
+selling the Oasis Reference manuals (cost is $75).
+
+PRESS: releases about  Oasis were published in the March issue of
+Computer Product  News.  Computer System News ran a short feature
+article on the  new 80286 version of Oasis,  said to be ready for
+release in  June (In  fact Seikosha did show a  limited number of
+people the new  Seiko 8700 running Oasis286 at  the Hannover Fair
+in  April).  The  article was  very  complementary and quoted Tim
+Williams extensively.
+
+Walt Stagner (author of  a forthcoming book on Oasis)  got one of
+his letters praising Oasis printed in the April issue of Business
+Computer  Systems.  Jim  Gall got  the full six column "Unix  vs.
+Oasis: the  pros and  cons" article by Rhett Tindall  and Grayson
+Evans reprinted  in the  21 March issue of Computing  Canada.  (I
+sent them each a free OUG volume as promised).  CSN 8 April had a
+short notice  about the  acquisition of Phase One Systems  by Don
+Drew and his ODA.
+
+IBM/PC-AT: Tim  continues to  make progress on the implementation
+of Oasis86  for the AT.  I am told that progress could be faster,
+if he  had access to better IBM technical information for the AT.
+If you can help, get in touch.
+
+IBM/PC-XT: The Oasis86 version for this machine has been reported
+to also run  on the PC compatibles made  by Eagle and Wyse.  Know
+of any others?
+
+IBC: is on  the move again with several major announcements since
+our   last   newsletter.   They   continue  to  upgrade  the  IBC
+implementation of  Oasis 6.1 with the recent release of a version
+3 said to  offer a still smaller nucleus  size and to correct the
+last remaining  known bugs.   IBC has unveiled the MegaStar,  the
+big brother to the MultiStar series.  It supports up to 16 serial
+ports, up to  1024 Kbytes of memory, up  to 86 Mbyte Fujitsu hard
+disk,  and a  true Memory  Management Unit (MMU) for 8MHz  Z-80H.
+They  have  also officially  kicked off  the  ITS REAL program to
+assist with turnkey IBC systems promotion.  They already have had
+a  first meeting  at  the  Atlanta  Comdex  and plan  another  in
+conjunction with  the Chicago NCC.  Simultaneously, they launched
+a  whole new  advertising campaign directed toward increased name
+recognition amongst end-users of multiuser computer systems.  The
+two full  page ad  in the May Business Computer  Systems magazine
+hits the mark.
+
+ONYX: has apparently  embarked on a new major Oasis promotion for
+their   5010  8-bit   system  which  includes  significant  price
+reductions of up to 32 percent.  "Increased production efficiency
+has allowed  us to  make these price cuts, thereby  enhancing our
+position of providing a good price/performance ratio in the OASIS
+marketplace," stated  Herb Martin, president of Onyx.  There have
+been numerous  articles about the planned $50M merger of Onyx and
+Corvus  Systems.   I suppose  this has  something  to do with the
+recent flurry of activity there.
+
+Contacting two  other  Oasis  computer manufacturers,  I was told
+they interpret the Onyx move to be a price war designed to corner
+the Oasis market  and drive out competition.  One  thing is sure,
+competition  for the  dwindling personal/business computer market
+in general  is heating up and we are in the middle of a shakeout.
+There is  no reason to expect that our little niche in the market
+is going to be completely unaffected.
+
+Randy Weber is the  new OUG contact at Onyx  Systems and arranged
+last month  to upgrade  our 8001 system with the  latest firm and
+software.  Thanks Randy.
+
+ALTOS: is  now  being  supported by  Microcosm at 5367 Fieldgreen
+Drive, Stone  Mountain,  GA  30088.   The  contact there  is  Jim
+Simmons.  Phone  him at  (404) 498-2794.  Copies of Oasis  may be
+purchased from  him  or  directly  from  Otech for  the  the 580,
+586,986, and 8000 lines.
+
+KAYPRO: Buddy  Auble  tells  me  that  Otech and  RealSoft (Brian
+Goodheim)  have finally  reached an agreement on distribution and
+support of Oasis8  on the Kaypro-10.  This is  very good news and
+better late  than never!  I see in the 1 April issue of InfoWorld
+that there  is a Kaypro Users Group referral service.  Call (619)
+481-3941 for info.
+
+CROMEMCO: will  also be  supported I  have  just learned from the
+same  source.   Otech has  reached an  agreement  with Jon Rosser
+(214-827-4166) to handle it.
+
+WEST COAST COMPUTER FAIRE:  We were there all four  days in April
+and I  had  a  chance  to  meet some  of  our northern California
+members.   Helping  out at  the booth  were  Jerry Weltner of MBP
+Cobol, Buddy Auble  from Otech, Mikael Blaisdell and  our own Joe
+Trimble  for   OUG  (also  the  Bay  Area  chapter  coordinator).
+Activity at  the booth was slow most of the time, but over all it
+probably was  worth the  effort anyway.  Special thanks to  Oasis
+Technologies for loaning us an Altos 580 computer for our booth.
+
+HANNOVER FAIR: it would  be an understatement to say  that it was
+merely big;  it was  huge!  It is the world's  largest industrial
+trade   fair  -   actually  a   dozen   major  trade  fairs  held
+simultaneously at  the same location in two dozen mammoth exhibit
+halls plus extensive outdoor exhibit areas.  The computer related
+exhibit, CeBIT,  alone is  bigger than the US fall  Comdex.  But,
+bigness alone doesn't tell the whole story.
+
+While the Hannover Fair  is billed as an international  event, it
+is hardly  representative of world computer technology.  Like the
+US counterparts  there were indeed many "foreign" (ie non-German)
+visitors and  exhibitors.  But,  this is primarily a West  German
+sales event.  Of the 6000+  exhibitors, more than two thirds were
+German.   A mere  three percent  were from the US; less  than two
+percent from Japan.
+
+▼ OL47.NEWS:VOL47                                          01/30/85 14:06 Page 2
+
+As planned,  the Oasis  Users Group  members  did meet during the
+fair.   We have  a little  over forty European members total,  of
+which a little less than a third are in Germany.  But, two thirds
+of the 36 attendees at our first European fest were from Germany.
+So like the fair itself, our meeting turned out to be primarily a
+gathering for  the German  Oasis community.  And boy, was  such a
+meeting needed!
+
+After I summarized  the current  status of the OUG in  Europe, we
+had each  participant make  a statement to the group  about their
+involvement   with   Oasis.    Many   had  attended   hoping  for
+authoritative  North  American answers  to the many serious Oasis
+related problems they have been facing during the year just past.
+Several people  expressed regret that Susan Catalano of Otech had
+needed to  cancel her  planned participation in our meeting.   At
+least  one expressed  shock.  While Master Oasis Distributors had
+been named for four other European territories, no one had as yet
+been designated to  fill the German void left  when MBP announced
+their decision  to leave the Oasis world earlier this year.  This
+situation has left  quite a few systems dealers  and at least one
+manufacturer unaware of any source which can sell licensed copies
+of Oasis and provide technical support in Germany.
+
+Although there was  a bit of grumbling and talk about the need to
+protect investments  by using alternate operating systems, it was
+clear that a  majority genuinely hoped for an  improvement in the
+availability and support  for Oasis in Europe.  One  thing we can
+say about  Oasis users  everywhere is that they are  loyal.  Most
+are  loath  to  abandon what  they consider  the  best multi-user
+operating system in the world.
+
+Europe in general  and Germany  in particular are ripe for  a big
+Oasis  push.  But,  it looks  to me like the next  move must come
+from the United States.
+
+MEETINGS: There  is no  reason we  must  confine ourselves to any
+predetermined number of  general meetings, nor why they  must all
+be at the  Fall Comdex for the US.   One of the things we learned
+from the mini-feedback requests to standing order members is that
+a majority of  people regularly attend only those  computer shows
+held  in  a  location close  to where  they  live.  Well, we have
+members  everywhere.   If  you  live  in  a  city  where a  major
+conference or exhibit  is going to be held,  why not volunteer to
+coordinate an  OUG general meeting during the show.  There is not
+that much  work involved  and you will meet a  lot of interesting
+people.   I  notice the  next NCC  conference  will be in Chicago
+during July 15-18.  Any volunteers?  I'll help with promotion.
+
+SIG-C: Scott Watson has agree to coordinate the activities of OUG
+members  interested in  the "C"  language.  He can be reached  at
+(213) 434-2310.   Give him a call, if you have a special interest
+in "C" or want to help with conversion of things for Oasis.
+
+SIG-DEV: Steve  Paulovich has  been very busy trying to determine
+the  kinds of  activities software  developers  would like him to
+coordinate.  To date,  he has been putting together  plans for an
+online  commercial  software  directory and  information exchange
+service,  studying the  current contents  of  the OUG library for
+things  of  special  interest  to  developers, and  reviewing the
+existing OUG  membership list  to identify those members who  are
+developing   commercial  Oasis   software  applications.   He  is
+planning  a  trip this  summer to  visit many of our members  and
+tells me he is anxious to hear from many more software developers
+who would  like to collaborate in any sort of cooperative effort.
+He can  be reached at (617) 987-0477-home or (617) 987-8732-work.
+This  is  a  potentially  important  project  and  deserves  your
+attention.
+
+SIG-IBC: I have  thought for some time that members with the same
+kinds of  computers might like to have their own special interest
+groups.   Most of  the referrals  I do are to members  who have a
+specific hardware configuration.  It seems to me that there could
+well  be  a greater  degree of  coordination  of hardware related
+activities among OUG members.
+
+There are some  de  facto  sig's  out  there already.   IBC,  for
+example,  recently  announced  IT'S  REAL  (IBC  Turnkey  Systems
+REsellers  ALliance)  for the  purpose of assisting resellers and
+software houses market turnkey systems which use their computers.
+In this case  the focus in on the  IBC hardware using either UNIX
+or  OASIS.   Similarly,  The  Southern  California Digital  Group
+Computer Society, managed  by OUG member Fred Sutton,  assists DG
+owners with all  kinds of hardware (and software)  matters.  Fred
+already talks to DG-Oasis users and does a lot of coordination on
+his own.   If you are interested in coordinating contacts for any
+of the computers which run Oasis, let me know.
+
+CP/MUG: The  various CP/M  users groups have assembled very large
+libraries  of  public  domain software.   I would  like  to start
+culling through their  volumes for quality things which  might be
+of special  interest to Oasis users.  If you have a complete set,
+please get in  touch with me to discuss  ways we might get such a
+project started.
+
+IBM-CMS: The  IBM   Conversational  Monitor  System  (CMS)  is  a
+mainframe  systems  environment well  known to Stu Rosenthal.  We
+were  chatting  the other  day and  he pointed out that Oasis  is
+almost identical  to CMS in file naming conventions, functions of
+EXEC,  the  SCRIPT  capability,  etc.   "Obviously,  Tim  had CMS
+features in  mind as  he designed Oasis." Stu observed.   I can't
+help  but wonder  if all  those mainframers know that so  much of
+their training and  experience could be transferred so  easily to
+micros.   For that  matter, I  wonder if the right people  at IBM
+know!
+
+EASYBASE: is a  comprehensive  database/spreadsheet  system  with
+extensive  report  generator  capabilities.   The  OUG  has  just
+acquired end user distribution rights and will be releasing it as
+a  double  OUG  volume sometime  later this  year.   While we are
+preparing a  more  compact  OUG  version  for release  I  will be
+looking  for members  willing to  help with beta testing and  the
+development of foolproof installation procedures.  If interested,
+give me a call soon.
+
+WARDAY: is a  book by  Whitley Strieber and James Kunetka  that I
+commend  to anyone  interested in  the effects of nuclear war  on
+computers.  Many years  ago when I was more  closely aligned with
+the establishment,  I felt  strongly that mixing peace talk  with
+business  was unprofessional.   WAR talk  was  OK, at least those
+"innocuous"  aspects  of  it which  related to  business.   Now I
+realize  that lots  of us  have been very short sighted,  and our
+collective  myopia  has  brought us  to the  brink  of accidental
+nuclear war.   Peace in the nuclear age has everything to do with
+our computer businesses.
+
+In that fateful  opening exchange on Warday, all of our computers
+will be destroyed, a few from the blast effects and the rest from
+the   intentional  enemy   EMP  effects  (ElectroMagnetic  Pulse)
+associated with  nuclear detonations.  Only the most deliberately
+protected   or  specially   designed  electronic  equipment  will
+survive.  Now  that  sounds  like  a  valid reason  for  computer
+professionals  to  join  the  ranks  of  other  professionals  in
+searching for  ways to rid the Earth of nuclear weapons.  We must
+not  leave  all  the  work  to  the  idealistic "peace  movement"
+workers.  Business  suits must join the sweat shirts and clerical
+collars.   Finding  a way  to help  the world step back from  the
+brink is  just too important for computer professionals to ignore
+any longer.  We must all help.
+
+Visualizing peace, Fred Bellomy
+
+(805) 965-0265 and (805) 965-5415 for CARAVAN our info system.
+
+-----------------------------------------------------------------
+end of                  N E W S   L E T T E R           Volume 47
+-----------------------------------------------------------------
+▼ ^
+>LIST VOL47 FEEDBACK A
+OL47.FEEDBACK:VOL47                                      01/30/85 14:07 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL47.FEEDBACK                                        6 June 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+01218,10,03/22/85,20:49,FRANK MELVILLE,JACK HOLEMAN
+
+A POSSIBLE BBS  (OASIS) FOR  YOU,, Jack, Just for fun,  I wrote a
+BBS that  is running  on my KAYPRO 10.  It  operates under OASIS,
+and has 4  built in Boards, plus SIGS  (Special Interest Groups).
+Also, the  operator control is pretty user-friendly.  If you want
+to try it out, give it a call:
+
+    (216) 321-7456 (8pm-11pm eves only until April 1)
+    (216) 368-4018 (24hrs daily after April 1)
+
+  -Frank Melville
+
+-----------------------------------------------------------------
+01220,19,03/29/85,16:37,SCOTT WATSON,ALL
+
+WISH I MAY/ WISH I MIGHT,LOVE, Ola all, ...regarding two items on
+the wish list...
+
+1) ARCHIVE  RECOVERY -  I am  currently  selling RAID, an archive
+recovery program.   In it's current form it will restore one file
+at a time.   Hopefully by the first week  off April it will be as
+easy  to  use as  RESTORE.  YES  IT  WORKS...  (in it's primitive
+form)YES IT IS CHEAP...  (note: will not recover TAPE archives...
+later...(maybe))
+
+2) CP/M PUTFILE  - I have a CP/M version of GETFILE that will get
+OASIS SEQUENTIAL files from a SS/SD diskette.
+
+      Cheers,
+      Scott Watson
+      16835 Algonquin #207
+      Huntington Beach, CA.  92649
+
+PS: #2 above is FREE.
+
+-----------------------------------------------------------------
+01222,11,03/29/85,17:14,BILL BERNE,ALL
+
+RMCOBOL SORTING,,  We  now  have  a  sort  'QISORTC'  which sorts
+RMCOBOL data  files  directly,  no  need  to do  sequential  file
+extracts. It works w/ comp-1 and comp-3 data fields and allows up
+to  32  fields  to  be  used  for  data  records extraction  (ie.
+S1-7P,GT,'1000'  means  select  record  if  the  packed  field in
+positions 1  thru 7 is greater than 1000).  It is also very fast.
+I'm sending an eval.  copy to Craig Killam (COBOL SIG), he should
+be able to give an unbiased evaluation.
+
+Regards, Bill Berne'
+
+-----------------------------------------------------------------
+01225,17,04/01/85,16:28,DAVE KLOTZMAN,FRED
+
+MISC.,NONE, First: I  find it  very unfriendly for CARAVAN to not
+tell me what the firstlast msg numbers are!  Surely IT knows!
+
+Second: It sure  would be nice to read messages sequentially with
+a R;1200+ command!
+
+Third: How did  your Altos 5-15 become a 580-10?????????  (I want
+to order a  CMI 5619 15.5M drive for  my 5-15 this week; anything
+you learned  in jumping  from the floppy to winchester  bandwagon
+would be appreciated.)
+
+Please let me hear from you on the 3rd point soon.
+
+- Dave
+
+-----------------------------------------------------------------
+01226,08,04/03/85,10:35,CHARLES PEEBLES,ALL
+
+BAR CODE SOFTWARE,AMTM, I  AM LOOKING FOR BAR CODE  SOFTWARE THAT
+CAN BE RUN ON AN ALTOS 8000 COMPUTER SYSTEM.
+
+IF YOU KNOW OF SOFTWARE THAT WILL ACCOMPLISH THIS FUNCTION PLEASE
+LEAVE A MESSAGE FOR ME, OR GIVE ME A CALL AT (312) 945-8822
+
+THANKS
+
+-----------------------------------------------------------------
+01227,09,04/06/85,02:12,MACY HALLOCK,FRED BELLOMY
+
+MODEMS,, AM   BEGINNING   TO   IMPLEMENT   MY   IN   HOUSE   DATA
+COMMUNICATIONS SYSTEM.  CURRENTLY USING ALL 300 BPS MODEMS.  HAVE
+DESIGNED  A  PROGRAM  FOR THE  RADIO SHACK  MODEM  II TO DOWNLOAD
+NUMBERS,  ETC.   WILL  CONTRIBUTE  IT  SHORTLY.   HAVE  ORDERED A
+PROMETHEUS 1200 FOR MAIN OFFICE, BUT WILL NOT GET IT FOR AT LEAST
+A MONTH. MAY HAVE  SOLUTION FOR PROMETHEUS PROBLEMS WE WORKED ON.
+WILL  CALL  YOU TO  DISCUSS.  THIS  IS FIRST TIME ON CARAVAN,  AM
+USING RADIO SHACK MODEM II VIA SPRINT AND IT WORKS GREAT.
+
+-----------------------------------------------------------------
+01228,11,04/08/85,11:05,ALLAN SCHWARTZ,ALL
+
+ALTOS 8000-10 FOR  SALE,, I no longer need the ACS 8000-10 system
+I used to develop CTRAN. It  consists  of  192K ram,  1 8" floppy
+(DSDD, 1Mb), and 1 8" 10Mbytes hard disk.  I have partitioned the
+hard  disk  to  run both  OASIS and  CP/M  (about 5 Mbytes each).
+Price? $2200.  There  is tons of software on the disk that I will
+throw in.  Also for sale ...  An Infoton-200 terminal ..  $120
+...  A Soroc-120 terminal ..  $175
+
+Allan Schwartz
+10191 Bret Ave, Cupertino, CA  95014
+Wk: 415 969-4400; Hm: 408 996-3983
+
+-----------------------------------------------------------------
+01229,13,04/08/85,11:32,ALLAN SCHWARTZ,FRED
+
+REQUEST FOR D.B.  INFO,, Dear Fred Bellomy, I desperately need to
+sell my  Altos 8000-10 (see prev ious message) to finance my next
+development  project.   Could you  let me download the membership
+roster?  From  an earlier  message, I learned that there  are 134
+owners of Altos in the roster. I  would like  to write to each of
+them, and offer them a second Altos, relatively cheaply.
+
+Please leave  a  message,  (I will  call back  each  morning this
+week), or call me at 415-969-4400x280, or 408-996-3983, evenings.
+
+Thanks in advance, Allan Schwartz
+
+-----------------------------------------------------------------
+01231,37,04/10/85,18:17,KEVIN HANSEN,ALL
+
+IBC 6.1-S PATCH,,  Allow attachment of printer1 to different port
+when  using the  spooler.  (OASIS  6.1-S  IBC HP-MIDDI and SUPPER
+CADET)
+
+PATCH SYSTEM.NUCLEUS:<fd>
+VER 9+10+80+0D7 20 01 E9 C3
+REP 9+10+80+0D7 00 00
+END
+
+NOTE: This patch comes from IBC with the following:
+
+This   patch   defeats   changes  made   by  Oasis  Technologies.
+Therefore, no guarantee of its functionality can be made.
+
+
+When using  spooler,  System  crashes  when  printer opened  then
+closed with no output.  OASIS 6.1-S IBC HP-MIDDI and  SUPER CADET
+
+>PATCH SYSTEM.NUCLEUS:<fd>
+VER 206A 84
+REP 206A 82
+VER 2074 DD E1 20 04 0E 0D CF 40
+REP 2074 30 04 0E 0D CF 40 0E 0A
+VER 207C 0E 0A CF 40 0E 1F CF 40
+REP 207C CF 40 0E 1F CF 40 DD E1
+END
+
+This patch is of  my creation and so all  references to it should
+be made to me.  If you find a problem with it, please let me know
+so I can fix it.
+
+  Kevin Hansen c/o ROSS DISTRIBUTING CO.
+     78 SOUTH STATE
+     PRESTON IDAHO 83263
+     208 852 0832
+
+-----------------------------------------------------------------
+01233,07,04/12/85,04:34,RANDY SUN,ALL
+
+MODEMS FOR SALE,,  I HAVE TWO HAYES 1200B MODEMS FOR SALE.  THESE
+ARE  BRAND  NEW  AND NEVER  USED.  STILL  IN  ORIGINAL CELLOPHANE
+BOXING.  $425.00 EACH PLUS TAX. CALL: RANDY SUN (707) 263-5345
+(707) 274-8581 WRITE: 3055 LAKESHORE BLVD.  UPPER LAKE, CA 95485
+
+-----------------------------------------------------------------
+01235,06,04/12/85,14:46,RONALD NUTTALL,BELLOMY
+
+ALTOS DISKETTES,, Fred; The  Altos format 5 1/4 diskettes  CAN be
+read by my BILLINGS machine!
+
+Ron Nuttall
+
+-----------------------------------------------------------------
+01238,15,05/10/85,16:12,STEVE PAULOVICH,ALL
+
+SOFTWARE DEVELOPERS' SIG,, Plans for the OUG Software Developers'
+SIG  are finally  coming to  fruition.  By the end of  May, there
+will be an automated software directory available.
+
+I am currently looking for software developers with insight and a
+tight advertising budget to list their products.
+
+If you are  interested, please call me, Steve Paulovich, at (617)
+987-0477  after 5:00  pm (Eastern  Time)  for more information or
+write to :
+
+       Steve Paulovich
+       8 Thayer Pond Dr. #1
+       N. Oxford, MA  01537
+
+-----------------------------------------------------------------
+01239,10,05/11/85,19:09,AL WHITAKER,ALL
+
+MODEL 11  R/S,, I  AM  LOOKING  FOR  A  MODEL 11  RADIO  SHACK TO
+PURCHASE. HARD DISK  A MUST  - + 4 BOARDS WOULD  BE NICE.  IF YOU
+HAVE  SOMETHING CALL  AL WHITAKER (DIABLO ENGINE) AT 415-828-0222
+(DUBLIN CA 94566)
+
+DOES ANYONE  KNOW IF  THEIR  IS  A  WAY  TO USE  THE  RADIO-SHACK
+(3-DRIVE) 8" EXPANSION UNIT FROM MODEL 11 ON` WITH IBC.
+
+ANY HELP WOULD BE APPRECIATED.  THANKS - AL WHITAKER
+
+-----------------------------------------------------------------
+01240,16,05/21/85,06:29,GEORGE WILLIS,FRED
+
+Point of interest: sold a Toshiba 351 printer to client, based on
+specs  (yes, I  know the  spec sheets speak with forked  tongue).
+Well .   .  .  , if that sucker ever sees 200+ CPS this is a 9600
+baud modem on a voice circuit.
+
+See ya, George Willis
+
+-----------------------------------------------------------------
+01241,11,05/24/85,18:59,BOB SMYTHE,ALL
+
+NEED OASIS FOR  OLD ALTOS,,  I am looking for OASIS  for an ALTOS
+8000-8, which  was an early multi-user with a SA4000 14 inch hard
+disk,  and  8 inch  floppy (SS/DD).   I obtained the system as  a
+trade in  and want to use it for special purposes.  Please advise
+if you know where I can beg, buy, borrow, or steal.  Also, have 2
+almost new TVI 925 terminals for sale.  $400 each, plus UPS ship.
+
+Robert E. Smythe
+247 Beach AVe.
+Hull, Ma. 02045
+(617)925-1260
+
+-----------------------------------------------------------------
+01242,05,05/30/85,20:17,CATHY FISCHER,ALL
+
+BEGINNERS NEED  HELP,,   We  need  help.   The  Juvenile  Justice
+Connection   Project,  a   non-profit  community  service,  needs
+'friendly'  contacts  from  other  IBC Middi  users.  Please call
+Cathy Fischer at (818) 908-5017, or write us at JJCP, 6851 Lennox
+Ave., Van Nuys, CA 91405.  (OUG members is John Mc Nair.
+
+-----------------------------------------------------------------
+
+01243,08,05/31/85,09:54,MICHAEL ACKERMAN,ALL
+
+EASYLINK SOFTWARE,, I  JUST WANTED TO LET OTHER OUGER'S KNOW THAT
+THE EASYLINK  PROGRAM ON VOLUME 39 IS THE BEST THING SINCE SLICED
+BREAD!   WE  HAVE BEEN  SENDING TELEXES  TO  CHINA TO ENHANCE SAN
+▼ OL47.FEEDBACK:VOL47                                      01/30/85 14:07 Page 2
+
+FRANCISCO'S POSITION  AS THE GATEWAY TO THE ORIENT AND BY GOD THE
+EASYLINK PROGRAMS  WORK LIKE A CHAMPION!  MANY THANKS TO YOU GARY
+BERGMAN FOR "PRETTY" SOFTWARE.
+
+
+-----------------------------------------------------------------
+04/07/85,00:59:18, 2,X,KEVIN HANSEN,(208) 852-0832
+
+]hi guy received  6.1-S for ibc middi and super cadet. Nucleus is
+smaller  (16k) 6.1. Feels nice. IBC has included some  very  nice
+utility  for recovering/fixing  bad tracks  on  the hard disk and
+also  for  setting up  the  hard  disk  any  way you  wish. There
+implementation of this  version is very clean other  than a small
+problem  with  the  spooler.  (  not able  to  attach printer1 to
+another port  still sends  it to  the spooler). So if any  one is
+thinking of getting 6.1 and uses two printers I think they should
+wait a while. If they don't need two printers then it's worth the
+upgrade cost.   I will  contact IBC monday and see  what they say
+about it
+
+Progress on the pascal and 'c' is slow going will keep you posted
+as to progress.
+
+-- KEVIN HANSEN
+
+-----------------------------------------------------------------
+05/08/85,12:22:42, 25,X,MICHAEL ACKERMAN,415-392-4511
+
+]Fred, Just wanted you to know that I am real happy we now have a
+group in the Bay Area.  THANKS!
+
+Michael Ackerman, San Francisco Chamber of Commerce
+
+-----------------------------------------------------------------
+The following are SIO port registers and interrupt vector numbers
+for IBC machines.
+==================================================================
+====== HARDWARE PORT AND VECTOR ADDRESSES FOR IBC CADET ======
+==================================================================
+
+port # ----------- vector # ---- sio$con ------- sio$dat ---------
+ #1:  ........... 6  .......... 0 ..............1 ............
+ #2:  ........... 7  .......... 2 ............. 3 ............
+ #3:  ........... 8  .......... 4 ............. 5 ............
+ #4:  ........... 9  .......... 6 ............. 7 ............
+ #5:  ........... 10 .......... 8 ............. 9 ............
+ #6:  ........... 11 .......... 10 ............ 11 ...........
+ #7:  ........... 12 .......... 12 ............ 13 ...........
+ #8:  ........... 13 .......... 14 ............ 15 ...........
+ #9:  ........... 14 .......... 16 ............ 17 ...........
+ #10: ........... 15 .......... 18 ............ 19 ...........
+
+==================================================================
+==== HARDWARE PORT AND VECTOR ADDRESSES FOR IBC MIDDI ============
+==================================================================
+
+port # ------ vector # ---- sio$con ----------- sio$dat ----------
+ #1:  .......... 4  .......... 0 ............. 1 .............
+ #2:  .......... 5  .......... 2 ............. 3 .............
+ #3:  .......... 6  .......... 4 ............. 5 .............
+ #4:  .......... 7  .......... 6 ............. 7 .............
+ #5:  .......... 8  .......... 8 ............. 9 .............
+ #6:  .......... 9  .......... 10 ............ 11 ............
+ #7:  .......... 10 .......... 12 ............ 13 ............
+ #8:  .......... 11 .......... 14 ............ 15 ............
+ #9:  .......... 12 .......... 16 ............ 17 ............
+ #10: .......... 13 .......... 18 ............ 19 ............
+
+
+
+Kevin Hansen c/o ROSS DISTRUBTING C.O
+78 South State Preston Idaho 83260
+(208)-852 0830
+(208)-852 0832
+(208)-852 0833
+
+
+------------------------------------------------------------------
+Hello Fred;
+
+Here is the source  code for the programs that  I sent you.  I am
+also including a few other programs that I wish to contribute.
+
+Also we have for sale the following IBC computer and terminals:
+
+IBC CADET 50
+50 MEGABYTE Mitsubishi HARD DISK
+8" Mitsubishi FLOPPY
+KENNEDY 6455 1/4 CART TAPE
+256 RAM
+256 CACHE
+10 SIO PORTS
+7 ADDS VIEWPOINT TERMINALS
+
+Machine is under two years old and is still working fine have had
+zero trouble with it.  Just going to get a bigger one.
+
+If anyone needs  to have  a CP/M data file translated  to a oasis
+indexed, keyed, sequential or direct file format; I can do it.  I
+can read the following disk formats:
+
+Kaypro 2,4,10 Osborne SD,DD Xerox 820 SD,DD Radio Shack TRS-80 SD
+TRS-80  Model III  IBM P.C  (CPM-86 ONLY) DEC VT-180 Morro  micro
+MD2,MD3  Zenith   Z-90,Z-100  Intertec  superbrain  NEC  PC-8001a
+CROMECO 'cdos' Access  Epson QX-10 HEATH HP-125 TI  Attache Sanyo
+Lobo Televideo TS-802,803 M/OS-80
+
+Translations are done to your specs
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O.
+78 South State Preston Idaho 83260
+(208)-852 0830
+(208)-852 0832
+(208)-852 0833
+
+
+-----------------------------------------------------------------
+
+                     OUG SOFTWARE DEVELOPERS' SIG
+
+
+         Dear Fred,
+
+         The OUG Software  Developers' SIG is really shaping
+         up.   I've  been  feverishly  coding,  testing  and
+         debugging   (!)  the   software  for  the  Software
+         Developers' BBS.  It should be available later this
+         week.  I'll be in touch to furnish the phone number
+         to dial  in, you  get the pleasure of having  first
+         access !
+
+         I have  developed  Software Registration  Forms for
+         distribution.   If  anyone would  like copies, they
+         can call  me at (617) 987-0477 after 5:00 pm (EDST)
+         or by writing to :
+
+
+
+                   Steven W. Paulovich
+                   8 Thayer Pond Dr.  #1
+                   N. Oxford, MA   01537
+
+
+         If you're willing,  I'd like to utilize CARAVAN for
+         members to request Registration Forms by leaving me
+         a message.  That, of course, is up to you.
+
+         There will  be a  $25.00 per annum registration fee
+         (although I've  offered some free start-up listings
+         to  get  things rolling).   The registration fee is
+         only for  vendors' listings.  Users will enjoy free
+         access (this  will come in handy for my next plan -
+         advertising the BBS in trade journals).
+
+         When accessing  the system,  users may request more
+         information  on  packages.   I  will  foreward  the
+         inquiry  on to  the vendor (the registration fee is
+         to cover postage).
+
+         Well, that's  how  things are  shaping up.  You can
+         expect to  hear from  me by the end of  the week at
+         the  latest.   I'm truly  excited about the SIG and
+         the direction  it is taking.  I hope that other OUG
+         members  will  contact  me with  their comments and
+         suggestions.
+
+
+         Steve Paulovich
+
+-----------------------------------------------------------------
+
+Hello Fred;
+
+The other day I inadvertently read protected the only version  of
+a file I'd been working on for some time.   Finally I gave up and
+just erased it thinking I would now have to start over.  A little
+later I decided to  RECOVER  it  and try again to remove the read
+protection.    To my surprise the RECOVERED version was no longer
+read protected.  Interesting, no?
+
+George Hamstra  5/23/85
+
+-----------------------------------------------------------------
+Business Computer Systems
+
+
+
+To the Editor:
+
+"The Fate of  UNIX" by  Dan Post in the February  issue is great,
+great, great!   Now, how about pulling Oasis out of the footnotes
+for more serious treatment.
+
+Business Computer  Systems is  one of the computer publications I
+read  regularly  to  learn  about  new  developments  and current
+trends.  I frequently quote BCS in the monthly newsletter I write
+for the  thousand member OASIS Users Group.  Over the years OASIS
+has been mentioned frequently in the pages of BCS.
+
+I like the  excellent  job  BCS  writers  usually do  with  their
+investigative  reporting.  I  would never expect this magazine to
+limit its editorial attention to only those subjects which happen
+to be  in harmony  with the current "big bucks  promotional hype"
+dominating the  media at  the time.  But, Tom Wood's  response to
+the  "Opting  for  OASIS" letter  in the  December  BCS gives the
+impression that some BCS editors have been hypnotized by the Unix
+mystique.
+
+Sure, public opinion can  be shaped by the application  of enough
+dollars,  but there  are checks  and balances.  While no one  can
+ignore the  effects of  massive promotion on the popularity  of a
+product, it  seems  to  me  that  the professional  press  has an
+obligation to serve as a sort of counter balance.
+
+All of the publications I read including BCS have widely reported
+the  mixed  reception  being given  the contention  that  Unix is
+destined to  be the next "standard" microprocessor O/S.  Your own
+Sandy Austin in the January article "Multiuser Systems: Economies
+of Scale," alludes to Unix as "the controversial operating system
+that  is still  trying  very  hard  to  make it  in  the business
+market."
+
+Sandy's article  will,  no  doubt,  be  widely  quoted  by people
+concerned  with   multi-user  hardware  development.   It  is  an
+excellent   review   of   the   current   status  of   multi-user
+implementation  strategies.  But,  it leaves the reader with more
+questions  than it  answers -  wanting to know more about  who is
+using what and why.
+
+It is  perfectly apparent  to me  that  the shared logic strategy
+will  continue  to  be  an  attractive option  for manufacturers,
+primarily because they can still offer customers high performance
+at a  lower  per user  cost -  more  "bang for the buck."  So why
+hasn't there been a recent article on the TECHNICAL merits of all
+of the  other excellent shared logic operating systems out there?
+(The last  thing I remember seeing in BCS was back in May of last
+year.)
+
+One of  the  earliest  entries  in  the  shared  logic multi-user
+operating system  market for microcomputers was OASIS.  But PICK,
+S-1, MP/M, Concurrent  CP/M, as well as OASIS  are all contenders
+along with the  more highly touted Unix family.   While OASIS has
+been around  as a multi-user operating system for more than seven
+years,  (BCS  carried  a  software  evaluation  of  OASIS in  its
+September 1983  issue.) efforts to make Unix serve multiple users
+on microprocessors are just now coming to fruition.  And, Unix is
+so big that it only runs on the so called 16/32-bit super-micros.
+Multi-user OASIS runs  both on the 8-bit Z80  machines as well as
+on the  16/32-bit processors,  making it a multi-user option  for
+machines like the IBM PC/XT.
+
+Multi-user OASIS  is   one  of  the  best  kept  secrets  in  the
+microcomputer  industry,  highly thought  of by  a  small army of
+▼ OL47.FEEDBACK:VOL47                                      01/30/85 14:07 Page 3
+
+custom  software  developers working  quietly in offices all over
+the  world.  I  think if  Business  Computer Systems digs deeper,
+they  will  find  a story  worth writing.   Maybe  Sandy can do a
+sequel to  his January article that explores the pros and cons of
+the  real  life shared  logic options  now  available to business
+computer users.
+
+Sincerely,
+
+Fred Bellomy, Coordinator OASIS Users Group
+
+-----------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL47.FEEDBACK                                 6 June 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+▼ ^
+
+
+elcome to volume 47in the very rapidly expanding library
+of OASIS compatible member contributed "END-USER-ONLY" software.
+
+Want a PRINTED COPY of the program info too {Y/N}? N
+
+UTOOFF.ASSEMBLE/COMMAND
+
+AUTOOFF is  a  program  intended for  use on  an  IBC MIDDI CADET
+(MultiStar).  However,  it could be used on any system that needs
+to execute  a program  in preparation for shutdown.  The  program
+runs as  a phantom  operation and is set to  give all users a two
+minute warning  before executing the 'HOME.COMMAND'.  The time is
+preset.
+
+A two minute warning  is sent at '01:01:01' with  system shutdown
+at '01:03:01'.  Then a timer removes power from the machine about
+min  later.  HOME.COMMAND is a program that comes with the IBC.
+About  all  HOME  does is  position the  read/write  heads over a
+unused portion of the hard disk and lockup the machine.
+
+Kevin Hansen  c/o  ROSS  DISTRIBUTING C.O  78 South State Preston
+Idaho 83260 (208)-852 0830/0832/0833
+
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+ASICED$.EXEC
+
+This is a patch for basic to allow you to have a version of basic
+that loads only  the editor.  This to me  is a much better way to
+do this than  loading the overlay file.  This  way you can edit a
+large basic program when in multi user mode without rebooting the
+system.
+
+KEVIN HANSEN   (208) 852 0832
+ROSS DISTRIBUTING CO.
+SOUTH STATE
+PRESTON ID 83263
+
+
+WANT MORE INFO NOW? [Y/N]:N
+
+AUDRATE.BASIC/BASICUSR
+
+This is a utility for changing the attached COMM1 baud rate under
+the control of a BASIC program.  Submitted by Dave Klotzman.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ENCHMF.BASIC
+
+THIS IS A BENCHMARK PROGRAM THAT MEASURES A SYSTEM'S SPEED
+IN PROCESSING MATH FUNCTIONS. See notes in program for the
+times measured on several systems, between 3 and 6 minutes.
+
+  FOR I = 1 TO 1000
+      A = TAN(ATN(EXP(LOG(SQR(A*A)))))+1.0
+      NEXT I
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O
+South State Preston Idaho 83260
+(208)-852 0830/0832/0833
+
+WANT SPEND THE 1-2 MINUTES TO TRY IT NOW? [Y/N]:N
+
+ALENDER.BASIC
+
+This is not  the  first  wall  calendar  to be  added  to the OUG
+library, nor  even the  best, necessarily.  But, it is  different
+than the others  and offers a customized advertising  line at the
+bottom of each full 8.5X11 page month that the others don't have.
+It comes from George Willis.
+
+If you are interested  in calendars, be sure to  look at the very
+elegant  one  called  CALENDUR  that  was previously  released on
+volume  13.   It  offers the  ability to  annotate  each day with
+reminder  notes  maintained  in  a  separate  data  file, and  to
+customize the  one month per page layout for various page  sizes.
+The other  wall calendar  program called CALENDAR is on  volume 2
+and puts two months on each 8.5X11 page.  (excuse the file names)
+
+
+WANT TO PRINT ONE NOW? [Y/N]:N
+
+OMP.EXEC   COMP0/COMP1.BASIC
+
+Auto BASIC program compiler with test for non compiled programs.
+The COMP0 program prompts you. Use the COMP.EXEC to install it.
+
+Kevin Hansen c/o ROSS DISTRUBTING C.O
+South State Preston Idaho 83260
+(208)-852 0830/0832/0833
+
+
+WANT MORE INFO NOW? [Y/N]:N
+
+ONTRAN.BASIC
+
+this is specific to my system, but someone else may find uses for
+it. It is used to list out a data file that has control values in
+the first two positions of its key (called CONTROL.DATA:S in  the
+program).  It is data file specific and is offered only for   the
+algorhythm.
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O
+South State Preston Idaho 83260
+(208)-852 0830/0832/0833
+
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+ONV.ASSEMBLE/COMMAND:
+
+This program  converts  Oasis  'COMMAND'  files  to ASCII  binary
+'COM'.  This allows  the file to be sent  to a non oasis machine.
+This  does not  make the  program CPM compatible; it only  allows
+programs  written  for CPM  on Oasis  machines to be sent to  CPM
+machines.  The original program is left unchanged.
+
+
+SYNTAX: CONV <fn> <drive>
+
+This will  convert  the  file  <fn>.COMMAND on  drive <drive> and
+create the  file <fn>.COM on <drive>.  Input file type is assumed
+to be 'COMMAND'. If you have any questions, feel free to call me.
+
+          Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                           78 SOUTH STATE
+                           PRESTON IDAHO 83263 (208) 852 0832
+
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+PMSYS.COPY      CPM bios emulation for Oasis (partial).
+
+This is  another  release of  the CPM  bios  for Oasis.  The idea
+behind this library  is to enable programs written  for CPM to be
+assembled and  then run on Oasis machines.  The only modification
+to the CPM source program that should be necessary (assuming that
+it is written  for Zilog type assemblers) is  to changes the bdos
+from 0005h to the origin of this program.
+
+The CPM  functions that  are implemented  as  of this release, do
+work.  As I  make changes and add functions,  I will send updates
+to the OUG.
+
+If there are any questions, feel free to call me.
+
+          Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                           78 SOUTH STATE
+                           PRESTON IDAHO 83263 (208) 852-0832
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+RTFAST/CRTSLOW.EXEC
+
+This is a pair of EXECs for speeding up and slowing down the rate
+with  which a  text  file  is  displayed  on the  CRT.   They are
+complementary  and  the  delay  is  variable.  Submitted  by Dave
+Klotzman.
+
+See also the Assembly version, DELAY.COMMAND, on this same volume
+by   Bill   Berne;   and   the   other   fixed   delay  versions,
+DELAYS/DELAYF.EXEC, by Al Bates on volume 46.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ELAY.ASSEMBLE/COMMAND
+
+This is another  utility for  controlling the speed with which  a
+text file is  displayed on a CRT.  It  is fast and elegant.  This
+one  was  submitted  by  William  Berne  of  Quantumn Information
+Systems.
+
+See also  the  CRTFAST/CRTSLOW.EXECs  by  Dave  Klotzman on  this
+volume  and  the fixed  delay versions, DELAYF/DELAYS.EXEC, by Al
+Bates on volume 46.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+EV$IM2.ASSEMBLE SYSTEM.DEV$IM2
+
+This is  a serial  device driver  for systems using the IM2  type
+hardware.   It is  about the  same as the one in  the back of the
+Oasis  macro assembler  manual with  the  exception that this one
+works.  The driver as written assumes the following:
+
+System must have hardware auto enable (hardware resets IORQ after
+read).  Software baud select is not supported in this driver (for
+obvious reasons). You must know the port address of your machine.
+
+This driver  as written  works on IBC computers (Cadet/Middi, but
+not the Super Cadet).  You will need to rename it DEVnn, where nn
+is any unused number in your system.  If you have questions, feel
+free to call me at (208) 852-0832.
+
+Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                 78 SOUTH STATE
+                 PRESTON ID 83263
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+DOMAC.EXEC
+
+This EXEC  edits,  assembles  and links  assembly BASICUSR source
+programs, all from  one program.  Saves a few  key strokes is all
+it does.
+
+Kevin Hansen, c/o ROSS DISTRUBTING C.O.
+South State; Preston, ID 83260
+(208)-852 0830/0832/0833
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+IXDIR.BASIC  FIXUSER3.ASSEMBLE/BASUCUSR
+
+On occasion the record count of some files have become corrupted.
+This program creates  a list of indexed/keyed data files and then
+uses the Phase One 'SORT.COMMAND' to fix the files record counts.
+You will need to customize line 750  in FIXDIR.BASIC for the file
+types in your system that you want to fix. Currently it is set to
+handle TEMP*, DATA*, PROCESS, and CLOSED file types.
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O
+South State Preston Idaho 83260
+(208)-852 0830/0832/0833
+
+WANT TO LIST THE BASIC PROGRAM NOW? [Y/N]:N
+
+ORM.ASSEMBLE/COMMAND
+
+     Read an Oasis ISAM file and reports the format of the data
+     within the file. (ie. string, integer or float and in what
+     sequence they are)
+
+          Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                           78 SOUTH STATE
+                           PRESTON IDAHO 83263 (208) 852 0832
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ORMAT3.EXEC
+
+This program is  designed to FORMAT (or REFORMAT) diskettes using
+an INCRement of  3.  It was originally released  on volume 2 with
+no increment specified.  The original was created by:
+
+                        Joe Trimble
+                        236 Frisbie Street
+                        Oakland, CA  94611
+                        (415) 839-3281
+
+Gary Bergman pointed out  that access of large EXECs  on floppies
+can sometimes  be  speeded up  by specifying  INCR  2 or 3 as  an
+option when INITializing  a diskette.  I use this  version of our
+old FORMAT utility on occasion now.  Check it out.  FB 3/8/85.
+
+
+WANT MORE INFO NOW? [Y/N]:N
+
+ERB.BASIC/EXEC
+
+The HERB.BASIC  program,  using  the  HERB.EXEC,  will erase  all
+backup's  and/or  work  files  in  all  accounts  on  the  system
+automatically.   The  user should  change the  EXEC  to suite his
+needs as  to erasing  workfiles also.  Now it will  erase BACKUP,
+SELECTED, PARAMS, and SORTED files to clean up control workfiles,
+etc.  These two programs will work on OASIS 5.6, 6.0, and 6.1.
+
+This is a dangerous utility.  If an unsuspecting user got hold of
+this  routine,  he  could  alter,  destroy, HACK,  into anybody's
+system if he logged into a priv 2 account and entered BASIC.
+
+If anyone wants  to use these programs for end user systems, they
+can  sign  the users  up as  OUG members, or send me  $5 for each
+system they use it on.  Thanks,  Michael Scheidell (305) 997-8494
+
+Florida DataMAtion, Inc.
+N Fed Hwy
+Boca Raton, FL  33431
+
+WANT TO LIST THE EXEC NOW? [Y/N]:N
+
+IFILES.ASSEMBLE/COMMAND
+
+This program tests to see if the specifed file has any records in
+it.  If the  file is not empty, the  return code is set to 0.  If
+the file contains any record, the return code is set to 1.
+
+          Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                           78 SOUTH STATE
+                           PRESTON IDAHO 83263 (208) 852 0832
+
+
+WANT TO LIST THE PROGRAM NOW? [Y/N]:N
+
+ASISLIB.MACLIB:
+
+     Library of frequently used functions. generates
+     the code for the desired function.
+
+     Functions in this version and description follows:
+
+     OPEN #<cahn>,<fn>,<ft>,<mode>,<drive>
+          Open channel #<chan> to file <fn>.<ft> for <mode>
+          on drive <drive>   chan = 1 to 16
+          fn and ft must always be eight chars long.
+          Drive may be 0 to 7.
+          Legal modes are 'I IND','O IND','U IND','I KEY',
+          'O KEY','U KEY', 'I IND','O IND','I SEQ','O SEQ'
+
+     READNEXT <chan>,<key>,<datum>
+
+          chan = io channel / key = buffer address of key storage area
+          datum = data storage area (must be large enough to hold
+          complete record)
+▼ ^
+     PRINT 'Anything between the single quotes will be printed.',0
+          (don't forget the zero at the end)
+
+     BPRINT <buffer>
+          Print the contents of memory <buffer> to the screen.
+
+     IFA IS <valu> JUMP <memloc>
+          Test 'A' register for <valu> and jump to <memloc>, if true.
+
+     IFA NOT <valu> JUMP <memloc>
+          Inverse of above.
+
+     IFA IS <valu> CALL <memloc>
+          As per above only call.
+
+     IFA NOT <valu> CALL <memloc>
+          Inverse
+
+     AT <row>,<col>
+          Position cursor.
+▼ ^
+This library is  constantly being revised and added to.  As I add
+more functions  I will send it along.  I ask that if any one else
+adds to it  they sent it to the  OUG.  This library, inclusive of
+the concept, may  not be sold to any  one.  It is set free on the
+world in the hope than it may grow and mature.
+
+          Kevin Hansen c/o ROSS DISTRIBUTING CO.
+                           78 SOUTH STATE
+                           PRESTON IDAHO 83263 (208) 852-0832
+
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+BJBASIC.EXEC
+
+I got tired inventing the same  EXEC over and over to work with
+a new  SELECTED.EXEC each time I had to convert a bunch of  new
+BASICOBJ files to the BASIC format.  So, this "clever" new EXEC
+is the result.   You just tell it which drive the BASICOBJs are
+on and which one you want to put the  BASICs on and it does all
+the rest.  FB
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+ESET.EXEC
+
+This program will  allow the system account manager to change his
+IPL account.   If he wants the system to IPL upon reset, he types
+RESET  IPL.  If  he wants the system not to IPL  upon reset, (for
+REPAIRs, ARCHIVEs, etc.) he types RESET NOIPL.
+
+If he has  an ARCHIVE account, he can type RESET ARCHIVE, and the
+computer will IPL into the ARCHIVE account upon reset.  Enjoy!
+
+If anyone wants  to use  this program for end user  systems, they
+can  sign  the users  up as  OUG members, or send me  $5 for each
+system they use it on.    Thanks,
+
+Michael S. Scheidell (305) 997-8494
+Florida DataMAtion, Inc.
+N Fed Hwy
+Boca Raton, FL  33431
+
+WANT TO LIST IT NOW? [Y/N]:N
+
+LOTV200  BASIC
+SLOTKT7   BASIC
+
+A simple  simulation  of  a  casino  slot  machine  with  elegant
+graphics and play-action.  SLOTV200 is written for the VISUAL-200
+terminal.   SLOTKT7  will only  work properly  on  a KIMTRON KT-7
+terminal that is  setup in "NATIVE" mode with  "HIDDEN" attribute
+characters.
+
+Rules:  Hit <cr> to continue, enter any char to quit.
+
+               Contributed by Gary Bergman
+
+
+To try it now, enter "V" for the VISUAL-200 program or "K" for KIMTRON.
+
+Option {V/K/N}?:N
+
+LOT3.BASIC
+
+Yes, another SLOT machine.  Why?  Because I wanted to explore the
+potential  of  the  graphic  capabilities  of  the  KIMTRON  KT-7
+terminal.  (Couldn't  think of a practical program that needs all
+those features).
+
+This is  a "3-COIN"  version with  lots  of play-action and fancy
+stuff.
+
+SLOT3 will only  work properly on a KIMTRON KT-7 terminal that is
+setup in NON-920E mode with "HIDDEN" attribute characters.
+
+The classcode driver must support graphics via FON and FOFF.  You
+may  use the  SYSTEM.CLASS46 that  was on OUG volume 46,  if your
+driver is incomplete.
+
+Rules:  To QUIT, Enter "Q" when ready to pull the handle.
+
+               Contributed by Gary Bergman
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+PEC.ASSEMBLE/COMMAND
+
+This is a utility which shows the specifications for any file. It
+is  different,   but  similar  to SHOWFILE previously released on
+volume 30. Check them both out.
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O.
+South State Preston Idaho 83260
+(208)-852 0830/0832/0833
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+POTS.BASIC
+
+This is a cute routine for displaying a random pattern of a few
+hundred asterisks on the screen.
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O.
+South State - Preston ID 83260
+(208)-852 0830/0832/0833
+
+
+WANT TO TAKE A MINUTE NOW TO TRY IT? [Y/N]:N
+
+UBLIB.COMMAND
+
+This utility allows you to  group several individual files into a
+single dataset.   This allows you to store hundreds of relatively
+inactive  files  on  a  large  hard  disk  without the problem of
+running out of directory space.
+
+             Contributed by:  Gary Bergman
+                              14 Hickory Lane
+                              North Brunswick, N.J. 08902
+                              TWX: 710 480 6282  ADS NBRU
+
+Want more info {Y/N}?:N
+
+APEFORM.ASSEMBLE/COMMAND  TAPEDRIV.ASSEMBLE/BASICUSR/EXEC
+
+The TAPEFORM  program  formats tape  cartridges for use with with
+the 'TAPEDRIV' BASICUSR program.   The purpose of this program is
+to allow access to a tape unit from within BASIC for read/write.
+
+Kevin Hansen c/o ROSS DISTRIBUTING C.O.
+South State - Preston ID 83260
+(208)-852 0830/0832/0833
+
+WANT MORE INFO NOW? [Y/N]:N
+
+NDO.EXEC
+
+This will UNDO  your last modification of a file if the system or
+program  creates  a  backup of  it.  Useful  for  retrieving last
+backup  copies  of .BASICOBJ's  from BASIC, or .SCRIPT's, EXEC's,
+etc  from  Oasis  EDITor,  or  .WPF's  and  .MWRITE's  from  word
+processors. Mike uses a VERY cute interactive trick with the HELP
+option.
+
+If anyone wants  to use these programs for end user systems, they
+can  sign  the users  up as  OUG members, or send me  $5 for each
+system they use it on.  Thanks,
+
+Michael S. Scheidell (305) 997-8494
+Florida DataMAtion, Inc.
+N Fed Hwy
+Boca Raton, FL  33431
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+>LIST VOL47 WISHLIST A
+File not found.
+
+
+K. SO THAT'S THE END OF VOLUME 47 AND WE WOULD LIKE TO HEAR ANY
+COMMENTS YOU MIGHT HAVE ABOUT IT.  WE ARE ALL STILL LEARNING AND
+I'M SURE THAT THERE WILL BE MANY CHANGES TO COME. GIVE ME A CALL
+ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>
+

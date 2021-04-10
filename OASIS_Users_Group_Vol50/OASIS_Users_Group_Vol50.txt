@@ -1,0 +1,1508 @@
+October 1985                    Volume: 50
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL50   
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL50   
+BETS     BASIC    A 07/17/85 10:00   224    9 S    86 VOL50   
+BETS     COMMAND  A 04/07/85 20:52    18    5 R   256 VOL50   
+BETS     EXEC     A 07/17/85 10:00    78    2 S    68 VOL50   
+BETS     INFO     A 10/11/85 11:45    35    2 S    65 VOL50   
+BILGE    BASIC    A 10/05/85 11:45   110    5 S    85 VOL50   
+BILGE    EXEC     A 07/17/85 10:00   132    4 S    80 VOL50   
+BILGE    INFO     A 10/11/85 11:45    21    2 S    65 VOL50   
+BILGE2   BASIC    A 10/05/85 11:45    90    4 S    81 VOL50   
+BILGEDEM BASIC    A 06/12/85 08:27    77    4 S   124 VOL50   
+CHEMIST1 BASIC    A 10/05/85 11:45    80    3 S    90 VOL50   
+CHEMIST2 BASIC    A 10/05/85 11:45    64    3 S    88 VOL50   
+DRIVING  BASIC    A 10/05/85 11:45   191    5 S    86 VOL50   
+GRA4010  BASIC    A 10/04/85 19:14     3    1 S    38 VOL50   
+GRA4027  BASIC    A 10/04/85 19:23    50    2 S    77 VOL50   
+GRAHOU3D BASIC    A 10/04/85 19:28    28    1 S    73 VOL50   
+GRAHOUSE BASIC    A 10/04/85 19:12    53    3 S    84 VOL50   
+GRAPHBAR BASIC    A 10/05/85 11:45    63    3 S    59 VOL50   
+GRAPHICS INFO     A 10/11/85 11:45   118    6 S    65 VOL50   
+HALOWEEN PUMPKIN  A 10/04/85 19:38    33    3 S    75 VOL50   
+MATHSUM  BASIC    A 10/11/85 11:45    53    2 S    79 VOL50   
+OVERTIM1 BASIC    A 10/05/85 11:45    90    3 S    96 VOL50   
+OVERTIM2 BASIC    A 10/05/85 11:45    75    3 S    84 VOL50   
+OVERTIM3 BASIC    A 10/05/85 11:45    72    3 S   100 VOL50   
+OVERTIME EXEC     A 10/11/85 11:45   164    4 S    74 VOL50   
+PROOFIT  EXEC     A 10/05/85 11:45     5    1 S    75 VOL50   
+PROOFIT  INFO     A 07/18/85 10:00    12    1 S    65 VOL50   
+RAZ$DRIV BASICCOM A 12/11/82 03:20    19    5 SR  254 VOL50   
+RAZDUPSC SCREEN   A 10/05/85 11:45    32    1 S   188 VOL50   
+RAZORS   BASIC    A 10/05/85 11:45    38    2 S    83 VOL50   
+RAZORS   DEFAULT  A 10/05/85 11:45     1    1 S     2 VOL50   
+RAZORS   EXEC     A 10/11/85 11:45   266    6 S    74 VOL50   
+RAZORS   HELP     A 10/05/85 11:45    40    2 S    79 VOL50   
+RAZORS   INFO     A 10/11/85 11:45   107    6 S    67 VOL50   
+RAZORS$1 BASIC    A 10/05/85 11:45    84    4 S    89 VOL50   
+RAZORS$1 SCREEN   A 10/05/85 11:45     5    1 S   297 VOL50   
+RAZORS$2 BASIC    A 10/05/85 11:45    68    3 S   150 VOL50   
+RAZORS$2 SCREEN   A 10/05/85 11:45    17    1 S   240 VOL50   
+RAZORS$3 BASIC    A 10/05/85 11:45   106    4 S   135 VOL50   
+RAZORS$3 SCREEN   A 10/05/85 11:45     6    1 S   251 VOL50   
+RAZORS$4 BASIC    A 10/05/85 11:45    97    4 S    90 VOL50   
+RAZORS$5 BASIC    A 10/05/85 11:45    19    1 S    79 VOL50   
+RAZORS$5 SCREEN   A 10/05/85 11:45     7    1 S   251 VOL50   
+RAZORS$6 BASIC    A 10/05/85 11:45   102    4 S   126 VOL50   
+RAZORS$7 BASIC    A 10/05/85 11:45    43    2 S    89 VOL50   
+RAZORS$8 BASIC    A 10/05/85 11:45    20    1 S   109 VOL50   
+SCRIPTIT EXEC     A 07/07/85 10:00    26    1 S    45 VOL50   
+SELECT50 EXEC     A 10/11/85 11:45    57    3 S    46 VOL50   
+T4       C        A 01/15/83 12:34   377   12 S    78 VOL50   
+T4       COMMAND  A 01/15/83 12:39    69   18 R   256 VOL50   
+T4       INFO     A 10/05/85 11:45    13    1 S    65 VOL50   
+VOL50    CONTENTS A 10/05/85 11:45   214   10 S    65 VOL50   
+VOL50    EXEC     A 10/05/85 11:45   546   15 S    84 VOL50   
+VOL50    FEEDBACK A 10/11/85 11:45   476   20 S    66 VOL50   
+VOL50    NEWS     A 10/11/85 11:45   365   20 S    65 VOL50   
+VOL50    WISHLIST A 10/11/85 11:45   174    8 S    65 VOL50   
+57 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+$OUGB.COMMAND:A replaces $OUGB.COMMAND:D
+$README.FIRST:A replaces $README.FIRST:D
+BILGE.BASIC:A copied to BILGE.BASIC:D
+RAZDUPSC.SCREEN:A copied to RAZDUPSC.SCREEN:D
+RAZORS.EXEC:A copied to RAZORS.EXEC:D
+RAZORS$5.SCREEN:A copied to RAZORS$5.SCREEN:D
+RAZORS$7.BASIC:A copied to RAZORS$7.BASIC:D
+T4.COMMAND:A copied to T4.COMMAND:D
+BILGE.EXEC:A copied to BILGE.EXEC:D
+GRA4010.BASIC:A copied to GRA4010.BASIC:D
+GRAHOU3D.BASIC:A copied to GRAHOU3D.BASIC:D
+RAZORS$8.BASIC:A copied to RAZORS$8.BASIC:D
+BETS.COMMAND:A copied to BETS.COMMAND:D
+OVERTIM1.BASIC:A copied to OVERTIM1.BASIC:D
+RAZORS.INFO:A copied to RAZORS.INFO:D
+VOL50.NEWS:A copied to VOL50.NEWS:D
+VOL50.WISHLIST:A copied to VOL50.WISHLIST:D
+BILGE.INFO:A copied to BILGE.INFO:D
+HALOWEEN.PUMPKIN:A copied to HALOWEEN.PUMPKIN:D
+OVERTIM2.BASIC:A copied to OVERTIM2.BASIC:D
+OVERTIME.EXEC:A copied to OVERTIME.EXEC:D
+PROOFIT.EXEC:A copied to PROOFIT.EXEC:D
+RAZORS.BASIC:A copied to RAZORS.BASIC:D
+VOL50.EXEC:A copied to VOL50.EXEC:D
+BETS.BASIC:A copied to BETS.BASIC:D
+GRA4027.BASIC:A copied to GRA4027.BASIC:D
+GRAHOUSE.BASIC:A copied to GRAHOUSE.BASIC:D
+OVERTIM3.BASIC:A copied to OVERTIM3.BASIC:D
+RAZORS.HELP:A copied to RAZORS.HELP:D
+RAZORS$1.BASIC:A copied to RAZORS$1.BASIC:D
+BETS.EXEC:A copied to BETS.EXEC:D
+GRAPHICS.INFO:A copied to GRAPHICS.INFO:D
+PROOFIT.INFO:A copied to PROOFIT.INFO:D
+RAZORS$2.BASIC:A copied to RAZORS$2.BASIC:D
+SCRIPTIT.EXEC:A copied to SCRIPTIT.EXEC:D
+T4.INFO:A copied to T4.INFO:D
+VOL50.FEEDBACK:A copied to VOL50.FEEDBACK:D
+DRIVING.BASIC:A copied to DRIVING.BASIC:D
+GRAPHBAR.BASIC:A copied to GRAPHBAR.BASIC:D
+RAZORS$1.SCREEN:A copied to RAZORS$1.SCREEN:D
+RAZORS$3.BASIC:A copied to RAZORS$3.BASIC:D
+BETS.INFO:A copied to BETS.INFO:D
+BILGEDEM.BASIC:A copied to BILGEDEM.BASIC:D
+CHEMIST1.BASIC:A copied to CHEMIST1.BASIC:D
+RAZ$DRIV.BASICCOM:A copied to RAZ$DRIV.BASICCOM:D
+RAZORS.DEFAULT:A copied to RAZORS.DEFAULT:D
+RAZORS$2.SCREEN:A copied to RAZORS$2.SCREEN:D
+RAZORS$4.BASIC:A copied to RAZORS$4.BASIC:D
+BILGE2.BASIC:A copied to BILGE2.BASIC:D
+CHEMIST2.BASIC:A copied to CHEMIST2.BASIC:D
+MATHSUM.BASIC:A copied to MATHSUM.BASIC:D
+RAZORS$3.SCREEN:A copied to RAZORS$3.SCREEN:D
+RAZORS$5.BASIC:A copied to RAZORS$5.BASIC:D
+T4.C:A copied to T4.C:D
+VOL50.CONTENTS:A copied to VOL50.CONTENTS:D
+RAZORS$6.BASIC:A copied to RAZORS$6.BASIC:D
+SELECT50.EXEC:A copied to SELECT50.EXEC:D
+
+>VOL50
+
+^     OOOOOOOOOOO        UUU              UUU        GGGGGGGGGGGG
+. . . . . . OUG library volume 50 is mounted on drive A . . . . . . .
+   OOOO         OOOO     UUU              UUU     GGGG          GGGG
+ 1  COMPLETE INTRODUCTION TO VOLUME        5  LIST VOLUME NEWSLETTER 
+ 2  LIST SUMMARY OF VOLUME SOFTWARE        6  LIST MEMBER'S FEEDBACK 
+ 3  RUN SOFTWARE CONTRIBUTIONS ONLY        7  LIST CURRENT WISH LIST 
+ 4  DISPLAY CONTENTS OF THIS VOLUME        8  QUIT                   
+  OOO             OOO    UUU      50      UUU    GGG          GGGGGGG
+YOUR CHOICE? [1-8] ===> 1UUU              UUU    GGG          GGGGGGG
+  OOO             OOO    UUU              UUU    GGG              GGG
+   OOOO         OOOO      UUU            UUU      GGGG          GGGG
+CONTENTS OF OUG VOLUME 50 ON DRIVE AUUUUUUU        GGGGGGGGGGGGGGGG
+      OOOOOOOOOOO            UUUUUUUUUUUU            GGGGGGGGGGGG
+>FILELIS A 
+      Copyright 1985   T H E   O A S I S   U S E R S   G R O U P
+
+=====================================================================
+:                                                                   :
+:           "NUCLEAR WEAPONS..... May they rest in PEACE"           :
+:                     California bumper sticker                     :
+:                                                                   :
+=====================================================================
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL50   
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL50   
+BETS     BASIC    A 07/17/85 10:00   224    9 S    86 VOL50   
+BETS     COMMAND  A 04/07/85 20:52    18    5 R   256 VOL50   
+BETS     EXEC     A 07/17/85 10:00    78    2 S    68 VOL50   
+BETS     INFO     A 10/11/85 11:45    35    2 S    65 VOL50   
+BILGE    BASIC    A 10/05/85 11:45   110    5 S    85 VOL50   
+BILGE    EXEC     A 07/17/85 10:00   132    4 S    80 VOL50   
+BILGE    INFO     A 10/11/85 11:45    21    2 S    65 VOL50   
+^ILGE2   BASIC    A 10/05/85 11:45    90    4 S    81 VOL50   
+>LIST VOL50 NEWS A  06/12/85 08:27    77    4 S   124 VOL50   
+CHEMIST1 BASIC    A 10/05/85 11:45    80    3 S    90 VOL50   
+CHEMIST2 BASIC    A 10/05/85 11:45    64    3 S    88 VOL50   
+DRIVING  BASIC    A 10/05/85 11:45   191    5 S    86 VOL50   
+GRA4010  BASIC    A 10/04/85 19:14     3    1 S    38 VOL50   
+GRA4027  BASIC    A 10/04/85 19:23    50    2 S    77 VOL50   
+GRAHOU3D BASIC    A 10/04/85 19:28    28    1 S    73 VOL50   
+GRAHOUSE BASIC    A 10/04/85 19:12    53    3 S    84 VOL50   
+GRAPHBAR BASIC    A 10/05/85 11:45    63    3 S    59 VOL50   
+GRAPHICS INFO     A 10/11/85 11:45   118    6 S    65 VOL50   
+HALOWEEN PUMPKIN  A 10/04/85 19:38    33    3 S    75 VOL50   
+MATHSUM  BASIC    A 10/11/85 11:45    53    2 S    79 VOL50   
+OVERTIM1 BASIC    A 10/05/85 11:45    90    3 S    96 VOL50   
+OVERTIM2 BASIC    A 10/05/85 11:45    75    3 S    84 VOL50   
+OVERTIM3 BASIC    A 10/05/85 11:45    72    3 S   100 VOL50   
+OVERTIME EXEC     A 10/11/85 11:45   164    4 S    74 VOL50   
+PROOFIT  EXEC     A 10/05/85 11:45     5    1 S    75 VOL50   
+PROOFIT  INFO     A 07/18/85 10:00    12    1 S    65 VOL50   
+RAZ$DRIV BASICCOM A 12/11/82 03:20    19    5 SR  254 VOL50   
+RAZDUPSC SCREEN   A 10/05/85 11:45    32    1 S   188 VOL50   
+RAZORS   BASIC    A 10/05/85 11:45    38    2 S    83 VOL50   
+RAZORS   DEFAULT  A 10/05/85 11:45     1    1 S     2 VOL50   
+RAZORS   EXEC     A 10/11/85 11:45   266    6 S    74 VOL50   
+RAZORS   HELP     A 10/05/85 11:45    40    2 S    79 VOL50   
+RAZORS   INFO     A 10/11/85 11:45   107    6 S    67 VOL50   
+RAZORS$1 BASIC    A 10/05/85 11:45    84    4 S    89 VOL50   
+RAZORS$1 SCREEN   A 10/05/85 11:45     5    1 S   297 VOL50   
+RAZORS$2 BASIC    A 10/05/85 11:45    68    3 S   150 VOL50   
+RAZORS$2 SCREEN   A 10/05/85 11:45    17    1 S   240 VOL50   
+RAZORS$3 BASIC    A 10/05/85 11:45   106    4 S   135 VOL50   
+RAZORS$3 SCREEN   A 10/05/85 11:45     6    1 S   251 VOL50   
+RAZORS$4 BASIC    A 10/05/85 11:45    97    4 S    90 VOL50   
+RAZORS$5 BASIC    A 10/05/85 11:45    19    1 S    79 VOL50   
+RAZORS$5 SCREEN   A 10/05/85 11:45     7    1 S   251 VOL50   
+RAZORS$6 BASIC    A 10/05/85 11:45   102    4 S   126 VOL50   
+RAZORS$7 BASIC    A 10/05/85 11:45    43    2 S    89 VOL50   
+RAZORS$8 BASIC    A 10/05/85 11:45    20    1 S   109 VOL50   
+SCRIPTIT EXEC     A 07/07/85 10:00    26    1 S    45 VOL50   
+SELECT50 EXEC     A 10/11/85 11:45    57    3 S    46 VOL50   
+T4       C        A 01/15/83 12:34   377   12 S    78 VOL50   
+T4       COMMAND  A 01/15/83 12:39    69   18 R   256 VOL50   
+T4       INFO     A 10/05/85 11:45    13    1 S    65 VOL50   
+VOL50    CONTENTS A 10/05/85 11:45   214   10 S    65 VOL50   
+VOL50    EXEC     A 10/05/85 11:45   546   15 S    84 VOL50   
+VOL50    FEEDBACK A 10/11/85 11:45   476   20 S    66 VOL50   
+VOL50    NEWS     A 10/11/85 11:45   365   20 S    65 VOL50   
+VOL50    WISHLIST A 10/11/85 11:45   174    8 S    65 VOL50   
+57 file(s), 247 block(s).
+
+VOL50.NEWS:VOL50                                          01/29/85 18:43 Page 1
+
+-----------------------------------------------------------------
+7 October 1985          N E W S   L E T T E R           Volume 50
+-----------------------------------------------------------------
+
+
+
+
+Greetings;
+
+
+VOL50: puts us half way to a hundred, and it is  packed with good
+stuff.   So  many  people  have  been  asking  about graphics  on
+Oasis/Theos that  Ron Struthers' contribution on the subject this
+time is most welcome.  He has submitted several graphics packages
+including a  color 3-D picture of a house.  Equally important, he
+shows  how  easy it  is to  upgrade  most Televideo terminals for
+graphics with  an add-on  board.  The programs use the  Tektronix
+Plot-10 graphics  command language  that works with a variety  of
+popular graphics terminals.  
+
+While few of  us  need  to  automate  a barber  shop,  the RAZORS
+package from  Tom Margarido  could be easily generalized for  any
+resource/facility  scheduling problem  such as a doctors office -
+and we do have lots of them.  It's a very easy to use package and
+includes a demonstration option.  
+
+Our Canadian friends  will like OVERTIME from Chris Mallam and T4
+from Ishmer Naik.  Both of these packages are designed for use in
+Canada,  the  first  for  handling  overtime/premium-time  record
+keeping and the  second for machine printing the  T4 "income tax"
+forms.   We have  several educational math and chemistry programs
+this time prepared by Ishmer Naik's son Anang.  I don't know what
+to say  about BILGE  from Albert Bates, except that  it is a very
+substantial  effort  for  automatically generating  an attorney's
+bill out of thin air - almost.  After seeing this, I am even more
+determined to avoid professional dealings with lawyers.  
+
+Gary Bergman  has  a  friend  who  is a  sometimes "professional"
+gambler.  It seems  that really professional gamblers use  one or
+more systems  to increase their chances of winning.  Gary set off
+to design  a program  for maximizing the chances of  winning, but
+only succeeded  in proving  that when they do win,  they are just
+lucky.   BETS is  not a  game, but more an elegant  simulation of
+gaming  situations.   He submitted  both a  basic  version and an
+assembly  version  of  the same  algorithm.  The assembly version
+runs in  2 minutes  compared to 5 minutes for  the basic version.
+BETS is educational in more ways than one.  
+
+Finally, there is  a car rally game, DRIVING, from Anang Naik and
+a couple other text file manipulation utilities I tossed in.  
+
+THOUSANDTH MEMBER: The  OUG has  reached a landmark point in  its
+growth since being founded in February of 1981.  On September 30,
+Robert Pressey  became the  1000th person to join the  rest of us
+associated with  the Oasis  Users Group.  Like most of  the other
+OUG  members,  Robert  develops his  own custom business software
+under  Oasis/Theos  using  IBC and  Altos computers  for  the six
+Dickinson  Business Schools  and financial service centers around
+the country.  Bob learned about the OUG from the materials he got
+with  the  recently purchased  IBC MultiStar  III.   He called up
+CARAVAN and after reading some of the messages decided to join on
+the spot using the SIGNUP feature available on CARAVAN.  
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+             THIS IS WHERE PRESSEY'S PICTURE GOES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+As the  lucky  1000th  member, Robert  Pressey has  won  a lot of
+goodies.  To start with, he gets a complete copy of the 50 volume
+OUG  library  backfile  worth  over $1000.   Next, Theos Software
+Corporation  is  contributing a  $1000 gift certificate for Theos
+products.  Then,  Phase One  Systems is awarding a copy  of their
+new  Control-Plus system  that lists  for  $495.  Walt Stagner is
+giving him a copy of his new book: "Theos/Oasis User's Handbook."
+IBC, the  manufacturer of Pressey's main computers, has indicated
+that they will sweeten the pot a bit, too.  The big presentations
+will take  place at our special celebration meeting during Comdex
+in Las Vegas on 22 November.  I will even wear a coat and tie for
+the occasion!  
+
+COMDEX: in Las Vegas  will once again be the  site for our annual
+US meeting.   This year  we are changing the pattern  a little to
+accomodate  our  special  1000th  member  celebration event.   In
+addition  to  new  product announcements,  reviews of significant
+Oasis/Theos developments,  and members announcements; we will set
+aside  time to  honor our  1000th new member and partake  of some
+appropriate  refreshments for  the occasion.  The meeting will be
+held in the New Orleans Room at the Best Western Mardi Gras Motel
+on Friday,  22 November from 2:00PM to 5:00PM.  The Mardi Gras is
+just a  couple  of  blocks  from  the Convention  Center  at 3500
+Paradise Road and is the same place both IBC and TSC plan to hold
+their functions.  
+
+ALTOS: Jim  Simmons  of  Microcosm tells  me he  is  now shipping
+version  8.0  of  Theos86  for  the  Altos  586  series  machines
+(486/986).  He  confirmed  that  version  6.1  of Oasis8  is  now
+available  for all  the Altos  8000 series which have hard  disks
+(10, 12,  and 14).  Microcosm, an Oasis/Theos Master Distributor,
+can be reached at (404) 498-2794.  
+
+IBC: According to  Randy Rogers, president of IBC, they have been
+hard at work  enhancing their version of Oasis8.   ISAM files are
+now faster and  we can expect soon to  see an IBC version that is
+10 times  faster than  the standard Oasis/Theos ISAM .   They are
+also planning  an 8K nucleus version of Oasis/Theos for the Super
+Cadet  and  MegaStar  series which  use the  MMU  and a new cache
+algorithm.  By  the way,  Randy reports that the new  MegaStar is
+doing  well.   That  system will  support up  to  15 users with a
+maximum of 120 Mbytes of disk storage and runs at 8 Mhz.  
+
+The second   edition  of   the  ITS  REAL  software  applications
+directory  is  now just  about ready  and  should be available at
+COMDEX  in  November.  Speaking  of COMDEX,  IBC  is sponsoring a
+special booth where  as many as 16 different  applications listed
+in  the  IBC  software  directory  will  be  demonstrated on  IBC
+equipment during the show.  
+
+ONYX/CORVUS: The  merger  was  completed effective  30 July and I
+have  learned that  the computer manufacturing operation has been
+moved  from San  Jose to  White City in Origon.  The  rest of the
+Onyx staff were moved into the Corvus San Jose headquarters after
+an  approximately  25  percent  workforce  reduction.  The  press
+release  from Corvus/Onyx  mentioned that Onyx manufactures 8 and
+16 bit computers which "run under a variety of operating systems,
+including  OASIS,  UNIX  and  Thoroughbred OS."  An earlier press
+release from them  emphasized the OMNINET LAN marketed  by Corvus
+with "over 200,000 nodes installed." 
+
+Tom Guffey of OmniSource  reports that they continue to  sell the
+line  and  to  provide  dealer  support (801)  532-4975.  Several
+members  have called  to say  they have been unable to  reach any
+informed  Oasis  technical person  at the  old  Onyx phone number
+since early September.  I reached Randy Weber at the new San Jose
+location  (2100  Corvus  Drive,  95124)  and phone  number, (408)
+559-7000, and learned  that ONYX/OASIS is indeed alive  and well.
+He can  be reached  at this new number for  technical support, or
+Manager  of  Product  Marketing, Ron  De Young,  will  talk about
+promotion  and  development.   They  are  working  on  their  own
+implementation of  version 6.1 and expect to have it ready before
+the end of the year.  
+
+KAYPRO: Bryan  Goodheim  (303) 442-2855  is about to announce the
+availability of  Oasis/Theos version  6.1 for the new version  of
+Kaypro's model 10 machine. The Kaypro-10 will list at under $2800
+including  Oasis.  Someone  told me  that they had put a  copy of
+their TVI  804 Oasis on a Kaypro 2 machine and that it had worked
+pretty well as  is.  I see in the  22 July issue of Computerworld
+that Kaypro  is  still  having  financial  setbacks with  a  $6.2
+million third quarter loss on sales that were off 48 percent from
+last year.  
+
+SUPER COMPUTER: At  least four of you called to tell me about the
+article in  September Byte entitled "Build the SB180 Single-Board
+Computer" by Steve Ciarcia.  Since then, more than one of you has
+reported your  intention to either port Oasis to the experimental
+SB180 system  or  to  build  a  computer yourself  using  the Z80
+compatible  Hitachi   HD64180.   I  must  admit  the  article  is
+exciting.  
+
+This new chip offers  the ability to directly address  512K bytes
+of  memory, runs  at 10  MHz, consumes 10 percent the  power of a
+Z80, and is  upward compatible with the Z80  instruction set.  In
+addition  it  offers 12  additional new instructions and executes
+some  of  the old  Z80 instructions  in  fewer clock cycles.  The
+HD64180  chip  includes  a  MMU  (memory  management  unit), DMAC
+(direct  memory  access controller),  plus 2 ASCI serial "ports."
+The experimental  board is being sold to end users at $499.  I am
+anxiously awaiting reports from those of you playing with it.  It
+looks like a potentially big winner.  
+
+68010 OASIS/THEOS: is  now under development.  Long rumored to be
+in the works,  Randy Rogers confirmed that IBC  is in the process
+of implementing  Theos  on  the  Motorola  68010 with  the  first
+version to  be  released  on  the  IBC Ensign.   In  the July IBC
+newsletter Randy writes: "A few years ago, everybody thought that
+Unix would be to the multiuser world what MS-DOS is th the single
+user world.   It didn't happen, though.  Unix did grow.  More and
+more  large,  sophisticated users,  with heavy DP backgrounds are
+choosing Unix.   But, because Unix is so complex, it never really
+caught on as the defacto standard that it was promised to be." 
+
+"At one time, Oasis  was the only decent way  to run multiuser on
+microcomputers  --  and it  was the most popular.  Unfortunately,
+Oasis never became very popular on 16-bit machines.  But now that
+may change.   With IBC's  Oasis for the 68010, Oasis  performance
+will  soon take  a quantum  leap forward." The Ensign version  of
+Theos68(?)  is expected  to be  available by the end of  the year
+with  other  non-IBC machines  to follow  later.   This is a very
+welcome piece of news.  
+
+IBM: is reported to be in the process of developing a super micro
+which some  have dubbed the "clone crusher." The idea is to build
+a computer based on the unreleased Intel 80386 microprocessor for
+availability  in  two  or  three  years.   The  analysts watching
+developments  here expect  a proprietary operating system like VM
+or a subset of VM to be used, possibly with some of it microcoded
+on  the  chip  itself.   The  80386  would  not  be available  to
+competitors.  The IBM machine is code named "Convergence." 
+
+VERSION 6.1:  of  Oasis8/Theos8  is  available  for  most  of the
+popular  machines.   Some  of  the  implementations  have  larger
+necleuses than previous versions and several of you have reported
+^rouble  loading large  application programs under 6.1.  The user
+space lost  seems to be only about 1K, but that is clearly enough
+to  cause  problems  for some.   The IBC  version  is one notable
+exception  with its  16K nucleus.   The  Altos versions gobble up
+nearly 21K (20247 for the 580 and 20537 for the 8000) or about 1K
+over previous versions.  Ron Struthers of AEON reports 6.1 is now
+available  for  the  Digital Group  computers and  that  they are
+offering a special upgrade price of $95!  
+
+TSC PERSONNEL:   Joyce   Mansfield   has   left  Theos   Software
+Corporation  and  has  been replaced  by Shelly  Clark  as Public
+Relations  Manager.   Mat  Sanregret  has  joined  the  staff  as
+National  Accounts  Representative.   Allen  Hutchens  called  me
+recently   for  assistance   with  his  freelance  assignment  to
+stimulate  more  interest  among  hardware manufacturers  not now
+supporting Oasis/Theos.  He  could use some help in  this regard.
+If there  is anything you can do or if you have any bright ideas,
+contact him through TSC.  As I write this Susan Catalano, Tim and
+Kathleen Williams  are in  Spain to negotiate some new  big deals
+there, no doubt.  
+
+THEOS PROMOTION: Have  you seen the new Theos brochure set.  They
+are great - very professionally done.  While quite tasteful, they
+get the message across in a most human way.  Take for example the
+overall  introduction  to  Theos  that  asks  you  to "Imagine  a
+multi-user  operating  system  that's  easy as  child's play" and
+illustrates  the  point with  a picture  of  the entire TSC staff
+having a great time blowing soap bubbles.  It's a winner.  
+
+PHASE ONE SYSTEMS:  Ron Gibbs  reports that he has purchased  all
+POS stock owned by Don Drew and his Oasis Developers Association.
+Ron says  he and Tim Williams (Forth Try) are trying very hard to
+settle  the  old  historical  disagreements  and establish  a new
+constructive-cooperative   relationship.   Buddy   Auble  at  TSC
+confirms  that  active  new negotiations  are indeed underway and
+sounded pretty  optimistic to me.  I wouldn't be surprised to see
+an early announcement that ALL the POS hassles are behind us now.
+
+Mark DeCroo reports that he is having good success with the 80286
+version of  Control he is selling in Belgium.  Ron Gibbs says POS
+is now primarily  a data base company and  has been extending the
+CONTROL  related  product line.   A new,  easier  to use end-user
+version  of  CONTROL  called  Control-Plus  is  being  offered to
+current  owners  for  an upgrade  fee of  $199  (regular price is
+$495).  Call POS at (415) 895-0832 for more information.  
+
+BACKUP: your active files!   Do as I say, not  as I do.  Sadly, I
+neglected to take my own good advice and lost all updated records
+between 1 April  and 1 July.  Most of  the membership information
+
+VOL50.NEWS:VOL50                                          01/29/85 18:43 Page 2
+
+was available  in  manual  records,  but  somebody no  doubt  got
+overlooked.  If you  get/got a renewal notice for  1985 and think
+you already took care of it, let me know.  
+
+SUN WORSHIPING PRINTER: Every morning at sunrise for about a half
+hour my  Sanders Printer refuses to work.  The mystery was solved
+when I  discovered that the photosensing paper detector was being
+triggered on by the direct sunlight coming through the window for
+that brief period.  
+
+DISKETTES: I've  made a  new deal  for an excellent price on  the
+high coercivity 5.25" diskettes used by the IBC Middi, IBM PC/AT,
+and other  computers.  These  are the Wabash DataTech series  and
+are available for $22 per box from Digital Images (800) 222-1248.
+This is their  regular 100 quantity price, so  try to buy several
+boxes at a time and be sure to mention the OUG to get this price.
+I've been using them and they are 100 percent OK on my NNC 540.  
+
+One of  our  members,  George  Hamstra,  owns Media  Software and
+Systems which sells  diskettes.  I know he has  bulk 8" diskettes
+at much less than $2 in quantity.  Call him at (800) 548-9618 for
+pricing.  According to an August BCS article we are in the middle
+of a  floppy disk shakeout, and these prices tend to confirm that
+conclusion.  To  round out info about media, I have come across a
+large quantity  of surplus 3M CD300XL tape cartridges at under $4
+each in  lots of 1000, but I would need to resell several hundred
+of them in order to pull off a deal.  Interested?  
+
+PRESS: The 18  September issue of Computerworld Focus carried and
+article  by Lee  White entitled "Multitasking Operating Systems -
+Is the Contest  Already Over?" Lee concedes that  all the various
+versions of UNIX are converging on a standard, but concludes with
+an implied question:  "Who needs it?" The same  issue carried the
+Theos  press  release announcing  the 80286 version availability.
+I'm surprised more publications haven't printed the release yet. 
+
+Congratulations to  Doug   Bauer  who's  15  February  letter  to
+Business  Computer  Systems  was  finally  published in  the July
+issue.   His  letter  asked  for  more articles  about multi-user
+operating systems including  Oasis.  Doug gets a free  OUG volume
+for his accomplishment.  
+
+The newest special  IBM issue of Byte magazine was devoted to IBM
+compatibles  and carried  a review  of  Theos86 by Mark Rochkind.
+The article  on pages  231 to 239 covers three  "niche" operating
+systems:  PICK,  Coherent,  and  Theos86.   It's  a  pretty  well
+balanced  treatment  and  Theos86  comes  out  looking  like  the
+multiuser O/S of choice for a variety of applications.  
+
+EASYBASE: is  a  unique "Indexed  Relational Data Base System for
+Oasis8." Several  members have been checking it out for us and we
+are now  ready to schedule it for release just a few volumes down
+the road -  possibly 53/54.  Comments from one  of our reviewers,
+Ray Rothman, are  included in the VOL50.FEEDBACK file  this time.
+I'm  starting to  get excited.   This looks like a very  powerful
+systems   development   tool  that   goes  well  beyond  database
+management.  
+
+HAWAII: Bob  Hirata at  the Honolulu Community College is setting
+up an Oasis Demonstration Lab and is looking for contributions of
+vertical market software  packages he can use in  the lab.  Looks
+like  a  great  opportunity to  get some  free  exposure for your
+products in Hawaii.   Read his letter in the  VOL50.FEEDBACK file
+^nd give him a call at (808) 845-9123.  
+>LIST VOL50 FEEDBACK A 
+PICTURE: The bearded face on the back of the volume 49 newsletter
+was  not  Rumplestiltskin,  nor  was  it  me  (just  two of  your
+guesses).  That's  Tim Williams, the guy responsible creating the
+Oasis/Theos operating systems.  Just thought some of you who have
+never met guy might enjoy seeing what he looks like.  
+
+THE OS TIMES: The  next issue will be out  by Comdex and promises
+to offer some interesting reading.  Featured will be an interview
+with Tim Williams, a review of the recently released Theos286 for
+the IBM PC/AT,  and a couple of application  articles - one about
+processing  tomatoes  and  another  about horse  doctors.  If you
+haven't sent TSC your $10 annual subscription fee, now would be a
+good time.   Also, if  you are an application software  developer
+and  haven't sent  them information  about  your products for the
+Application  Guide,  you're  missing  a  valuable source  of free
+advertising.   For  more  info call  Callie Webb  at  Theos (415)
+283-4290.  
+
+MEMBERS ONLY: The  services provided  by the OUG are for  members
+only, but I guess most of you already know that.  This message is
+for  the  few  who have  forgotten that  ALL  of our services and
+materials are available ONLY to currently active members.  Anyone
+who has never paid an initiation fee or who has not renewed their
+membership  for the  current year  should not be given access  to
+benefits for which other members provide financial support.  
+
+A few of  our members  have apparently forgotten that there  is a
+geographical  limit  on  sharing  of OUG  library materials among
+members  - share  ONLY with  other members who live near  you (eg
+same telephone dialing area or same city).  Everything in the OUG
+library is  copyrighted; the  OUG software library is NOT  PUBLIC
+DOMAIN.  We have  bills to pay like everyone  else and it is only
+fair that those  who benefit from OUG services  contribute to the
+financial support.  
+
+
+
+Peace, 
+
+
+Fred Bellomy 
+
+(805) 965-0265 and (805) 965-5415 for CARAVAN-information system.
+
+-----------------------------------------------------------------
+end of .......          N E W S   L E T T E R           Volume 50
+-----------------------------------------------------------------
+
+VOL50.FEEDBACK:VOL50                                      01/29/85 18:43 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL50.FEEDBACK                                     9 October 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+Dear Fred, 
+
+Enclosed is a  newest contribution, which delighted the other OUG
+lawyers in our  (SIG-LAW)  emerging network.  It is called BILGE,
+which is my frank lawyerly opinion of its moral applications. Ah,
+but who am I to stop  the march of science?  If  I hadn't thought
+of it, the Russians would have.  
+
+BILGE is   designed   to  eliminate   the  drudgery  any  skilled
+professional  feels in  having to  fill out time logs or  punch a
+time  clock.  Instead,  with this handy-dandy little program, you
+can  generate  a  month's  or  year's realistic  looking billings
+totally at random and get out to the golf course or slopes.  It's
+perfect  for  those  court-awarded  fees  that require  laborious
+documentation by FRIDAY.  Next time you get a lawyer's bill, this
+program will  make you  stop and wonder, "Now how  did he come up
+with this?" ...  
+
+Albert Bates                                           6/8/85
+Summertown TN 38483-0090
+(615) 964-2334
+
+P.S.: Now   someone   needs   to   adapt   this   for   overnight
+expense-record generating for impending IRS audits.  
+
+P.P.S.: I need to convert some of my OASIS BASIC programs to CP/M
+for  use on  a bulletin  board.  Is there a reverse  MCONVERT out
+there anywhere?  
+
+-----------------------------------------------------------------
+September 6, 1985
+
+
+Mr. Fred Bellomy
+Oasis Users Group
+P.O. Box 2400
+Santa Barbara, CA  93120
+
+Dear Mr. Bellomy:
+
+Recently Honolulu   Community   College  received   an  anonymous
+donation to  establish a Technology Training and Education Center
+at our college.  
+
+The purpose of the center is to assist Hawaii's small businesses,
+industry, educators,  and professionals to stay competitive in an
+increasingly  technolgical  society.   The  center  will  utilize
+computers and  computerized systems in a variety of applications.
+The center currently has an IBM computer lab, Apple computer lab,
+and a UNIX computer lab.  The majority of Hawaii's businesses are
+small business operations and the majority of these companies are
+not computerized.  
+
+We have   gotten  tremendous   amounts  of  inquiries  concerning
+inexpensive  multiuser  computers for  small business operations.
+We  believe  that OASIS  computers are  ideally  suited for small
+business  applications.   We  have  acquired  an  IBC  Multi-Star
+(middi-format) computer to establish an OASIS microcomputer lab. 
+
+This is  only a  small beginning  and perhaps with your help  and
+help from  OASIS  software  vendors  we  can establish  an  OASIS
+microcomputer  lab  at the  Technology and Training and Education
+Center  at  Honolulu Community  College.  The OASIS microcomputer
+lab, if  and when  it is established, will enable  Hawaii's small
+businessmen  to  obtain hands-on  experience with OASIS computers
+and will get to actually run and try different softwares.  
+
+Your assistance is requested to coordinate vendor contribution of
+software and hardware to the center.  
+
+I believe that OASIS  must take the offensive and  must gain more
+exposure if it desires to become a dominant operating system.  
+
+Should you  have any  questions or  concerns  please feel free to
+call me at (808) 845-9123.  
+
+                                     Sincerely,
+
+
+
+                                     Bob Hirata, Director
+                                     Business Affairs
+                                     HONOLULU COMMUNITY COLLEGE
+
+-----------------------------------------------------------------
+
+08/06/85
+
+FRED BELLOMY
+THE OASIS USERS GROUP
+POST OFFICE BOX 2400
+SANTA BARBARA, CA. 93120
+
+
+DEAR FRED,
+
+
+     I would like  to send  this announcement for the next  OASIS
+USERS GROUP newsletter and phone board.  
+
+     DIGITAL GROUP  COMPUTERS  the  first  computer to  bring you
+OASIS  has   recently  extended  their  contract  for  continuing
+OASIS/THEOS  software  support  with Susan  Catalano of the THEOS
+Software  Corporation.   Hardware  supported is  multi-user Z-80,
+with  co-Z80 processors  on the  R.W.  500 solid state disk,  and
+co-Z80 R.W.   Input Output  processor, 3.5" and 5 1/4"  10,20,30,
+and 40  Megabyte hard disk support, with graphics terminals, also
+low priced  single board  Z-80's.  The DIGITAL GROUP buss  allows
+for tightly  coupled parallel processing, and future expansion to
+32 bit host processor, making the buss a ten year survivor.  Full
+service, parts,  and new  products are available for the  DIGITAL
+GROUP COMPUTER by  AEON ELECTRONICS INC Suite MSB  1855 S.  PEARL
+DENVER, COLORADO 80210 (303) 777-AEON.  Where still standing !!! 
+
+     A TALKING OASIS is also available for the visually impaired.
+
+     DIGITAL GROUP  COMPUTERS, the  OASIS/THEOS operating systems
+and the facilities, at AEON ELECTRONICS INC.  where recently used
+for  the RIBBON  peace demonstration which encircled the Pentagon
+and  other  buildings  during the  anniversary of  the  bombing of
+Hiroshima.  
+
+     Fred, I'am sending along a diskette with sample programs for
+running  graphics  terminals  from OASIS  8 for  the  users group
+library.  With  the low prices of memory these graphics terminals
+have fallen in price, as well as graphics add on boards which can
+be added  to most Televideo terminals.  It is interesting to note
+that many  people say  graphics is not available under  OASIS but
+this  is  not true.   It is  interesting to note that one  of the
+major software suppliers  for graphics software for the  IBM p.c.
+heavily recommends  the TEKTRONIX graphics protocol, and has many
+conversion programs to run the TEK standard on IBM p.c.  graphics
+cards.  
+
+                                     Sincerely,
+
+                                     Ron Struthers,  President
+                                     AEON Electronics Inc.
+                                     Digital Group Computers
+                                     1855 S. Pearl Suite MSB
+                                     Denver, CO 80210
+                                     (303) 777-2366
+
+PS:   There are FFT programs available for speech,  seismic,  and
+music analysis. for a catalog of these products write or call the 
+above address. 
+
+-----------------------------------------------------------------
+RAYMOND C. ROTHMAN
+21650 Burbank Blvd #110
+Woodland Hills  CA 91367  USA
+Phone:  818/347-5974
+August 23, 1985
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara CA 93120
+
+EASYBASE EVALUATION:
+
+The EasyBase procedure manual on the diskette you sent me is much
+easier to read  than some other database manuals  I have tried to
+translate into English.  
+
+After being  told  in  the  Preface  that  only  a  system  level
+knowledge  of  Oasis  and indexed  fields is  required,  the user
+learns  in  the  3rd  Chapter  (EasyBase Reporting)  that careful
+reading of the OASIS Basic manual is required unless a programmer
+is available for help with report formatting.  
+
+The 3rd  Chapter advises  that the  "only  real limitation in the
+entire  system"  is that  "no sub-totals  can  be performed".  To
+offset   this  disadvantage,   however,  the  user  can  generate
+additional programs, files and reports to obtain a total for each
+group  of entries  for which  an individual total is desired.   A
+small Profit and Loss statement has at least 20 subtotals meaning
+20  some  odd  EasyBase programs,  files and  the  same number of
+reports to be pasted together to make up one P L statement.  
+
+EasyBase provides for arithmetic and rounding "within an EasyBase
+file".  That  means that a number of items could be invoiced as a
+subtotal  but sales  tax could  not be added to obtain  the grand
+total because of the subtotal limitation.  
+
+Cross posting of  totals from one file to another is explained as
+"taking  the contents  of a  data field in one EasyBase  file and
+using it  to  modify  the  contents  of a  data  field in another
+EasyBase file."  As with most accounting packages, posting of the
+totals is  done by batch so once posting is done, errors can only
+be corrected  by entering  a new batch with the  correction.  The
+user  is advised  to schedule  posting  during "lunch hour" which
+implies  that processing  takes a  lot of memory and/or a  lot of
+time.  
+
+EasyBase identifies  each  field  belonging  to  a record  with a
+number rather than a name.  A field name such as AMT for "amount"
+rather than a  field number is much easier  to handle when laying
+out  the  fields  belonging to  a record  for  data input and for
+report formatting.  
+^
+EasyBase would be  excellent for doing mailing labels in zip code
+sequence.   Accounting  applications  would be  limited, however,
+because subtotals can not be obtained without creating additional
+programs and files.  
+
+Thanks, Fred,  for   giving  me  the  opportunity  to  look  over
+EasyBase.  
+
+Sincerely, 
+
+
+
+Ray Rothman
+-----------------------------------------------------------------
+
+RAYMOND C. ROTHMAN
+21650 Burbank Blvd #110
+Woodland Hills  CA 91367  USA
+Phone:  818/347-5974
+August 23, 1985
+
+
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara CA 93120
+
+Dear Fred:
+
+Would like to take this opportunity to thank you for all you have
+done with the  OUG newsletters for Oasis users.   I hope that the
+hardware  and  software  people  have  acknowledged your  writing
+efforts in  their behalf.   The OUG news is the  only way one can
+keep up with the constantly changing Oasis world.  
+
+I am one  very happy  Oasis user.  I use the  Control or UserBase
+database programs  to create any customized application program I
+need.  Database Savvy  is for every business person  who wants to
+use a computer  without writing in programing language  or buying
+package programs.  
+
+My advice  to every  professional programmer is to concentrate on
+writing a  better database  program and provide a manual  with it
+that a business person can read.  
+
+Sincerely, 
+
+
+
+VOL50.FEEDBACK:VOL50                                      01/29/85 18:43 Page 2
+
+
+Ray Rothman 
+
+-----------------------------------------------------------------
+07/28/85,09:46:26, 615,X,PAUL NAITOH,(619)224-5061 
+
+]Thanks for let  me browse  your Oasis BBS.  A friend  of mine in
+West Germany  wishes to  know what is going on  in the OUG, as he
+owns OASIS,  and he  thought that I can access  the OUS much more
+cheaply than  he can  from Germany.  I don't own  OASIS yet, so I
+hope that I  am doing ok for him.   Thanks -- I will be back.  --
+PAUL NAITOH 
+
+
+-----------------------------------------------------------------
+08/04/85,17:06:19, 636,X,KEVIN HANSEN,(208) 852-0832 
+
+]Hi fred ..   just down loaded a couple of things.  the first was
+a resend of CHKFORM.ASSEMBLE this fixes a small bug I found.  the
+second is  called M2TEST.COMMAND.  This is a calculator program i
+started on using bob chapman's FPMATH program .  I had just put a
+couple of  new  drives on  my system  an  had been using the  new
+drive's for development  work when one of them  went up in a puff
+of  smoke.   the drive  that quit  was also the one that  had the
+source for the  M2TEST program.  try it out  and see if you think
+it  is  woth passing  along.  There  is no way I can  recover the
+source for this one.  
+
+PS would  you like  to buy  a couple of IMI 10  meg drives.  well
+must get back to it ..  by......  -- KEVIN HANSEN 
+
+
+-----------------------------------------------------------------
+>08/03/85,13:02:36, 657,X,RON AUSTIN,(305) 846-3686 
+
+]THIS IS  MY FIRST  TIME.  MESSAGE  DATES SEEM VERY OLD.  WHO  IS
+SUPPOSED  TO   GET  RID  OF  THEM?   SUBJECT  MATTER  LOOKS  VERY
+INTERESTING -- RON AUSTIN 
+
+
+-----------------------------------------------------------------
+08/02/85,16:50:19, 673,X,KEVIN HANSEN,(208) 852-0832 
+
+]HOWDY FRED ..  I HAVE BEN TRYING TO GET IN FOR OVER 10 DAYS NOW.
+THE PHONE LINES  HERE HAVE BEEN THE PITS.   DO YOU BY CHANCE TAKE
+BYTE MAGAZINE?   IF SO,  THEN YOU WILL HAVE ALREADY  SEEN THE NEW
+COMPUTER THAT STEVE C HAS BUILT.  DO YOU REMEMBER THE Z800.  WELL
+IT SEEMS THAT  THE JAPS HAVE COME OUT  WITH ONE OF THEIR OWN THAT
+LOOK'S TO BE  EVEN BETTER THAN WHAT THE  Z800 WAS SUPPOSED TO BE.
+IT  WILL  ADDRESS 512k  OF MEMORY  .  I HAVE ONE ON  ORDER AND AM
+GOING TO  TRY TO PORT OASIS TO IT.  IF I CAN GET SOMETHING WORKED
+OUT WITH THE BOYS IN CALIFORNIA THAT IS.  EVEN IF THEY DON'T WANT
+TO TALK  TO  ME, I  THINK ILL  DO  IT ANY WAY.  I  ALSO HAVE BEEN
+PLAYING  WITH THE  NOW KAYPRO  2000 LAP TOP AND FROM  WHAT I HAVE
+LOOKED AT  IN THEIR BIOS, OASIS FROM THE IBM PC SHOULD WORK ON IT
+WITH OUT  TO MUCH MODIFICATION (have a beta copy on it's way from
+OTEC).  I THINK  I MAY TRY TO WORK  SOMETHING OUT WITH THEM TO DO
+SOME PORTING WORK (put oasis on new hardware).  
+
+Oh yea, by  the way,  I down loaded your CARAVAN  program several
+weeks ago.  after talking with you on the phone some days earlier
+and you  saying "YOU  CAN DOWN LOAD IT IF  YOU LIKE." I hope this
+applies  to the  command file  too, as it is the  one that I down
+loaded.  if there is a problem with my having down loaded it, let
+me know and  I will "KILL" it .   After playing with it I can see
+that it needs  some work.  Could you tell  me how to get in touch
+with the  person who got it going on OASIS ?  I would like to get
+hold of  the source and add a little to it like CPM file transfer
+capability and a  few things like that ..   I haven't even looked
+at the C compiler again.  If someone else has the time to work on
+it, have them give me a buzz and I will send what I have to them.
+I am  presently trying to learn the motorola 68000 chips and also
+the  intel  8088/8087/80186/80187/80286/80287 .   I hope OTEC can
+get  something going  soon.  It  seems that UNIX is beginning  to
+slip a  little.  MS/DOS isn't worth having and if OTEC doesn't do
+it some  one else will.  Well enough of this.  I must get back to
+work ..  that is all..  bye bye -- KEVIN HANSEN 
+
+-----------------------------------------------------------------
+08/02/85,09:00:05, 676,X,DAVE KLOTZMAN, 
+
+]Man, this thing has  been down for a long  time!!!  And not that
+it's finally up.   Nothing's been added in a  month!  And I still
+think it's too  awkward to manually remember what  message number
+I'm reading (especially  if message causes # I  entered to scroll
+off top  of screen),  and too much work to  R>espond to a message
+(got to  leave R>ead mode, enter E>nter mode, then re-enter R>ead
+mode)!!!  
+
+I'm looking  forward  to helping  you through  the  alpha test of
+DEKBBS/CARAVAN!  -- DAVE KLOTZMAN 
+
+
+-----------------------------------------------------------------
+09/07/85,14:54:45, 677,X,ARNIE ROSENBLEETH,904-968-9131 
+
+]I AM  LOOKING  FOR A  SIMPLE PAYROLL  PROGRAM  FOR LESS THAN TEN
+EMPLOYEES.  THE  OSBORNE IT  TOO COMPLICATED AND WILL NOT  FIGURE
+THE RATE  PER HOUR.  THE TIME CARD PROGRAM IN THE OUG WAS OF SOME
+VALUE  BUT  ONLY PART  OF THE  PROGRAMS  NEEDED.  THANKS -- ARNIE
+ROSENBLEETH 
+
+
+-----------------------------------------------------------------
+01258,05,07/30/85,20:02,AL WHITAKER,ALL 
+
+NEED BOARDS,, NEED TO  PURCHASE 2 64K MEM/BOARDS FOR  TRS80 MODEL
+II WITH OR  WITHOUT MODS/ FOR OASIS IF  ANYONE OUT THEIR IS USING
+THE  HENDERSON  RAM +  BOARD THEN  YOU REMOVED R/S 64K BOARD  AND
+STORED  IT  SOMEWHERE  ?   CALL  -  AL  WHITAKER (DIABLO  ENGINE)
+415-828-0222 
+
+
+-----------------------------------------------------------------
+01259,32,07/30/85,21:05,STEVE BUCHAN,ALL 
+
+OASIS LOGON HINT ***GREAT***,FRED, SUPER HINT <<<<<<<<<< 
+
+Have you ever wished that OASIS/THEOS would wipe the screen clear
+after  a user  logs off?   What is someone saw your  confidential
+information still left on the screen?  WELL HERE IS A SOLUTION TO
+THIS PROBLEM ...  
+
+STEP       ACTION      RESULT
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+1. Log on to SYSTEM (0) account
+2. Unprotect SYSTEM.ERRMSG:S
+3. ERRMSG <r>
+4. 114 <r>   -*- Logon Msg #
+5. [114] ^J^ Logon please | <r>
+6. <r>
+7. Protect SYSTEM.ERRMSG:S
+8. LOGOFF <r>
+9. AND YOU WILL SEE THE SCREEN CLEAR.
+
+Now, I  can't  say  that I  know why  this  clears then screen at
+logoff,  but it  does.  We  discouvered it by chance.  ^J is more
+than likly  interpreted as a FF, but who knows what LOGON.COMMAND
+interprets  the  second  ^ as?   This  will  not work without the
+second ^.
+
+GOOD LUCK 
+
+STEVE BUCHAN (604) 224-1789 
+
+
+-----------------------------------------------------------------
+01260,28,07/30/85,21:18,STEVE BUCHAN,ALL 
+
+IBC HELP <BREAK>???,FRED, HELP!  <<<<< 
+
+I am running an IBC Middi Cadet with TERMINAL.COMMAND.  I need to
+send a <BREAK> to my host when I port through then IBC.  
+
+I am told  by those who should know (IBC) that the <BREAK> chr is
+not available on  the MIDDI as the hardware  will not support it.
+I can't believe this.  
+
+Simple question :  How do I send a <BREAK> and with what software
+package?  
+
+Steve Buchan Compuserve 72167,62 Source TCH146 
+
+or if  you really  have the  answer (not a guess please)  call me
+collect and just say you are 'my break answer calling' 
+
+(604) 224-1789 
+
+
+
+-----------------------------------------------------------------
+01261,16,08/01/85,15:11,PHIL HAMLIN,ALL 
+
+ZICOMP ULTRA-SE,, THE  COURT THAT I WORK FOR HAS JUST INSTALLED A
+^ICOMP  ULTRA-SE, MODEL  32.  I  AM VERY IMPRESSED WITH BOTH  THE
+MACHINE AND  THE COMPANY.   THIS MACHINE IS TOP OF  THE LINE.  WE
+HAVE  13  TERMINALS  ON THE  SYSTEM WITH  TWO  85 MEG HARD DISKS.
+ZICOMP HAS  REWRITTEN THE ISAM HASHING SCHEME AND IMPROVED ACCESS
+BY ABOUT 4 TIMES.  SPEED/PERFORMANCE SEEMS VERY GOOD, BUT WE HAVE
+A FEW BUGS TO BE WORKED OUT, SOME IN THE OPERATING SYSTEM (HAD TO
+BE EXTENSIVE REWRITTEN TO HANDLE MULTIPROCESSOR ARCHITECTURE).  
+
+I WOULD BE  GLAD TO ANSWER QUESTIONS.  CALL ME WORK HOURS (MI) AT
+616-774-3700,  OTHERWISE AT  616-245-1504.  HOPE TO RUN THE BENCH
+MARK PROGRAMS IN THE NEAR FUTURE.  RESULTS TO FOLLOW.  
+
+
+-----------------------------------------------------------------
+01267,07,08/05/85,02:47,DAVE CLINE,ALL 
+
+FILE TRANSFERS  USING  KERMIT,,  From  Dave  Cline -->  ATT Micro
+Systems,  Inc.   We are  currently looking  for  a version of the
+KERMIT  file  transfer  program  (which many  versions are public
+domain ) that  will run under OASIS.  Anyone  with information on
+how  to obtain  a copy  or a copy from another  O/S that could be
+fairly   easy  to   convert  please   give   us  a  call.   (206)
+282-0167........Thanks.  
+
+
+-----------------------------------------------------------------
+01271,05,09/07/85,09:48,KEN CLONTS,ALL 
+
+WANT TO  BUY 40  MB ADD  ON (ONYX,, Want to buy  used 40MB add-on
+disk drives for ONYX 8001 MU.  If you have one (or more) that you
+want to sell call Ken Clonts at (915) 646-2541 weekdays.  As most
+people, I don't have a great deal of money but I do have a lot of
+wants and needs.  
+
+
+-----------------------------------------------------------------
+01273,05,09/08/85,21:01,RANDY SUN,ALL 
+
+DENTAL PACKAGE NEEDED,, I NEED A DENTAL MANAGEMENT SYSTEM PACKAGE
+THAT IS  FAST!  I AM CURRENTLY USING THE RCI PACKAGE AND AM READY
+TO  UPGRADE  TO  QUICKER  SOFTWARE  WITH  MORE  USER FLEXIBILITY.
+PLEASE CALL  (707) 263-3030  COLLECT IF YOU HAVE THE  SOLUTION- .
+THANKS.  
+
+
+-----------------------------------------------------------------
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL50.FEEDBACK                              9 October 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Welcome to volume 50in the very rapidly expanding library
+of OASIS compatible member contributed "END-USER-ONLY" software.
+
+Want a PRINTED COPY of the program info too {Y/N}? N
+
+ 
+BETS.BASIC   BETS.COMMAND (Sorry, no source)
+ 
+This program was written, and constantly revised, according to the
+strategies used by various "professional gamblers". The people who
+contributed their knowledge and experience assumed that I would be
+able to improve their formulas. As a result of this effort I think
+that I proved that their success is based more on luck than logic.
+ 
+
+ 
+             Contributed by:  Gary Bergman
+                              14 Hickory Lane
+                              North Brunswick, N.J. 08902
+                              TWX: 710 480 6282  ADS NBRU
+
+
+
+Want more info {Y/N}?:N
+
+ 
+BILGE.BASIC/EXEC    BILGE2.BASIC    BILGEDEM.BASIC
+
+This program can  generate a complete series of billings for your
+service  or trade.   The sample  program  uses a typical lawyer's
+office  billing  format  and  a  half-dozen  of  the most  common
+lawyerlike tasks, arranged by frequency of performance.  The user
+is  asked  to  give the  starting and  ending  dates, the average
+number of  hours  devoted  to  the  client in  a  given week, and
+whether  the  billings  should  Descend  in frequency,  Ascend in
+frequency, or just  occur randomly.  The user is  also queried as
+to  how many  hundreds of  dollars an hour should be  charged for
+this outrageous fraud.  
+
+Actually, this  program  is  not original,  but was discovered by
+A.J.   Weberman when  going through  the  garbage of a top-ranked
+Wall St.  law  firm in 1981.  Needless to  say, you won't be able
+to get it through ABA-NET.  OASIS users should be aware that this
+program  may  be part  of a  larger  meta-program by white-collar
+criminal defense attorneys to generate clients.  
+
+Submitted by Albert Bates.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+CHEMIST1/CHEMIST2.BASIC 
+
+These are a  couple of chemistry exercises.  CHEMIST1 was written
+by Anang Naik  and deals with finding the  correct dilution ratio
+for  Cyanodecapentayne  to  prevent  an explosion.   The CHEMIST2
+program was  converted by him for Oasis from an original found in
+Creative Computing  and deals with finding the correct ligand and
+metal  concentrations for  ion equilibrium.  These both look like
+fun high school level chemistry education "games." 
+
+WANT TO TRY CHEMIST1 NOW? [Y/N]:N
+
+ 
+DRIVING.BASIC 
+
+This is  an old  game found  by Anang Naik and converted  to work
+with Oasis.  It  is a lot like the  rocket fuel consumption games
+we were  seeing a few years ago, except this time we drive Hondas
+and Lamborghinis through traffic on twisty roads.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+GRA4010 .BASIC    GRA4027 .BASIC    GRAHOU3D.BASIC   
+GRAHOUSE.BASIC    GRAPHBAR.BASIC    GRAPHICS.INFO 
+
+
+These are some  sample graphics demonstration programs which will
+run under Oasis using the Intecolor 4027, Tektronix 4010/4027, or
+any  Televideo terminal  equiped with either the RetroGraphics or
+Selnar graphics boards.   All of these use the  Tektronix Plot-10
+graphics programming language.  Interactive graphics are possible
+with cursor  control or  optional mouse or light pen  input.  The
+GRAPHICS.INFO  file contains  more information about implementing
+graphics with any of these terminals.  
+
+The demo programs  show how to generate graphics displays in both
+color  and  monochrome.  The  program, GRAHOU3D.BASIC, is a three
+dimensional  display of  the house  whose floor plan is shown  by
+GRAHOUSE.   The  author,  Ron  Struthers,  is  president  of Aeon
+Electronics  which provides  support for Digital Group computers.
+He  also  sells  the  graphics  terminals  and  add-on  Televideo
+graphics boards.  Contact him at (303) 777-2366.  
+ 
+WANT TO TRY ANY OF THEM NOW? [Y/N]:N
+
+
+
+^
+HALOWEEN.PUMPKIN
+
+Just in time for Haloween this year comes this Haloween Pumpkin
+picture created by Anang Naik.
+ 
+WANT TO SEE IT NOW? [Y/N]:Y
+TO ABORT THIS PROGRAM TYPE <esc> QN
+
+
+
+WORKING . . . . .
+
+
+                                     @
+                                  @@@@@@@
+                                     @@@@@@@@  
+                                      @@@@@@@@@ 
+                                    ***@@@@@@@@@ 
+                                  **************@@** 
+                             **************************** 
+                          **  ***************************** 
+                        **        ***********************     ** 
+                      **         **    **************    **     ** 
+                     **          **         **         *******     **  
+                  **           **                            **     **
+                 **           **    X                         **     **
+                 **          **    XXX                X        **     **
+                 **         **   XXXXXXX           XXXXXXX      **     **
+                 **         **  XXXXXXXXX         XXXXXXXXX      **     **
+                 **         **                   XXXXXXXXXXX     **      **
+                 **         **                                   **      **
+                  **        **              X                    **      **
+                   **       **            XXXXX                  **      **
+                    **      **          XXXXXXXXX               **      **
+                     **      **                                **      **
+                       **      **   #####           #####     **     ** 
+                       **      **    #####         #####     **    ** 
+                        ***     **     #############        **   **
+                           ***    ***       ## ###          **  ** 
+                            ****                           ** ** 
+                              ** **                **     **
+                                ***     **********      ***
+                                   ***         ***** 
+
+                        H A P P Y   H A L L O W E E N  ! ! ! !!!!
+                                Submitted by: Anang Naik
+
+
+
+ 
+MATHSUM.BASIC 
+
+This is  another  mathematics  drill  that  tests  your  skill in
+calculating the sum of the digits for a computer selected series.
+It was created by Anang Naik.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+OVERTIME.EXEC OVERTIM1/OVERTIM2/OVERTIM3.BASIC 
+
+This is a  system for  maintaining the overtime and premium  time
+hours worked  by an employee.  It was written by Chris Mallam for
+his very special  situation in Canada and must  be customized for
+your particular application.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+PROOFIT/SCRIPTIT.EXEC 
+
+This is a pair  of programs which I use  for cleaning up all text
+files that  get put into the OUG library.  PROOFIT first runs the
+file through  the OUG PROOF spelling checker and then through the
+SCRIPTIT process.  
+
+SCRIPTIT just justifies a text file to 65 columns and removes the
+printer control characters  in column one.  If the  text contains
+any sections  that you  do not want justified, you  must manually
+edit the  file  first, inserting  (.NOFILL and .FILL)  around the
+sections you want left as they are.  I use these a LOT.
+ 
+WANT TO LIST THEM NOW? [Y/N]:N
+When 'RAZORS'  performs  a  search of  the database  it  uses theLT
+customers last  name as the search key.  If a duplicate last name
+is found, 'RAZORS' builds a screen listing all the customers with
+the same  last  name  and  allows  you to  select  the particularN
+customer you want.  ZORS$7.BASIC   RAZORS$8.BASIC 
+
+The system requires  the use of control codes to enter data.  The
+author assumes that  FUNCTION KEY-A is loaded with  control-A and
+FUNCTION KEY-B  is loaded  with control-B, but the control  codes
+themselves may be used.  Line 24 is reserved for messages.  ta by
+customer name  which enables  the stylist to review the  personal
+This system  could easily  be modified  for  use in any situation
+requiring scheduling of multiple rooms or other facilities - such
+as a doctor's office.   You will  need  to customize the  default
+address info in lines  570 to 590  of RAZORS$2.BASIC for your own
+location.  It was contributed to the OUG library by Tom Margarido
+(203) 429-7770.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+ 
+T4.C/COMMAND/OUTPUT 
+
+This is a  program for  preparing Canadian tax forms.  You  enter
+the  required  data for  each employee  and  it prints on Revenue
+Canada Taxation  form (T4).  Also provides facilities to edit and
+display  all  the  data read  in of  an  employee before they are
+processed.   At the  end,  it  also  prints  a T4  summary  which
+includes  Gross  Income  total  (sum  of  each  employee's  Gross
+Income),  C.P.P.   total (sum  of each employee's C.P.P.), U.I.C.
+total (sum of  each employee's U.I.C.) and Income  Tax total (sum
+of each  employee's Income  Tax).  It was programmed by  Ashok K.
+Pandey and submitted by Ishmer Naik.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+>LIST VOL50 WISHLIST A 
+
+
+
+VOL50.WISHLIST:VOL50                                      01/29/85 18:44 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+WISH LIST #50 - What we really need is............12 October 1985
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+95. An  automatic  utility  which  periodically checks  a list of
+files for corrupted links and sends a message to the console when
+it finds  one - this should happen in the background using one of
+the unused user partitions.  
+
+94. An  automatic utility  which periodically checks all disks on
+the system  for misallocations and sends a message to the console
+when it  finds one.   This should happen in the  background using
+one of the unused user partitions.  
+
+93. A tutorial  which introduces  new members to the contents  of
+the OUG library and to the other services available to them.  
+
+92. A variation of  the COPYFILE command that allows  the process
+to continue  on a second destination disk when the first is full,
+like ARCHIVE does more or less.  
+
+91. We  need an  automated introduction to Oasis/Theos which runs
+more  or  less  unattended  and  does  not  assume  any  computer
+knowledge on  the  part  of  the  user.  (Use  existing  tutorial
+material in OUG  library as a start?) It  should demonstrate each
+major  command  in  slow  motion, plus  give general introductory
+information.  
+
+90. A  modification  to  PROOF  which checks  spelling during the
+process of  keying a  new text file with EDIT,  EDIT-11, or other
+full screen editors.  
+
+89. A utility for measuring multiuser system response time with a
+range of SYSTEM SLICE values.  (eg.  What is best >SET SLICE ??) 
+
+88. Some  interesting  applications  which take  advantage of the
+ability  of Oasis  to allow  multiple users to interact with  one
+another as well  as with programs running in  multiple partitions
+simultaneously, such as: games, simulations, training, or ?.  
+
+87. A system for developing custom EXPERT SYSTEMS.  
+
+86. An implementation of a true BREAK key function (I'm told this
+may be hardware dependent.) 
+
+85. An Oasis86  (etc) emulation under Oasis8 for checking out the
+compatibility of  Oasis8 programs with the new 16-bit versions of
+Oasis - or just a syntax checker to detect incompatible forms.  
+
+84. An  augmentation  to PROOF  which performs auto correction of
+misspelled words  using a  list of the 500 most  misspelled words
+with  their  correct equivelents.   Also, an in-context misuse or
+grammar checker.  
+
+83. A generalized  conversion generator which prompts the user to
+enter conditions and  syntax at the source and  correct syntax or
+form at the destination - for making new converters from one non-
+Oasis language to an Oasis version of the language.  
+
+82. New and better ways to prepare for and recover from lost hard
+disk directory/header sectors  - like an independent copy  of the
+first sectors saved on a floppy or something.  Badly needed.  
+
+81. A virtual RAMDISK that manages access to the rest of stuff on
+(a) hard disk(s) so the user doesn't have to be bothered with it.
+Or more generally, a virtual memory capability (16-bit Oasis).  
+
+80. A utility which will allow me to connect the console ports of
+several different Oasis machines to SIO ports on my master system
+and then allows  me to ATTACH the COM  port of the master to each
+to provide  single console  access to many machines with  correct
+class code interfacing across all systems.  
+
+79. A variation  of the <esc>Q System Cancel-key which provides a
+safer interruption  of file transfer processes, or at least warns
+of the possibility for misallocations and then perhaps checks for
+them after the <esc>Q is processed.  
+
+78. An augmentation of PROOF which starts permuting vowels in any
+text word it can't find in the dictionary and reports the correct
+spelling, if found before the user responds.  
+
+77. A  utility  for  managing  multiple  jobs running  in several
+different user  partitions at once using a single console for the
+control of all jobs.  (Using windows, if possible) 
+
+76. A financial planning package.  
+
+75. A modification  to the REPAIR.COMMAND which allows it to stop
+each time  it finds a problem, giving us time to see what's going
+on.  Also,  a utility that automatically saves the corrupted file
+segments, then  goes ahead and FIXes the misallocations, and then
+reports all of the actions which have been taken.  
+
+74. A generalized report generator.  
+
+73. More  tutorial contributions  plus an EXEC to integrate them.
+(need communications tutorial especially) 
+
+72. Evaluations of public domain libraries for very good packages
+and conversion of them for operation under Oasis.  
+
+70. A version  of FILELIST  which will allow us to  specify which
+drives to  include in the combined list without attaching only to
+ones we want.  
+
+69. An Oasis-8 shell  to run under Oasis-16 so  that old software
+can be run without modification.  
+
+68. A SUPER  <esc>Q that  will allow us to break  out of a system
+lockup (impossible???).  
+
+67. A set of  "standard" business letters in SCRIPT  format ready
+to accept address information in an interactive mode.  
+
+65. A  program  for  recording  and  analyzing a  tennis player's
+performance.   Statistically evaluated  faults might help players
+(like me) improve.  
+
+64. OASIS implemented on MANY more Z80 machines.  
+
+63. Programs  that   integrate  logical  groups  of  OUG  library
+programs.  
+
+62. Some independent reviews of the contents of the OUG Library. 
+^
+61. A truly portable "lap-sized" Oasis compatible computer.  
+
+60. A MOUSE input for CONIN to work with menu screens or windows,
+together  with the  necessary software  to make it work with  the
+keyboard (through an RS232C port?).  
+
+59. WASTEBASKET  routine  for  purging no  longer wanted files on
+active  disks,  but  keeping  them  available  in  some  sort  of
+"history" file(s) on a separate disk or series of disks - maybe a
+modification of  PURGE.EXEC or something that uses Gary Bergman's
+SUBLIB system.  
+
+56. We  must   develop  a  networking  (LAN)  and/or  distributed
+processing capability under Oasis.  
+
+53. We  need a  chart showing  how Oasis Basic compares with  the
+others.  (And, another  which compares Oasis with the  other most
+popular operating systems.) 
+
+52. We need a method for RESTORING around a bad sector (or fixing
+it) in an ARCHIVE file.  (BOY DO WE NEED IT!  I JUST GOT CAUGHT!)
+
+51. As we  begin to  get more people using Oasis-16  we will need
+some new utilities  for moving things back and  forth between the
+two versions.   In  particular,  we  will  need new  versions  of
+SEND/RECEIVE (GIVE/GET??).  
+
+49. We need  class code source for any devices not now covered in
+the library (see volumes 18, 34, 44, and 46).  
+
+48. Someone  to  collect and  summarize information about all the
+various commercial Oasis compatible software packages around now.
+
+46. A set of indexes to all the Phase One OASIS manuals.  
+
+39. We  need the  compliment of  GETFILE  (PUTFILE?) for CP/M and
+other operating systems.  
+
+30. A  utility  for  automatically figuring  out the optimum disk
+ATTACH  values  for HDL,  STP, and  STS for all of the  different
+systems now operating under OASIS.  
+
+26. Compilers for Tiny C, Pascal, Fortran, PL/1, ADA, etc.  
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+END of WISH LIST .......................... as of 12 October 1985
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+                                     @**************************
+                                  @@@@@@@
+                                     @@@@@@@@   LIKE TO HEAR ANY
+                                      @@@@@@@@@ ILL LEARNING AND
+                                    ***@@@@@@@@@  GIVE ME A CALL
+                                  **************@@** 
+                             **************************** 
+                          **  ***************************** 
+                        **        ***********************     ** 
+                      **         **    **************    **     ** 
+                     **          **         **         *******     **  
+                  **           **                            **     **
+                 **           **    X                         **     **
+                 **          **    XXX                X        **     **
+                 **         **   XXXXXXX           XXXXXXX      **     **
+                 **         **  XXXXXXXXX         XXXXXXXXX      **     **
+                 **         **                   XXXXXXXXXXX     **      **
+                 **         **                                   **      **
+                  **        **              X                    **      **
+                   **       **            XXXXX                  **      **
+                    **      **          XXXXXXXXX               **      **
+                     **      **                                **      **
+                       **      **   #####           #####     **     ** 
+                       **      **    #####         #####     **    ** 
+                        ***     **     #############        **   **
+                           ***    ***       ## ###          **  ** 
+                            ****                           ** ** 
+                              ** **                **     **
+                                ***     **********      ***
+                                   ***         ***** 
+
+                        H A P P Y   H A L L O W E E N  ! ! ! !!!!
+                                Submitted by: Anang Naik
+
+>
+

@@ -1,0 +1,1817 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: July 1981
+Volume: 5
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST5   A 06/30/81 16:03    23    2 S    68 VOL$5
+ADD      BASICCOM A 07/17/81 20:12    60    3 SR   73 VOL$5
+ADD      BASICOBJ A 12/10/81 15:59    74    3 S    82 VOL$5
+ADD      EXEC     A 07/15/81 20:49    60    3 S    79 VOL$5
+ASM      NOTES    A 07/07/81 15:55    37    2 S    79 VOL$5
+BACCRRT  BASICOBJ A 06/16/81 17:45   156    4 S    87 VOL$5
+BASEBALL BASICOBJ A 06/16/81 18:00   556   13 S    86 VOL$5
+CHESS    BASICOBJ A 06/16/81 17:23   540   14 S   113 VOL$5
+CLOUD9   BASICOBJ A 05/27/81 15:49   201    6 S    74 VOL$5
+CMPR     MACRO    A 09/21/80 10:17    24    1 S    43 VOL$5
+COMPARE  ASSEMBLE A 11/07/80 00:07   216    5 S    63 VOL$5
+COMPARE  COMMAND  A 06/24/81 23:42    11    3 R   256 VOL$5
+COMPARE  NOTES    A 07/07/81 17:07    23    1 S    77 VOL$5
+COMPARE$ EXEC     A 07/07/81 20:59    49    2 S    77 VOL$5
+COMPILE  EXEC     A 08/11/81 17:11    41    2 S    74 VOL$5
+COMPRESS EXEC     A 07/07/81 20:47    66    2 S    84 VOL$5
+COPYRITE NOTICE   A 05/13/82 18:38     8    1 S    65 VOL$5
+DEALERS  DIRECTRY A 07/01/81 16:12   111    5 S    79 VOL$5
+DISKFILE LIBRARY  A 12/01/81 20:10   387   31 I    45 VOL$5
+DM       ASSEMBLE A 06/27/81 09:45   123    3 S    67 VOL$5
+DM       COMMAND  A 06/27/81 09:45     2    1 A   256 VOL$5
+DM       NOTES    A 06/27/81 09:58    20    1 S    77 VOL$5
+DM$      EXEC     A 07/07/81 17:17    35    1 S    77 VOL$5
+DS       ASSEMBLE A 06/24/81 23:34   178    4 S    67 VOL$5
+DS       COMMAND  A 06/24/81 23:17     4    1 R   256 VOL$5
+DS       NOTES    A 06/27/81 09:48    34    2 S    78 VOL$5
+DS$      EXEC     A 07/07/81 16:43    34    1 S    77 VOL$5
+DSI      MACRO    A 02/03/81 22:29    20    1 S    49 VOL$5
+FIND     BASICCOM A 07/17/81 17:31    42    2 SR   72 VOL$5
+FIND     BASICOBJ A 12/10/81 15:56    52    2 S    77 VOL$5
+FIND     EXEC     A 05/13/82 19:01    48    2 S    79 VOL$5
+FREQSTAT BASICCOM A 07/08/81 16:18    94    4 SR   89 VOL$5
+FREQSTAT BASICOBJ A 07/08/81 16:17   108    5 S    91 VOL$5
+FREQSTAT EXEC     A 06/21/81 18:29    31    2 S    74 VOL$5
+GAMES    EXEC     A 07/01/81 16:02   109    3 S    66 VOL$5
+HORSCOPE BASICOBJ A 07/08/81 17:17   154    5 S    78 VOL$5
+MEMBER5  FEEDBACK A 07/15/81 18:01   188   10 S    78 VOL$5
+MEMBRAIN BASICOBJ A 07/07/81 18:14   163    6 S    69 VOL$5
+MOVE     MACRO    A 06/11/80 01:34    27    1 S    46 VOL$5
+NEWS     LETTER5  A 07/15/81 18:31   125    7 S    72 VOL$5
+OASIS16  ARTICLE  A 06/15/81 16:39   139    7 S    76 VOL$5
+OASIS16  RELEASE  A 06/15/81 16:33   240   11 S    76 VOL$5
+ONYX     RELEASE  A 06/15/81 16:34    38    2 S    76 VOL$5
+ONYXAGRM RELEASE  A 06/15/81 16:34    36    2 S    76 VOL$5
+PASCAL   RELEASE  A 06/15/81 16:34    35    2 S    76 VOL$5
+PAYMENT  BASICOBJ A 07/01/81 16:07   286    9 S   111 VOL$5
+POSTAGE  BASICCOM A 07/27/81 16:14    70    3 SR   82 VOL$5
+POSTAGE  BASICOBJ A 07/27/81 16:12    73    3 S    80 VOL$5
+POSTAGE  EXEC     A 07/23/81 16:59    44    2 S    76 VOL$5
+QRG      RELEASE  A 06/15/81 16:34    36    2 S    76 VOL$5
+QRGBASIC RELEASE  A 06/15/81 16:34    38    2 S    76 VOL$5
+QUAY     RELEASE  A 06/15/81 16:35    36    2 S    76 VOL$5
+TRNGCNTR ARTICLE  A 06/15/81 16:40   150    8 S    76 VOL$5
+TRNGSCHD ARTICLE  A 06/15/81 16:40    47    3 S    76 VOL$5
+VOL5     EXEC     A 12/01/81 18:29   453   14 S    80 VOL$5
+XCOMP    RELEASE  A 06/15/81 16:35    38    2 S    76 VOL$5
+XPLORKEY BASICCOM A 06/19/81 17:13    15    1 SR   73 VOL$5
+XPLORKEY BASICOBJ A 06/19/81 17:01    17    1 S    75 VOL$5
+XPLORKEY EXEC     A 06/19/81 17:43    15    1 S    64 VOL$5
+59 file(s), 244 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+DS.ASSEMBLE:A copied to DS.ASSEMBLE:D
+COMPARE$.EXEC:A replaces COMPARE$.EXEC:D
+BACCRRT.BASICOBJ:A copied to BACCRRT.BASICOBJ:D
+ADD.EXEC:A copied to ADD.EXEC:D
+GAMES.EXEC:A replaces GAMES.EXEC:D
+TRNGSCHD.ARTICLE:A copied to TRNGSCHD.ARTICLE:D
+DS.NOTES:A copied to DS.NOTES:D
+QRGBASIC.RELEASE:A copied to QRGBASIC.RELEASE:D
+$README.FIRST5:A copied to $README.FIRST5:D
+XPLORKEY.EXEC:A copied to XPLORKEY.EXEC:D
+DS$.EXEC:A copied to DS$.EXEC:D
+FIND.EXEC:A replaces FIND.EXEC:D
+BASEBALL.BASICOBJ:A copied to BASEBALL.BASICOBJ:D
+ADD.BASICCOM:A copied to ADD.BASICCOM:D
+COMPARE.ASSEMBLE:A replaces COMPARE.ASSEMBLE:D
+TRNGCNTR.ARTICLE:A copied to TRNGCNTR.ARTICLE:D
+MEMBER5.FEEDBACK:A replaces MEMBER5.FEEDBACK:D
+POSTAGE.EXEC:A copied to POSTAGE.EXEC:D
+XPLORKEY.BASICCOM:A copied to XPLORKEY.BASICCOM:D
+ADD.BASICOBJ:A copied to ADD.BASICOBJ:D
+FIND.BASICCOM:A copied to FIND.BASICCOM:D
+FREQSTAT.BASICCOM:A copied to FREQSTAT.BASICCOM:D
+COMPARE.NOTES:A replaces COMPARE.NOTES:D
+ASM.NOTES:A replaces ASM.NOTES:D
+MEMBRAIN.BASICOBJ:A copied to MEMBRAIN.BASICOBJ:D
+XPLORKEY.BASICOBJ:A copied to XPLORKEY.BASICOBJ:D
+FIND.BASICOBJ:A copied to FIND.BASICOBJ:D
+COMPRESS.EXEC:A replaces COMPRESS.EXEC:D
+FREQSTAT.BASICOBJ:A copied to FREQSTAT.BASICOBJ:D
+OASIS16.ARTICLE:A copied to OASIS16.ARTICLE:D
+CMPR.MACRO:A replaces CMPR.MACRO:D
+DSI.MACRO:A replaces DSI.MACRO:D
+DM.ASSEMBLE:A replaces DM.ASSEMBLE:D
+XCOMP.RELEASE:A copied to XCOMP.RELEASE:D
+PAYMENT.BASICOBJ:A copied to PAYMENT.BASICOBJ:D
+DS.COMMAND:A copied to DS.COMMAND:D
+DM.NOTES:A replaces DM.NOTES:D
+QRG.RELEASE:A copied to QRG.RELEASE:D
+PASCAL.RELEASE:A copied to PASCAL.RELEASE:D
+ONYX.RELEASE:A copied to ONYX.RELEASE:D
+DISKFILE.LIBRARY:A replaces DISKFILE.LIBRARY:D
+OASIS16.RELEASE:A copied to OASIS16.RELEASE:D
+CHESS.BASICOBJ:A copied to CHESS.BASICOBJ:D
+DM$.EXEC:A replaces DM$.EXEC:D
+DEALERS.DIRECTRY:A replaces DEALERS.DIRECTRY:D
+HORSCOPE.BASICOBJ:A copied to HORSCOPE.BASICOBJ:D
+NEWS.LETTER5:A replaces NEWS.LETTER5:D
+VOL5.EXEC:A copied to VOL5.EXEC:D
+COMPARE.COMMAND:A replaces COMPARE.COMMAND:D
+CLOUD9.BASICOBJ:A copied to CLOUD9.BASICOBJ:D
+QUAY.RELEASE:A copied to QUAY.RELEASE:D
+ONYXAGRM.RELEASE:A copied to ONYXAGRM.RELEASE:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+POSTAGE.BASICCOM:A copied to POSTAGE.BASICCOM:D
+FREQSTAT.EXEC:A copied to FREQSTAT.EXEC:D
+COMPILE.EXEC:A replaces COMPILE.EXEC:D
+POSTAGE.BASICOBJ:A copied to POSTAGE.BASICOBJ:D
+MOVE.MACRO:A replaces MOVE.MACRO:D
+DM.COMMAND:A replaces DM.COMMAND:D
+
+>VOL5
+IF YOU WANT TO SKIP THE INTRODUCTORY STUFF, TYPE "SKIP". OTHERWISE, HIT <CR>
+TO SEE A "TABLE OF CONTENTS" AND THE VOL5 NEWS LETTER AND MEMBER FEEDBACK.
+:
+
+
+
+
+
+ELCOME  TO  VOLUME 5  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN SOFTWARE CONTRIBUTED BY MEMBERS.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  5
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+The idea for a comprehensive review EXEC for each volume came from
+Jerry Weltner of PHASE ONE SYSTEMS.  Joe Trimble made suggestions
+for making it easier to use.  Keep the suggestions coming.
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format-
+
+$README  FIRST5   A 06/30/81 16:03    23    2 S    68
+ADD      BASICCOM A 07/17/81 20:12    60    3 SR   73
+ADD      BASICOBJ A 12/10/81 15:59    74    3 S    82
+ADD      EXEC     A 07/15/81 20:49    60    3 S    79
+ASM      NOTES    A 07/07/81 15:55    37    2 S    79
+BACCRRT  BASICOBJ A 06/16/81 17:45   156    4 S    87
+BASEBALL BASICOBJ A 06/16/81 18:00   556   13 S    86
+CHESS    BASICOBJ A 06/16/81 17:23   540   14 S   113
+CLOUD9   BASICOBJ A 05/27/81 15:49   201    6 S    74
+CMPR     MACRO    A 09/21/80 10:17    24    1 S    43
+COMPARE  ASSEMBLE A 11/07/80 00:07   216    5 S    63
+COMPARE  COMMAND  A 06/24/81 23:42    11    3 R   256
+COMPARE  NOTES    A 07/07/81 17:07    23    1 S    77
+COMPARE$ EXEC     A 07/07/81 20:59    49    2 S    77
+COMPILE  EXEC     A 08/11/81 17:11    41    2 S    74
+COMPRESS EXEC     A 07/07/81 20:47    66    2 S    84
+COPYRITE NOTICE   A 05/13/82 18:38     8    1 S    65
+DEALERS  DIRECTRY A 07/01/81 16:12   111    5 S    79
+DISKFILE LIBRARY  A 12/01/81 20:10   387   31 I    45
+DM       ASSEMBLE A 06/27/81 09:45   123    3 S    67
+DM       COMMAND  A 06/27/81 09:45     2    1 A   256
+DM       NOTES    A 06/27/81 09:58    20    1 S    77
+DM$      EXEC     A 07/07/81 17:17    35    1 S    77
+DS       ASSEMBLE A 06/24/81 23:34   178    4 S    67
+DS       COMMAND  A 06/24/81 23:17     4    1 R   256
+DS       NOTES    A 06/27/81 09:48    34    2 S    78
+DS$      EXEC     A 07/07/81 16:43    34    1 S    77
+DSI      MACRO    A 02/03/81 22:29    20    1 S    49
+FIND     BASICCOM A 07/17/81 17:31    42    2 SR   72
+FIND     BASICOBJ A 12/10/81 15:56    52    2 S    77
+FIND     EXEC     A 05/13/82 19:01    48    2 S    79
+FREQSTAT BASICCOM A 07/08/81 16:18    94    4 SR   89
+FREQSTAT BASICOBJ A 07/08/81 16:17   108    5 S    91
+FREQSTAT EXEC     A 06/21/81 18:29    31    2 S    74
+GAMES    EXEC     A 07/01/81 16:02   109    3 S    66
+HORSCOPE BASICOBJ A 07/08/81 17:17   154    5 S    78
+MEMBER5  FEEDBACK A 07/15/81 18:01   188   10 S    78
+MEMBRAIN BASICOBJ A 07/07/81 18:14   163    6 S    69
+MOVE     MACRO    A 06/11/80 01:34    27    1 S    46
+NEWS     LETTER5  A 07/15/81 18:31   125    7 S    72
+OASIS16  ARTICLE  A 06/15/81 16:39   139    7 S    76
+OASIS16  RELEASE  A 06/15/81 16:33   240   11 S    76
+ONYX     RELEASE  A 06/15/81 16:34    38    2 S    76
+ONYXAGRM RELEASE  A 06/15/81 16:34    36    2 S    76
+PASCAL   RELEASE  A 06/15/81 16:34    35    2 S    76
+PAYMENT  BASICOBJ A 07/01/81 16:07   286    9 S   111
+POSTAGE  BASICCOM A 07/27/81 16:14    70    3 SR   82
+POSTAGE  BASICOBJ A 07/27/81 16:12    73    3 S    80
+POSTAGE  EXEC     A 07/23/81 16:59    44    2 S    76
+QRG      RELEASE  A 06/15/81 16:34    36    2 S    76
+QRGBASIC RELEASE  A 06/15/81 16:34    38    2 S    76
+QUAY     RELEASE  A 06/15/81 16:35    36    2 S    76
+TRNGCNTR ARTICLE  A 06/15/81 16:40   150    8 S    76
+TRNGSCHD ARTICLE  A 06/15/81 16:40    47    3 S    76
+VOL5     EXEC     A 12/01/81 18:29   453   14 S    80
+XCOMP    RELEASE  A 06/15/81 16:35    38    2 S    76
+XPLORKEY BASICCOM A 06/19/81 17:13    15    1 SR   73
+XPLORKEY BASICOBJ A 06/19/81 17:01    17    1 S    75
+XPLORKEY EXEC     A 06/19/81 17:43    15    1 S    64
+59 file(s), 244 block(s).
+HIT <CR> WHEN READY TO PROCEED.
+▼ ^
+
+
+
+
+EWS.LETTER5:VOL$5                                        01/30/85 12:25 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEWS.LETTER - JULY 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+1 July 1981
+
+
+
+Dear Member:
+
+Well here it is the fifth volume.  Two years ago it didn't seem
+possible that we would actually have an operating Users' Group,
+little lone already five volumes of user contributed public
+domain software.  But, here it is.  And, this is only the tip
+of the iceberg.  We have so much in the tubes nearing completion
+that I can't believe it sometimes!
+
+This prompts me to ask an obvious question publicly, that a few
+of you have asked privately: Why do we need propretary software?
+
+In some cases, we may not need it where there is already something
+in the public domain that will solve our immediate problem.  But,
+some of the stuff out there is copyrighted with permission for end
+users to use it, but not to sell it for profit.  Everything I add
+to the library of my own, I handle that way.
+
+Then, there is the time it takes to customize an existing package
+to do precisely what a customer wants it to do.  Time is money and
+it is often (usually?) cheaper to buy something that will already
+do your job than to try to massage existing public domain software
+to do it.  That is less of a problem for hobbyists than for people
+who are trying to make a living selling systems with reliable,
+operating software.  And, no one guarentees to maintain public
+domain software.  If you find a bug, that's tough!  You fix it or
+wait for some other member to fix it.
+
+Finally, there are those remarkable software undertakings that are
+just too valuable to be contributed to the public domain until the
+original authors have gotten back a reasonable financial return on
+their intellectual investment.  Everyone deserves to be compensated
+for their efforts - ONE WAY OR ANOTHER.  Some of the things we are
+doing for the Users' Group I think we are doing with the knowledge
+that others are doing the same thing so that we are going to be
+"paid in kind."  Some of it, I know, we are doing for the pure
+pleasure of it!
+
+I have the feeling that one day most application software will be
+either free or automatically generated by trivial instructions that
+anyone of normal intellegence can understand without special training.
+People are already talking that way, so I'm sure it is going to
+happen sooner or later.  It will take something more than efficiently
+run Users' Groups to bring it about, but I think the process is
+already under way.  If users' groups could do it, there would no
+longer be any commercial software, because groups have been around for
+at least twenty years.  There has been excellent free or near free
+software in many of their libraries for at least that long (eg the
+PDP-8 Users' Group library was/is loaded).
+
+But, something new is happening.  People are finally paying attention
+to the human interface with machines in a way which their preoccupation
+with the hardware would not allow in the past.  Now, at last, we are
+beginning to shift some of our brain power towards the problems of how
+to make machines friendly to real people - not just the computer Gurus.
+And you programmers/system analysts out there, no need to panic.  The
+more effective/productive computers make housewives/bakers/baseball
+players, the greater will be their appetites for even more complex
+capabilities.  And, there is no end to the cycle, at least that I can
+imagine.  The computer professional's jobs will be changing, but there
+will be even more of them.  Where only a few hobbyists have their own
+personal computers to command, computers will pervade every aspect of
+our lives sooner than most of us guess.  As the cost of the hardware
+continues to decline and as the list of previously solved software
+problems continues to grow,  there will be virtually no reason not to
+add intellegence to any process/environment where it makes any sense
+at all to do it.  When it only costs an extra dollar to turn the lights
+on and off in a room in response to the presence or absence of a person
+who needs them, such a feature will be added to every room in the
+modern world.  Etc., etc., etc.
+
+Now for some practical comments on things of import.
+
+Volume 5 is the best so far, at least in my opinion.  The COMPARE, DM,
+and DS are really going to help a lot.  The diskfile library system
+(ADD and FIND) solved one of my immediate problems and I am sure you
+will want to use it to keep track of the location of all your various
+pieces of software.  To conserve Vol 5 disk space, I didn't leave any
+unused space in the DISKFILE.LIBRARY file included on this disk, so
+you will need to make a new one for your own use - but no big deal.
+
+THE next volume is well on its way and will include a general purpose
+SORT - not one of the $100 super fast jobs, but one that works great,
+otherwise.  Of course, there are more games coming, too.  Several of
+our members are working on the conversion of the BUSINESSMASTER II
+business system package from OEM Software.  I purchased a distributor
+license for the OASIS USERS' GROUP and will include the converted
+version in future volumes!  That is a really BIG deal and I am looking
+forward to completing this project, for sure.  From what I've seen,
+this is one of the better, fully integrated business packages.  You
+will note in the library file that some of the Vol 6 programs are
+included, not all, but some.
+
+I am finding that I enjoy coordinating this thing so much that my other
+regular business, running The INFO-MART (an on demand information
+service), often sucks hind tit (the one without much milk).  But, there
+have been a significant number of non-contributing members join so that
+I have been able to take out some money compensation along the way.
+But, nobody is getting rich.  I've taken in about $1300.00 in fees
+since the first of the year and have paid myself about a dollar an hour
+(probably a lot less).  I hope that will change.  Everyone deserves to
+be fairly compensated for their efforts, including me.  I'm not
+complaining, because this thing is really a lot of fun, as well.
+
+Well, so long for now. Keep the contributions coming in and tell your
+friends/enimies/BULLETIN BOARDS, etc. that we are working on vol 6.
+
+Peace,
+
+
+Fred L. Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ EMBER5.FEEDBACK:VOL$5                                    01/30/85 12:25 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER.FEEDBACK - VOL 5 - JULY 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FROM JOE TRIMBLE
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+Hi, Fred:                                                     27 May 1981
+
+     Just received VOL$01; I appreciate the quick response to my request.  I
+have several comments to make, so here goes, starting with the most general
+ones:
+
+     1.  How about calling the users' group "CARAVAN"?  It seems to me that
+a caravan is certainly a group of oasis users, and it is handier, I think,
+than "OASIS USERS' GROUP" and cuter than "OUG".  Also, I haven't been able
+to come up with any neat acronym.
+
+     2.  I would suggest a standardized "Table of Contents" for each volume,
+including the following:
+
+          $LIST$ME FIRST    - A brief intro for new people.
+          $VOL$xx  COMMENTS - Information (a la ZOSO) about the programs in
+                              this volume.
+          $VOL$xx  NEWSLETR - The "letters to the editor" file of users'
+                              responses to previous volumes.
+          CARAVAN  LIBRARY  - An indexed file of all volumes to date.
+          FIND     EXEC     - Utility exec to assist users (explained in
+                              $LIST$ME FIRST).
+          FIND     BASICCOM - Called by FINDDISK EXEC, accesses the LIBRARY.
+
+     Users could be encouraged to send comments (for inclusion in the next
+NEWSLETR) in a text file called $VOL$xx FEEDBACK, as I have done here.
+
+     3.  I think it would be appropriate to assume the following knowledge
+on the part of CARAVAN members:
+
+          a. The uses of the FILELIST command.  (I toyed with the thought that
+     a "CONTENTS" file should be included on each disk, but that is pointless
+     when anyone who has any familiarity with OASIS would know enough to list
+     the contents of a disk.)
+
+          b. The uses of the LIST command.  It seems to me safe to assume that
+     users would be as familiar with this as they are with direct execution of
+     EXEC files, so I would urge that information (like this) be put in a text
+     file with a name and filetype that encourage people to LIST it.  The idea
+     you had of using an EXEC file to introduce the material on the disk was
+     certainly worth trying, but there are a couple of problems: 1) There is
+     no way I can figure out to get a neat hard copy of the information in the
+     EXEC file; and 2) In order to get to the end I have to go all the way
+     through.  I don't mind doing that once, but since I can't get a good
+     printout I would have to do it each time I wanted any of the information.
+     This could be solved, I suppose, with a menu-driven set-up, but that
+     looks like more trouble than it is worth.
+
+          c.  The use of the RUN command as applicable (only) to BASICCOM
+     files.
+
+          d.  The use of the BASIC command to convert BASICOBJ files to
+     BASICCOM files.  IF we assume users know how to do this, only OBJ files
+     need be included on the disks.  If we assume they definitely do NOT know
+     how to do this, of course, then both BASICOBJ and BASICCOM files need to
+     be included.  My feeling is that while most users would be able to handle
+     the conversion, and including only BASICOBJ files on the disk would save
+     time at your end, it is better to include both types unless a) you only
+     have the BASICCOM, or b) you get in a real time crunch so far as copying.
+
+          e.  The use of EDIT to build a text file.
+
+     4.  EXEC files to introduce systems are a good idea, but I would suggest
+that we adhere to a couple of rules:  a. Each EXEC should have a -HELP section
+so users can follow the standard OASIS procedure of typing the exec name fol-
+lowed by HELP and get assistance.  To take this a step further, the -HELP rou-
+tine should also probably follow the format PHASE ONE uses, with FUNCTION,
+SYNTAX, and RULES sections.  b. The -HELP section should not automatically
+drop you into program execution.  (It's nice to know you can get information
+about the program without getting caught in it . . .)
+
+     5.  All programs (including EXECs) should have remarks (or print state-
+ments) at the top identifying the program, the author, date, and preferably
+a brief description of the intended function of the program.  Obviously, the
+more information of this type, the better, but some minimum ought to be es-
+tablished (author and date?).
+
+-----------------------------------------------------------------------------
+
+
+     Despite the above comments, I'd say "super start"!  I'll be contributing
+as much as I can, and look forward to future volumes.
+
+
+                              Joe Trimble
+                              The MENTAT Company
+                              236 Frisbie Street
+                              Oakland, CA. 94611
+
+
+
+
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FROM JOE TRIMBLE
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+                                                                 July 6, 1981
+
+Hi, Fred:
+
+     At long last, here is my reply to the stuff you most expeditiously sent.
+Wish I could get things back to you as quick as you get them to me;  how do
+you do it?
+
+     The other side of this disk is a model of my how I would format and send
+volume 1, based on the suggestions I've included in the file on this side
+called "$VOL$01 FEEDBACK".  I've not yet taken the time to go through volumes
+2-4 well enough to give in-depth feedback to you, though I did ADD them to
+the CARAVAN.LIBRARY copy on this side of the disk.  (The copy on the other
+side just has volume 1 files cataloged.)
+
+     The one comment I would make, though we discussed it on the phone, is
+that I don't think the "VOLxx EXEC" is a very good idea, because of the dif-
+ficulty of getting a hard copy of the information contained therein, and the
+difficulty of accessing the information without going through all the prior
+info in the file.
+
+     On this side of the disk I have put the ADD program.  This is the special
+version I modified just for the purpose of maintaining the CARAVAN.LIBRARY so
+I'm not sure it is the best one for general distribution.  Perhaps better is
+the revised FILEDISK program, also enclosed.
+
+     In modifying the ADD program I also modified the LIBRARY file to hold a
+category for each file.  In working with the files on the volumes I have so
+far, I've come up with twelve different categories:
+
+     ASM      - Assembly language routines.
+     BUSINESS - Programs applicable to or adaptible to businesses.
+     FINANCES - Personal financial assistance (LOAN, BUDGET, etc.).
+     GAME     - Interactive entertainment.
+     INFO     - General or specific information, provided via the program.
+     MAILLIST - The mailing list files you have set up for the users' group.
+     POSTER   - Any program that ends up as a picture.
+     PRINTOUT - Programs that print tables, charts, etc.
+     STATS    - Statistical analyses.
+     TEXT     - Files designed just for listing.
+     TUTORIAL - Programs designed to help you learn something.
+     UTILITY  - Programs to help you do something with your computer.
+
+As you run ADD, the computer asks you for the category for each file it pro-
+cesses.  If you just hit RETURN, it will use whatever category it had on file
+(if any), which is displayed 10 spaces to the left of the question mark.  The
+ADD program also generates a printout (to the printer) of the file names and
+categories.  For a sample, you can ADD the contents of this disk to the en-
+closed CARAVAN.LIBRARY (though you may want to copy the present LIBRARY else-
+where first).
+
+     The FIND program on the other side is also specially designed to deal
+with the CARAVAN.LIBRARY, including the capability of searching for the
+"category" as part of the key.  The FINDDISK program on this side of the disk
+is more general, and probably a better bet for general distribution.  I've
+fixed the wildcard feature (I think).
+
+     Finally, the SORT program, on this side, has been "finished".
+
+     Most of my other comments are in the $VOL$01.FEEDBACK file on this side.
+More later, after I get more time to look through the other volumes, work on
+the ADDRESS, TELEPHON, and DATABASE systems, and/or get more goodies from you.
+
+     Oh, one more thing.  I've set up a little consulting company, and would
+like to get that info onto your mailing list, in place of OAKLAND UNIFIED
+SCHOOL DISTRICT RESEARCH DEPARTMENT etc.  I am:
+
+                         The MENTAT Company
+                         236 Frisbie Street
+                         Oakland, CA. 94611
+
+                         Hasta whenever,
+
+                              Joe T.
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+
+HIT THE <CR> TO CONTINUE
+▼ WANT TO READ ALL OF THE INFO PROVIDED BY PHASE ONE ON THIS VOLUME? [Y/N]:Y
+THIS WILL TAKE SOME TIME.
+
+
+
+ASIS16.ARTICLE:VOL$5                                     01/30/85 12:26 Page 1
+
+1    OASIS-16 background information, Page 1
+
+                              NEW OASIS-16 ANNOUNCED
+
+
+          Offering state-of-the-art 16-bit  power and tremendously increased
+     capability, OASIS-16 has recently been announced by Phase One Systems.
+
+          As outlined by OASIS-author Tim Williams, new features planned for
+     OASIS-16  include  Dynamic  User Partitioning  for up  to  32 users, an
+     enhanced  ISAM  file  structure  based  on  B-plus  trees, interprocess
+     communications,  incredibly  expanded  memory capacity,  new tape drive
+     device drivers, and a full screen editor.
+
+          "OASIS-16 is  designed  to  be  the  most comprehensive  of 16-bit
+     operating systems,"  reports Williams.  "You could compare it to an IBM
+     OS/MVT as opposed to our current version, which is more like IBM DOS or
+     CMS."
+
+          Dynamic Partitioning, File Allocation
+
+          Eliminating fixed  partition  sizes  in  multi-user  environments,
+     OASIS-16 gives you greater flexibility and more convenience.
+
+          Automatically determining  where  there is  enough memory to start
+     your command/user/task,  OASIS-16 will also release the space when your
+     operation is completed.  "Automatic Memory Compression" at command load
+     time will collect available memory fragments to create a space for your
+     new users whenever necessary.
+
+          Dyanmic File  Allocation  avoids the  need of pre-allocating space
+     for major  files.  Your initial file open will create a space that will
+     grow  as  large as  necessary.  All  files  are byte-addressable at the
+     lowest level to facilitate such unique versatility.
+
+          Giving OASIS   power   approaching   a  virtual   machine-type  of
+     operation, the  new  overlay  linker  will  be able  to  create overlay
+     structures larger  than available  memory.  This strength will be  used
+     internally  by  the  operating system  and will  also  be available for
+     end-user programs as well.
+
+          New ISAM File Structure
+
+          Designed like  the proven  IBM VSAM access/storage method, the new
+     OASIS-16 ISAM files will feature a Beta-plus tree structure.
+
+          The extended binary  "tree" can be searched from any "branch" down
+     to  any  particular  "twig"  or  "leaf"  to  find  any record  desired.
+     Modifying,  inserting,  and  retrieving  records  will be  much faster.
+     Also,  variable  length  records  will replace  the currently available
+     fixed length versions.
+
+          Interprocess Communications, Multi-level Directory
+
+
+                                        more
+1    OASIS-16 background information, Page 2
+
+          More advanced   features   implemented   with   OASIS-16   include
+     interprocess communications and a multi-level Directory.
+
+          Performing "task-to-task"  communications,  the  new  interprocess
+     communications  will allow  one file  to open a channel to  another and
+     communicate  with  it  directly.   This  capability will  be especially
+     valuable in large data bases and other interactive applications.
+
+          Creating files  of  files, the  new multi-level directory combines
+     similiar and related files into one entry to increase speed and improve
+     organization.  For  example, all command files will be collected into a
+     single sub-directory.  Listings will be more compact, and sub-directory
+     listings will be more efficient to use for a variety of situations.
+
+          Z80 Compatible BASIC, Increased Memory Capacity
+
+          OASIS-16 protects your  investment in applications programs with a
+     BASIC  compiler  that  is  completely  compatible  with  earlier  OASIS
+     versions.
+
+          BASIC programs  can be  copied over  to the new system, and,  with
+     minimal effort, can be configured to run just as before or better.
+
+          Maximum file size with  OASIS-16 has been increased to  273 MBytes
+     versus the currently  available 16 MBytes.  What's more,  you will have
+     up to 32  volumes of disk packs, for  a total of 8736 MBytes on line at
+     any one time, compared to the currently available 128 MBytes.
+
+          Full Screen Editor
+
+          Convenient for  both  program development  and documentation task,
+     OASIS-16 will include a new full screen Editor.
+
+          Full cursor controls  and backwards/forward scrolling will enhance
+     the  general-purpose  text  editor currently  provided.  Built-in macro
+     capability will  allow up to 3 complex chained editing functions with a
+     single operation.   Special global, line, and character oriented modify
+     commands will also be included.
+
+          Tapes, Bubble Memory Supported
+
+          Both industry  standard tapes  and bubble memory will be supported
+     by OASIS-16.
+
+          More than just  a  back-up  utility,  tape  drives will  be  fully
+     supported peripheral devices.   You can open files, read  or write, and
+     execute  commands  directly  from either  cartridge or IBM-type 9-track
+     tapes.
+
+          Smaller, less  expensive  bubble  memory will  enhance many future
+     machine  designs.   Treated  as  secondary  storage,  bubble  memory is
+     expected  to be  half  the  cost  of  comparable floppy  disk  systems.
+
+                                        more
+1    OASIS-16 background information, Page 3
+
+     OASIS-16   will   maximize   the  potential   with  a  state-of-the-art
+     implementation.
+
+          High-Level, Portable Source
+
+          Written in  'C', OASIS-16  will be easily transported from initial
+     8086  designs   to  the  currently  targeted  Z8000,  68000  and  later
+     PDP-series CPU's.
+
+          Williams has  designed his  own optimizer which compresses the 'C'
+     object  code by  more than  30%.  With its macro assembler  and linking
+     loader,  this  tool  too is  expected to  be  offered as another custom
+     development aide.
+
+          "We will  be  investigating  the interest  in our 8086 development
+     package," comments Howard  Sidorsky, Phase One president.  "From  a Z80
+     system, this  tool  can  filter  Z80  source into  8086  code, and then
+     cross-assemble into  8086 object  with the same ease and  efficiency of
+     our other development packages."
+
+          Sidorsky adds  that  the  'C' compiler  may also  be  offered as a
+     stand-alone option.
+
+                                       # # #
+
+ASIS16.RELEASE:VOL$5                                     01/30/85 12:26 Page 1
+
+1
+
+
+
+
+
+                 06/15/81
+
+
+          NEW 16-BIT OASIS WITH DYNAMIC PARTITIONING AND FILE ALLOCATION,
+
+       BETA+ ISAM FILES, INTERPROCESS COMMUNICATIONS, MULTI-LEVEL DIRECTORY,
+
+            INCREASED MEMORY CAPACITY AND FULL SCREEN EDITOR ANNOUNCED
+
+
+          Offering state-of-the-art 16-bit  power and tremendously increased
+     capability, OASIS-16 has recently been announced by Phase One Systems.
+
+          As outlined by OASIS-author Tim Williams, new features planned for
+     OASIS-16  include  Dynamic  User Partitioning  for up  to  32 users, an
+     enhanced ISAM  file  structure  based  on  Beta +  trees,  interprocess
+     communications, expanded memory capacity, priority scheduling, enhanced
+     EXEC job  control language,  new tape drive device drivers,  and a full
+     screen editor.
+
+          "OASIS-16 is  designed  to  be  the  most comprehensive  of 16-bit
+     operating systems,"  reports Williams.  "You could compare it to an IBM
+     OS/MVT as opposed to our current version, which is more like IBM DOS or
+     CMS."
+
+          Dynamic Partitioning, File Allocation
+
+          Eliminating fixed  partition  sizes  in  multi-user  environments,
+     OASIS-16 gives you greater flexibility and more convenience.
+
+          Automatically determining  where  there is  enough memory to start
+     your command  or user  task, OASIS-16 will also release  the space when
+     your operation is completed.  "Automatic Memory Compression" at command
+     load time will collect available memory fragments to create a space for
+     new users whenever necessary.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      - more -
+1    New OASIS-16 Announced, Page 2
+
+          Dynamic File  Allocation  avoids the  need of pre-allocating space
+     for major files.   The initial file open will  create a space that will
+     grow  as  large as  necessary.  All  files  are byte-addressable at the
+     lowest level to facilitate such unique versatility.
+
+          Giving OASIS   power   approaching   a  virtual   machine-type  of
+     operation, the  new  overlay  linker  will  be able  to  create overlay
+     structures larger  than available  memory.  This strength will be  used
+     internally  by  the  operating system  and will  also  be available for
+     end-user programs.
+
+          New ISAM File Structure
+
+          Designed like  the proven  IBM VSAM access/storage method, the new
+     OASIS-16 ISAM files will feature a Beta + tree structure.
+
+          The extended binary  "tree" can be searched from any "branch" down
+     to  any  particular  "twig"  or  "leaf"  to  find  any record  desired.
+     Modifying,  inserting,  and  retrieving  records  will be  much faster.
+     Also,  variable  length  records  will replace  the currently available
+     fixed length versions.
+
+          Interprocess Communications, Multi-level Directory
+
+          More advanced   features   implemented   with   OASIS-16   include
+     interprocess communications and a multi-level Directory.
+
+          Performing "task-to-task"  communications,  the  new  interprocess
+     communications  will allow  one file  to open a channel to  another and
+     communicate  with  it  directly.   This  capability will  be especially
+     valuable in multi-taking and background processing.
+
+          Creating files  of  files, the  new multi-level directory combines
+     similiar and related files into one entry to increase speed and improve
+     organization.  For  example, all command files will be collected into a
+     single sub-directory.  Listings will be more compact, and sub-directory
+     listings will be more efficient to use for a variety of situations.
+
+          Z80 Compatible BASIC, Increased Disk Capacity
+
+          OASIS-16 protects your  investment in applications programs with a
+     BASIC  compiler  that  is  completely  compatible  with  earlier  OASIS
+     versions.
+
+          BASIC programs  can be  copied over  to the new system, and,  with
+     minimal effort, can be configured to run just as before or better.
+
+          Maximum file size with  OASIS-16 has been increased to  273 MBytes
+     versus the  currently  available  16  MBytes.   What's more,  up  to 32
+     volumes  may be  online, for  a total of 8736 MBytes  available any one
+     time, compared to the currently available 128 MBytes.
+
+
+                                      - more -
+1    New OASIS-16 Announced, Page 3
+
+          Full Screen Editor
+
+          Convenient for  both  program development  and documentation task,
+     OASIS-16 will include a new full screen Editor.
+
+          Full cursor controls  and backwards/forward scrolling will enhance
+     the  general-purpose  text  editor currently  provided.  Built-in macro
+     capability will  allow up to 3 complex chained editing functions with a
+     single operation.   Special global, line, and character oriented modify
+     commands will also be included.
+
+          Priority Scheduling, Enhanced EXEC Job Control Language
+
+          Especially helpful in  multi-user environments with many different
+     operations being  performed at  the same time, new Priority  Scheduling
+     will assign up  to 8 different precedency levels  as part of the log-on
+     profile.  System  managers will be able to perform necessary operations
+     in  a  more orderly  fashion without  impacting  the efficiency of your
+     organization.
+
+          Enhancements to the EXEC JCL will allow using words with more than
+     eight characters  and pass an unlimited number of arguements.  Numerous
+     new  command  verbs have  been added, including FOR/NEXT, REPEAT/WHILE,
+     DO/UNTIL,  and many  others.  Additional changes allow more convientent
+     structuring and syntax.
+
+          Tapes, Bubble Memory Supported
+
+          Both industry  standard tapes  and bubble memory will be supported
+     by OASIS-16.
+
+          More than just  for back-up,  tape drives will be fully  supported
+     peripheral  devices.  You  can open  files, read or write, and  execute
+     commands directly from either cartridge or IBM-type 9-track tapes.
+
+          Smaller, less  expensive  bubble memory  will be incorporated into
+     many  future  machine  designs.   Treated as  secondary storage, bubble
+     memory is  expected  to  be  half  the cost  of  comparable floppy disk
+     systems.  OASIS-16  will maximize the potential with a state-of-the-art
+     implementation.
+
+          High-Level, Portable Source
+
+          Written in  'C', OASIS-16  will be easily transported from initial
+     8086 designs to the currently targeted Z8000, 68000 and other CPU's.
+
+          Williams has  designed his  own optimizer which compresses the 'C'
+     object  code by  more than  30%.  With its macro assembler  and linking
+     loader,  this  tool  too is  expected to  be  offered as another custom
+     development aide.
+
+          "We will  be  investigating  the interest  in our 8086 development
+
+                                      - more -
+1    New OASIS-16 Announced, Page 4
+
+     package," comments Howard  Sidorsky, Phase One president.  "From  a Z80
+     system, this  tool  can  filter  Z80  source into  8086  code, and then
+     cross-assemble into  8086 object  with the same ease and  efficiency of
+     our other development packages."
+
+          Sidorsky adds  that  the  'C' compiler  may also  be  offered as a
+     stand-alone option.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+1    New OASIS-16 Announced, Page 5
+
+                        OASIS 16 Preliminary Specifications
+
+     Version Name             OASIS-16
+
+     Processors used          8086, Z8000, 68000
+
+     Max # of Users           32
+
+     Max # of Tasks           256
+
+     Real-Time Provisions     Up to 128 interrupts; process control compatib
+
+     Max Disk space           273 MByte per volume; 32 volumes available for
+                              MBytes online maximum at any one time
+
+     Hardware Supported       Floppy and Hard disks (all types), Bubble memo
+                              9-track tape, cartridge tape
+
+     Peripherals Supported    All types CRT's; All types Printers; All types
+                              Printers
+
+     Security Provisions      Public, Shared and Private Files;
+                              optional passwords; six different privilege le
+
+     Additional Features      Compatibility with Z80 OASIS
+                              Dynamic Partitioning
+                              Dynamic File Allocation
+                              Interprocess Communications
+                              Multi-level Directory
+                              Priority Scheduling (8 levels)
+                              Beta + ISAM file structure as well as Direct,
+                              Sequential, and Keyed file access types
+                              Variable Length Records
+                              File locking and automatic record locking
+                              Enhanced EXEC JCL process control language.
+                              Relocating macro assembler/debugger/linkage ed
+                              Full Screen Text Editor/Script Processor packa
+                              High-Level BASIC compiler and interpreter
+                              Diagnostic and Conversion Utilities
+                              Communications Facilities
+
+     Optional Packages        CONTROL Relational DBMS
+                              File Sort
+                              BiSync 2780/3780 Communications Package
+                              IBM3740 Formatting Utility
+                              C Compiler
+                              RM COBOL
+                              Pascal
+                              FORTRAN
+                              FORTH
+
+     Price                    $1495.00
+
+                All specifications subject to change without notice
+NYX.RELEASE:VOL$5                                        01/30/85 12:26 Page 1
+
+1                FOR IMMEDIATE RELEASE:
+
+
+                     OASIS NOW AVAILABLE FOR NEW ONYX C8001/MU
+
+
+          Providing true   multi-user   capabilities   with  enhanced   file
+     management  and  software  development facilities,  the OASIS operating
+     system  is  now  available  for  the  recently  released Onyx  C8001/MU
+     microcomputers.
+
+          The new  OASIS/Onyx   combination  allows  unique  flexibility  in
+     maintaining  public,  private  or  shared  files  with  versatile  user
+     security  and  accounting controls.   File locking and automatic record
+     locking insure data  integrity for multiple users on  the new 256K Onyx
+     systems, as well as the new Onyx 5-1/4 inch hard disk.  OASIS ISAM file
+     structure and  device independent  I/O enhance the Onyx dynamic  memory
+     management.   Multi-user  SPOOLER, convenient  inter-user communication
+     capabilities,  and general  purpose text editor are additional software
+     features of the new system.
+
+          Comprehensive program  development  support  offered  by  the  new
+     OASIS/Onyx  system  includes high  level BASIC with re-entrant run-time
+     module, EXEC  interactive job control language, text editors, compiler,
+     interpreter,  relocating macro  assembler, debugger, linkage editor and
+     diagnostic/conversion  programs.   Optionally available  are File Sort,
+     BiSync Communications and RM COBOL (ANSI '74) utilities.
+
+          Available from  Onyx dealers  worldwide, suggested US retail price
+     for the  OASIS option  is $500 for single-user and  $850 for multi-user
+     versions.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+NYXAGRM.RELEASE:VOL$5                                    01/30/85 12:26 Page 1
+
+1                June 8, 1981
+
+
+         ONYX SIGNS LONG TERM LICENSE AGREEMENT FOR OASIS OPERATING SYSTEM
+
+
+          Completing long-term  planning  negotiations,  Onyx  of San  Jose,
+     California, and  Phase One Systems of Oakland, California have recently
+     signed contract  agreements licensing  the installation of OASIS as  an
+     integral option to the popular C8001/MU microcomputer.
+
+          Jointly announced  by Doug  Broyles, president of Onyx, and Howard
+     Sidorsky, president  of Phase  One Systems, the agreement formalizes  a
+     relationship  whereby OASIS  will be  offered as an enhancement to  the
+     Z80-based Onyx  systems.  Negotiations concerning offering OASIS on the
+     Z8000-based machines are continuing.
+
+          The OASIS/Onyx   combination    allows   unique   flexibility   in
+     maintaining  public,  private  or  shared  files  with  versatile  user
+     security  and  accounting controls.   File locking and automatic record
+     locking insure data  integrity for multiple users on  the new 256K Onyx
+     systems, as well as the new Onyx 5-1/4 inch hard disk.  OASIS ISAM file
+     structure and  device independent  I/O enhance the Onyx dynamic  memory
+     management.   Multi-user  SPOOLER, convenient  inter-user communication
+     capabilities,  and general  purpose text editor are additional software
+     features of the new system.
+
+          Onyx is headquartered at 73 East Trimble Road, San Jose, CA 95131,
+     (408) 946-6330.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+ASCAL.RELEASE:VOL$5                                      01/30/85 12:26 Page 1
+
+1                06/15/81
+
+
+               NEW PASCAL OPTION TO OASIS OPERATING SYSTEM ANNOUNCED
+
+
+          Combining the structured programming capability of Pascal with the
+     power of a multi-user software system, a new Pascal option to the OASIS
+     operating system has recently been released by Phase One Systems.
+
+          With many extension to  the UCSD Pascal from which  it is modeled,
+     OASIS   Pascal   easily   allows  separate   compilation  of  routines.
+     Construction  of  procedure  libraries  are  provided by  new 'module',
+     'export  block', and  'import block' declarations.  Separately compiled
+     modules  are assembled  into linking  loader  formats and combined with
+     other  modules  to  form libraries  of routines  and  global variables.
+     Without  restrictions  on  the  order  of declarations,  any constants,
+     types, variables  and routine  definitions may be grouped together  for
+     better  reading  and  modularity.   Variables  can  be  initialized and
+     explicit   type   conversion  is   allowed.   Furthermore,  syntax  for
+     structured   constants  has   been  added.   Integer  literals  may  be
+     represented in  a radix other than decimal, and standard Pascal I/O has
+     been extended in several ways.
+
+          Complementing currently  available Macro  Assembler, BASIC, COBOL,
+     FORTH, and  FORTRAN high  level language, the new Pascal  option to the
+     single  and  multi-user  OASIS is  available from microcomputer dealers
+     world wide at a suggested US retail price of $450.00.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+RG.RELEASE:VOL$5                                         01/30/85 12:26 Page 1
+
+1                February 16, 1981
+
+
+                          NEW OASIS QUICK REFERENCE GUIDE
+
+                           NOW AVAILABLE FROM PHASE ONE
+
+
+          Describing over  100   powerful  commands,  a  new  10-page  Quick
+     Reference  Guide  to  the  OASIS  operating  system  software  for  Z80
+     microcomputers  is  now  available  from  Phase One  Systems, announced
+     Howard Sidorsky, president.
+
+          Contained in the new  Guide are major commands for  the single and
+     multi-user  OASIS   operating  system,  EXEC  interactive  job  control
+     language, and general  purpose Text Editor, which are  all derived from
+     the  1000  page user's  manual.  Key documentation conventions, control
+     keys, prompt  characters, options, error messages and reserve variables
+     are also reported.
+
+          Functions explained  in  the new  OASIS Guide include: Archive and
+     Restore,  a sophisticated  back-up utility; file management and account
+     security  operations;  an  array  of program  development and execution
+     facilities; translation/conversion commands; inter-user communications;
+     and many other comprehensive control features.
+
+          Available directly from  Phase One Systems, cost for the new OASIS
+     Quick Reference Guide is $1.00.
+
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+RGBASIC.RELEASE:VOL$5                                    01/30/85 12:26 Page 1
+
+1                April 14, 1981
+
+
+                     NEW QUICK REFERENCE GUIDE TO OASIS BASIC
+
+                       NOW AVAILABLE FROM PHASE ONE SYSTEMS
+
+          Outlining over  200  BASIC  commands and  functions, a new l0-page
+     Quick  Reference  Guide to  the single  and  multi-user OASIS operating
+     system software  for Z80 microcomputers is now available from Phase One
+     Systems.
+
+          Major command statements and function expressions explained in the
+     new  Guide  are summarized  from the  over 250 page OASIS BASIC  user's
+     manual.   Key documentation  conventions, options, data and file memory
+     requirements, error  messages, ANSI forms control drivers, and compiler
+     executors are also reported.
+
+          Extensive capabilities  described   in  the  new  Quick  Reference
+     booklet include:  multi-line IF-THEN, SELECT and WHILE structures; long
+     variable and  line label  names; formatted and matrix I/O;  integer and
+     floating   point   variables;   and  automatic   line  number/renumber.
+     Versatile  break,  trace  and step  debugging capabilities and flexible
+     string  manipulation  functions  are  discussed with  commands enabling
+     programs  to  interact  with the  powerful OASIS  operating  system for
+     increased  productivity.    Chaining  and  linking  facilities,  syntax
+     analysis  on  statement entry  and many other comprehensive programming
+     aids are incorporated into the OASIS BASIC Guide.
+
+          Available directly from  Phase One Systems, cost for the new OASIS
+     BASIC Quick Reference Guide is $1.00.
+
+
+          Phase One Systems  is headquartered at 7700 Edgewater Drive, Suite
+     830, Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+UAY.RELEASE:VOL$5                                        01/30/85 12:26 Page 1
+
+1                06/15/81
+
+
+                           OASIS NOW AVAILABLE FOR QUAY
+
+
+          Providing comprehensive  file management  and software development
+     facilities, the  OASIS operating  system is now available for  the Quay
+     900 series line of microcomputers.
+
+          The small  profile  OASIS/Quay features  quad density floppies and
+     heavy  duty   dual  power  supply  configuration  for  versatility  and
+     reliability.   Direct,  sequential,  keyed  and ISAM  files provide the
+     right  file  type  for every  application.  Versatile  text  editor and
+     script   processor   utilities,  complete   diagnostic  and  conversion
+     abilities,  and   competent  communication  facilities  are  additional
+     software features of the new combination.
+
+          Comprehensive program  development  support  offered  by  the  new
+     OASIS/Quay  system   includes:  high  level  BASIC  with  compiler  and
+     interpreter;  EXEC  interactive job  control language; relocating macro
+     assembler/debugger/linkage   editor;  and   other  major  design  aids.
+     CONTROL  RDBMS,  File  Sort,  BiSync 2780/3780  Communications package,
+     IBM3740 Formatting program, RM COBOL and FORTH high level languages are
+     optionally available.
+
+          Available from  Quay dealers  worldwide, suggested US retail price
+     for the OASIS option is $500 for the single user version.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+
+RNGCNTR.ARTICLE:VOL$5                                    01/30/85 12:26 Page 1
+
+1                  NEW OASIS TRAINING CLASSES TO BE STARTED SOON
+
+
+          Responding to  a  growing  demand  for  an  increased  variety  of
+     support, Phase One has recently organized a number of training sessions
+     which will  provide insights  into all facets of how  to get the utmost
+     performance from OASIS operating system software.
+
+          "Because OASIS is different  and so much more advanced  than other
+     available microcomputer operating  systems, we have found a  great deal
+     of interest on the part of potential and actual users, distributors and
+     microcomputer  OEM's,"  explains  Chris  Langewis,  Vice  President  of
+     International  Marketing  and  prime mover  behind the training classes
+     concepts.   "We want  an  efficient  and  effective  way to  deal  with
+     prospective and  actual users who say 'Tell me more about the potential
+     of OASIS.'"
+
+          Langewis hopes  that  the  initial classes  will serve students in
+     making informed decisions when using OASIS, while more detailed classes
+     will  cover  in-depth  questions important  to the  most  serious user,
+     large-scale distribution outlets or microcomputer manufacturers.
+
+          Prepared and presented by experienced instructors, each class will
+     be limited  in size to provide the optimum amount of attention with all
+     involved.   Each  class level  will be given "hands-on" indoctrination.
+     Complete audio/visual and documentation facilities will provide a ready
+     reference   to  all   information  requests.   Certificates  of  course
+     completion will also be awarded.
+
+          Entry Level Learning
+
+          Non-programmers and   novice  prospective   OASIS  users  will  be
+     introduced  to  the fundamentals  of most  operations  performed by the
+     operating system.
+
+          "Frankly, this is  the type  of thing that we get  calls about all
+     the time; 'how do I do this?', 'what does this mean?'.  The more people
+     begin to explore the full range of OASIS capability, the more they want
+     to  know,"  relates Langewis.   "Our Novice  class  will be designed to
+     briefly introduce each  of the OASIS modules with  enough foundation so
+     that you can explore more deeply and productively afterwards."
+
+          OASIS dealers  and  distributors  are  expected  to be  especially
+     interested in  the benefits  of this introductory class.  According  to
+     Langewis,  distribution outlets  will see  more and more how OASIS  can
+     improve their  customer's systems.   At the same time, they  will learn
+     several  basic  steps  that  will improve  relationships throughout the
+     distribution chain.
+
+          "For example, everyone should know that the first task they should
+     accomplish  is  to make  a back-up  disk,"  said Langewis.  "Also, this
+     class  will  help  people  understand  the tremendous  advantages OASIS
+     offers in  the standard  system that other available operating  systems
+     can only dream about."
+
+          Re-entrant language  usage,  system and  configuration management,
+1    account  and security  structures, the  EXEC  job control language, and
+     special commands like ATTACH are included in the class agenda.
+
+          Systems Integrator Orientation
+
+          Detailed information  on  the structure  and make-up of OASIS will
+     constitute the majority of the second level of training.
+
+          "Emphasis here will  be to  give you detailed information on,  for
+     example, how  our software drivers actually coordinate the interface to
+     different  peripherals,"  described  Langewis.  "From  there we'll take
+     you, the  more experienced programmer, into how to use machine language
+     subroutines from  BASIC, how  to take advantage of certain  OASIS BASIC
+     utilities, and other superior programming tools."
+
+          Starting from  what  most programmers  already know, the level two
+     class  will progress  into advanced microcomputer programming utilities
+     that are unique  to OASIS.  Examples will cover  such principles as how
+     drivers are structured and interfaced for the best performance, machine
+     language  programming  and macro  debugger, advanced EXEC routines, and
+     how to quickly convert programs from foreign operating systems.
+
+          Advanced Utilization Seminar
+
+          Manufacturers, master distributors  and software houses can become
+     intimately familiar with OASIS architecture in the third level classes.
+
+          "Designed to help  the manufacturer improve existing OASIS systems
+     or  prepare  for  implementing  OASIS  on  new  enhancements  to  their
+     products,  this  course will  probably be  restricted  to only the most
+     serious  of OASIS  users and  those organizations who sell 100  or more
+     OASIS installations  a year,"  predicts Langewis.  "But it will  be the
+     definitive  center for  quickly learning  how best to modify OASIS  for
+     custom implementations or conditions; the real 'nitty-gritty'."
+
+          Participants in   this   level   will   be  able   to  master  the
+     macro-assembler in detail, or structure their own new utilities such as
+     graphics or voice recognition possibilities.
+
+          World-wide Support
+
+          In addition to  the pilot  program to be organized in  the Oakland
+     headquarters  sometime in  mid-year, other training facility franchises
+     are planned for most major cities, including New York, Los Angeles, and
+     Dallas/Fort  Worth,  Chicago,  and Denver.   European centers currently
+     being  investigated   include  London,  Munich,  Frankfurt,  Paris  and
+     Amsterdam.
+
+          Initially, each   class    will   be   planned   for   2-3   days.
+     Non-programmer/Novice  level  classes  will  eventually  be held  every
+     month.  Quarterly Systems Integrator level classes will be complimented
+     by semi-annual Advanced Utilization level classes.
+
+                                       # # #
+
+1                    Tentative OASIS Training Center Schedule
+
+
+     Level           Contents                       Dates        Costs
+
+     I         Novice; Thorough indoctrination    July 13-14     $195.00
+               to fundamental concepts
+
+     II        Intermediate; Experienced          August 10-11   $275.00
+               programmer-oriented
+
+     III       Systems Level Education;         September 14-15  $325.00
+               Advanced utilization seminar
+
+     IV        In-depth applications with         starting       $150 1st da
+               individual modules such as         April 22-23    $250 for 2
+               ACCESS RDBMS, BASIC, COBOL,
+               Pascal, FORTRAN, Forth, and C
+     NOTES
+
+     1.   All classes include training and reference manuals, course complet
+          certificate, and other related materials.
+
+     2.   Classes will be limited to 20-30 individuals, depending on content
+
+     3.   Level IV classes will generally be organized in two day blocks; th
+          day will be both user and programmer-oriented, while the second da
+          feature programmer-level instruction.
+
+     4.   Successful completion of training classes will entitle attendees t
+          "preferred customer" status, with corresponding discounts on futur
+          purchases of OASIS products.
+
+
+                           Preliminary information only.
+
+
+     Contact Phase One Systems, 7700 Edgewater Drive, Suite 830, Oakland, CA
+     (415) 562-8085, TWX 910-366-7139, for current status.
+RNGSCHD.ARTICLE:VOL$5                                    01/30/85 12:26 Page 1
+
+1                    OASIS TRAINING SCHEDULE, POLICY ANNOUNCED
+
+
+          Due to a tremendous response to the OASIS Training Center Concept,
+     Phase One has  announced an expanded schedule and  new policy to insure
+     protection to prospective students.
+
+          Seminars for  the  new  CONTROL  Relational  DBMS have  been added
+     during  June, July  and August.   OASIS Level I and II  classes will be
+     held in July and September, respectively.
+
+          To secure your place in the Training session, a fifty dollar ($50)
+     non-refundable deposit  must  be  made.   Since  each session  will  be
+     limited to a maximum of twenty participants, your name cannot be placed
+     on the roster or waiting list until the deposit has been received.  The
+     full tuition balance  must be received two weeks  prior to the class to
+     guarantee placement.
+
+          Specific information  concerning  your session  (location, timing,
+     addresses of  local hotels, due date for tuition balance, etc.) will be
+     forwarded upon receipt of your deposit.  Registration confirmation will
+     follow when the balance of tuition fees have been processed.
+
+          Prospective students are  reminded that hotel reservations are not
+     included in seminar fees.
+
+                          OASIS TRAINING CENTER SCHEDULE
+
+
+     July 13-14          OASIS Level I Seminar - $250.00
+                         Intended for non-programmers new to OASIS, this cou
+                         will cover start-up procedures, simple system maint
+                         Backing up, Account creation and other operations n
+                         to learn command of the system.
+
+     June 17-18,         CONTROL Relational Data Base Management Seminar - $
+     July 22-23,         Programming or OASIS experience helpful, but not re
+     August 19-20
+
+     September 14-15     OASIS Level II Seminar - $350.00
+     (Tentative)         This session is intended for persons who already ar
+                         familiar with BASIC programming.  The course will c
+                         transition to OASIS BASIC, usage of OASIS BASIC str
+                         handling, EXEC language utilization, and sophistica
+                         use of the OASIS operating system.
+                                       # # #
+
+RSION55.RELEASE:OASIS                                    01/30/85 12:26 Page 1
+
+1
+
+
+
+                 January 12, 1981
+
+
+                NEW OASIS VERSION 5.5 OFFERS FASTER BASIC COMPILER,
+
+             SPOOLER, MEDIA INDEPENDENT BACK-UP, AND KEYED FILE ACCESS
+
+
+          Providing a  much faster  BASIC compiler, a shared printer between
+     up to 15  users, media-independent back-up capabilities and  fast Keyed
+     file access, the  new OASIS Version 5.5 microcomputer  operating system
+     is now available from Phase One Systems.
+
+          Nearly twice as fast as previously available models, the new OASIS
+     Version 5.5  BASIC compiler also offers an approximately 25-45% further
+     reduction in  the size  of compiled programs.  New security  parameters
+     let you specify serial numbers and privilege levels down to the program
+     level,   an  especially   attractive  option  to  independent  software
+     suppliers.
+
+          With up  to  15 users  accessing a  single  printer, the new OASIS
+     Version  5.5  Multi-user  SPOOLER  allows maximum  printing efficiency.
+     Twenty-six user-defined queues  can be used to prioritize  waiting jobs
+     or  execute  special  forms  such  as  checks  or invoices.   Automatic
+     reprints,  multiple  copies,  or  special  alignment parameters  can be
+     easily specified.
+
+          Archive and Restore, a sophisticated OASIS back-up utility, can be
+     used to  protect  even very  large amounts  of  hard disk data on  tape
+     cartridge  or multiple  floppies.  Special benefits include compressing
+     data to  save storage space, read-back check, and flexible options such
+     as only  saving  data that  has been  changed  or added since the  last
+     archive operation.
+
+          Designed especially  for  files that  are often updated but rarely
+     accessed  sequentially, new  Keyed file capabilities compliment OASIS's
+     existing direct,  sequential and ISAM files.  Under Keyed access, files
+     can be  retrieved and updated much faster than under other methods, and
+     use less disk overhead in the process.
+
+          Other features  of  the  OASIS  operating  system  include  unique
+     flexibility  in  maintaining  public,  private  or  shared  files  with
+     versatile security  and accounting controls; file locking and automatic
+     record   locking  to   insure  data  integrity;  convenient  inter-user
+     communications; and a general purpose text editor.
+
+          Comprehensive program  development  support  offered  by  the  new
+     version includes high level BASIC with re-entrant run-time module; EXEC
+     interactive  job  control  language;  text  editors;  relocating  macro
+     assembler/debugger/linkage editor;  and diagnostic/conversion programs.
+
+                                       (more)
+1    RM COBOL (ANSI '74) is optionally available.
+
+          Available from  microcomputer   dealers  worldwide,  suggested  US
+     retail price  for the OASIS option is $500 for single-user and $850 for
+     multi-user versions.
+
+          Phase One  Systems,  internationally  respected  operating  system
+     specialists,  are  headquartered  at  7700 Edgewater  Drive, Suite 830,
+     Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+RSON55.ARTICLE:OASIS                                     01/30/85 12:26 Page 1
+
+1                NEW OASIS VERSION 5.5 OFFERS MULTI-USER SPOOLER,
+
+                 MEDIA-INDEPENDENT BACK-UP, AND KEYED FILE ACCESS
+
+
+          Providing a  shared printer  between up to 15 users, significantly
+     faster  and  more  efficient BASIC  compiler, media-independent back-up
+     capabilities and Keyed file access, the new OASIS version 5.5 operating
+     system for Z80 microcomputers is now available from Phase One Systems.
+
+          In design, development  and testing for over a year, OASIS Version
+     5.5  is  the  Phase One  System latest  response  to growing demand for
+     flexible multi-user  systems.  Each new module and feature is patterned
+     after proven, successful  mainframe utilities to give system  users the
+     versatility they've come to expect from OASIS.  All previously prepared
+     application programs are directly compatible.
+
+          Printer SPOOLER Increases Efficiency
+
+          With up to  15 users accessing a single printer, the new OASIS 5.5
+     Multi-user SPOOLER  (Simultaneous peripheral operations on-line) allows
+     maximum  printing  efficiency.   Twenty-six user-defined  queues can be
+     used to prioritize waiting jobs or execute special forms such as checks
+     or  invoices.  Automatic  reprints and multicopies or special alignment
+     parameters can be easily specified.
+
+          Other SPOOLER  options  include:  initialize;  set  the  schedule;
+     start/stop   jobs;   list  a   summary  of   waiting   jobs  and  their
+     characteristics; kill  or change  the status of a waiting  job; abort a
+     running job; back-up "n" pages; or establish an alignment.
+
+          Twice as fast, more efficient BASIC Compiler
+
+          Nearly twice as fast as previously available models, the new OASIS
+     Version 5.5  BASIC Compiler also offers an approximately 25-45% further
+     reduction in  the size  of compiled programs.  New security  parameters
+     let you specify serial numbers and privilege levels down to the program
+     level,   an  especially   attractive  option  to  independent  software
+     suppliers.
+
+          Along with supporting new  OASIS Keyed file access, the  new BASIC
+     Compiler  encourages  stricter  control over  and efficiency of program
+     structure.   Comprehensive  error  messages  will guide  programmers in
+     effective  debugging   and  streamlining  techniques  to  optimize  the
+     compiler's new features.
+
+          Sophisticated Back-up Utilities
+
+          Archive and Restore, sophisticated OASIS back-up utilities, can be
+     used to  protect  even very  large amounts  of  hard disk data on  tape
+     cartridge   or  multiple   floppies.   Special  benefits  include  data
+     compression  to  minimize storage  space, read-back check, and flexible
+     options such as  only saving data that has  been changed or added since
+     the  last archive  operation.  Up  to 128 Mbytes of data  can be easily
+     archived or restored.
+
+1         This advanced utility virtually eliminates any previous hesitation
+     and  doubt about  using Winchester-type hard disks within microcomputer
+     configurations.   Importance of  Archive capability will grow as newer,
+     larger, more cost-effective  hard disk systems become available  to the
+     typical systems user.  OASIS is prepared now to meet the challenge.
+
+          Keyed Files
+
+          Designed especially for files with alphanumeric keyed records that
+     are often  updated directly but rarely accessed sequentially, new Keyed
+     file  capabilities  compliment OASIS's  existing direct, sequential and
+     ISAM files.  Under  Keyed access, records can be  retrieved and updated
+     much faster than under other methods, and use less disk overhead in the
+     process.
+
+          Typical applications   where  Keyed   file  access  will  be  very
+     convenient include  General Ledger, Point of Purchase, Library Storage,
+     Inventory   Up-date,  and   other  situations  where  rapid,  real-time
+     processing saves time and effort.
+
+          Scheduled for  delivery  in  April,  more information  about OASIS
+     Version  5.5 can  be obtained  through  local dealers and distributors.
+     Cost for system up-grades will be minimal.
+
+                                       # # #
+
+COMP.RELEASE:VOL$5                                       01/30/85 12:26 Page 1
+
+1                FOR IMMEDIATE RELEASE:
+
+
+               OASIS DRIVERS NOW AVAILABLE FOR XCOMP DISC CONTROLLER
+
+
+          Providing a convenient  and efficient method to move up to faster,
+     larger media devices, the OASIS operating system for Z80 microcomputers
+     now supports the XCOMP DCF10 Disc Controller.
+
+          Eliminating the  need  for  user-written driver  programs, the new
+     OASIS   software  supports   the  XCOMP  DCF10  disk  controller  which
+     interfaces  to a  variety of  popular  2315/5440 type cartridge drives.
+     This new capability  is especially helpful to users  who are looking to
+     expand from floppy-disk only systems to faster, large capacity versions
+     of the popular  high performance storage medium.  Archive  and Restore,
+     OASIS's sophisticated  back-up utilities, enhance the new configuration
+     capabilities.
+
+          Other features   of    the   OASIS   operating   system   include:
+     compatibility   between   single   and   multi-user  versions;   unique
+     flexibility  in  maintaining  public,  private  or  shared  files  with
+     versatile security  and accounting controls; file locking and automatic
+     record  locking  to  insure  data  integrity;  and  advanced ISAM  file
+     structures.  Multi-user  SPOOLER, convenient inter-user communications,
+     general  purpose  text  editor  and  comprehensive program  development
+     support are additional OASIS features.
+
+          Supplied with  the  XCOMP drivers  at a  nominal  charge, OASIS is
+     available  from  microcomputer  dealers  worldwide at  the suggested US
+     retail price of $500 for single-user and $850 for multi-user versions.
+
+
+          Phase One Systems  is headquartered at 7700 Edgewater Drive, Suite
+     830, Oakland, CA 94621, (415) 562-8085, TWX 910-366-7139.
+
+                                       # # #
+
+WANT A PRINTED COPY OF THE INFO ABOUT THE PROGRAMS ? [Y/N]:N
+
+
+
+
+
+HE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 5.
+
+***************************************************************
+
+
+ADD.BASICOBJ/BASICCOM/EXEC
+FIND.BASICOBJ/BASICCOM/EXEC
+DISKFILE.LIBRARY
+
+(NOTE: THESE PROGRAMS WERE COMPILED UNDER OASIS VERSION 5.4 AND WILL NOT
+RUN WITH 5.5 OR LATER.  PLEASE RECOMPILE THEM FOR YOUR SYSTEM BEFORE USING.)
+
+This is a system for keeping track of the contents of a library of disk(ette)s.
+With it you can ADD (and delete) the contents of any diskette residing on any
+drive.  You can also remove all references to any named disk(ette).  The FIND
+program is used to find the location of any file or class of files in your
+library.  We are using the system to keep track of the Oasis Users' Group
+library contents as it grows. The information about the files in the library
+are maintained in a file called DISKFILE.LIBRARY.  It is important that you
+be aware of the possibility of confusion, if you maintain more than one
+copy of DISKFILE.LIBRARY in your system.
+
+It was contributed to the library by its author, Joe Trimble.  I am sure you
+will find it to be one of the more usefull utilities in our collection. FB
+
+TO SEE BRIEF EXPLANATIONS OF FIND AND ADD TYPE "RUN", ELSE HIT <CR>.
+:
+
+ACCRRT.BASICOBJ
+
+If you have ever wished you could go to Monte Carlo and play with the big
+boys, turn the lights down low, turn up your imagination, and run this
+program.  In no time at all you'll be broke and feel just like you would
+five thousand miles away in one of the noisy casinos.  The author of this
+program lost all of his money and now resides in a home for wayward old
+computer hobbiests - he refuses to be identified.  I converted it for us. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ASEBALL.BASICOBJ
+
+What can you say about a game that makes you sit still at a computer terminal
+to play an action game like baseball?  I'm sure those of you who find
+themselves glued to the boob-toob during baseball season will welcome this
+equally inane substitute. It is one way to bridge the generation gap.  The
+jargon is all here and, if mastered, will make you look like a real pro to
+your twelve year old kid.  It's included here mostly for the baseball
+widows, who think a "fly ball" is a dance for insects.
+
+The original version of this program was written by Joel Lind and Ken Berkman
+in 1973. It has been revised several times; the last time by me for OASIS.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+HESS.BASICOBJ
+
+Put some logs in the fireplace; get some hot mulled wine; a copy of the
+latest Play(boy/girl) magazine; and settle down for a long, looooooong
+game.  Randykoff (as I call the computer logic) plays a legal game, but
+takes as much as 10 minutes to make his move each time.  I'm sure there
+must be a more efficient chess program out there in OASIS-land somewhere.
+He doesn't seem to remember from one move to the next what he learned about
+the possibilities during his analysis of the previous move.  And, he
+doesn't seem to look ahead very many moves, but I must admit to not spending
+very much time studying the program's logic.
+
+The program was written originally by Randy Miller in 1976 and modified for
+OASIS by me in 1981.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+LOUD9.BASICOBJ
+
+If you don't know or care anything about meteorology, just skip this one.
+It's a game/exercise/"learning tool" for high school students, I would
+guess by the affiliation of its authors - A.C. Caggiano and E.A. Galletta.
+Should hold the kids' interest for at least the first few tries.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OMPARE.COMMAND/ASSEMBLE/NOTES
+COMPARE$.EXEC
+ASM.NOTES
+CMPR.MACRO/DSI.MACRO/MOVE.MACRO
+
+If you have ever spent 20 minutes trying to figure out what tiny little,
+inconsequential change you made to your BASIC program last week that now
+is causing trouble, this new utility is for you.  It checks two programs
+(or any sequential files) line by line and displays mis-matches.  As soon
+as it finds an extra line in either program, all subsequent pairs of lines
+are flagged as mis-matches.  I wish it had a little more intellegence and
+could handle the extra line problem, but it still is a valuable utility
+as it is.  It was submitted by its author, Gary Thompson of Design Systems.
+I have made minor changes in the NOTES file and added the COMPARE$.EXEC. FB
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OMPILE.EXEC
+
+The BASIC programs on this disk were compiled under OASIS VERSION 5.4B
+
+If you have a later or earlier version on your system, they may not run
+properly.  This utility makes it simple to recompile programs using your
+version of the compiler.  My plan is to include only object programs at
+some point in the future and rely on each member to compile a copy for
+their particular system.  I need a little more time to think out the
+pros and cons of such a move.  If you have some thoughts on the matter,
+let me hear from you.  I have changed the overview execs (eg VOL5.EXEC)
+to run the BASIC programs using the interpreter so everyone will be
+able to at least review the new programs without a compiled version.
+
+TO SEE THE SYNTAX TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OMPRESS.EXEC
+
+You asked for it, so here it is.  No big deal, just a convenient little
+utility to reorganize the files on a diskette so that they are all
+contiguous and all of the available space is together at the end of the
+files.  It does require that you have a second diskette in another drive
+that will be used as a "work space" ( actually, it is used to receive a
+backup copy of the files on the disk you want to compress).
+
+I wrote it in a few minutes after reading Criss Williams' explanation
+of why PHASE ONE doesn't supply one in the latest Software Monitor. FB
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+M.COMMAND/ASSEMBLE/NOTES
+DM$.EXEC
+ASM.NOTES
+CMPR.MACRO/DSI.MACRO/MOVE.MACRO
+
+This utility allows you to inspect the contents of any part of main memory.
+It was contributed by its author, Gary Thompson of Design Systems.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+S.COMMAND/ASSEMBLE/NOTES
+DS$.EXEC
+ASM.NOTES
+CMPR.MACRO/DSI.MACRO/MOVE.MACRO
+
+This utility allows you to inspect the contents of any sector of a specified
+disk(ette).  It was contributed by its author, Gary Thompson of Design
+Systems, Inc.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+REQSTAT.BASICCOM/BASICOBJ/EXEC
+
+(NOTE: IF YOU HAVE OASIS VERSION 5.5 OR LATER, YOU WILL NEED TO RECOMPILE
+THIS PROGRAM BEFORE USING IT.)
+
+You specify the file and the column(s) you want analyzed and the program
+figures means, standard deviations and frequency distribution of the unique
+strings in those columns.  It's very general purpose and might be used
+in a wide variety of applications.
+
+It was submitted by its author, Joe Trimble, of Oakland, CA.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AMES.EXEC
+
+Here it is folks, the latest version of the GAMES.EXEC. It now includes
+all of the games released up through Volume 5, and there are a number of
+other changes to make it work better.  Keep sending in your suggestions
+and I'll trying to make it better. Don't forget to compile the games. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ORSCOPE.BASICOBJ
+
+If you regularly avoid black cats on Friday the 13th or walking under
+ladders, then you might get a kick out of this "game."  You tell it
+your birth date and it tell you what your like? Try it, you might like
+it. Author unknown.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+EMBRAIN.BASICOBJ
+
+You are an E. Coli cell and your job is to try and stay alive by adjusting
+the various chemical substances of which your body is made.  The computer
+keeps you informed of your current status - it doesn't, however, tell you
+where you are residing.  If I were you, I'd get the hell out of there
+before he/she/it decides to eat some beans or chili peppers or something
+worse!
+
+I converted this gem from an original program written by Ken Witt.
+presumably for his high school students.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+AYMENT.BASICOBJ
+
+Yet another loan amortization program, but this is a particularly nice
+implementation so I decided to include it anyway.  Besides it was written
+by one of our newest members, George Butcher. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OSTAGE.BASICOBJ/BASICCOM/EXEC
+
+(NOTE: IF YOU HAVE OASIS VERSION 5.5 OR LATER, YOU WILL NEED TO
+RECOMPILE THIS PROGRAM BEFORE USING IT.)
+
+I got tired trying to figure out what combinations of the various
+denominations of postage stamps I happened to have on hand would
+give me what I needed for the packages of diskettes I send out.
+So, I decided to let the machine (we used to call them giant
+nincompoops, but their not giants any more!) figure it out.  Thought
+some of you might find it useful, too.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+PLORKEY.BASICOBJ/BASICCOM/EXEC
+
+(NOTE: IF YOU HAVE OASIS VERSION 5.5 OR LATER, YOU WILL NEED TO
+RECOMPILE THIS PROGRAM BEFORE USING IT.)
+
+This little gem from Joe Trimble lets you see exactly what codes your
+terminal is sending to the computer.  Might come in handy some time.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+
+ELL, THAT'S  THE END  OF VOLUME 5.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+
+***************************************************************
+
+>

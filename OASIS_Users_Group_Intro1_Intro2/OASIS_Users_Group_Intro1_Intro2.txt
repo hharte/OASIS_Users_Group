@@ -1,0 +1,1919 @@
+>INTRO1
+==================================================================
+:                                                                :
+:         INTRODUCTION TO THE OASIS USERS GROUP LIBRARY          :
+:                        INTRO1 VOLUME                           :
+:                                                                :
+:                                                                :
+==================================================================
+ON WHICH DRIVE [if other than "A"] IS INTRO2 MOUNTED? [ A-G S ]:G\
+
+
+
+
+
+Welcome  to  Introductory Volume 1 of a  very  rapidly expanding
+library of OASIS compatible public domain and/or "END-USER-ONLY"
+software.
+
+This volume contains all of the member feedback letters from
+volumes 1-18, plus a small sampling of software from the OUG
+library.
+
+Want to skip directly ahead to a discussion of the
+programs on this disk? [Y/N]:N
+
+The  following  is  a  listing  of  the  contents  of INTRO1.
+
+Hit <cr> to proceed.
+:
+^name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    G 05/17/82 19:49    83    4 S    70 INTRO1
+AMAZE    BASIC    G 05/15/82 18:43   186    5 S    78 INTRO1
+ASM      NOTES    G 07/07/81 15:55    37    2 S    79 INTRO1
+BAGELS   BASIC    G 05/15/82 18:43    71    2 S    67 INTRO1
+CHASE    BASIC    G 05/15/82 18:44   110    3 S    68 INTRO1
+CMPR     MACRO    G 09/21/80 10:17    24    1 S    43 INTRO1
+COMPARE  ASSEMBLE G 11/07/80 00:07   216    5 S    63 INTRO1
+COMPARE  COMMAND  G 06/24/81 23:42    11    3 R   256 INTRO1
+COMPARE  NOTES    G 07/07/81 17:07    23    1 S    77 INTRO1
+COMPARE$ EXEC     G 07/07/81 20:59    49    2 S    77 INTRO1
+COMPILE  EXEC     G 02/29/81 17:09    45    2 S    74 INTRO1
+COMPRESS EXEC     G 07/07/81 20:47    66    2 S    84 INTRO1
+COPYRITE NOTICE   G 05/13/82 18:33     8    1 S    65 INTRO1
+DECISION BASIC    G 05/15/82 19:04    86    6 S    93 INTRO1
+DM       ASSEMBLE G 06/27/81 09:45   123    3 S    67 INTRO1
+DM       COMMAND  G 06/27/81 09:45     2    1 A   256 INTRO1
+DM       NOTES    G 06/27/81 09:58    20    1 S    77 INTRO1
+DM$      EXEC     G 07/07/81 17:17    35    1 S    77 INTRO1
+DSI      MACRO    G 02/03/81 22:29    20    1 S    49 INTRO1
+GAMES    EXEC     G 05/17/82 19:17   132    4 S    66 INTRO1
+INTRO1   EXEC     G 11/08/82 03:52   502   14 S    76 INTRO1
+LANDER   BASIC    G 05/15/82 18:44   121    4 S    68 INTRO1
+LEM      BASIC    G 05/15/82 18:45   232    8 S   156 INTRO1
+LOAN     BASIC    G 05/15/82 18:45    72    2 S    86 INTRO1
+LOVE     BASIC    G 05/15/82 18:45    35    2 S    70 INTRO1
+MEMBER10 FEEDBACK G 06/11/82 22:03   106    6 S    78 INTRO1
+MEMBER11 FEEDBACK G 06/11/82 22:01    15    1 S    77 INTRO1
+MEMBER12 FEEDBACK G 06/11/82 22:00    50    3 S    78 INTRO1
+MEMBER13 FEEDBACK G 06/11/82 21:58    26    2 S    78 INTRO1
+MEMBER14 FEEDBACK G 06/07/82 18:53   149    8 S    79 INTRO1
+MEMBER15 FEEDBACK G 08/30/82 21:48   218   11 S    66 INTRO1
+MEMBER17 FEEDBACK G 11/01/82 18:17   186    9 S    65 INTRO1
+MEMBER18 FEEDBACK G 11/06/82 21:56   107    5 S    65 INTRO1
+MEMBER19 FEEDBACK G 11/19/82 17:28   137    4 S    65 INTRO1
+MEMBER3  FEEDBACK G 06/11/82 22:08   143    9 S    79 INTRO1
+MEMBER5  FEEDBACK G 06/11/82 22:06   188   10 S    78 INTRO1
+MEMBER6  FEEDBACK G 06/11/82 22:05     9    1 S    77 INTRO1
+MEMBER7  FEEDBACK G 06/11/82 22:04   179    9 S    78 INTRO1
+MOVE     MACRO    G 06/11/80 01:34    27    1 S    46 INTRO1
+NET80    BASIC    G 05/15/82 19:04   456   12 S    75 INTRO1
+POETRY   BASIC    G 05/15/82 18:45   115    5 S    91 INTRO1
+PRINT    EXEC     G 06/23/81 16:33    86    2 S    79 INTRO1
+PURGE    EXEC     G 12/24/80 15:23    82    2 S    57 INTRO1
+QUEST    BASIC    G 05/15/82 18:49   622   23 S    79 INTRO1
+REPEAT   EXEC     G 11/19/80 19:44    24    1 S    61 INTRO1
+RUN$     EXEC     G 08/10/81 16:21    26    1 S    67 INTRO1
+S$TREK   BASIC    G 05/15/82 18:46   210    6 S    67 INTRO1
+SELECTI1 EXEC     G 11/08/82 04:00    50    3 S    46 INTRO1
+SOFTWARE RULES    G 11/01/82 20:02    86    5 S    72 INTRO1
+TIME     BASIC    G 05/15/82 19:07    65    6 S   202 INTRO1
+WISH     LIST18   G 11/07/82 19:48    91    4 S    72 INTRO1
+51 file(s), 229 block(s).
+THE FOLLOWING ARE THE MEMBER FEEDBACK LETTERS RELEASED WITH THE
+FIRST 18 VOLUMES.
+
+=====================================================================
+MEMBER3.FEEDBACK:INTRO1                                   01/29/85 16:36 Page 1
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+MEMBER3.FEEDBACK - JUNE 1981
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+JOHN TAYLOR 27 MAY 1981
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+Your group may also be interested in checking into "MAUDE".  MAUDE is the
+Milwaukee Area Utility for Digital Exchanges--the first (and only?)
+computerized bulletin board currently running under OASIS.  I am enclosing an
+information sheet describing the system.  All you need to get onto the system
+is a standard modemand the OASIS "TERMINAL" program.  The system is available
+24 hours per day at (414) 241-8364.  There is no charge for the system other
+than what "Ma Bell" puts on your telephone bill.
+
+I would be pleased to share with you the software I which I am using for the
+Milwaukee bulletin board system.  However, since large portions of the system
+were adapted from the CP/M based CBBS program created by Ward Christensen and
+Randy Suess, I must ask you to purchase their package first.  They charge
+$50.00 (a bargain price for a truly massive programming effort) for two disks
+containing all of the CP/M files and documentation.  I will then send you my
+OASIS adaptation for the cost of the media.
+
+You should be able to adapt the program to run on any system supporting OASIS
+with a minimum of effort.  As I have implemented it, the program is on disk as
+"CBBS.COMMAND" and runs like any other OASIS program.  By attaching the
+Console Device to a modem driver, the system becomes available over the
+telephone lines.  Normally, the program runs in an endless loop so that the
+users see only the CBBS.  There is a command available to the operator which
+exits the CBBS and returns to the OASIS CSI command level.  Thus, the operator
+has access to the entire OASIS system via the telephone.
+
+I have tried to keep the amount of 'special' code required by the CBBS to a
+minimum to make it easy to transport it to another OASIS system.  About all
+that has to be done is to modify the device driver for the modem so that when
+the telephone circuit is lost the driver returns a "character ready" status
+and a 0FFH as the "character" received.  This is done to keep the program from
+getting stuck in a status check loop in the event that the telephone circuit
+is lost in the middle of a session.  The CBBS code may also require some
+modification if you wish to support multiple baud rates, as OASIS does not
+provide a mechanism for changing the baud once a device is attached.  There is
+also provision in the CBBS code for sending control characters to various
+output ports to control AC power relays for the computer and/or disk drivers
+which will require customizing if you wish to use that feature.  The final
+software modification which I have made in my system is a series of patches to
+the nucleus and to the CSI which cause the system to skip the normal log on
+procedure at boot-up and proceed directly to the account owning the CBBS
+program.  This was done to speed up the boot-up procedure.  My system gets
+turned on automatically by the first ring of the telephone, and by the start
+of the third ring the system is up and the CBBS program is running.  If you
+intend to leave your equipment on continuously, these patches are not needed.
+
+The hardware which you have should be quite adequate to run a CBBS.  About the
+only equipment needed beyond what would be required for any OASIS system is a
+modem equipped for ring detect, carrier detect, and automatic answer.  In
+addition, the equipment must have adequate disk capacity.  My system uses one
+double density 8" disk (500K) exclusively for messages and the log files.  It
+will accomodate about 300 active messages.  The system drive has the OASIS
+system on it, the "Help" message files, and the other text files which the
+system uses but which are seldom updated.  This places all of the active files
+on the "A" drive, so only it need be backed up on a regular basis.  You could
+do the same sort of thing, or run everything off of your hard disk.  If you
+are set up for multi-user OASIS, it should be possible to run a CBBS in one
+partition while you use the system for other purposes.  I have just started
+work with multi-user OASIS, and will be looking into the possibilities of
+running multiple ports into the CBBS itself.
+
+I am not able to make the CBBS software available for general distribution for
+a number of reasons.  The first is that Ward Christensen and Randy Suess
+should not be cut out of their $50.  Second, it has been my experience that it
+takes a _lot_ of "hand-holding" to get someone new to this up and running.
+This is better done on a one-to-one basis. So, I will be glad to share what
+I have done with you for your use, or with others who care to contact me about
+it (and purchase Ward and Randy's package).  However, it can not be distributed
+as part of a User's Group disk.
+
+I am currently working on an OASIS version of the "MODEM" program which is
+used by the CP/M community to transfer programs via the telephone.  It uses a
+block transfer scheme similar to, but incompatible with, the OASIS "SEND" and
+"RECEIVE" programs.  The program which I am working on will allow the
+transmission of programs between a CP/M system and an OASIS system.  This will
+provide an easy access to the CP/M programs available on the telephone access
+program exchange systems ("Remote CP/M" systems).  When the program is ready,
+I will send you a copy for the Users' Group.
+
+I have converted a couple of CP/M ".ASM" programs for use under OASIS.  My
+experience is that it is seldom trivial to do, particularly if the program
+makes used of disk files. It is easy enough to use the "GETFILE" command to
+copy the program from the CP/M disk to the OASIS disk.  The "FILT8080" command
+will then convert the file to Z-80 mnemonics (assuming that it was originally
+in 8080 mnemonics), and the resulting file will then assemble with a minimum
+of syntax modifications.  But, the resulting file will not run under OASIS for
+a number of reasons.  First, all of the CP/M system calls have to be converted
+to OASIS system calls.  Next, many of the CP/M Users' Group programs require
+that information from the disk be accessed in 128 byte chunks, corresponding
+to one logical sector.  For example, the "MODEM" program transmits 128 bytes
+and then waits for an acknowledgement from the receiving system that it has
+finished writing that chunk to disk.  OASIS stores sequential files as blocks
+of four 256 byte logical sectors, each of which uses the last two bytes to
+point to the next logical sector.  OASIS is set up so that you normally write
+logical records of arbitrary length to the disk, rather than manipulating the
+sectors directly.  The result is that a program written to use CP/M disk files
+may need extensive reworking to function properly under OASIS.  Finally, CP/M
+programs normally load at 0100H, while OASIS programs are relocatable and will
+be loaded starting at the first available byte following the nucleus (which
+changes from version to version and machine to machine).  A number of the CP/M
+Users' Group programs are non-relocatable in the sense that they assume that
+they "know" where page boundaries occur.  For example, the "MODEM" program
+reads the 128 byte logical sectors into a disk buffer which starts at 0080H.
+It then sets up the HL register pair to point to the text to be sent.  The
+programs determines that all bytes have been sent by checking the L register
+to see if it is 0 (corresponding to an address of 0100H which is the end of
+the 128 byte buffer).  If this code is relocated for OASIS and the buffer
+moved to somewhere other than XX80H, an incorrrect number of bytes will be
+sent or received.
+
+While all of the preceeding makes conversions somewhat complicated, in many
+cases it is well worth the effort.  The basic logic of the program generally
+will not require modification, and often that is half the battle when it comes
+to writing a new program.
+
+I am including this letter as a disk file, as well as a blurb about the
+services which Taylor Electric offers.  Please feel free to extract any parts
+which you feel might warrant inclusion on your next distribution disk.
+Thanks for your efforts on behalf of the OASIS community.  I will do whatever
+I can to help the program!
+
+John Taylor
+Home Address: Box 121
+              Hartland, WI  53029
+              (414) 367-5888
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+
+
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+END
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+NEXT LETTER [Y/N]?:
+MEMBER5.FEEDBACK:INTRO1                                   01/29/85 16:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER5.FEEDBACK - VOL 5 - JULY 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FROM JOE TRIMBLE
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+Hi, Fred:                                                     27 May 1981
+
+     Just received VOL$01; I appreciate the quick response to my request.  I
+have several comments to make, so here goes, starting with the most general
+ones:
+
+     1.  How about calling the users' group "CARAVAN"?  It seems to me that
+a caravan is certainly a group of oasis users, and it is handier, I think,
+than "OASIS USERS' GROUP" and cuter than "OUG".  Also, I haven't been able
+to come up with any neat acronym.
+
+     2.  I would suggest a standardized "Table of Contents" for each volume,
+including the following:
+
+          $LIST$ME FIRST    - A brief intro for new people.
+          $VOL$xx  COMMENTS - Information (a la ZOSO) about the programs in
+                              this volume.
+          $VOL$xx  NEWSLETR - The "letters to the editor" file of users'
+                              responses to previous volumes.
+          CARAVAN  LIBRARY  - An indexed file of all volumes to date.
+          FIND     EXEC     - Utility exec to assist users (explained in
+                              $LIST$ME FIRST).
+          FIND     BASICCOM - Called by FINDDISK EXEC, accesses the LIBRARY.
+
+     Users could be encouraged to send comments (for inclusion in the next
+NEWSLETR) in a text file called $VOL$xx FEEDBACK, as I have done here.
+
+     3.  I think it would be appropriate to assume the following knowledge
+on the part of CARAVAN members:
+
+          a. The uses of the FILELIST command.  (I toyed with the thought that
+     a "CONTENTS" file should be included on each disk, but that is pointless
+     when anyone who has any familiarity with OASIS would know enough to list
+     the contents of a disk.)
+
+          b. The uses of the LIST command.  It seems to me safe to assume that
+     users would be as familiar with this as they are with direct execution of
+     EXEC files, so I would urge that information (like this) be put in a text
+     file with a name and filetype that encourage people to LIST it.  The idea
+     you had of using an EXEC file to introduce the material on the disk was
+     certainly worth trying, but there are a couple of problems: 1) There is
+     no way I can figure out to get a neat hard copy of the information in the
+     EXEC file; and 2) In order to get to the end I have to go all the way
+     through.  I don't mind doing that once, but since I can't get a good
+     printout I would have to do it each time I wanted any of the information.
+     This could be solved, I suppose, with a menu-driven set-up, but that
+     looks like more trouble than it is worth.
+
+          c.  The use of the RUN command as applicable (only) to BASICCOM
+     files.
+
+          d.  The use of the BASIC command to convert BASICOBJ files to
+     BASICCOM files.  IF we assume users know how to do this, only OBJ files
+     need be included on the disks.  If we assume they definitely do NOT know
+     how to do this, of course, then both BASICOBJ and BASICCOM files need to
+     be included.  My feeling is that while most users would be able to handle
+     the conversion, and including only BASICOBJ files on the disk would save
+     time at your end, it is better to include both types unless a) you only
+     have the BASICCOM, or b) you get in a real time crunch so far as copying.
+
+          e.  The use of EDIT to build a text file.
+
+     4.  EXEC files to introduce systems are a good idea, but I would suggest
+that we adhere to a couple of rules:  a. Each EXEC should have a -HELP section
+so users can follow the standard OASIS procedure of typing the exec name fol-
+lowed by HELP and get assistance.  To take this a step further, the -HELP rou-
+tine should also probably follow the format PHASE ONE uses, with FUNCTION,
+SYNTAX, and RULES sections.  b. The -HELP section should not automatically
+drop you into program execution.  (It's nice to know you can get information
+about the program without getting caught in it . . .)
+
+     5.  All programs (including EXECs) should have remarks (or print state-
+ments) at the top identifying the program, the author, date, and preferably
+a brief description of the intended function of the program.  Obviously, the
+more information of this type, the better, but some minimum ought to be es-
+tablished (author and date?).
+
+-----------------------------------------------------------------------------
+
+
+     Despite the above comments, I'd say "super start"!  I'll be contributing
+as much as I can, and look forward to future volumes.
+
+
+                              Joe Trimble
+                              The MENTAT Company
+                              236 Frisbie Street
+                              Oakland, CA. 94611
+
+
+
+
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FROM JOE TRIMBLE
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+                                                                 July 6, 1981
+
+Hi, Fred:
+
+     At long last, here is my reply to the stuff you most expeditiously sent.
+Wish I could get things back to you as quick as you get them to me;  how do
+you do it?
+
+     The other side of this disk is a model of my how I would format and send
+volume 1, based on the suggestions I've included in the file on this side
+called "$VOL$01 FEEDBACK".  I've not yet taken the time to go through volumes
+2-4 well enough to give in-depth feedback to you, though I did ADD them to
+the CARAVAN.LIBRARY copy on this side of the disk.  (The copy on the other
+side just has volume 1 files cataloged.)
+
+     The one comment I would make, though we discussed it on the phone, is
+that I don't think the "VOLxx EXEC" is a very good idea, because of the dif-
+ficulty of getting a hard copy of the information contained therein, and the
+difficulty of accessing the information without going through all the prior
+info in the file.
+
+     On this side of the disk I have put the ADD program.  This is the special
+version I modified just for the purpose of maintaining the CARAVAN.LIBRARY so
+I'm not sure it is the best one for general distribution.  Perhaps better is
+the revised FILEDISK program, also enclosed.
+
+     In modifying the ADD program I also modified the LIBRARY file to hold a
+category for each file.  In working with the files on the volumes I have so
+far, I've come up with twelve different categories:
+
+     ASM      - Assembly language routines.
+     BUSINESS - Programs applicable to or adaptible to businesses.
+     FINANCES - Personal financial assistance (LOAN, BUDGET, etc.).
+     GAME     - Interactive entertainment.
+     INFO     - General or specific information, provided via the program.
+     MAILLIST - The mailing list files you have set up for the users' group.
+     POSTER   - Any program that ends up as a picture.
+     PRINTOUT - Programs that print tables, charts, etc.
+     STATS    - Statistical analyses.
+     TEXT     - Files designed just for listing.
+     TUTORIAL - Programs designed to help you learn something.
+     UTILITY  - Programs to help you do something with your computer.
+
+As you run ADD, the computer asks you for the category for each file it pro-
+cesses.  If you just hit RETURN, it will use whatever category it had on file
+(if any), which is displayed 10 spaces to the left of the question mark.  The
+ADD program also generates a printout (to the printer) of the file names and
+categories.  For a sample, you can ADD the contents of this disk to the en-
+closed CARAVAN.LIBRARY (though you may want to copy the present LIBRARY else-
+where first).
+
+     The FIND program on the other side is also specially designed to deal
+with the CARAVAN.LIBRARY, including the capability of searching for the
+"category" as part of the key.  The FINDDISK program on this side of the disk
+is more general, and probably a better bet for general distribution.  I've
+fixed the wildcard feature (I think).
+
+     Finally, the SORT program, on this side, has been "finished".
+
+     Most of my other comments are in the $VOL$01.FEEDBACK file on this side.
+More later, after I get more time to look through the other volumes, work on
+the ADDRESS, TELEPHON, and DATABASE systems, and/or get more goodies from you.
+
+     Oh, one more thing.  I've set up a little consulting company, and would
+like to get that info onto your mailing list, in place of OAKLAND UNIFIED
+SCHOOL DISTRICT RESEARCH DEPARTMENT etc.  I am:
+
+                         The MENTAT Company
+                         236 Frisbie Street
+                         Oakland, CA. 94611
+
+                         Hasta whenever,
+
+                              Joe T.
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEXT LETTER [Y/N]?:
+MEMBER6.FEEDBACK:INTRO1                                   01/29/85 16:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER6.FEEDBACK for 1 August 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Nothing received IN MACHINE READABLE FORM since the last volume was released.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of MEMBER.FEEDBACK
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEXT LETTER [Y/N]?:
+MEMBER7.FEEDBACK:INTRO1                                   01/29/85 16:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER7.FEEDBACK for 1 SEPTEMBER 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+JOE TRIMBLE                                              26 August 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+Hi, Fred!
+
+     At last, here comes my next contribution.  The FILELIST doesn't look like
+much, but wait until you try some of these goodies!  Here's what I've done:
+
+     1) ADDRESS/ADDRINFO -- This is an updated version of the ADDRESS program
+     I sent to you earlier that you said needed some improvement and explana-
+     tion.  ADDRINFO is the explanation file, called by ADDRESS.
+
+     2) BIOPRNT2 is a real PRINTING version of "BIOPRINT" (which just sends
+     the biorhythm info to the screen).  I've also cleaned up some minor
+     errors and mis-spellings.
+
+     3) DIB is what should be page 148.1 of the MACRO manual: the control
+     block description of the Disk Identification Block which is located in
+     Sector 1 of every disk.  I had to puzzle this stuff out when I got a
+     messed up disk, but thought others might want the information, too.
+
+     4) PLAYBALL is one reason I've been so slow getting stuff to you.  After
+     getting slightly hooked on "BASEBALL", (and since the players were on
+     strike) I decided to convert it for CRT display.  After a couple of hours
+     of working at conversion, I gave up and started over from scratch.  It
+     is basically finished, though every once in awhile I come across an ano-
+     maly which shouldn't be there.  Rather than hold it any longer, though,
+     here it is.  PLEASE ENJOY IT---I've got about 20-25 hours programming
+     time in it . . .
+
+     5) REMINDER -- This is my approach to doing what "TICKLER" seems to be
+     designed to do.  Again, it turned out to be simpler for me to start over
+     rather than patch up "TICKLER".  (If it had not been anonymous I would
+     have worked harder at conversion . . .)
+
+     Now, I think/hope that ADDRESS takes care of one of the WISH LIST items,
+and "WSEARCH" looks like a working version of the "WORD$PZL" program you asked
+me to take a look at, so some progress is being made.  My database system
+hasn't gotten much further, however, so don't hold your breath waiting for it.
+There are several reasons for that, but one of them warrants a new paragraph:
+
+     Any users out there who have version 5.4F multi-user, BEWARE!  If you
+haven't already discovered it, if one user is RUNning a program which writes
+to a file, and another user is trying to SAVE a BASICOBJ program, . . .
+BOOM!  Both files' directories get grossly messed up (though the data up to
+that point is intact), so both files are essentially unusable--in fact, sub-
+sequent attempts to re-use either (after re-booting the system) have a marked
+tendency to overwrite Sectors 0 and 1 with zeroes: a mildly annoying fatal
+condition.
+
+     It took two and a half weeks of frantic work, haggling with Phase One,
+etc., to get the problem solved.  The solution:  get version 5.5 (or, better
+yet, 5.5A), which, not incidentally, does everything better than 5.4F.  Now
+I don't know for sure that this problem applies to other than DIGITAL MICRO-
+SYSTEMS owners, but if anyone runs into it, let Phase One know that you are
+due for a free 5.5 or better.
+
+     That problem, incidentally, was the impetus for the DIB info included
+on this disk.
+
+******************************************************************************
+
+VOLUME 6 IS GREAT!  Definitely the best yet, and FULL!  Zowie, is that worth
+the bucks!  Good job!  Congrats!  Thanks!  Etc.!
+
+     The changes you made to ADD and FIND are definite improvements (except
+that in creating or re-creating the LIBRARY, the option KEYLENGTH is illegally
+abbreviated KEY, rather than KEYL); I'm in the process of reworking our own
+LIBRARY to take advantage of the new programs.
+
+     I would suggest changing the name of the master VOL6.EXEC to $VOL6.EXEC
+in order to get it at the top of the FILELIST, but other than that, no com-
+plaints about the format.  (I'm still not in love with that VOLxx.EXEC ap-
+proach, but what the heck, it works . . .)
+
+     Because of the 5.4F problem, and priorities on getting ADDRESS done, and
+vacation, and PLAYBALL, and . . . and . . . and . . . I haven't done much ex-
+ploration yet of the contents of volumes 4-6.  I will, though, and faithfully
+promise to give you some feedback.
+
+     Your "editorial" is great.  Let me recommend for people who are interes-
+ted in serious discussion of the current and future state of the microcomputer
+revolution an article in a journal called "Sociological Methods & Research".
+The article is in Volume 9 Number 4 of the journal (which issue is entirely
+devoted to microcomputers in social research), and is called "The Microcom-
+puter Revolution?" by Craig Calhoun.  The man has done a pile of research on
+where we are now, and his discussion of future possibilities is mind-opening.
+Well written, insightful, packed full of information.  If you can't find it
+in your library, I'll send you a copy, Fred, which perhaps you could further
+disseminate.  It's forty pages long, though, so not cheap to copy.
+
+     Glad to see some serious programming is going on out there; I'm looking
+forward to the business package and other things coming.  OASIS is so fantas-
+tic, I hope we can really blow everyone away with our stuff.  Let's please
+keep trying to produce QUALITY stuff.  I'll keep hacking away, especially at
+the data base and the other things you sent.
+
+     The idea of a get-together at the WCCF sounds great, too.  Keep us up
+on developments there.
+
+     Quitting time, or I won't get this in the mail to you today, either.
+Keep up the good work.
+
+
+                              Joe Trimble
+                              The MENTAT Company
+                              236 Frisbie Street
+                              Oakland, CA 94611
+
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+DAVID SLATER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+FEED BACK - I DO NOT KNOW WHY BUT I COULD NOT RUN ANY BASICCOM
+    FB  BASIC programs were compiled with 5.4 and will not
+        run with 5.5.  They must be recompiled.  See the
+        new COMPILE EXEC on Vol 6.
+          - PROGRAMS  I AGREE WITH THE OTHER USER'S THAT ONLY
+          - BASICOBJ PROGRAMS BE INCLUDED.
+    FB  Starting with Vol 6 that's how we do it.
+          - BETTER YET WOULD BE BASIC THIS FILE CAN BE LISTED
+          - IF NEED BE.
+    FB  BASIC version takes a little more space.  You can
+        now use the COMPILE EXEC to get a BASIC version, too.
+
+          - THE EXEC FILE TO INTRODUCE SHOULD BE EDIT FILES
+          - I HAD A HARD TIME READ THE INTRODUCTION BECAUSE
+          - MY CRT IS ONLY 24X16 AND THIS WOULD MAKE EASY TO
+          - USES THE SCRIPT TO PRINT IT
+    FB  Thought about this one a long time.  I think we will
+        continue to use the EXEC approach, but take a look
+        at the changes that have been made in Vol 5 & 6.
+
+FORMAT   EXEC
+IS USE TO FORMAT A DISK, VERIFY IT THEN LOOP
+FOR ANOTHER DISK. I USE IT TO TEST DISK
+(DISK NAME WILL BE TEST)
+    FB  We have a better one in the library already.
+GAMES    EXEC
+THIS IS YOUR EXEC BUT THE GAMES ARE LISTED IN
+GROUPS OF 15  FOR USE 64X16 CRT  (I COULD NOT
+GET THIS PROGRAM TO WORK, IT WOULD GIVE ME
+"GOTO.COMMAND NOT FOUND"
+    FB  I see the problem and will try to fix it.
+MAILLIST BASIC
+THIS IS A COMPLETE MAILLIST PROGRAM, IT WILL
+ADD , EARSE , PRINT (SHEET OF LABELS
+3 LABELS WIDE) , REVIEW
+    FB  This is being included in Vol 7 with minor mods as MAIL$DS.
+MAILLIST DOC      MORE INFO ON ABOVE MAILLIST
+OASIS    MAILLIST THE DATA FILE FOR THE MAILLIST
+PRINT    EXEC     THIS PROGRAM IS USE TO ATTACH  PRINTER
+DRIVERS (ONE IF LINE LENGHT IS UNDER 85
+ANOTHER IF OVER)
+    FB  This is being included in Vol 7 as PRINTAT EXEC.
+WUMPUS   BASICOBJ
+THE SAME OLD WUMPUS EXECPT THE WUMPUS IS ALL
+THE TIME MOVE AND LEAVES TRACKS IN THE CAVE
+IT BEEN IN , PLUS  SOME GOOD OLD
+TEXAS EDITORIALS
+   FB  This is being included in Vol 7 as WUMPUS2.
+
+DAVID C SLATTER
+5914 MARINER
+SAN ANTONIO,TX 78242
+512-623-1977
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of MEMBER.FEEDBACK
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEXT LETTER [Y/N]?:
+MEMBER10.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER10.FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+
+
+        Fred Bellomy
+        Oasis Users' Group
+        P. O. Box 2400
+        Santa Barbara, CA 93120
+
+                                                     December 30, 1981
+
+        Dear Fred,
+
+        I have already  sent  you  my  order  for the  rest  of the OUG
+        library.  Although  I am  rather busy these days I  thought I'd
+        take advantage of a brief lull to let you know that I am hoping
+        to make occasional contributions to the group.  My first effort
+        is on the enclosed disk.  I hope you haven't grown too tired of
+        games  because that's  what it  is.  The program is a  computer
+        implementation of  the game 'Blackbox' by Parker Brothers.  I'm
+        not sure  that it  is entirely legal to program  a game of this
+        sort  but  I did  it for  my own amusement.  It may  be wise to
+        change the  name to  protect the innocent (namely me).   Let me
+        know if you  think it would infringe on  their rights.  I dimly
+        recall seeing  a computer game by this name but it may not even
+        be the  same game.  The program code is 100% original and takes
+        good advantage of the features of Oasis BASIC.
+
+        Enough bragging.  Now  down to the serious questions.  First, I
+        am  thinking  about  preparing a  series of sorting subroutines
+        based on  a recent two part article in the August and September
+        1981  issues of  Information Age  by Gene Cotton.  I found  his
+        articles quite helpful  since I was teaching a  course in BASIC
+        at the time  and I wanted to expand  on the subject of sorting.
+        I have already  adapted several of his programs  to Oasis BASIC
+        (there are nine  in his article).  The ones  I have worked with
+        so far are  all the faster ones (of  course) and I have added a
+        few  bells  and whistles  of my  own  such as modifications for
+        sorting alpha  strings  instead  of  numbers  and for  using  a
+        pointer  instead  of actually  rearranging the data.  I believe
+        that I can prepare most of his sorts in the form of subroutines
+        that  have   appropriate  lines   in  them  for  each  of   the
+        possibilities I just  mentioned.  The easiest way is  to insert
+        these lines as  REM's so that the user  can remove the REM from
+        the appropriate  lines for the desired type of sort.  I already
+        have a  program written that can be used to demonstrate or test
+        each of  the subroutines.   My question is, do you  think these
+        subroutines would  be of  interest to the OUG.  I'd  appreciate
+        your suggestions.  I'm  no expert on sorting but  thanks to Mr.
+        Cotton's help I can sort things out pretty well now.
+
+        My second question  is more  of a plea for help.   According to
+        the  Script mannual  it's possible  to get a printer to  do all
+        sorts  of   tricks  using  the  features  provided  in  Script.
+        Unfortunately my  printer is  not seeing any of the  good stuff
+        that  Script  is supposed  to produce.   I  have a feeling that
+        something  akin to  a class  driver is needed but I  can't find
+        anything  in   the  Oasis   manuals  that  gives  me  a   clue.
+        Specifically  I  am  looking for  something that will interface
+        Script to a  Diablo 1610/1620 compatible printer.  If  you know
+        of anything that will help please let me know.
+
+
+
+
+
+        Finally, I  have  been contemplating  buying a Pascal compiler.
+        So  far  I haven't  got a  clue as to what the  Oasis Pascal is
+        like.  Do you know of anyone who has tried it?  I have read all
+        the reviews of Pascal/Z, Pascal/M, Pascal/MT+, Pascal/UCSD etc.
+        but   I  just   can't  get  enthusiastic  about  running  under
+        Catastrophes  Punishing  /  Mistakes after  experiencing Oasis.
+        However,  the magazines  never review Oasis compatible programs
+        so I'm not sure what Phase One has in its bag of Pascal tricks.
+
+        Fortunately, I  won't have  time for many rambling letters like
+        this.  I hope you will find the time to field my questions this
+        time.
+
+                                                     Sincerely yours,
+
+                                                     Ronald L. Brubaker
+                                                     (312) 534-5000
+***********************************************************************
+
+
+To:  TRS-80 Model II OASIS users
+
+From:  Vince Oster (605) 342-8455
+
+Re:  OASIS and the Model II
+
+Model II owners may find the following modification necessary to use OASIS
+with their Model II.  On an outboard disk power supply, the two "commons" MUST
+be tied together (not to ground, but to each other).  This should be done at
+the power supply, not at the drive.  This is not implemented on
+most power supplies, including those supplied by Tandy.
+
+TRSDOS does not require this, but it is a good idea anyway.
+
+***********************************************************************
+NEXT LETTER [Y/N]?:
+MEMBER11.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER11.FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+MEMBER FEEDBACK                                    20 March 1982
+
+
+There were no feedback files submitted since volume 10.  Lots of
+people called me, but no one sent in anything for this section.
+
+
+Fred L. Bellomy
+(805) 965-0265
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:
+MEMBER12.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER12.FEEDBACK                                USER FEEDBACK for 1 May 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                                          09 April 1982
+
+
+Greetings!
+
+     Here at last is the debugged CLOCK, which handles 12-hour or 24-hour
+format, and the accompanying EXEC.  Also enclosed is the complete FILLFORM
+set, with an example built into the FILLFORM EXEC, as per your request.  The
+third program here is yet another version of REMINDER, prompted by problems I
+was having with other people wanting to leave messages for me, but inadver-
+tantly in the process getting all my messages for the day (which then get
+cleared from the file).  I don't know that it's worth putting this version out
+as a "What?  Again??" file, but decided to send it to you to judge.
+
+     Volumes 10 and 11 are full, rich, and satisfying.  I haven't yet explored
+everything included (far from it, actually), but the write-ups sound great,
+and those I've tried look very good.  Congratulations on doing a bang-up job
+again (as usual)!
+
+     I'm looking forward mightily to Ron Brubaker's sort routine(s).  A fast
+sorter is probably the single tool I want most, right now.  And if his work on
+BLACKBOX is typical, he does excellent programming.
+
+     YES---I am interested in discussing a joint venture into marketing OASIS
+software.  I have several ideas, and would like to hear more, so let's talk!
+More and more as I go along, OASIS looks like a great place to be.  If you can
+call me sometime soon, great.  If I haven't heard from you be about April 21
+or 22 I'll call you.  OK?  Alright.
+
+
+     Quitting time . . .
+
+                              Peace,
+
+                              Joe Trimble
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Vince Oster called to tell me about a "bug" in the BASIC interpreter/Compiler.
+Whenever you CHAIN or LINK to another program module, only the last file
+OPENed is CLOSEd.  If you happen to have multiple files open, they will be
+passed OPEN to the next module and you get an error if you try to open the
+file again.  Thanks Vince
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+END OF FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:
+MEMBER13.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER13.FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear Fred, et. al.:
+
+It was obviously in Phase One's best interest to develop the "get" capability,
+which allows one to take in a CP/M text file for processing under Oasis.  It
+is equally obvious that it is not in the firm's best interest to develop a
+"put" program that allows output of CP/M compatible files.  I need a program
+like that, and I know several other users who do too.  A friend of mine who is
+an expert programmer in both Oasis and CP/M believes he can develop a CP/M
+utility to do the job, but says it could cost up to $1,000 of his time.  I
+can't afford it alone.  But if five other members of the user's group were
+interested, we could each get it for a mere $200.  Or, someone may have
+already done it, under either CP/M or OASIS. HELP!!!
+
+If you want an Oasis to CP/M file transfer utility, and are willing to pay for
+it, or have one that works and want to sell it, please contact me (I get 40
+calls a day, so please write, don't call):
+
+Paul Schindler
+23 Greenwood Court
+Orinda, California 94563
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:DBG(575573358)> ADCS6 UART: ADCS6: [0x0000fe8b] WR BAUD RATE=0x0f
+MEMBER14.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER14.FEEDBACK
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                              Robert Chapman
+                                              465 Lakeshore Road West
+                                              Oakville, Ontario
+                                              Canada  L6K1G4
+
+                                              05/09/82
+  Dear Fred,
+
+     Well, here  is  my  first  contribution  to  the  UG.I  have included  an
+  assembly-language  spelling  checker program  as well as several posters.The
+  posters came from  a fun library which circulates  in this part of the world
+  on  IBM S/34  systems.They were  in the form of data  files output using RPG
+  programs.All I  did was to transfer them to OASIS (using the GETIBM utility)
+  and  then   edit  them  to  conform  to  the  OASIS  ASCII  sequential  file
+  parameters.They are  meant to be printed on 15" paper as there are up to 132
+  characters  on a  line.They can,  however be printed on 8  1/2" paper if the
+  printer can output  16.7 CPI instead of the  normal 10 CPI.When this is done
+  the   printer  should   be  set   for  half  line-feeds  only  to   maintain
+  close-to-normal proportions.
+
+     The spelling checker  was an idea you proposed in one of your newsletters
+  and  I thought  that it  would be a good exercise  to learn to write a stand
+  alone assembly-language  program using OASIS.The result works reasonably well
+  and supports  word-checking from the keyboard as well as from text files and
+  has options to  print or make a disk  file of words it does not recognize.It
+  also  has  several  options  for  changing  the  case  of  the  words to  be
+  checked.Speed, however, is  still not its strong suit.The  delay seems to be
+  in the  length of  time it takes to look  up a word.  I am considering other
+  ways of  speeding it  up such as developing a  hash scheme,using grammatical
+  rules,or restructuring the dictionary.I'm not really sure how other spelling
+  checkers  get their  speed but  I will be investigating.  The  program has a
+  HELP  function  and  is further  documented in  the  file PRUFREED NOTES.The
+  source code  is  also provided  for anyone  who  may wish to make  their own
+  modifications  or for  those  who  just  want  to know  how  it works.  Also
+  included is  the file  SUBROUT.MACLIB which contains the two  macros used in
+  the  program.The  FCB macro  is an  example taken straight out of  the MACRO
+  user's manual and serves the purpose just nicely.  The program could be made
+  more  compact  but I  left  it  expanded  so  that it  could  be more easily
+  understood.(by people like myself!)
+
+     The program  that  I wanted  to  write  (but  was  afraid to  try)  was a
+  Disk/Memory  Modification Utility  similar to  Superzap  (and others) that I
+  have used on  smaller computers (i.e.RS Model 1).Another  program that would
+  be useful is  a TRSDOS to OASIS conversion  utility.Both these ideas deserve
+  further investigation.Do you know if anyone is currently working on these or
+  similar programs?   In any  case I shall be working  on them and if anything
+  useable develops I will send it along.
+
+     I still  haven't gone  through all  11 volumes of the OUG  Library but it
+  does look  like  there  are  some  good programs  there  (along with some of
+  questionable value).The MODEM program looks especially good.
+
+     Please tell your  friends at Phase One that the more I use OASIS the more
+  it becomes  evident what a great system it is.HOWEVER, it needs a few things
+  like:
+
+  Short Precision Variables in Basic
+       -13 digits are seldom needed and use up too much memory
+  Dynamic File Allocation
+       -for Direct and Indexed files
+  Unformatted Files accessible from Basic
+  Faster calculations-Short Precision would help
+
+  That shouldn't be too much to ask,do you think?
+
+     I also  hope,  in the  midst of  the introduction of several versions  of
+  OASIS 16, that 8-bit OASIS doesn't get orphaned.
+
+     I must finish this  letter now so that I  can get it in the mail before I
+  think of more revisions to the programs on this disk.Happy computing!
+
+                                              Yours sincerely,
+                                              Bob Chapman
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+A few days later I got another package from Bob with the following letter.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                       Robert Chapman
+                                       465 Lakeshore Road West
+                                       Oakville, Ontario, Canada
+                                       L6K 1G4
+
+                                       MAY 20, 1982
+
+Dear Fred,
+
+  I guess this is  what happens when you are  a compulsive programmer and can't
+leave your programs  well enough alone.  Enclosed please  find another spelling
+checker program as well as a minor revision of the program I sent you two weeks
+ago.  The  revised program  is PRUFREED, in which I  discovered a few bugs and,
+hopefully, corrected  them.   There  was  a  problem with  the  printed list of
+notfound  words   where  the  printout  would  run  continuously  without  page
+breaks.This has been corrected.  As well, the program would accept as part of a
+word, the  ASCII  characters found  between "Z"  and  "a".  This also has  been
+corrected.  So far as I know there are no other bugs.(haha)
+
+  The new program, PRUFEDIT,  is a direct descendant of  the first and uses the
+same  indexed  files (SPELLING.SIZEn)  to check  spelling but it has the  added
+ability  to  write a  corrected file  to disk and/or to the  printer.  It has a
+somewhat similar set  of options as PRUFREED and  both programs will now accept
+short  forms in  the option  list.  PRUFEDIT is further documented  in the file
+PRUFEDIT.NOTES.  Source code is also provided on an end-user basis only.
+
+
+                                       Yours truly,
+
+
+                                       Bob Chapman.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MAY 31, 1982
+Dear Fred:
+          In addition to the the revised programs per our earlier telephone
+I am also including another version of BLACJACK. It has a reshuffle feature.
+The player has to be watchful and demand a reshuffle because the dealer
+sometimes deals from the bottom of the deck!
+
+          I have also included a patch to modify the OASIS SCRIPT command.
+Its intended use is to allow non letter-quality printers to do boldfacing
+and underlining (not a true underline).
+          The revised QWHIZ has a few more explanations than the earlier
+one I sent.These deal with how to add more, or a new set of questions.
+
+          I am working on the RECSRC program and an application for the
+rastering program.I'll forward them as they develop.
+          Some comments about program format: On the question of supplying
+only compiled or only object code, I think that the BASICOBJ format is a
+better alternative. My principal reason for this is to allow the user to
+modify and/or debug the supplied programs.
+
+        I am very pleased with the volumes received thus far. The utilities
+in the Group library will surely prove to be its stongest asset!
+
+Sincerely,
+
+M.Hanief Edwards
+5936 Headley Road
+Gahanna OH 43230
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:
+MEMBER15.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER15.FEEDBACK
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+22 JULY 1982
+
+
+DEAR FRED:
+
+I RECEIVED  VOLUME I  OF THE  OASIS USERS GROUP RECENTLY, AND  I'M
+GLAD TO BE A MEMBER OF THIS ORGANIZATION.  I AM FAMILIAR WITH MOST
+OF THE  GAMES,  SINCE  MOST  APPEAR  TO BE  BASED  ON THE CREATIVE
+COMPUTING  "BASIC   COMPUTER  GAMES"  BOOK,  PROGRAMS  I  HAVE  IN
+MICROSOFT BASIC.   YAHTZEE  IS  EXCELLENT,  BUT  I WAS  UNABLE  TO
+RECOMPILE AWARI  FOR 5.5 (IT MENTIONS A "FOR WITHOUT NEXT" ERROR).
+HOW ABOUT  ADDING "RANDOMIZE" TO YAHTZEE FOR A DIFFERENT GAME EACH
+TIME?
+
+
+THE REASON  FOR THIS  DISK LETTER  IS TO ENCLOSE 1 OF  MY PROGRAMS
+WHICH MAY  BE OF  SOME USE TO OTHER MEMBERS.   MOST OF MY PROGRAMS
+ARE FINANCIAL OR ACTUARIAL IN NATURE, TOO ESOTERIC FOR THE TYPICAL
+USER, BUT COMPINT.BASIC COULD BE HELPFUL TO SOME.
+
+COMPINT.BASIC IS  A PROGRAM  WHICH WILL GENERATE COMPOUND INTEREST
+FUNCTIONS  INCLUDING  PRESENT  AND  FUTURE  VALUES  OF  ANNUITIES,
+AMORTIZATION  SINKING FUND  FACTORS, AND ACCUMULATED OR DISCOUNTED
+VALUES.  ENTERING 1  AS THE AMOUNT WILL GENERATE  VALUES AS CAN BE
+FOUND IN  PRINTED  COMPOUND  INTEREST  TABLES  OR BY  ENTERING  AN
+AMOUNT, THE  INTERMEDIATE STEP  OF MULTIPLYING CAN BE SAVED.   ANY
+NUMBER OF COMPOUNDING  PERIODS PER YEAR ARE ALLOWED  AND ANY RANGE
+OF YEARS  CAN BE DISPLAYED.  NOTE THAT THE OPTIONS SPECIFY WHETHER
+THE PAYMENT FOR  AN ANNUITY (REGULAR PAYMENT) IS  AT THE BEGINNING
+OR END OF EACH PERIOD.
+
+
+I HOPE YOU  WILL FIND THIS PROGRAM USEFUL ENOUGH TO ADD TO THE OUG
+LIBRARY.   I WILL  GRATEFULLY ACCEPT ANY CONSTRUCTIVE CRITICISM ON
+SAME.  IT IS "HOPEFULLY" SELF-DOCUMENTING ENOUGH WHERE THE AVERAGE
+USER WON'T HAVE ANY TROUBLE WITH IT.
+
+
+I WOULD ALSO  LIKE TO  GET A VERSION OF AWARI  WHICH WORKS IN VER.
+5.5.
+
+IT WOULD  BE  NICE  IF SOMEONE  WOULD WRITE/CONTRIBUTE OTHELLO.  I
+HAVE SEEN A GREAT PROGRAM FOR IT WITH DIRECT CURSOR ADDRESSING AND
+ITS A GAME THAT CAN BE PLAYED BETTER ON A COMPUTER THAN A BOARD.
+
+ONE OTHER  ITEM  OF  INTEREST FOR  OASIS USERS  CONCERNS  THE WORD
+PROCESSING PROGRAM WORDSTAR, WHICH I BELIEVE TO BE ONE OF THE BEST
+AVAILABLE.  MY  COMPUTER VENDER RECENTLY HAD A DISCUSSION WITH THE
+PRESIDENT  OF  MICROPRO  AND IT  APPEARS THAT  THEY  HAVE WORDSTAR
+OPERATING UNDER OASIS  IN HOUSE, BUT THEY HAVE  NO PLANS TO MARKET
+IT  BECAUSE  THEY FEEL  THE MARKET  IS TOO SMALL TO WARRANT  THEIR
+SUPPORT OF THE PROGRAM.
+
+IF A SIGNIFICANT NUMBER  OF OASIS USERS WERE TO  REQUEST IT WITH A
+COMMITMENT TO  PURCHASE, IT MIGHT SWAY THEM ENOUGH TO CHANGE THEIR
+DECISION.  I NOW RUN SPELLBINDER ON OASIS AND WOULD GLADLY TOSS IT
+OUT IF  WORDSTAR WAS  MADE AVAILABLE.  POSSIBLY A SURVEY  OF OASIS
+USERS WOULD INDICATE ENOUGH OF A MARKET FOR MICROPRO TO REEVALUATE
+THEIR POSITION.  I SOLICIT YOUR COMMENTS IN THIS REGARD.
+
+
+ BEST REGARDS,
+
+
+
+MICHAEL D. AXELROD
+2535 N. 40TH AVENUE
+HOLLYWOOD, FL 33021
+
+(305) 983-5600
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+15 July 1982
+
+Dear Fred,
+
+I know  its  been ages  since I  last sent you something and  if I
+don't  start contributing  more  I  won't  be  able to  afford  to
+continue subscribing to OUG.  Thus, in spite of a crazy schedule I
+am firing off this disk in the hopes of keeping up a bit.
+
+First a question.  As  you have probably observed I  tend to write
+most  text  files as  SCRIPT files.   I have formatted all of  the
+script  files on  this disk  to be displayed on a  terminal.  What
+format would  you prefer for the submission of text files?  I find
+SCRIPT  type files  to  be  the  most  flexible since  it  is only
+necessary to change the .SIZ command to reformat them for terminal
+display  or  for the  preparation of  hardcopy  on the printer.  I
+trust that you  will make whatever adjustments are  necessary this
+time and I will try to comply next time with your wishes.
+
+I believe that your desire for some thoughts on writing class code
+routines has  yet to be satisfied.  I'm afraid that what I have to
+contribute may not be of much help if all you are looking for is a
+class  code for  your Tektronix  Graphics  terminal.  I don't have
+such fancy toys to play with.
+
+However, I   am   including  two   class  codes  I  have  written.
+Both are revisions of the ones Phase One released that didn't work
+with my equipment.  CLASS7A is for my Televidio 920C  and  CLASS3A
+is for my ADM-5.
+
+I should also mention that the University's ADM-5 is equipped with
+a Retrographics  board that supposedly is compatible with (believe
+it or not)  the Tektronix Graphics codes.  Unfortunately  I am not
+an assembly language programmer so I'm not sure if I can lick this
+one.  My  listing  of  the  Oasis  CLASS MACLIB  file  has several
+terminal  types  that  appear  to  be  nearly  as  complex as  the
+Tektronix terminal  so it  may be doable.  Maybe you  could enlist
+the aid of one of the talented Z80 assembler types in the group to
+look into this one for us.
+
+I'm afraid  I must  add  my  dissenting  vote  to those  who  have
+indicated  their lack  of joy  over the decision to include  Oasis
+BASIC programs  on the OUG disks as BASIC type files.  However, to
+show  you  what a  good sport  I am I have included  several weird
+programs I  wrote  to  deal  with  this problem.
+
+Finally, one  bit  of unfinished  business.  I  know  I said I was
+working on  some sorting routines but you guys are talking about a
+whole different kettle of bits than I was.  I'll confess, I bought
+one of those $100 jobs (QISORT) to do the type of file sorting you
+keep  talking  about.  What  I have  been working on is much  less
+ambitious.   I  have  written,  in  Oasis  BASIC,  several sorting
+algorithms  such  as  the  infamous  "bubble sort",  the legendary
+"Shell sort", and a variation of the "quicksort" algorithm.  After
+some  fooling around  I have  gotten familiar enough with each  of
+these that I can modify them for sorting either numbers or strings
+using either a direct sort or a pointer sort.  I have even written
+some lessons on how these things work for a class I teach in BASIC
+programming.  If there  is interest in such mundane  stufr,    I'm
+glad  to  send in  a copy, but if you are going  to expect a slick
+version like QISORT you are talking to the wrong guy.
+
+Ok, I'll  risk  one  more misunderstanding.   I have recently been
+offering a  short series  of workshops on Oasis for  members of my
+faculty  and  staff.  I  have written  several  handouts that were
+intended  as  an introduction  to several  parts  of the operating
+system  including  the  Command String  Interpreter, EDIT, and the
+special features  peculiar to Oasis BASIC.  I have assumed that my
+audience has  worked with  a computer of some sort  previously and
+that they  already know BASIC.  If you are interested I can try to
+eliminate some of the references that are specific to the hardware
+we  have  at the  University  and  get  them  in condition  to  be
+submitted.
+
+Ron Brubaker (312) 534-6899
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+June 17, 1982
+
+
+Dear Fred:
+
+We want  to  compliment you  on the  fine job you have been  doing
+coordinating the users  group.  We know it has  been a lot of hard
+work as well  as a lot of fun.   The improvement in quality of the
+programs in  the library  and the newsletter lately has  been very
+noticeable.  Keep up the good work.
+
+As to your  comments in a recent volume about the need to get more
+publicty for OASIS we can only say: Bravo!  As commercial software
+people we  constantly are faced with the question "What is OASIS?"
+It seems  most people in the micro industy still feel that CP/M is
+the only  operating system available.  It is up to those of us who
+have an  interest in  promoting OASIS to do something  about this.
+We  have  taken your  suggestions about  sending  news releases to
+trade magazines we  subscribe to.  Perhaps you could  distribute a
+list  of names  and addresses  of all those publications you  know
+about.  We  are sure  there are other people like  us who are only
+aware  of the  publications they  receive.  I recently had a  long
+conversation with Terry Benson at Interface Age and suggested they
+ought to give more coverage to OASIS.  I also suggested an article
+comparing   the  advantages   of  the  various  operating  systems
+available  would  be  most  informative  for  readers.   If  other
+memebers of  the OUG would write them and other publications maybe
+we  would begin  to  see  more  mention  of OASIS  than  just "The
+manufacturer also  offers the  OASIS Operating System", as is  the
+usual comment accorded us in most trade magazine articles.
+
+By the way, we appreciate the change you recently made to send all
+programs in the BASIC form.  As we are using an Altos ACS-8000-15D
+running  multi-user,  our  maximum memory  available is about 45K.
+Some of the earlier programs in the library could not be loaded on
+our machine.   I would recommend that everyone contributing to the
+OUG remember  that not  all systems in use out  there have as much
+capacity as  their own systems.  It is very frustrating to try and
+load  a program  to make  modifications only to find that  we have
+"insufficient  memory".   Sending things  out in the BASIC version
+has helped solve this problem.  We also find that many people seem
+to add to  the length of their programs  with many unnecessary REM
+statements.  This may just be a difference in philosophy about the
+way to  write a program, but we find that removing most of the REM
+statements  means  we  can load  a program  that  otherwise is too
+large.
+
+Also, if  you ever  find out  how to get the OASIS  communications
+working on  a DSC-2 under 5.4 or 5.5, please let us know.  We have
+a user  with a  similar configuration to your own  system and have
+been trying  to get  help with that problem for  about six months.
+It is too bad that certain manufacturers offer the OASIS operating
+system and then cannot or will not support it.
+
+That's about  it  for  now.   Hope  you  find  these  programs  of
+interest, and keep up the good work.
+
+Best Wishes,
+
+Tom and Carolyn Cannon
+Applied Solutions, Inc.
+P.O. Box 1469
+Jacksonville, OR  97530
+(503) 772-5746
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:
+MEMBER17.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER17.FEEDBACK                                   November 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+June 16, 1982.
+
+Dear Fred,
+
+It may be  a modest effort but at least I'm trying.  On this disk
+you will  find a small contribution to the OUG library: a program
+that  will  turn your  computer into  an alarm clock.  It may  be
+superfluous  and  you  may not  consider it  even  good enough to
+include but it does work and I offer it as a token.
+
+I have made  some  effort  to  thoroughly  debug it  and  provide
+sufficient error traps  and remarks to ensure its  portability; I
+think you will find it correct in that respect.
+
+The EXEC  programs  are necessary  to do the appropriate ATTACHes
+(not possible in  BASIC) and the printer echo  toggle (I couldn't
+find a way  to do that in BASIC  either).  In any case, feel free
+to muck around with it as you please.
+
+I am also including a couple of previously issued programs that I
+thought needed some  improvement.  They're very good and  I don't
+mean to cast  any aspersions on their authors  but I believe they
+are   better   now.   The   first,  ADDRESS2,  while  offering  a
+substantial improvement over its previous incarnation as ADDRESS,
+still  suffered  from  a faulty  CASE -  CEND  construction which
+allowed  improper  exiting  from  the  loop.   Depending  on your
+system, a printout  of a data file while  run out of memory after
+about 350 iterations due to the non-clearing of the SELECT stack.
+
+After much frustration in  trying to print a file  of 2000 names,
+calls to Mr Trimble, Phase One, etc., there it was on page 100 of
+the BASIC manual.  I notice that although the latest contribution
+of Mr  Trimble carefully avoids this error no one has pointed out
+the problem  in the above-mentioned program.  At the same time, I
+must confess  that I  seem to have created a  bug in my effort to
+make the  program suitable for both Canadian and U.S.  addresses.
+In  the U.S.   the city,  state and ZIP code are  all on the same
+line.  However,  in Canada the Postal Code is required to be on a
+separate   line.    My  added   routine  performs  this  checking
+correctly, treating the two types of address accordingly, but the
+subsequent  variables   (phone  nos.,  refcodes)  are  improperly
+positioned when  the file is printed.  So far I haven't been able
+to figure it out.
+
+GRAPHNET works fine  but I  thought a utility of OASIS  which has
+obvious  application  here  was  being  ignored: the  translation
+capability  of the  COPYFILE command.   Since  telex and twx (and
+Graphic  Scanning  Corp.)  all  require uppercase  only it seemed
+appropriate  to   me  to  temporarily  convert  the  file  to  be
+transmitted  (it gets  erased even  before  the formatted file is
+sent).
+
+SPELLCHEK on the  other hand,  doesn't work fine (what do  I want
+for  the  price?).   It  can't  handle  text  generated by  Magic
+Wand(tm) as that  program creates records exceeding the  limit of
+OASIS BASIC.   Any text beyond the string limit doesn't get read.
+I  am also  amazed  at  the  number  of misspelled  words  in the
+dictionary  (to  say   nothing  of  some  of  the   more  bizarre
+inclusions).   While I'm  on the  subject, it looks like you  are
+starting to  use it yourself; there was a distinct improvement in
+spelling in your editorial on the latest volume.
+
+I don't mean to give offense; it's just that I feel that literacy
+is  losing ground  in today's  world and it sometimes seems  that
+computer enthusiasts  are at the head of this downward turn.  The
+spelling  and  grammar  I encounter  on the  BBS's  is frequently
+appalling.  The  medium doesn't offer any encouragement itself so
+it seems to me that it behooves us to make special effort to keep
+our  standards  up.   I for  one, at  any  rate, appreciate those
+efforts.
+
+But wait  a moment,  what's this?   No sooner have I sat  down to
+write  this, my  first machine-readable  letter  to you, than the
+mailman  hands  me Vol.13  and 14!   And what do I find?   Fellow
+Canadian  Bob  Chapman's  new  improved PRUFEDIT!   This one WILL
+handle Magic Wand text (by simply augmenting the input and output
+record  buffers to  whatever size  you need [how long can  you go
+without entering  a carriage return?])!  Bravo, Bob, this kind of
+thing  is helping  the  UG  move  into  a whole  new  standard of
+software (wish I could say the same for my own effort).
+
+By the way, some time ago someone suggested CARAVAN as a name for
+the  OUG.   Although you've  obviously had  a  pile of stationery
+printed with  the  latter  name  is  there any  possibility  of a
+change?  I thought the suggestion most imaginative.
+
+MCONVERT is a great  idea and although it doesn't  work perfectly
+we were all  clearly warned about its rough  condition.  I'd like
+to  offer  some  refinements to  it but  I'm  afraid I don't know
+Microsoft  Basic  well enough  (or OASIS  BASIC  either, for that
+matter) to  do so.   I can report, however, that  there are flaws
+which  did  surprise  me; I  can probably  figure  out what to do
+eventually but  I'll mention  one to you in the  expectation that
+you will fix  it in 30 seconds: the  multiple statement separator
+in MBASIC (:) doesn't get consistently changed to by the program.
+It doesn't seem  to handle multiple occurrences of  the character
+(which  is  odd since  that's how  it's  used).  Anyway, improved
+versions  of this  and others  like it will certainly be  greeted
+with great cheers.
+
+Another by-the-way: for your records, I am operating OASIS 5.5 on
+an ACS8000-7, (Altos)  with a TeleVideo 920C, the  29Mb hard disk
+and a NEC Spinwriter 5510.
+
+Problem department: According  to the System Manual (Appendix G),
+the  TeleVideo  CRT  doesn't have  an "EU"  function  whereas the
+TeleVideo manual  clearly says it does.  I am including a copy of
+CLASS41 ASSEMBLE which  is a driver to be  used by Magic Wand but
+neither with  Class Code 7 nor 41 "ATTACH"ment does this function
+work for me.  The function isn't ignored; rather it responds with
+a  "CLEAR",   wiping  everything.    This  is  why  I  added   an
+"ERASE.UNPROT"  subroutine  in  Trimble's ADDRESS2  program - his
+"PRINT  CRT$("EU")  wouldn't work.   It will  work  in local mode
+("Block" mode) so  I know the terminal has  the capability but so
+far I have  not been able to write  a driver that will enable the
+software to  make use of it.  Can you or one of the members help?
+There must be plenty of other TeleVideo owners in the OUG.    The
+source for CLASS41.ASSEMBLE is reproduced below:
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+        TITLE           'Class Code 41 (TELEVIDEO 920 FOR MAGIC WAND)'
+                        ;
+                        ; Entry Parameters:
+                        ;
+                        ; A - control character to translate
+                        ; B - console device number
+                        ; C - control character to translate
+                        ; D - cursor address column number
+                        ; H - cursor address line number
+                        ;
+        MACLIB  CLASS   ; Get macro definitions
+
+                        ; translate  1 to 28  (function key lead in)
+                        ; translate  11 to 26 (up arrow)
+                        ; translate  12 to 6  (right arrow)
+                        ; translate  30 to 1  (home)
+
+        INIT    01H,1CH,0BH,1AH,0CH,06H,1EH,01H
+        DCA     4       ; Use class 4 cursor controls
+        DEFINE  HOME,RS
+        DEFINE  CLEAR,ESC,'+',8CH
+        DEFINE  EOS,ESC,'Y',8CH
+        DEFINE  EOL,ESC,'T',8CH
+        DEFINE  LEFT,BS
+        DEFINE  RIGHT,FF
+        DEFINE  UP,VT
+        DEFINE  IL,ESC,'E'
+        DEFINE  IC,ESC,'Q'
+        DEFINE  DL,ESC,'R'
+        DEFINE  DC,ESC,'W'
+        DEFINE  EU,ESC,':',8CH
+        DEFINE  PON,ESC,'&'
+        DEFINE  POFF,ESC,27H
+        DEFINE  FON,ESC,')'
+        DEFINE  FOFF,ESC,'('
+        DEFINE  BON,ESC,'^'
+        DEFINE  BOFF,ESC,'q'
+        DEFINE  RVON,ESC,'j'
+        DEFINE  RVOFF,ESC,'k'
+        DEFINE  ULON,ESC,'l'
+        DEFINE  ULOFF,ESC,'m'
+
+        END
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+That's all the  feedback  I  can  think  of for  now.   Hoping to
+provide more  in the  future and looking forward to  hearing from
+you soon, I am
+
+
+                                    Yours sincerely,
+                                    David Skulski
+                                    2182 West 12th Avenue
+                                    Suite #209
+                                    Vancouver, B.C.
+                                    Canada.
+                                    V6K 2N4
+                                    (604) 731-4525
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+NEXT LETTER [Y/N]?:
+MEMBER18.FEEDBACK:INTRO1                                  01/29/85 16:36 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER18.FEEDBACK                                  This date 1982
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+                                             Oakville, Ontario
+                                             October 18,1982
+
+Dear Fred,
+
+It is with  great relief  that I am finally writing  this letter.
+It has been  5 months since I started  to work on improvements to
+the  PRUFEDIT  program  with  summer  holidays, weekends,  flying
+trips,  etc.   all  taking  their  toll  of  the time  available.
+However, I  think  that  I  have  come up  with  some significant
+enhancements that  increase the speed and utility of the program.
+I have changed the name to PROOF, it being shorter and simpler to
+type.  It also  relates more directly to the  output file type of
+^ROOFED.  This  has been a fascinating journey, to say the least.
+I  have tried  and rejected  about half a dozen different  filing
+algorithms  (with conversion  of all  of  the SPELLING files each
+time!)  until finally  settling on  a  double hashing scheme that
+seems  to  find  records considerably  faster than OASIS's method
+(the  OASIS algorithm  leads to  too much 'bunching up' of  words
+into tight groups).   Speed is also increased by  loading a short
+word list  into memory  and checking it first.  If  someone had a
+list  of the  most commonly  used (or misspelled) words it  could
+form the nucleus of the in-memory dictionary.  The in-memory list
+can be customized by the user to his own needs.
+
+The new  dictionary  files  have  been named  SPELLING.GROUPnn to
+distinguish them  from the SIZEnn files.  They are ordinary OASIS
+DIRECT files and can be listed with the LIST command.
+
+I have not  included the source code for this program for several
+reasons.  First is the amount of work that I have done, second is
+the fact that  it totals some 23 pages  of fairly dense code, and
+third, (due  to OASIS's flexibility) it should run on any machine
+using  OASIS  without the  need for  customization.   If the last
+proves incorrect then I will endeavor to make alterations.
+
+For those OASIS  users who  are assembly hackers I have  patch to
+DEBUG to  allow you to work in any area of memory, 'protected' or
+not.  You  should be familiar with PATCH to use this and DON'T do
+it to your original system disk.  The patch works with DEBUG 5.5A
+03JUN81 which is  the latest version that I  am aware of.  It may
+or may not work with other versions.
+
+Here it is:
+
+>RENAME DEBUG.OVERLAY1:S (NOWRITE
+>PATCH DEBUG.OVERLAY1:S
+V 2423 38 11
+R 2423 00 00
+V 242F 38 05
+R 242F 00 00
+E
+>RENAME DEBUG.OVERLAY1:S (WRITE
+
+When the above is executed DEBUG will operate on any area of memo
+
+Happy computing!
+
+Bob Chapman
+465 Lakeshore Road West
+Oakville, Ontario
+Canada    L6K 1G4
+
+416-845-2203
+    827-4173
+
+P.S. After  our  telephone  conversation  of this  morning I have
+included an EXEC  and a conversion program to  convert the SIZEnn
+files to  GROUPnn files.  If there are any problems please let me
+know.  BC
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                                             Oakville,Ontario
+                                             October 24,1982
+
+Dear Fred,
+
+I guess I just  get too excited when I  finish a program and send
+it off  in  a great  hurry only  to  find some bugs in  it later.
+PROOF had  a problem  when it was printing text  if the length of
+the record exceeded the printer's line length.  It also wanted to
+look up  the possessive form of a noun (eg.  printer's), thinking
+it had a contraction.  Both these problems have been fixed and as
+well  I  have added  a  routine  to  drop  trailing s's  (on  the
+assumption that the word is plural) and rechecking the dictionary
+before reporting  an error.  This routine has logic to compensate
+for certain irregular  plural forms (eg.  baby and  babies- babys
+should be reported  as an error) but will  introduce a few errors
+with words like  datum (datums would pass) where  the plural form
+is  data.  However,  the  benefit  in  not  having to  store  the
+singular  and  plural  form of  every noun  in  the dictionary is
+probably worth the errors created.
+
+I hope  this  diskette  arrives in  time for  you  to replace the
+previous copy of PROOF.
+
+May all your bugs be little ones,
+
+Bob Chapman
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WISH.LIST18:INTRO1                                        01/29/85 16:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #17 - I wish somebody would...................................
+^=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification)
+
+
+3. We need  to  develop  a cheap  way for  members  to call the new  OUG
+Bulletin Board computer.  Does anyone know a way to use the networks (ie
+TELENET,  TYMNET,  etc.) or  other phone  service  for cheap "off hours"
+communications?
+
+6. We need  a conversion  routine for converting ASSEMBLY language  code
+from other Z80 systems to OASIS.
+
+7. We need a BASIC disassembler.
+
+8. I need  a comprehensive mailing list program for keeping track of all
+our members  - one  that we can put in  the OUG library.  Thanks for all
+the  contributions on  this on.   Still don't have what I  want yet.  It
+needs to operate with SCRIPT as well.
+
+9. I  need a  data base  system for maintaining the commercial  software
+directory - again one that can be released into the OUG library.
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+11. We need  lots more  applications to run against the  dictionary data
+base.
+
+
+13. WE BADLY NEED  A MODIFICATION TO SYSTEM.NUCLEUS THAT  WILL IMPLEMENT
+THE BREAK  FUNCTION.  PHASE ONE hasn't been responsive to the pleas from
+(at least) several members.  This may be hardware dependent.
+
+14. We  need someone  to run  our dictionary through one or  more of the
+other spelling checkers.  There are MANY misspelled words in the current
+version of our word list, as well as many more non-words.
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+
+18. We need a GETFILE capability for use with TRS-80 disk files.
+
+19. We very  much need a comparison of the features of the various major
+operating systems (including OASIS, naturally).
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+air and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+22. A  screen  oriented  editer (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again each time.
+
+24. A synchronous communication program.
+
+25. People to search through other users groups libraries for worthwhile
+things to  convert for operation under OASIS which we do not yet have in
+the OUG library.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+27. A grammatical error checker.
+
+28. A fast assembly language SORT.
+
+29. A list of the 500 most frequently used words in English writing
+    for use with Chapman's new spelling checker.
+
+30. A utility for automatically figuring out the optimum disk ATTACH
+    values for HDL, STP, and STS for all of the different systems
+    now operating under OASIS.
+
+31.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 November 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+^OFTWARE.RULES:INTRO1                                     01/29/85 16:36 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+    GUIDE FOR SUBMITTING SOFTWARE CONTRIBUTIONS TO THE OUG LIBRARY
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+The following "rules" are presented in an attempt to get some reasonable
+degree of  uniformity in the quality of things submitted to the library.
+They must be  considered preliminary forever.  We will  change the rules
+any time  the  situation seems  to warrant  it.   But, for now keep  the
+following things in  mind as you prepare stuff  for the OUG Library.  FB
+9/1/81
+
+
+1. Assume  console units  (terminals) have direct cursor addressing, and
+24 lines of 72 columns.
+
+2. If the software is hardware dependent, make it very, very clear.
+
+3. If you want  to reserve the commercial rights  to your software, make
+it clear  by including a comment in the code such as "Permission to use,
+but  not to  sell.",  "Commercial  rights  reserved."  or best  of  all:
+"Copyright 1982 XYZ Software Company."
+
+4. Generally  speaking,  we  will only  include programs  for  which the
+source code is  included.  There will be exceptions  made when there are
+overriding commercial considerations involved.
+
+5. Be sure to check out all of the different conditions included in your
+program -  better you than some unsuspecting user!  Better yet, get some
+"unsuspecting user"  of  your own  to try  it  out and pay attention  to
+anything  in  the test  that causes  even the slightest bit of  trouble.
+Think SMART when writing.  Think DUMB when testing.
+
+6. Try to anticipate all of the different possible ways a new user might
+want to use your program and make it as general as possible.
+
+7. Include the author's  name (if known) and the  name(s) of anyone else
+involved  in  converting/modifying the  program and  the  name and phone
+number(s) of people  who would be willing to  talk to a new user that is
+having trouble,  etc.  This information should be put both in the source
+as REMarks and in the EXEC HELP section.
+
+8. Where ever  it makes sense, write a short EXEC to explain and run the
+program  automatically.   The   EXEC  should  be  safe.   That   is,  an
+unsuspecting new user  should not be able to  accidentally do any damage
+to any  part of his existing system (easily).  The EXEC should include a
+HELP  section so  that when  it is executed with out  variables the user
+will  automatically see  the HELP  info.  The HELP section should  be as
+complete as  necessary  to  make  the  purpose and  correct  use of your
+program  obvious to  even a  relatively novice new user.  It  should tie
+everything in  the package  together - I end up  writing a lot of EXEC's
+for that purpose of much of the things submitted.
+
+9. The  major  logic flows  of the  program should be noted by  imbedded
+remarks, and the more the merrier!
+
+10. When  a  previously  released program  is slightly  modified  or has
+errors corrected,  it will  be re-released on the next  volume under the
+SAME name.
+
+11. When a  new program is released that does almost the same thing as a
+previously  released  program or  when wholesale  changes  are made to a
+previously released  program, the  new program will be given  a new name
+that shows  some relationship to the earlier name.  For example: WUMPUS2
+is a greatly enhanced version of WUMPUS.
+
+12. Exceptions to these guidelines may be taken by anyone at anytime for
+any good reason.  (But, I'm keeping an eye on you).
+
+13. All files related to the same process should ALL be given names that
+start  with the  same three  characters, if possible - to  make them all
+file in approximately the same place in our enormous and growing list of
+OUG  library  files.   Within this  limitation, all  names  should be as
+mnemonic as possible.
+
+14. Don't use any more files than necessary in your package.  Naturally,
+we don't want  files that are so big  that some people with limited user
+memory can't work  with them, but on the  other hand, we also don't want
+ten  single  block files  when one  file of ten blocks would  do just as
+well.  As our library grows, it gets harder and harder to find things.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Let's hear more ideas about guidelines.                   November 1982
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+THE FOLLOWING ARE COMMENTS ABOUT THE PROGRAMS ON THIS VOLUME.
+WANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+
+***************************************************************
+
+
+AMAZE.BASIC
+
+GENERATES A  MAZE...   I'LL  BET  YOU'VE SEEN  THIS ONE BEFORE.
+NOTICE THAT  THE DIMENSIONING  STATEMENTS ALLOW FOR A 25  BY 25
+CELL MAZE.  NO DOUBT SOME OF YOU WILL NOT HAVE ENOUGH MEMORY TO
+DO  THIS.   IT IS  'IMPRESSIVE' TO GENERATE COMPUTERIZED MAZES;
+HOWEVER, AFTER HAVING  DONE A FEW IN BASIC,  IT BECOMES OBVIOUS
+THAT THEY  TAKE MORE  TIME TO GENERATE THAN TO  SOLVE.  PERHAPS
+THEY  SERVE   BEST  AS  PACIFIERS  FOR  'COMPUTER  WIDOWS'  AND
+CHILDREN.  FROM CPMUG
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+BAGELS.BASIC
+
+      THIS IS ONLY A 3 DIGIT GAME, BUT IS STRUCTURED SO THAT IT
+IS MOST  CHALLENGING (IN GENERAL).  A WINNER. (CONVERTED FOR
+OASIS BY BELLOMY)
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+CHASE.BASIC
+
+A GOOD RENDITION  OF A GAME AUTHORED BY  HERMAN DE MONSTOY.  IT
+WAS ORIGINALLY  PUBLISHED IN  AN EARLY KILOBAUD.  THE GAME  HAS
+IMPROVED  IN  ITS  PRESENT INCARNATION, BUT MUCH BETTER  (FULL)
+INSTRUCTIONS ARE NEEDED.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+COMPARE.COMMAND/ASSEMBLE/NOTES
+COMPARE$.EXEC
+ASM.NOTES
+CMPR.MACRO/DSI.MACRO/MOVE.MACRO
+
+If you have ever spent 20 minutes trying to figure out what tiny little,
+inconsequential change you made to your BASIC program last week that now
+is causing trouble, this new utility is for you.  It checks two programs
+(or any sequential files) line by line and displays mis-matches.  As soon
+as it finds an extra line in either program, all subsequent pairs of lines
+are flagged as mis-matches.  I wish it had a little more intellegence and
+could handle the extra line problem, but it still is a valuable utility
+as it is.  It was submitted by its author, Gary Thompson of Design Systems.
+I have made minor changes in the NOTES file and added the COMPARE$.EXEC. FB
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+COMPRESS.EXEC
+
+You asked for it, so here it is.  No big deal, just a convenient little
+utility to reorganize the files on a diskette so that they are all
+contiguous and all of the available space is together at the end of the
+files.  It does require that you have a second diskette in another drive
+that will be used as a "work space" ( actually, it is used to receive a
+backup copy of the files on the disk you want to compress).
+
+I wrote it in a few minutes after reading Criss Williams' explanation
+of why PHASE ONE doesn't supply one in the latest Software Monitor. FB
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+DECISION.BASIC
+A REALLY QUITE USEFUL PROGRAM FOR SYSTEMATICALLY EVALUATING A LIST
+OF ALTERNATIVES. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+DM.COMMAND/ASSEMBLE/NOTES
+DM$.EXEC
+ASM.NOTES
+CMPR.MACRO/DSI.MACRO/MOVE.MACRO
+
+This utility allows you to inspect the contents of any part of main memory.
+It was contributed by its author, Gary Thompson of Design Systems.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+GAMES.EXEC
+
+THIS IS A CONTINUALLY REVISED EXEC FOR RUNNING ALL OF THE GAMES
+CURRENTLY IN THE LIBRARY.  REISSUED PERIODICALLY. FB
+
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+LANDER.BASIC
+LEM.BASIC
+
+YOUR  SPACE  CAPSULE IS  IN A  GRAVITY-FIELD,  AND YOUR FUEL IS
+FINITE;  MAKE A  SMOOTH LANDING  - DON'T BET ON IT  - THESE ARE
+AMONGST THE MOST WIDELY CIRCULATED GAMES WHICH EXIST.  BOTH ARE
+GOOD,  DAMNED  GOOD  IN  FACT,  COMPARED  TO  ALMOST ANY  OTHER
+IMPLEMENTATION  OF  EITHER OF  THESE WHICH HAVE BEEN PREVIOUSLY
+SUBMITTED.  ONCE  AGAIN, GOOD PROGRAMMING MAKES THE DIFFERENCE.
+FROM CPMUG. FB
+
+TO TRY EACH IN TURN NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+LOAN.BASIC
+
+THIS PROGRAM  CALCULATES THE INTEREST RATE ON A LOAN.  THE USER
+CAN INPUT RATE,  NUMBER OF  PAYMENTS PER YEAR, AND PAYMENTS PER
+YEAR.  IS  IT SIMPLE INTEREST OR IS IT COMPOUND INTEREST ?; AND
+MOST  IMPORTANT  DOES  ANYONE  CARE?  SOME  WOULD PREFER PENCIL
+PAPER TO FIRING UP THE COMPUTER FOR THIS ONE.  FROM CPMUG. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+LOVE.BASIC
+
+THE ORIGINAL  AUTHOR OF  THIS DELIGHTFUL LITTLE POSTER IS  LOST
+AMONG THE  PILES OF  DISKETTES FROM  THE  CP/MUG.  CONVERTED TO
+OASIS BY BELLOMY.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+NET80.BASIC
+
+ELECTRICAL NETWORK ANALYSIS PROGRAM. IT CAME FROM SOME PUBLICATION,
+BUT DARNED IF I CAN NOW FIND THE REFERENCE. I CONVERTED IT TO OASIS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+POETRY.BASIC
+
+THIS IS  A (SHORT)  POEM GENERATOR.   GET  HIGH, RUN IT SEVERAL
+TIMES,  THEN  MOVE ON  TO THE  NEXT  ONE.  FROM CPMUG. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+PRINT.EXEC
+I GOT TIRED WRITING OUT ALL OF THE COPYFILE COMMANDS EVERYTIME I WANTED TO
+PRINT SOMETHING. SO I WROTE THIS SIMPLE UTILITY.  IT TURNS ON THE SPOOLER
+IF YOU TELL IT TO THE FIRST TIME YOU USE IT. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+TO ABORT THE PROGRAM TYPE <esc>QN
+:
+PURGE.EXEC
+
+A UTILITY FOR  ERASING FILES SELECTIVELY FROM ANY VOLUME.  NICE
+FOR  PURGING   ALL  OF  THE  OLD  BACKUP  FILES  FROM  DISK(S).
+CONTRIBUTED BY CRISS WILLIAMS OF PHASE ONE SYSTEMS AND MODIFIED
+SLIGHTLY BY BELLOMY AND THE NAME CHANGED FROM CLEANUP.EXEC.
+
+FOR MORE INFO ABOUT IT TYPE "HELP"
+TO PURGE ALL THE BACKUP FILES FROM THE "A" DISK NOW TYPE "RUN"
+:
+QUEST.BASIC
+
+THIS IS AN ADVENTURE TYPE GAME ORIGINALLY PUBLISHED IN BYTE BY ROGER CHAFEE.
+IT HAS BEEN ADAPTED TO OASIS BY JOHN TAYLOR.  AS JOHN POINTS OUT, IT IS A
+FUN PROGRAM IN ITS OWN RIGHT, BUT EVEN MORE IMPORTANT, IT WOULD BE A GOOD
+STARTING POINT FOR WRITING NEW "ADVENTURE" TYPE GAMES.  THE MIND BOGGLES AT
+THE POSSIBILITIES.  I'M LOOKING FORWARD TO SEEING A LOT OF INTERESTING NEW
+GAMES OUT OF THIS - MAY WRITE ONE MYSELF. FB
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+REPEAT.EXEC
+
+A UTILITY  FOR REPEATING ANY OASIS COMMAND ANY NUMBER OF TIMES.
+CONTRIBUTED BY CRISS WILLIAMS OF PHASE ONE SYSTEMS.
+
+FOR MORE INFO TYPE "HELP" ELSE HIT THE <CR> TO CONTINUE
+:
+RUN$.EXEC
+
+THIS UTILITY LETS YOU "RUN" BASIC PROGRAMS WHICH HAVE NOT YET
+BEEN COMPILED.  IT HANDLES ALL OF THE COMMANDS TO EXECUTE THE
+PROGRAMS THROUGH THE INTERPRETER.  NOT ALL THAT COMPLICATED, BUT
+SOME OF OUR NEWER MEMBERS MAY APPRECIATE IT.  OF COURSE, YOU WILL
+STILL WANT TO COMPILE ANY PROGRAM YOU EXPECT TO RUN OFTEN OR WHERE
+YOU WANT TO CONSERVE DISK SPACE.  THEN, YOU WILL USE THE REGULAR
+RUN COMMAND PROVIDED WITH OASIS.
+
+FOR MORE INFO TYPE "HELP" ELSE HIT THE <CR> TO CONTINUE
+:
+S$TREK.BASIC
+
+AS  THE  FILENAME IMPLIES,  THIS IS  AN  ABBREVIATED VERSION OF
+STARTREK.   SOFTWARE  JUNKIES,  YOU'VE  GOT A  COLLECTOR'S ITEM
+HERE.   IGNORE  THE  FULL-BLOWN  STARTREKS. BEFORE YOU HAVE ENTERED
+YOUR  20TH CARRIAGE-RETURN, THE GREAT INTRA-GALACTIC   CONFLICT
+WILL HAVE BEEN DECIDED.  THE KIDS ARE WELCOME FOR THIS ONE, AND
+SO IS  THAT SENILE OLD AUNT THAT YOU CAN'T QUITE DECIDE WHAT TO
+DO WITH.  FROM CMPUG. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+TIME.BASIC
+
+YOU CONFIRM WHAT THE LOCAL TIME IS AND THEN TELL THE COMPUTER THE
+NAME OF A MAJOR CITY IN THE WORLD.  IT TELLS YOU THE LOCAL TIME THERE.
+I WROTE IT TO HELP FIGURE OUT GOOD TIMES TO CALL PEOPLE IN FOREIGN
+COUNTRIES.  NOTHING WORSE THAN THINKING IT'S 3PM IN TOKYO ONLY TO
+REACH A SLEEPY FRIEND WHO INFORMS YOU THAT IT'S 3AM THEIR TIME.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+***************************************************************
+
+WELL, THAT'S THE END OF THE INTRO1. SEND ME YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME.
+
+BE SURE TO CHECK INTRO2, ALSO.  IT CONTAINS ALL OF THE NEWSLETTERS AND
+BRIEF DISCRIPTIONS OF THE CONTENTS OF THE COMPLETE LIBRARY THROUGH
+VOLUME 18.  THESE TWO DISKS TOGETHER SHOULD GIVE YOU A PRETTY GOOD
+IDEA OF WHAT THE OUG IS ALL ABOUT.  FB
+
+***************************************************************
+**********************     N  O  T  E     **********************
+
+ALL COMMERCIAL RIGHTS FOR ALL SOFTWARE CONTAINED ON THIS DISKETTE
+ARE RESERVED FOR THE AUTHORS, UNLESS EXPLICITLY STATED OTHERWISE.
+
+       Nothing in the OUG library may be resold by anyone.
+
+*****************************************************************
+
+

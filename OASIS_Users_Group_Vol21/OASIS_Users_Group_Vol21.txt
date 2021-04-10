@@ -1,0 +1,660 @@
+>VOL21
+==================================================================
+:                                                                :
+:           VOLUME 21 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:      Moment by moment, day by day, for a long healthy life,    :
+:                                                                :
+:                        LIVE IT THAT WAY.                       :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+>MURPHY
+
+SIXTH LAW OF OFFICE MURPHOLOGY:
+The last person to quit or was fired will be held responsible for
+everything that goes wrong - until the next person quits or is fired.
+ON WHICH DRIVE [if other than "A"] IS VOL21 MOUNTED? [ A-G S ]:
+
+
+
+
+
+Welcome  to  VOLUME 21  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  21,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST21  A 03/22/83 21:20    59    3 S    65 VOL21
+BACKUP   ADVICE   A 01/31/83 22:52   260   13 S    65 VOL21
+BENCH    EXEC     A 03/22/83 20:37   170    7 S    74 VOL21
+^ENCH1   BASIC    A 03/15/83 19:37    54    3 S    88 VOL21
+BENCH11  BASIC    A 03/15/83 19:39    47    2 S    89 VOL21
+BENCH2   BASIC    A 03/15/83 19:57    24    1 S    87 VOL21
+BENCH22  BASIC    A 03/15/83 19:58    24    1 S    88 VOL21
+COPYRITE NOTICE   A 08/18/82 18:01     8    1 S    65 VOL21
+DAY      ASSEMBLE A 12/30/82 18:37    17    1 S    50 VOL21
+DAY      COMMAND  A 12/30/82 18:40     2    1 R   256 VOL21
+DAYDUMP  EXEC     A 03/06/83 17:55    14    1 S    40 VOL21
+HOUR     ASSEMBLE A 12/30/82 18:38    17    1 S    50 VOL21
+HOUR     COMMAND  A 12/30/82 18:40     2    1 R   256 VOL21
+MEMBER21 FEEDBACK A 03/19/83 21:21   135    5 S    66 VOL21
+MEMBERS  ADDRESS  A 03/26/83 05:57   486   81 S   249 VOL21
+MEMBQSRT EXEC     A 03/20/83 00:01    89    3 S    73 VOL21
+MINUTE   ASSEMBLE A 12/30/82 18:38    17    1 S    50 VOL21
+MINUTE   COMMAND  A 12/30/82 18:40     2    1 R   256 VOL21
+MONTH    ASSEMBLE A 12/30/82 18:38    17    1 S    50 VOL21
+MONTH    COMMAND  A 12/30/82 18:40     2    1 R   256 VOL21
+MURPHY   ASSEMBLE A 12/30/82 18:08    67    2 S    64 VOL21
+MURPHY   BASIC    A 12/30/82 18:12    28    2 S    75 VOL21
+MURPHY   COMMAND  A 12/30/82 18:09     4    1 R   256 VOL21
+MURPHY   DATA     A 12/30/82 17:57    60   15 D   256 VOL21
+NEWS     LETTER21 A 03/20/83 20:13   128    7 S    65 VOL21
+NEWVOLXX EXEC     A 03/19/83 21:15    48    2 S    62 VOL21
+PACK     COMMAND  A 03/02/83 11:18    13    4 R   256 VOL21
+SECOND   ASSEMBLE A 12/30/82 18:38    17    1 S    50 VOL21
+SECOND   COMMAND  A 12/30/82 18:40     2    1 R   256 VOL21
+SELECT21 EXEC     A 03/21/83 23:12    43    2 S    46 VOL21
+TODAY    EXEC     A 01/07/83 19:27    10    1 S    54 VOL21
+TREK     BASIC    A 11/30/82 09:18   396   16 S    88 VOL21
+UNLOCK   EXEC     A 03/04/82 19:37    50    2 S    67 VOL21
+VOL21    CONTENTS A 03/21/83 23:07   191    8 S    65 VOL21
+VOL21    EXEC     A 03/21/83 23:05   392   12 S    73 VOL21
+VOL2CONT EXEC     A 02/16/83 01:51    57    1 S    68 VOL21
+WHEEL    ASSEMBLE A 02/03/82 11:00   716    9 S    59 VOL21
+WHEEL    COMMAND  A 02/03/82 11:02    13    4 R   256 VOL21
+WISH     LIST21   A 03/06/83 17:46   127    6 S    75 VOL21
+YEAR     ASSEMBLE A 12/30/82 18:38    17    1 S    50 VOL21
+YEAR     COMMAND  A 12/30/82 18:41     2    1 R   256 VOL21
+ZAP      ASSEMBLE A 03/07/83 20:25   952   19 S    59 VOL21
+ZZTHINGS TOCOMEZZ A 03/22/83 22:31   133    2 S    17 VOL21
+43 file(s), 248 block(s).
+NEWS.LETTER21:VOL21                                       01/31/85 06:38 Page 1
+
+-----------------------------------------------------------------
+19 March 1983           N E W S   L E T T E R           Volume 21
+-----------------------------------------------------------------
+
+
+
+Dear Member;
+
+INTRO: And,  moving right  along......  Here's volume 21 already.
+It's  a  good  one,  too.   It  includes  the  latest  membership
+information file,  a nifty  little Murphy's Law display, a  super
+new version of the PACK utility previously released on volume 20,
+a  couple  great games,  and an  excellent  set of time dependent
+utilities for use in EXEC's.
+
+What can I say.   We have reached a high  level in the quality of
+things being contributed  to the OUG library.  As  I write this I
+am looking at a stack of about a dozen more contributed diskettes
+of things  waiting to be integrated into new library volumes.  In
+fact, volume  22 will probably be released with this one so I can
+send along  a bill for some money - volume 21 is the free one for
+those of you with standing orders.
+
+CARAVAN, our new  bulletin board system is finally up and working
+-  at  least in  an experimental  mode.  We still only support  a
+single 300  baud  rate  as  the  DSC-2 on  which  it runs is hard
+strapped for only a single baud rate.  Also, a number of features
+are  not   yet  working   like  I  think  they  should   and  the
+uploading/downloading  capability  is not  fully integrated.  The
+computer  we  are now  using was  donated by Patty Torode, VP  of
+Digital  Microsystem for  this purpose.  Although we have thanked
+her several  times in the past, this seems like a good time to do
+it again.  So,  thanks again.  The software was  prepared for use
+under OASIS  by John Taylor, who modified the CP/M version of the
+venerable CBBS  by Ward  Christensen.   He has helped me  several
+times.  I  have had  the system working sporadically since  March
+first, and  we have  actually had one member sign  on: Ed Bauman.
+He  gets  the  golden camel  driver's award  for  leading the new
+CARAVAN out into the barren desert.
+
+As of  now  I will  just keep  the machine running all the  time.
+However, I eventually  plan to turn on the  machine only when the
+phone rings.  When that happens, it will take about 20-30 seconds
+from first  ring to your seeing something on your screen.  So, be
+patient, when it happens.  For now we just have information about
+the  latest  volumes,  contents  and  news  letters,  previews of
+comming attractions  (OUG volumes),  and the latest wish list  on
+the system.  But, that will change as you begin using it and as I
+start getting some  idea what people want to  see on it.  THE BIG
+NEWS IS THAT IT IS FINALLY ACTUALLY UP!
+
+PHASE ONE: I  have  just  reread  the  volume 20  newsletter  and
+realize  how  optimistic my comments about  Phase One's  promised
+future  support sounded. I guess I got a little carried away with
+thinking about all the good publicity we used  to  get  in  their
+publications  and  Howard's promise of more.  I must confess that
+when he allowed us to distribute the 5.5 system patches  and  the
+source for the class codes, and after he did finally have someone
+there  make  us a Northstar master copy of the library, it looked
+to me like a new day was a dawning.  I was looking forward to the
+eventual appointment of the promised "official" Phase One leason,
+not to mention receiving a copy of the publications mailing  list
+they use for their press releases.
+
+But,  Howard  called  last week to say that he is disappointed in
+the kinds of things members are submitting to the OUG library and
+can see no legitimate use for the  new  UNLOCK  utility  which  I
+allowed to be released in volume 20 in particular.  So we seem to
+have some fundimental differences of opinion about what is in the
+best interests of our members vs the best interests of Phase One.
+
+OUR MEMBERS:  Thinking  about  this, I  have just reestimated the
+composition of the OUG membership. About 70% of our  450+ members
+is composed  of computer hardware/software professionals, another
+15% consist of other  professional users, and the balance of less
+than 15% falls  into   other   catagories  including   some  very
+sophisticated hobbyists.  With this high calaber of membership, I
+think it is  safe to trust your collective  judgement, so I will.
+I still like the motto:
+
+   "ALL OF US TOGETHER ARE SMARTER THAN ANY ONE OF US ALONE. "
+
+FEEDBACK: But,  to keep  it working  I really must hear from  you
+when you have strong opinions on anything that I can do something
+about.  I like to hear unpublishable feedback as well as the kind
+you want to share with everyone.
+
+^OMMERCIAL SOFTWARE:  Speaking  of  feedback, I  finally acquired
+copies of all the Quantumn Information's commercial utilities.  I
+do a lot of disk to disk copying and file sorting.  I want you to
+know that  when it  really matters, shelling out a  few bucks for
+some of  the commercial products makes a lot of sense.  QI's sort
+is 10 times faster than the one in our library and their QCOPY is
+about twice as fast as the one included withmy 5.5 OASIS. This is
+meant to  be more of a generic comment rather than a plug for one
+of our member's  products as I am in  possession of lots of other
+commercial packages  many of you produce and just haven't had the
+time or  strong inclination  to check them all out,  yet.  And, I
+kind  of  feel obligated  to stay  fairly neutral as many of  our
+members are  producing competing  products, all of which I  can't
+possibly adequately evaluate.
+
+MY PRINTER: Several of  you have asked what kind  of printer I am
+using for the new statements.  It's a Sanders Technology machine.
+If you need one, give me a call.  I sell them.
+
+MULTI-USER: If  you  are  planning  to submit  anything that runs
+specifically  under  multi-user, be  sure to  check  it out extra
+carefully. I do not currently have multi-user capability - it was
+never  implemented  on  my  Digital  MicroSystems  DSC-2  machine
+(though I originally  paid for one).  Hopefully this  is the year
+for  me  to get  a new  machine.  I'm just waiting to  figure out
+which is the best one (for me).
+
+Well, I'd better  close this newsletter now and save something to
+say in volume 22.  So, I will.
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of .  . . .          N E W S   L E T T E R           Volume 2
+-----------------------------------------------------------------
+MEMBER21.FEEDBACK:VOL21                                   01/31/85 06:38 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+MEMBER21.FEEDBACK                                   15 March 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+                                           March 10, 1983
+
+
+Fred Bellomy
+Post Office Box 2400
+Santa Barbara, CA 93120
+
+
+
+Dear Fred:
+
+I wanted to take a moment to let you know that I am very pleased
+with the interest that has been generated by our donation to the
+OASIS Users Geoup of a partial version of our PDQ program Develop-
+ment system.
+
+We have sold a number of packages to members that have been
+impressed with the programs we donated.  The OUG presents an
+excellent vehicle for reaching a large audience at a very low
+cost.
+
+I also want to thank you for the time you spent in preparing
+the system for distribution.
+
+
+                             Sincerely,
+
+
+                             John Lapenta
+                             Vice President, System Development
+                             Functional Solutions Incorporated
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Dear Fred:
+
+Here are my contributions as we discussed on the phone 12/30/82.
+
+ DAY.COMMAND         DAY.ASSEMBLE
+ MONTH.COMMAND       MONTH.ASSEMBLE
+ YEAR.COMMAND        YEAR.ASSEMBLE
+ HOUR.COMMAND        HOUR.ASSEMBLE
+ MINUTE.COMMAND      MINUTE.ASSMBLE
+ SECOND.COMMAND      SECOND.ASSEMBLE
+
+These six commands (with source code in assembler) do nothing but
+read  the system  calendar/clock and  set the return code to  the
+appropriate value.  (i.e.  executing MONTH will set RC = <current
+month>) This may sound useless, but these commands will now allow
+you to  write time and/or date dependent EXECs.  For example, you
+could write a  logon exec to remind you  to pick up your paycheck
+and to  wish you  a happy birthday whenever it  comes along.  For
+example, my logon exec looks something like this:
+
+          ;MARK EXEC  logon executive
+          CONTROL OFF
+          DAY
+          DAY = RETCODE
+          MONTH
+          MONTH = RETCODE
+          IF DAY = 1 TYPE PICK UP YOUR PAYCHECK TODAY!
+          IF MONTH = 8 IF DAY = 1 TYPE HAPPY BIRTHDAY MARK!
+
+Or, an exec to backup all the files created or modified today:
+
+          ;DAYDUMP EXEC
+          CONTROL OFF
+          MONTH
+          MONTH = RETCODE
+          DAY
+          DAY = RETCODE
+          YEAR
+          YEAR = RETCODE
+          TODAY = MONTH | / | DAY | / | YEAR
+          CONTROL ON
+          ARCHIVE S A ( TODAY TODAY
+
+The possibilities  are  endless.   I am  thinking about writing a
+scheduler to  execute background  tasks at specific times of  the
+day (e.g.  BACKUPS at midnight.)
+
+     MURPHY.COMMAND
+     MURPHY.ASSEMBLE
+     MURPHY.DATA
+     MURPHY.BASIC
+Here is  my  version  of DEC's  Cookie utility.  Executing MURPHY
+from  the  CSI  will print  a 'random'  selection  from a file of
+Murphy's  Laws.   I  usually use  it in  logon  execs.  A numeric
+^arameter can  be given (1-60) to see that specific message.  The
+Laws are  in a  file called MURPHY.DATA and require  15 blocks of
+disk space.   The MURPHY  BASIC program need only be  used if you
+would like to  change the existing messages, but  there can be no
+more than 60 messages total.
+
+Any questions, feel free to call Mark Amber (303)473-5417 home or
+(303)636-1303 work.
+
+                                             Sincerely,
+                                                  Mark
+P.S.  Love the Space Invaders on VOL19!
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear Fred,
+
+Here are  the  submissions we  discussed, along with two articles
+from Information Systems News (as submitted, which is not exactly
+as they appeared,  due to editing by new  york).  I have included
+the  phone numbers  of the  disk  disaster recovery consultants I
+spoke to.
+
+Any time I  submit an article mentioning Oasis (as these articles
+do), I will also send a copy to the users group.
+
+Paul Schindler (415) 254-4923
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+One of our members pointed out the RETRY option on the ATTACH
+command can be set to a value lower than the default of 10. I
+tried it and for the way I use my system it works better.  I
+often get a "track not found" error message which clears itself
+as soon as I hit the <CR> again.  The lower retry number speeds
+things up a bit.  FB
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of MEMBER21.FEEDBACK                            15 March 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+WISH.LIST21:VOL21                                         01/31/85 06:38 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST #22 - I wish somebody would..................... 15 March 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+44. Copies of other interesting databases like: ZIP Codes, telephone
+    area codes, synonyms list, etc.
+
+43. People to prepare documantation for many of the things in the
+    library - or to improve on the limited documentation we do have.
+
+42. BASIC and ASSEMBLY routines for automatically serializing programs
+    to the actual machine on which it is first run.
+
+41. Improvements to any and all programs in the library - especially
+    the utilities and other "serious" programs.
+
+40. People to keep an eye on Phase One's activities (or lack there of),
+    to track down rumors, and to watch for information in the press of
+    special interest to OASIS users.
+
+39. We need a utility for converting all upper case text to upper/lower
+    case with capitalization following periods, etc.
+
+39. We need the compliment of GETFILE (PUTFILE?) for CP/M and other
+    formats.
+
+38. The equivelent of the BASIC PRINT USING "!" for use in EXEC routines.
+
+37. A simple little retrieval program to find lines of data containing
+    a given search string - to be used initially with the OUG members
+    information file.
+
+36. More people to write articles about OASIS or letters to publications
+    about such articles they have seen.  More press releases about your
+    own OASIS compatible commercial software. Etc.
+
+35. More demonstration packages of commercial software for our collection
+    of those available to members.
+
+34. A CP/M emulator.
+
+33. New integrated way to find and use things in the OUG/personal library
+    (a la APPLE/LISA) - beyond subject collections and CONTENTS files.
+
+32. Major improvements to the way we introduce/review the contents of
+    new volumes - alternatives to the VOLnn.EXECs.
+
+31. A generalized "25th line/prompt line" generator with fast cursor
+    selection of options for execution of user programs/EXECs.
+
+30. A utility for automatically figuring out the optimum disk ATTACH
+    values for HDL, STP, and STS for all of the different systems
+    now operating under OASIS.
+
+29. A list of the 500 most frequently used words in English writing
+    for use with Chapman's latest spelling checker's CUSTOM dictionairies.
+
+28. A fast assembly language SORT.
+
+27. A grammatical error checker.
+
+26. Compilers for "C", Pascal, Fortran, PL/1, Cobol, etc.
+
+25. People to search through other users groups libraries for worthwhile
+things to  convert for operation under OASIS which we do not yet have in
+the OUG library.
+
+24. A synchronous communication program.
+
+23. A  spelling  checker that  keeps track  of the words I misspell  and
+automatically corrects them for me without making me look up the correct
+spelling again and again and again every time.
+
+22. A  screen  oriented  editor (like  Magic Wand  or  Spellbinder) - an
+admittedly big task,  but probably doable even in  BASIC for anyone with
+the ambition.
+
+21. Someone to  stay on top of all the new bulletin boards coming on the
+air and to  give us an update of  the phone numbers and purpose of each,
+etc.
+
+20. We need  a  system  for  recording  and displaying  the  features of
+commercial  software packages  - one  that I could send to  the software
+developers for them to "fill out themselves."
+
+16. Boy do we need an "electronic spreadsheet" like VISACALC!
+^
+19. We very  much need a comparison of the features of the various major
+operating systems (including OASIS, naturally).
+
+14. We  need someone  to run  our dictionary through one or  more of the
+other spelling checkers with at least seven or eight thousand word
+dictionairies so that most of our words don't drop out as mispelled.
+
+13. We badly need  a modification to SYSTEM.NUCLEUS that  will implement
+the BREAK  function.  Phase One hasn't been responsive to the pleas from
+(at least) several members.  This may be hardware dependent.
+
+11. We need  lots more  applications to run against the  dictionary data
+base.
+
+
+10. We need  people who  can begin doing benchmark tests  of the various
+software  products that  are becoming  available  - both proprietary and
+public domain.
+
+9. We need a data base system for maintaining a commercial software
+directory - again one that can be released into the OUG library, and one
+that will accommodate much more detail about the programs than is now
+included in the Software Directories issued by Phase One.
+
+7. A decompiler for BASICCOM and a disassembler for COMMAND would be handy.
+
+6. We need  a conversion  routine or detailed procedure for converting
+ASSEMBLY language  code from other Z80 systems to OASIS.
+
+1. We need  a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E)  to OASIS BASIC.  (NOTE: We  now have MCONVERT, but
+it needs more work.  I think it can be used as the basis for programs to
+convert other dialects with modification) We also need someone to review
+the current version of MCONVERT to see if the number of exceptions can't
+be reduced significantly.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 15 March 1983
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 21.
+
+***************************************************************
+
+
+BACKUP.ADVICE
+
+These articles were submitted by Paul Schindler who is a writer
+for Information Systems News.  The advice and suggestions are
+valuable and the consultants mentioned in the articles know what
+they are doing.  In fact one of our members got into trouble a
+few weeks ago and John Taylor was able to help him avert a real
+disaster.
+
+TO SEE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+BENCH.EXEC
+BENCH1/BENCH11/BENCH2/BENCH22.BASIC
+
+This package of benchmark programs was originally released on
+OUG Volume 12.  There have been some minor "cosmetic" changes
+made to the BASIC programs and significant changes made to the
+EXEC.  It now includes a table of values reported by a few of
+our members.  We need lots more inputs.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ DAY.COMMAND         DAY.ASSEMBLE
+ MONTH.COMMAND       MONTH.ASSEMBLE
+ YEAR.COMMAND        YEAR.ASSEMBLE      DAYDUMP.EXEC
+ HOUR.COMMAND        HOUR.ASSEMBLE        TODAY.EXEC
+ MINUTE.COMMAND      MINUTE.ASSEMBLE
+ SECOND.COMMAND      SECOND.ASSEMBLE
+
+These six commands (with source code in assembler) do nothing but
+read  the system  calendar/clock and  set the return code to  the
+appropriate value.  (i.e.  executing MONTH will set RC = <current
+month>) This may sound useless, but these commands will now allow
+you to  write time and/or date dependent EXECs.  For example, you
+can use a program like TODAY.EXEC to remind yourself to pickup  a
+paycheck or one like DAYDUMP.EXEC to make backup copies of all
+the files newly created or revised anytime today.
+
+The possibilities  are  endless.   I am  thinking about writing a
+scheduler to  execute background  tasks at specific times of  the
+day (e.g.  BACKUPS at midnight.)
+
+Any questions, feel free to call Mark Amber (303)473-5417 home or
+(303)636-1303 work.
+
+I'm sure this new capability is going to stimulate lots of new
+ideas and helpful utilities/programs.  FB
+
+TO SEE A LISTING OF THE TWO EXAMPLES NOW
+TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+^
+Several of our members  have already made mailings to  this list.
+John Lapenta says he got over 30 responses and Bill Berne says he
+got about  10-15.  So that's about average to good for mail order
+response.  Another  of our members says he is going to coordinate
+a  mailing  with  the release  of a  donated  partial system in a
+future OUG volume.   I'll bet you can think  of other ways to use
+it for promotion, too. Also, be sure to check your own entry.DATE
+Next time you  have an occasion to contact another member you may
+We might  consider  cooperative  mailings.   It  costs a  hundred
+dollars just for postage now.  Let me know if you've got an idea.
+FB w a little about who you are looking for.  VAILABLE TO MEMBERS
+OF THE  OUG  ONLY  FOR  PURPOSES  WHICH ARE  CONSISTENT  WITH THE
+TO LIST THE NEARLY 500 ENTRY FILE NOWUP.  GENERALLY SPEAKING, ALL
+TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:ERCIAL SOFTWARE PRODUCTS
+WOULD BE  CONSISTENT WITH OUR OBJECTIVES.  IT MAY NOT BE GIVEN TO
+THIRD PARTIES.  IF IN DOUBT, GIVE ME A CALL.
+
+     MURPHY.ASSEMBLE/BASIC/COMMAND/ASSEMBLE
+
+Here is  my  version  of DEC's  Cookie utility.  Executing MURPHY
+from  the  CSI  will print  a 'random'  selection  from a file of
+Murphy's  Laws.   I  usually use  it in  logon  execs.  A numeric
+parameter can  be given (1-60) to see that specific message.  The
+Laws are  in a  file called MURPHY.DATA and require  15 blocks of
+disk space.   The MURPHY  BASIC program need only be  used if you
+would like to  change the existing messages, but  there can be no
+more than 60 messages total.
+
+Any questions, feel free to call Mark Amber (303)473-5417 home or
+(303)636-1303 work.
+
+I love it!  It seems to me that we should be able to get a whole
+series of look-a-likes out of this one.  Here is your chance to
+immortalize your own personal philosophy and/or homilies.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+NEWVOLXX.EXEC
+VOL2CONT.EXEC
+
+Back on volume 19 I released the set of "shells" I use when
+preparing a new OUG volume.  NEWVOLXX.EXEC is an updated
+version of the original and VOL2CONT.EXEC is a new utility
+for generating the VOLXX.CONTENTS file from the completed
+VOLXX.EXEC file.  A couple of you have said you were thinking
+about taking on a complete volume.  If you do, give me a call
+and I'll give you a hand.  FB
+
+TO SEE A LISTING OF THESE TWO NEW EXEC'S NOW
+TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+PACK.COMMAND
+
+This is a true disk(ette) file compaction utility that will
+squeeze out all interfile spaces, moving it all to the end of
+the disk. This is an improved version of the same utility
+released on volume 20.  It works better and is only 4 blocks
+long as compared to 23 for the original version.  This
+improved version was also contributed by Hans-George Juerges
+of DATASOFT in Germany - Telephone (06181)253737.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+TREK.BASIC
+
+This is yet another  version of Star Trek, but  is set up similar
+to an  arcade  game  with  continuous  action.  You  must  become
+skilled in  tactics and  controls in order to achieve  acceptable
+starship captain's rating.  We suggest skill level 1 and a 20 day
+mission to start  with.  This will either end  in a quick victory
+over the Klingons or the rapid demise of the Starship Enterprise.
+
+Gary Thompson
+Design Systems Inc.
+P.O. Box 12243
+St. Louis, MO 63157
+(314) 391-0450
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+UNLOCK.EXEC
+
+This is a much more complete version of the EXEC needed
+for use with the UNLOCK.COMMAND utility released on volume 20.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+WHEEL.ASSEMBLE/COMMAND
+
+         It is a 3 - 4 player hangman type game "Wheel of Fortune".
+         It is played according to the rules of the TV show.
+         (The program does not explain them.)
+         There are bugs in the "end game" (it doesn't know when to quit).
+
+     Gary Bergman
+     14 Hickory Lane
+     North Brunswick, N.J. 08902
+     (201) 246-7285 home
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+
+ZAP.ASSEMBLE
+
+This is a replacement for the source code released in volume 20.
+The original version had an error in it.  This copy correct it
+and makes some other "cosmetic" changes so that it works better.
+
+TO ASSEMBLE IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE:
+***************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 21.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+***************************************************************
+
+CHICHOLM'S SECOND COROLLARY:
+If you explain so clearly that nobody can misunderstand, somebody will.
+
+>

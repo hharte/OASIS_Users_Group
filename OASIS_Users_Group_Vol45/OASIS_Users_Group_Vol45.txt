@@ -1,0 +1,754 @@
+Frebruary 1985                  Volume: 45
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGLOGO COMMAND  A 12/29/84 12:31     4    1 R   256 VOL45   
+$README  FIRST    A 01/16/85 10:00    60    3 S    66 VOL45   
+ACCEPT45 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL45   
+BUDGET1  BASIC    A 02/14/85 12:00   316   17 S   100 VOL45   
+CLEAR    ASSEMBLE A 12/01/84 01:46    65    4 S    68 VOL45   
+CLEAR    COMMAND  A 01/31/85 10:00     2    1 R   256 VOL45   
+EASYDEMO SCRIPT   A 12/04/84 10:27   423   16 S    74 VOL45   
+EDIT11   COMMAND  A 08/14/83 00:00    51   13 R   256 VOL45   
+EDIT11   DOC      A 02/08/85 12:00   229   10 S    70 VOL45   
+EDIT11   HELP     A 02/07/85 12:00    43    3 S    65 VOL45   
+EDIT11$  EXEC     A 02/14/85 12:00   150    4 S    73 VOL45   
+EDIT11IN EXEC     A 02/08/85 12:00   138    4 S    63 VOL45   
+EDIT11MO EXEC     A 01/31/85 10:00    59    2 S    63 VOL45   
+EDITBIG  EXEC     A 02/14/85 12:00    97    3 S    71 VOL45   
+FILECHK1 BASIC    A 02/14/85 12:00    52    4 S   202 VOL45   
+FULL     BASIC    A 12/06/84 10:00    70    5 S   249 VOL45   
+FULL     EXEC     A 02/14/85 12:00    25    1 S    34 VOL45   
+LOAN4    BASIC    A 02/14/85 12:00   126    5 S    85 VOL45   
+MDC      EXEC     A 02/14/85 12:00   259    6 S    79 VOL45   
+MDC      NOTES    A 02/08/85 12:00    71    4 S    65 VOL45   
+MDCCOACH BASIC    A 01/31/85 10:00   380   15 S   141 VOL45   
+MDCCOACH DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCEXCH  DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCFILES BASIC    A 01/31/85 10:00   411   18 S   206 VOL45   
+MDCLETTR BASIC    A 02/08/85 12:00   382   17 S   196 VOL45   
+MDCLETTR DATA     A 12/03/83 11:08    12    1 D    50 VOL45   
+MDCLODGE BASIC    A 02/08/85 12:00   604   24 S   182 VOL45   
+MDCLODGE DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCSAMPL LETTERS  A 12/03/83 10:59   302    8 S    71 VOL45   
+MDCSTAT  DATA     A 02/08/85 12:00     5    1 D    15 VOL45   
+MDCTHIRD DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCWAIT  DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+SELECT45 EXEC     A 02/14/85 12:00    39    2 S    46 VOL45   
+TIMECARD BASIC    A 12/06/84 10:00   124    7 S   166 VOL45   
+VOL45    CONTENTS A 02/14/85 12:00   139    6 S    65 VOL45   
+VOL45    EXEC     A 02/14/85 12:00   410   10 S    87 VOL45   
+VOL45    FEEDBACK A 02/07/85 12:00    93    4 S    66 VOL45   
+VOL45    NEWS     A 01/21/85 17:17   173    9 S    65 VOL45   
+WEREWOLF BASIC    A 07/30/83 18:58   249   12 S   235 VOL45   
+39 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+CLEAR.ASSEMBLE:A copied to CLEAR.ASSEMBLE:D
+EDIT11IN.EXEC:A copied to EDIT11IN.EXEC:D
+FULL.EXEC:A copied to FULL.EXEC:D
+MDCEXCH.DATA:A copied to MDCEXCH.DATA:D
+ACCEPT45.COMMAND:A copied to ACCEPT45.COMMAND:D
+LOAN4.BASIC:A copied to LOAN4.BASIC:D
+TIMECARD.BASIC:A copied to TIMECARD.BASIC:D
+VOL45.EXEC:A copied to VOL45.EXEC:D
+VOL45.FEEDBACK:A copied to VOL45.FEEDBACK:D
+VOL45.NEWS:A copied to VOL45.NEWS:D
+EASYDEMO.SCRIPT:A copied to EASYDEMO.SCRIPT:D
+EDITBIG.EXEC:A copied to EDITBIG.EXEC:D
+MDC.NOTES:A copied to MDC.NOTES:D
+MDCCOACH.BASIC:A copied to MDCCOACH.BASIC:D
+MDCCOACH.DATA:A copied to MDCCOACH.DATA:D
+MDCLETTR.BASIC:A copied to MDCLETTR.BASIC:D
+MDCSTAT.DATA:A copied to MDCSTAT.DATA:D
+MDCWAIT.DATA:A copied to MDCWAIT.DATA:D
+CLEAR.COMMAND:A replaces CLEAR.COMMAND:D
+FILECHK1.BASIC:A copied to FILECHK1.BASIC:D
+MDC.EXEC:A copied to MDC.EXEC:D
+MDCLODGE.BASIC:A copied to MDCLODGE.BASIC:D
+MDCLODGE.DATA:A copied to MDCLODGE.DATA:D
+MDCSAMPL.LETTERS:A copied to MDCSAMPL.LETTERS:D
+MDCTHIRD.DATA:A copied to MDCTHIRD.DATA:D
+VOL45.CONTENTS:A copied to VOL45.CONTENTS:D
+$OUGLOGO.COMMAND:A copied to $OUGLOGO.COMMAND:D
+$README.FIRST:A replaces $README.FIRST:D
+BUDGET1.BASIC:A copied to BUDGET1.BASIC:D
+EDIT11.DOC:A copied to EDIT11.DOC:D
+EDIT11.HELP:A copied to EDIT11.HELP:D
+EDIT11$.EXEC:A copied to EDIT11$.EXEC:D
+MDCLETTR.DATA:A copied to MDCLETTR.DATA:D
+SELECT45.EXEC:A copied to SELECT45.EXEC:D
+EDIT11.COMMAND:A copied to EDIT11.COMMAND:D
+EDIT11MO.EXEC:A copied to EDIT11MO.EXEC:D
+FULL.BASIC:A copied to FULL.BASIC:D
+MDCFILES.BASIC:A copied to MDCFILES.BASIC:D
+WEREWOLF.BASIC:A copied to WEREWOLF.BASIC:D
+
+>VOL45
+
+
+       OOOOOOOOOO         UUU              UUU         GGGGGGGGGG
+     OOOOOOOOOOOOOO       UUU              UUU       GGGGGGGGGGGGGG
+    OOOO        OOOO      UUU              UUU      GGGG        GGGG
+   OOO            OOOO    UUU              UUU     GGG            GGG
+   OOO             OOO    UUU              UUU    GGG              GGG
+   OOO             OOO    UUU              UUU    GGG
+   OOO             OOO    UUU    VOLUME    UUU    GGG
+   OOO             OOO    UUU      45      UUU    GGG
+   OOO             OOO    UUU              UUU    GGG          GGGGGGG
+   OOO             OOO    UUU              UUU    GGG          GGGGGGG
+   OOO             OOO    UUU              UUU    GGG              GGG
+   OOO            OOO      UUU            UUU      GGG            GGG
+    OOOO         OOOO       UUUU        UUUU        GGGG        GGGG
+     OOOOOOOOOOOOOO          UUUUUUUUUUUUUU          GGGGGGGGGGGGGG
+       OOOOOOOOOO              UUUUUUUUUU              GGGGGGGGGG
+
+     COPYRIGHT 1985   T H E    O A S I S    U S E R S    G R O U P     
+==================================================================
+:           VOLUME 45 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                      "EXPECT A MIRACLE"                        :
+:                             anon                               :
+==================================================================
+
+
+ 1 FILELIST VOLUME 45 CONTENTS            2 LIST VOLUME 45 NEWSLETTER .
+ 3 DESCRIPTION OF VOLUME 45 SOFTWARE      4 LIST MEMBER'S FEEDBACK    .
+ 5 RUN INTRODUCTION TO SOFTWARE ONLY      6 LIST VOLUME 45 WISH LIST  .
+ 7 COMPLETE INTRODUCTION TO VOLUME 45     8 QUIT                      .
+CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE CHOICE? [1-8]:7
+
+The  following  is  a  listing  of  the  contents  of VOLUME  45
+
+
+^name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGLOGO COMMAND  A 12/29/84 12:31     4    1 R   256 VOL45   
+$README  FIRST    A 01/16/85 10:00    60    3 S    66 VOL45   
+ACCEPT45 COMMAND  A 03/16/84 20:41     6    2 R   256 VOL45   
+BUDGET1  BASIC    A 02/14/85 12:00   316   17 S   100 VOL45   
+CLEAR    ASSEMBLE A 12/01/84 01:46    65    4 S    68 VOL45   
+CLEAR    COMMAND  A 01/31/85 10:00     2    1 R   256 VOL45   
+EASYDEMO SCRIPT   A 12/04/84 10:27   423   16 S    74 VOL45   
+EDIT11   COMMAND  A 08/14/83 00:00    51   13 R   256 VOL45   
+EDIT11   DOC      A 02/08/85 12:00   229   10 S    70 VOL45   
+EDIT11   HELP     A 02/07/85 12:00    43    3 S    65 VOL45   
+EDIT11$  EXEC     A 02/14/85 12:00   150    4 S    73 VOL45   
+EDIT11IN EXEC     A 02/08/85 12:00   138    4 S    63 VOL45   
+EDIT11MO EXEC     A 01/31/85 10:00    59    2 S    63 VOL45   
+EDITBIG  EXEC     A 02/14/85 12:00    97    3 S    71 VOL45   
+FILECHK1 BASIC    A 02/14/85 12:00    52    4 S   202 VOL45   
+FULL     BASIC    A 12/06/84 10:00    70    5 S   249 VOL45   
+FULL     EXEC     A 02/14/85 12:00    25    1 S    34 VOL45   
+LOAN4    BASIC    A 02/14/85 12:00   126    5 S    85 VOL45   
+MDC      EXEC     A 02/14/85 12:00   259    6 S    79 VOL45   
+MDC      NOTES    A 02/08/85 12:00    71    4 S    65 VOL45   
+MDCCOACH BASIC    A 01/31/85 10:00   380   15 S   141 VOL45   
+MDCCOACH DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCEXCH  DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCFILES BASIC    A 01/31/85 10:00   411   18 S   206 VOL45   
+MDCLETTR BASIC    A 02/08/85 12:00   382   17 S   196 VOL45   
+MDCLETTR DATA     A 12/03/83 11:08    12    1 D    50 VOL45   
+MDCLODGE BASIC    A 02/08/85 12:00   604   24 S   182 VOL45   
+MDCLODGE DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCSAMPL LETTERS  A 12/03/83 10:59   302    8 S    71 VOL45   
+MDCSTAT  DATA     A 02/08/85 12:00     5    1 D    15 VOL45   
+MDCTHIRD DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+MDCWAIT  DATA     A 02/08/85 12:00     5    1 D   200 VOL45   
+SELECT45 EXEC     A 02/14/85 12:00    39    2 S    46 VOL45   
+TIMECARD BASIC    A 12/06/84 10:00   124    7 S   166 VOL45   
+VOL45    CONTENTS A 02/14/85 12:00   139    6 S    65 VOL45   
+VOL45    EXEC     A 02/14/85 12:00   410   10 S    87 VOL45   
+VOL45    FEEDBACK A 02/07/85 12:00    93    4 S    66 VOL45   
+VOL45    NEWS     A 01/21/85 17:17   173    9 S    65 VOL45   
+WEREWOLF BASIC    A 07/30/83 18:58   249   12 S   235 VOL45   
+39 file(s), 247 block(s).
+
+
+
+
+
+
+
+
+VOL45.NEWS:VOL45                                          01/30/85 12:27 Page 1
+
+-----------------------------------------------------------------
+8 February 1985         N E W S   L E T T E R           Volume 45
+-----------------------------------------------------------------
+
+
+
+
+Good Morning; 
+
+
+
+VOL45: contains  the  long  promised full screen  editor, EDIT11.
+This is  the same product being sold by Clark Calkins except that
+a  few  of the  fancier features  have been removed from the  OUG
+library  version.   Then  from Don  Royer comes  a  Masonic Lodge
+candidate  management  system.  While  not everyone will find the
+system of direct interest, it can form the basis for a variety of
+other  student  or trainee  management applications.  Lon Bateman
+sends us  an improved  version of FILECHK originally released  on
+volume 34  plus FULL, a utility for showing how full an ISAM file
+is.  I  have upgraded EDITBIG (vol 19) on this volume too.  Larry
+Stephens   sent   us  several   programs:  time  card  processing
+(TIMECARD),  loan  amortization  (LOAN4), and  a new and improved
+version of  BUDGET originally  released on Volume 4.  Finally,  a
+little   something  for   the  kiddies,  WEREWOLF  (save  it  for
+Halloween, if you must).  
+
+IBC: The  latest  IBC newsletter  announces the availability of a
+new  DMA  10 Megabyte  removable hard  disk  system.  It lists at
+$1795 and will  fit above the existing floppy  drive on the Middi
+Cadet or MultiStar III.  
+
+IBC has boosted  their international activity with the conclusion
+of a deal to ship 200 16-bit machines to the People's Republic of
+China in  the second  quarter of this year.  The  deal is said to
+represent $3.6  million dollars in retail value.  I'm glad to see
+that  someone has  finally tapped  the  potential of the enormous
+Chinese market.  There is lots of room for more.  
+
+IBM PC/XT:  version  of Oasis86  has some impressive improvements
+over the original  version released through Phase One  last year.
+A recent Oasis Technologies summary sheet shows the floppy driver
+to be 2 to 5 times faster and the hard disk driver to be twice as
+fast.   It  now  supports  the  AST  calendar  chip,  provides  a
+capability  for having  more  than  one  O/S  on the  hard  disk,
+supports  the  8087  numeric  co-processor,  and has  support for
+graphics.   These  enhancements  might well  bring the PC/XT back
+into favor with some previously disenchanted Oasis users.  
+
+SD SYSTEMS: according  to Dave Brown, is no longer doing anything
+with  Oasis.   Considering the  difficulty I have reaching people
+there I wonder if they are doing anything with anybody.  
+
+ONYX: is  apparently  doing  their  own  new  release  of  Oasis8
+according to several reports I have been getting.  So far, no one
+seems to  know just how compatible their new version will be with
+6.1 now being distributed by several manufacturers.  
+
+COMPUPRO: has changed  there name to VIASYN Corporation according
+to Bill Godbout, founder and chairman.  CompuPro will continue to
+be used as a trademark.  
+
+CANBERRA: is now  offering a  touch panel version of their  Imacs
+series of 8086 based systems which feature color graphics.  Noted
+primarily  for  their  process  control  applications, the  Imacs
+series  includes models  50, 70,  and 90, each offering a  unique
+combination   of   features  and   capacities.   Canberra  is  an
+international  operation  with  offices  in 55  foreign countries
+including the Peoples Republic of China.  
+
+VOLUME 43: had a  minor error in the VOL43.EXEC.   The line which
+said  GOTO -PROG13  should have  said GOTO -LAST.  Sorry for  the
+inconvenience.  
+
+MODEMS: There is an  ad in the January Computer  Hot Line for 200
+Rixon  T212A 1200  baud modems  at $150 per unit.  Looks  like an
+inexpensive  way  to step  up to  1200  baud.  Call Jack Robinson
+(312) 823-3050.  
+
+IBC DISKETTES: The  price and availability situation for the high
+coercivity diskettes  (used by the IBM PC/AT) has finally started
+to improve.   I've now  discovered that B.A.  Parge, a  wholesale
+source for  all kinds  of business products, has Maxell  MD2-HD's
+for $41.57/box.  Phone: (800)227-1000, if you qualify.  
+
+HOME GROWN SYSTEMS:  Lots of  you have developed your own  unique
+systems  to  meet the  special needs  of  your business.  Why not
+consider offering  to sell copies of them as a means of recouping
+some  of your  development costs?   If you are not interested  in
+taking  on  the  responsibility  of  generalizing, marketing  and
+supporting  your  package;  consider the  possibility of having a
+third  party do  it for  you.  The literature is full  of success
+stories about others  who have done it, so  why not you.  We have
+plenty  of  people in  the OUG  who are capable of handling  such
+projects  -  some are  already doing  it.  If the idea makes  any
+sense to you, get in touch with me and let's explore ways the OUG
+might be able to help in the process.  
+
+PUBLICITY: As  you  know,  computer shows  usually have their own
+publications which  they distribute at the shows.  I have learned
+that the  editors of  these publications are just like  all other
+editors  when  it  comes  to  filling  up  empty  space  as  each
+publication deadline  approaches, except that they are working in
+a much more hectic situation.  The show only lasts a few days and
+their  editorial requirements  are sometimes changing hourly!  No
+wonder  they   are  often  grateful  for  help  in  the  form  of
+ready-to-go relevant press releases available at the last minute.
+Many journals (such  as Computer Systems News) carry  lists of up
+coming  shows  complete  with contact  names and addresses.  Send
+them a recent press release about your stuff.  
+
+Then there are  the computer  publications which run a series  of
+special reports  during the year.  These "special issues" carry a
+theme which they  use to attract advertisers for  that particular
+issue.  They try  to cluster editorial material around  the theme
+so that  press releases related to the theme have a better chance
+of  being  run.  Any  publication is  happy  to provide potential
+advertisers with an editorial schedule listing the special report
+dates.  They sometimes publish the schedules.  So, clip and save.
+
+Speaking of publicity, we sometimes overlook the obvious.  IBM is
+tops when  it comes to wringing the last drop of press out of any
+series of new hardware releases.  Notice that they never tell the
+whole story at the beginning.  Every new major development gets a
+^equence of  publicity plays, because every few months or so they
+have something  new  to  say  about  it.  The  PC  always had the
+capability to  support a  hard disk, as many third  party sources
+showed, but  when IBM  announced the XT the press  went wild once
+again, etc.  Oasis related product manufacturers must play in the
+same arena with  the IBM's of the computer  world, so we might as
+well play  by their  rules, especially when they seem  to work so
+well.  
+
+SOFTCON: The  second  annual conference  for software publishers,
+merchandisers and  business users is being announced for 31 March
+to 3  April in Atlanta Georgia.  It seems that this might well be
+an important  marketing vehicle for Oasis software dealers, but I
+am sorry  to say that I've had no feedback from members about the
+one last  year.  The  promoters claim there will be  ten thousand
+software products  exhibited under one roof.  Hope there are some
+Oasis products among the ten thousand.  
+
+FUTURE TRENDS:  Charles Lecht,  president of Lecht Sciences Inc.,
+has  been  watching  computer  trends  for  a  long  time.  In  a
+September  1984  BCS  interview  he  is  quoted  as saying:  "...
+programmable  micros [requiring  the user  to  key in queries and
+responses are  a craze like the CB craze of a few years ago.  The
+micros of  the future will be preprogrammed machines.  People who
+program micros will eventually make up the same percentage of the
+population as  those who used slide rules and desk calculators in
+the 1940s and '50s." ...  "Computers you can talk to - programmed
+to understand your  unique accent, vocabulary and business  - are
+begging for birth." 
+
+I think he  is right.  As I talk to lots of you I find that Oasis
+systems developers are  already building tools that the  user can
+use without  knowing much about "computers." I am sure this is an
+important new  trend and  that voice I/O, touch screens,  and the
+like  will  become  increasingly  available  design  elements  of
+business  systems.   The  fifth  generation  is  just  around the
+corner.  
+
+
+
+
+
+Peace, Fred Bellomy 
+
+(805) 965-0265 (805) 965-5415 (bulletin board - 300 baud) 
+
+-----------------------------------------------------------------
+end of .......          N E W S   L E T T E R           Volume 45
+-----------------------------------------------------------------
+
+VOL45.FEEDBACK:VOL45                                      01/30/85 12:27 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL45.FEEDBACK                                    8 February 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+
+March 29, 1984 
+
+
+
+Dear Fred: 
+
+I am enclosing what I think is a neat little program to calculate
+and display how  FULL data files are.  This  program, in a sense,
+was  made  possible  by FILECHK.BASICOBJ  which was  on  the last
+Users` Group  distribution.  Up  until that time I did  not fully
+understand that  you could create a file containing a list of the
+files which could then be manipulated.  The program analyzes data
+files  (indexed  or  keyed).  I  have also  taken  the liberty of
+rewriting  FILECHK.BASICOBJ  (We call  it FILECHK1).  The program
+does the same  thing but is more bullet  proof and certainly more
+elegant.  
+
+Yours truly, 
+
+Elon L.  Bateman Vice President 
+
+-----------------------------------------------------------------
+
+                                         323 Humboldt Street
+                                         Richmond, CA 94805
+                                         October 29, 1984
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+
+Dear Fred,
+
+This comes a little later than you wanted, because I couldn't get
+hold of T.   Mercer Hursh on the weekend.   I had to check to see
+if  he  had  anything additional  he wanted  to  send on my disk.
+Apparently  he isn't prepared right now,  and he said to go ahead 
+and send in WEREWOLF, an adventure game.
+^ile not found.
+Yes. Well,  I had  been receiving this freebie magazine dedicated
+to Apples, and  noticed this game in it.   Thomas Hursh said, Why
+don't you  convert it to Oasis?  It turned out to be a hellacious
+job for  someone who up till then had been writing 20 lines or so
+of code  on textbook problems.  Anyway, I began by preserving all
+of the original author's variable names (even one variable that I
+can't figure out  what it does, called M$)  and even his remarks,
+trying not to add any of my own.  Then Tom suggested reorganizing
+the thing  to take  advantage of OASIS 'WHILE' and  'SELECT-CASE'
+structures.  Then I started adding additional remarks, which kind
+of  ran  off on  their own  toward the end of the  program (sorry
+about that).  It  was very educational, but I  won't do it again;
+too much  work.  Shortly after this project, Tom started charging
+me $50/hr to talk to him.  I watch my telephone time these days. 
+
+After running  it a  few times,  I was pissed about the  way some
+long   descriptive  passages--stored   as  DATA  statements--were
+appearing  on the  screen.  They  would  break arbitrarily in the
+middle of a word.  I complained to Tom and he batted out a little
+wordwrap program  that took me several tries and as many hours to
+figure out.  You'll see it in there.  It's so clever I think that
+alone  should give  him half  a disk.  (Don't take me  literally,
+Fred).  
+
+There's also  a  skosh  more error-trapping  in there.  This came
+about   after   I   tried  to   demo  the   thing   to  a  friend
+(cock-a-doodle-do) whilst loaded, and couldn't get my own game to
+work because I wasn't entering an acceptable command.  (!!!) 
+
+See if you can play it without referring to the little map at the
+top  of  the  printed original  version.  It's  kind  of cute.  I
+hardly ever  play computer  games, and probably will never  again
+take the time to convert one.  
+
+Please consider  squeezing  out an  extra volume for Thomas Hursh
+for the  game.  Though  it was a lot of  work for me, I'm sure it
+was  quite  annoying  to him  to have  me  calling up with stupid
+questions all the time.  
+
+Right now however, I shall have a drinky-poo and watch teevee.  
+
+Buzz Vanderschoot 
+
+-----------------------------------------------------------------
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL45.FEEDBACK                             8 February 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+VOL45.CONTENTS:VOL45                                      01/30/85 12:27 Page 1
+
+=================================================================
+VOLUME 45 CONTENTS
+=================================================================
+
+
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+> 1 AB IR OU045 BUDGET1 (Home budget)
+
+BUDGET1.BASIC
+
+This is a new  version of the household budget  system originally
+released on volume  4.  Larry Stephens has made  some significant
+improvements to it for us.  
+
+-----------------------------------------------------------------
+> 8 UA NN OU045 CLEAR (Clear screen)
+
+CLEAR.ASSEMBLE/COMMAND
+
+Jack Holeman sent  this handy utility that just clears the screen
+and  returns  the cursor  to the  top left hand corner (like  CRT
+CLEAR in an EXEC except that you can execute it at the CSI level.
+
+-----------------------------------------------------------------
+> 5 AS NN OU045 EASYDEMO (Easylink demo)
+
+EASYDEMO.SCRIPT
+
+Jack Holeman has  put together a nifty demonstration of just what
+the information  retrieval services under Easylink are all about.
+A very jazzy presentation and interesting.  
+
+-----------------------------------------------------------------
+> 9 CA HO OU045 EDIT11 (Full screen editor)
+
+EDIT11.COMMAND/DOC/HELP  EDIT11IN.EXEC   EDIT11MO.EXEC
+
+EDIT-11 is a screen oriented text editor for OASIS.  This version
+has  been provided  to the  OASIS User Group Library to  acquaint
+users  to  the usefulness  of this  editor.   Some of the fancier
+features have been  removed for this demonstration version  and a
+full  manual  is  not  provided.   EDIT-11  in  its  entirety  is
+available for  $50.00 plus $1.50 shipping ($3.00 foreign) and 6.5
+tax (for California residents) from Clark Calkins at: 
+
+                         C.C. Software
+                       1907 Alvarado Ave.
+                     Walnut Creek, CA 94596
+                   (415) 939-8153 (after 5:30)
+
+NOTE: EDIT11IN AND EDIT11MO MAY BE NEEDED FOR SOME INSTALLATIONS.
+
+-----------------------------------------------------------------
+> 8 EX HO OU045 EDITBIG (Large file editing help)
+
+EDITBIG.EXEC
+
+This is a somewhat  improved version of the utility  for managing
+the editing of  very large files.  It was  originally released on
+volume 19.  FB 
+
+-----------------------------------------------------------------
+> 8 AB HO OU045 FILECHK1 (Check ISAM for corruption)
+
+FILECHK1.BASIC
+
+Lon Bateman  improved the  version of FILECHK released earlier on
+volume 34.  This  program, you will recall, checks  for corrupted
+links in an ISAM file.  
+
+-----------------------------------------------------------------
+> 8 AB HO OU045 FULL (How full is ISAM or KEYED file)
+
+FULL.BASIC/EXEC/INFO
+
+This little utility  displays the percentage of available records
+being  used by  an ISAM  or KEYED file.  It was  submitted by Lon
+Bateman of  Shoreman Food Technologies (301)754-8181.  Be sure to
+also look  at  the  SHOWFILE  COMMAND  on Volume  30  for another
+approach to the problem.  
+
+-----------------------------------------------------------------
+> 1 AB IR OU045 LOAN4 (Loan amortization)
+
+LOAN4.BASIC
+
+Yes, it's  another  loan  amortization  program,  but once  again
+enough  different  to  give  it  a  place  in  our collection  of
+financial stuff.  This one was written by Larry Stephens.  
+^
+-----------------------------------------------------------------
+> 2 AB HM OU045 MDC (Masonic Lodge candidate mgmt)
+
+MDC.EXEC/NOTES
+MDCCOACH.BASIC/DATA   MDCEXCH.DATA         MDCFILES.BASIC
+MDCLETTR.BASIC/DATA   MDCLODGE.BASIC/DATA  MDCSAMPL.LETTERS
+MDCSTAT.DATA          MDCTHIRD.DATA        MDCWAIT .DATA
+
+The various  modules  of  this  system  are  for  the purpose  of
+managing Masonic degree candidates and their proficiency coaches.
+The system  assumes everything  resides on your "A" disk,  so you
+will have  to  install it  first on  a  disk that has at  least a
+couple hundred  blocks of  available space, and then ATTACH  that
+disk as your "A" drive.  
+
+These basic programs  are written  to run under Oasis 5.5.   They
+include graphics  displays and  other functions useful only by  a
+TeleVideo 950 terminal,  but others do at least  work.  Don Royer
+(714) 968-9156 
+
+-----------------------------------------------------------------
+> 1 AB IR OU045 TIMECARD
+
+TIMECARD.BASIC
+
+Larry Stephens  (404)  291-2526  contributed  this program  which
+handles time keeping record maintenance including the calculation
+of gross pay.  
+
+-----------------------------------------------------------------
+> 4 AB IR OU045 WEREWOLF (Adventure game)
+
+WEREWOLF.BASIC
+
+The Werewolf  howls  at   dawn.   If  he  bites  you   take  some
+Wolvesbane.  This is  an adventure game of sorts  where you prowl
+dark caves and other exciting places in search of your den.  But,
+watch out  for  the  panther  and  other scary  hazards.   It was
+converted for Oasis  by Buzz Vandershoot from a  listing he found
+in Softline,  a magazine  for users of Apple computers.   This is
+one  of  the  most interestingly  commented program listings I've
+seen to date.  Buzz has certainly found a way to make dry program
+code reading an adventure in itself.  
+
+-----------------------------------------------------------------
+=================================================================
+END OF VOLUME 45
+=================================================================
+
+
+
+
+
+
+
+Welcome  to  VOLUME 45  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 45.
+
+*****************************************************************
+
+WANT A PRINTED COPY OF THE PROGRAM INFO TOO? [Y/N]:N
+
+ 
+BUDGET1.BASIC
+ 
+This is a new version of the household budget system originally
+released on volume 4.  Larry Stephens has made some significant
+improvements to it for us.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+CLEAR.ASSEMBLE/COMMAND
+
+Jack Holeman sent  this handy utility that just clears the screen
+and  returns  the cursor  to the  top left hand corner (like  CRT
+CLEAR in an EXEC except that you can execute it at the CSI level.
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+EASYDEMO.SCRIPT
+ 
+Jack Holeman has put together a nifty demonstration of just what
+the information retrieval services under Easylink are all about.
+A very nice jazzy presentation.
+
+WANT TO SEE IT NOW? [Y/N]:N
+
+ 
+EDIT11.COMMAND/DOC/HELP  EDIT11IN.EXEC   EDIT11MO.EXEC
+
+EDIT-11 is a screen oriented text editor for OASIS.  This version
+has  been provided  to the  OASIS User Group Library to  acquaint
+users  to  the usefulness  of this  editor.   Some of the fancier
+features have been  removed for this demonstration version  and a
+full  manual  is  not  provided.   EDIT-11  in  its  entirety  is
+available for $50.00 plus $1.50 shipping ($3.00 foreign) and 6.5
+tax (for California residents) from Clark Calkins at: 
+
+                         C.C. Software
+                       1907 Alvarado Ave.
+                     Walnut Creek, CA 94596
+                   (415) 939-8153 (after 5:30)
+
+NOTE: EDIT11IN AND EDIT11MO MAY BE NEEDED FOR SOME INSTALLATIONS.
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+EDITBIG.EXEC
+ 
+This is a somewhat improved version of the utility for managing
+the editing of very large files.  It was originally released on
+volume 19.  FB
+
+WANT MORE INFO NOW? [Y/N]:N
+
+ 
+FILECHK1.BASIC
+
+Lon Bateman  improved the  version of FILECHK released earlier on
+volume 34.  This  program, you will recall, checks  for corrupted
+links in an ISAM file.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+FULL.BASIC/EXEC/INFO
+
+This little utility  displays the percentage of available records
+being  used by  an ISAM  or KEYED file.  It was  submitted by Lon
+Bateman of  Shoreman Food Technologies (301)754-8181.  Be sure to
+also look  at  the  SHOWFILE  COMMAND  on Volume  30  for another
+approach to the problem.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+LOAN4.BASIC
+ 
+Yes, it's another loan amortization program, but once again enough
+different to give it a place in our collection of financial stuff.
+This one was written by Larry Stephens.
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+MDC.EXEC/NOTES
+MDCCOACH.BASIC/DATA   MDCEXCH.DATA         MDCFILES.BASIC
+MDCLETTR.BASIC/DATA   MDCLODGE.BASIC/DATA  MDCSAMPL.LETTERS
+MDCSTAT.DATA          MDCTHIRD.DATA        MDCWAIT .DATA
+
+The various  modules  of  this  system  are  for  the purpose  of
+managing Masonic degree candidates and their proficiency coaches.
+The system  assumes everything  resides on your "A" disk,  so you
+will have  to  install it  first on  a  disk that has at  least a
+couple hundred  blocks of  available space, and then ATTACH  that
+disk as your "A" drive.  
+
+These basic programs  are written  to run under Oasis 5.5.   They
+include graphics  displays and  other functions useful only by  a
+TeleVideo 950 terminal,  but others do at least  work.  Don Royer
+(714) 968-9156 
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+TIMECARD.BASIC
+
+Larry Stephens  (404)  291-2526  contributed  this program  which
+handles time keeping record maintenance including the calculation
+of gross pay.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+WEREWOLF.BASIC
+
+The Werewolf  howls  at   dawn.   If  he  bites  you   take  some
+Wolvesbane.  This is  an adventure game of sorts  where you prowl
+dark caves and other exciting places in search of your den.  But,
+watch out  for  the  panther  and  other scary  hazards.   It was
+converted for Oasis  by Buzz Vandershoot from a  listing he found
+in Softline,  a magazine  for users of Apple computers.   This is
+one  of  the  most interestingly  commented program listings I've
+seen to date.  Buzz has certainly found a way to make dry program
+code reading an adventure in itself.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+
+****************************************************************
+
+WELL, THAT'S THE END OF VOLUME 45.   LET ME  HEAR YOUR COMMENTS.
+ 
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+ 
+****************************************************************
+    a copy of VOL45.EXEC may have been left on your "S" disk.
+
+>

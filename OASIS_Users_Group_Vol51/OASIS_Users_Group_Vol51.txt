@@ -1,0 +1,653 @@
+October 1985                    Volume: 51
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL51   
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL51   
+BLACKJ   BASIC    A 10/11/85 11:45   228   10 S   113 VOL51   
+CHECK3A  BASIC    A 10/11/85 11:45   553   22 S   123 VOL51   
+CHECK3A  FIRST    A 10/11/85 11:45     1    1 S     4 VOL51   
+CHECK3A  INFO     A 10/11/85 11:45    35    2 S    72 VOL51   
+CHECK3A  MASTER   A 10/11/85 11:45    20    1 D    50 VOL51   
+CHECK3B  BASIC    A 10/11/85 11:45   453   16 S   104 VOL51   
+CHECK3B  INFO     A 10/11/85 11:45    15    1 S    65 VOL51   
+CORONA23 BASIC    A 10/05/85 11:45   168    6 S   143 VOL51   
+CORONA23 INFO     A 10/11/85 11:45     7    1 S    65 VOL51   
+DEPREC   EXEC     A 10/11/85 11:45    88    2 S    73 VOL51   
+DEPREC   INFO     A 10/11/85 11:45   150    7 S    79 VOL51   
+DEPREC0  BASIC    A 10/11/85 11:45    41    3 S   180 VOL51   
+DEPREC1  BASIC    A 10/11/85 11:45    61    4 S   180 VOL51   
+DEPREC2  BASIC    A 10/11/85 11:45   154    8 S   157 VOL51   
+DEPREC3  BASIC    A 10/11/85 11:45   171    9 S   150 VOL51   
+DEPREC4  BASIC    A 10/11/85 11:45   271   17 S   156 VOL51   
+INVENTRY BASIC    A 10/05/85 11:45   229   10 S   141 VOL51   
+INVENTRY EXEC     A 10/11/85 11:45   218    4 S    74 VOL51   
+INVENTRY INFO     A 10/05/85 11:45     7    1 S    58 VOL51   
+SELECT51 EXEC     A 10/11/85 11:45    38    2 S    46 VOL51   
+SNOOPY   POSTER   A 05/16/85 08:27    48    3 S    70 VOL51   
+VOL51    CONTENTS A 10/11/85 11:45   128    6 S    65 VOL51   
+VOL51    EXEC     A 10/11/85 11:45   391   10 S    84 VOL51   
+VOL51    FEEDBACK A 10/11/85 11:45    82    3 S    65 VOL51   
+VOL51    NEWS     A 10/11/85 11:45   253   13 S    65 VOL51   
+WS       INFO     A 10/11/85 11:45    14    1 S    65 VOL51   
+WS$BOOK  OASIS2   A 10/11/85 11:45   566   24 S    65 VOL51   
+WS$BOOK  OASIS3   A 10/11/85 11:45   379   15 S    65 VOL51   
+WS$UTIL  EXEC     A 10/05/85 11:45   440   12 S   138 VOL51   
+WSARCHIV EXEC     A 10/05/85 11:45   267    9 S    91 VOL51   
+WSCOPY   EXEC     A 10/05/85 11:45    92    4 S   115 VOL51   
+WSMASTER EXEC     A 10/05/85 11:45   164    5 S    80 VOL51   
+WSMULTI  EXEC     A 10/05/85 11:45   135    3 S   115 VOL51   
+WSPURGE  EXEC     A 10/05/85 11:45    98    3 S   115 VOL51   
+WSRESTOR EXEC     A 10/05/85 11:45   114    4 S   115 VOL51   
+WSSINGLE EXEC     A 10/05/85 11:45    50    1 S   115 VOL51   
+38 file(s), 248 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+$OUGB.COMMAND:A copied to $OUGB.COMMAND:D
+CHECK3A.FIRST:A copied to CHECK3A.FIRST:D
+CORONA23.BASIC:A copied to CORONA23.BASIC:D
+DEPREC0.BASIC:A copied to DEPREC0.BASIC:D
+DEPREC3.BASIC:A copied to DEPREC3.BASIC:D
+VOL51.CONTENTS:A copied to VOL51.CONTENTS:D
+WS.INFO:A copied to WS.INFO:D
+WS$BOOK.OASIS2:A copied to WS$BOOK.OASIS2:D
+CHECK3A.INFO:A copied to CHECK3A.INFO:D
+DEPREC.EXEC:A copied to DEPREC.EXEC:D
+VOL51.EXEC:A copied to VOL51.EXEC:D
+WS$BOOK.OASIS3:A copied to WS$BOOK.OASIS3:D
+WSSINGLE.EXEC:A copied to WSSINGLE.EXEC:D
+CHECK3B.BASIC:A copied to CHECK3B.BASIC:D
+DEPREC2.BASIC:A copied to DEPREC2.BASIC:D
+WSARCHIV.EXEC:A copied to WSARCHIV.EXEC:D
+WSCOPY.EXEC:A copied to WSCOPY.EXEC:D
+WSPURGE.EXEC:A copied to WSPURGE.EXEC:D
+BLACKJ.BASIC:A copied to BLACKJ.BASIC:D
+CHECK3A.MASTER:A copied to CHECK3A.MASTER:D
+CORONA23.INFO:A copied to CORONA23.INFO:D
+INVENTRY.INFO:A copied to INVENTRY.INFO:D
+WSRESTOR.EXEC:A copied to WSRESTOR.EXEC:D
+$README.FIRST:A copied to $README.FIRST:D
+CHECK3A.BASIC:A copied to CHECK3A.BASIC:D
+DEPREC1.BASIC:A copied to DEPREC1.BASIC:D
+DEPREC4.BASIC:A copied to DEPREC4.BASIC:D
+INVENTRY.BASIC:A copied to INVENTRY.BASIC:D
+SELECT51.EXEC:A copied to SELECT51.EXEC:D
+VOL51.NEWS:A copied to VOL51.NEWS:D
+WS$UTIL.EXEC:A copied to WS$UTIL.EXEC:D
+CHECK3B.INFO:A copied to CHECK3B.INFO:D
+DEPREC.INFO:A copied to DEPREC.INFO:D
+INVENTRY.EXEC:A copied to INVENTRY.EXEC:D
+SNOOPY.POSTER:A copied to SNOOPY.POSTER:D
+VOL51.FEEDBACK:A copied to VOL51.FEEDBACK:D
+WSMASTER.EXEC:A copied to WSMASTER.EXEC:D
+WSMULTI.EXEC:A copied to WSMULTI.EXEC:D
+
+>VOL51
+
+^     OOOOOOOOOOO        UUU              UUU        GGGGGGGGGGGG
+. . . . . . OUG library volume 51 is mounted on drive A . . . . . . .
+   OOOO         OOOO     UUU              UUU     GGGG          GGGG
+ 1  COMPLETE INTRODUCTION TO VOLUME        5  LIST VOLUME NEWSLETTER 
+ 2  LIST SUMMARY OF VOLUME SOFTWARE        6  LIST MEMBER'S FEEDBACK 
+ 3  RUN SOFTWARE CONTRIBUTIONS ONLY        7  LIST CURRENT WISH LIST 
+ 4  DISPLAY CONTENTS OF THIS VOLUME        8  QUIT                   
+  OOO             OOO    UUU      51      UUU    GGG          GGGGGGG
+YOUR CHOICE? [1-8] ===> 1UUU              UUU    GGG          GGGGGGG
+  OOO             OOO    UUU              UUU    GGG              GGG
+   OOOO         OOOO      UUU            UUU      GGGG          GGGG
+CONTENTS OF OUG VOLUME 51 ON DRIVE AUUUUUUU        GGGGGGGGGGGGGGGG
+      OOOOOOOOOOO            UUUUUUUUUUUU            GGGGGGGGGGGG
+>FILELIS A 
+      Copyright 1985   T H E   O A S I S   U S E R S   G R O U P
+
+=====================================================================
+:                                                                   :
+:       "ONE PLANET  -  ONE PEOPLE ................ PLEASE."        :
+:                                                                   :
+:                                                                   :
+=====================================================================
+
+
+^name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+>LIST VOL51 NEWS A 
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL51   
+$README  FIRST    A 10/01/85 06:26    60    3 S    66 VOL51   
+BLACKJ   BASIC    A 10/11/85 11:45   228   10 S   113 VOL51   
+CHECK3A  BASIC    A 10/11/85 11:45   553   22 S   123 VOL51   
+CHECK3A  FIRST    A 10/11/85 11:45     1    1 S     4 VOL51   
+CHECK3A  INFO     A 10/11/85 11:45    35    2 S    72 VOL51   
+CHECK3A  MASTER   A 10/11/85 11:45    20    1 D    50 VOL51   
+CHECK3B  BASIC    A 10/11/85 11:45   453   16 S   104 VOL51   
+CHECK3B  INFO     A 10/11/85 11:45    15    1 S    65 VOL51   
+CORONA23 BASIC    A 10/05/85 11:45   168    6 S   143 VOL51   
+CORONA23 INFO     A 10/11/85 11:45     7    1 S    65 VOL51   
+DEPREC   EXEC     A 10/11/85 11:45    88    2 S    73 VOL51   
+DEPREC   INFO     A 10/11/85 11:45   150    7 S    79 VOL51   
+DEPREC0  BASIC    A 10/11/85 11:45    41    3 S   180 VOL51   
+DEPREC1  BASIC    A 10/11/85 11:45    61    4 S   180 VOL51   
+DEPREC2  BASIC    A 10/11/85 11:45   154    8 S   157 VOL51   
+DEPREC3  BASIC    A 10/11/85 11:45   171    9 S   150 VOL51   
+DEPREC4  BASIC    A 10/11/85 11:45   271   17 S   156 VOL51   
+INVENTRY BASIC    A 10/05/85 11:45   229   10 S   141 VOL51   
+INVENTRY EXEC     A 10/11/85 11:45   218    4 S    74 VOL51   
+INVENTRY INFO     A 10/05/85 11:45     7    1 S    58 VOL51   
+SELECT51 EXEC     A 10/11/85 11:45    38    2 S    46 VOL51   
+SNOOPY   POSTER   A 05/16/85 08:27    48    3 S    70 VOL51   
+VOL51    CONTENTS A 10/11/85 11:45   128    6 S    65 VOL51   
+VOL51    EXEC     A 10/11/85 11:45   391   10 S    84 VOL51   
+VOL51    FEEDBACK A 10/11/85 11:45    82    3 S    65 VOL51   
+VOL51    NEWS     A 10/11/85 11:45   253   13 S    65 VOL51   
+WS       INFO     A 10/11/85 11:45    14    1 S    65 VOL51   
+WS$BOOK  OASIS2   A 10/11/85 11:45   566   24 S    65 VOL51   
+WS$BOOK  OASIS3   A 10/11/85 11:45   379   15 S    65 VOL51   
+WS$UTIL  EXEC     A 10/05/85 11:45   440   12 S   138 VOL51   
+WSARCHIV EXEC     A 10/05/85 11:45   267    9 S    91 VOL51   
+WSCOPY   EXEC     A 10/05/85 11:45    92    4 S   115 VOL51   
+WSMASTER EXEC     A 10/05/85 11:45   164    5 S    80 VOL51   
+WSMULTI  EXEC     A 10/05/85 11:45   135    3 S   115 VOL51   
+WSPURGE  EXEC     A 10/05/85 11:45    98    3 S   115 VOL51   
+WSRESTOR EXEC     A 10/05/85 11:45   114    4 S   115 VOL51   
+WSSINGLE EXEC     A 10/05/85 11:45    50    1 S   115 VOL51   
+38 file(s), 248 block(s).
+
+
+
+VOL51.NEWS:VOL51                                          01/29/85 18:42 Page 1
+
+-----------------------------------------------------------------
+11  October   1985    N  E  W  S    L  E  T  T  E  R   Volume  51
+-----------------------------------------------------------------
+
+
+
+
+Hello again; 
+
+
+VOL51: contains another excellent business shell that makes using
+application  programs  and  doing  system maintenance  work under
+Oasis a  lot easier - this one from Walt Stagner.  Walt also gave
+us two  chapters of  tutorial material from his new,  about to be
+published: "THEOS/OASIS USERS MANUAL." 
+
+Steve Paulovich contributes  a perpetual inventory system that is
+quite  easy  to  use.   Automatic demonstration  and installation
+features are included.   It's amazing how much this  program does
+with only 10 blocks of source code.  
+
+Billy Pennal  sent us  a very  comprehensive  set of programs for
+generating  depreciation  schedules.  This  goes well beyond your
+ordinary  loan  amortization  program, of  which we have several.
+The documentation is especially good.  
+
+Howard Decker's  old  checkbook program,  originally released way
+back on volume  7, has been extensively modified  and extended by
+not  just one,  but  two  of  our  members this  time.   Both are
+professionally done and each has unique capabilities that justify
+both being  included in  the library.  CHECK3A was done  by Randy
+Sun and  features  a  fast,  fancy  menu.  CHECK3B  is  from Joel
+Wasserman.  
+
+If you happen to  have a Smith Corona D200/D300  printer all your
+troubles  are  over.  Joel  Wasserman also  sent  us this printer
+set-up program (CORONA23) that takes all the sweat out of getting
+the thing to do what you want it to do.   I think it could easily
+be modified for other printers.
+
+Our old friend, Gary  Bergman, must have spent his  last vacation
+in Las Vegas.  He sends us a new blackjack game (BLACKJ) to while
+away the hours.  It has great graphics and advanced features like
+card  counting.  While this is not the first blackjack program in
+the OUG library,  it is certainly one of the better ones.   Kevin
+Hansen created another poster of good old Snoopy for your wall.  
+
+INTEGRATED ACCOUNTING SYSTEM:  Everyone wants one, and I get lots
+of calls for  information about low cost integrated  packages all
+the time.  While there are several commercial accounting packages
+out there that are highly thought of, they also tend to be highly
+priced.   I have  just made  a deal to add a  complete integrated
+accounting system with full documentation to the OUG library.  
+
+The system  previously marketed  commercially; includes G/L, A/P,
+A/R,   Payroll,   Job  file   maintenance,  Tool  inventory,  Job
+correspondence,  and other  fancy functions.  OUG members will be
+able to  use the  system without royalty, but will  be invited to
+subscribe  to a  bulletin board service for upgrade, enhancement,
+training, and problem solving services from the authors.  We will
+release the  system sometime  early next year after having  a few
+members   check   it   out   for  us.    The  specifications  and
+documentation look absolutely fantastic.  
+
+INFORMATION RETRIEVAL SYSTEM:  Our development of this package is
+coming along  fine and  searching of the OUG library  information
+file should  be available for online use with CARAVAN in the next
+month or so.   Eventually, we will prepare several  OUG databases
+for searching with this package: such as all the OUG newsletters,
+OUG   membership  information,   and  eventually  a  new  planned
+commercial  software  information  file.   Watch CARAVAN  for the
+first announcement.  
+
+REFERRALS: We still get lots of them, and I personally appreciate
+your efforts  to get the word out to your colleagues.  However, I
+have discovered  that some of the people told about the OUG never
+"get around  to joining" just because they don't have the details
+handy.  In  addition to  telling them, how about telling  me so I
+can send them some "reminder" materials after a while.  
+
+Also, let Buddy Auble at Theos Software know of anyone who should
+be  sent  information  about Oasis/Theos  itself.  There are just
+lots of  opinion makers  out there that need to  be kept aware of
+Oasis/Theos  as a  viable alternative  to  the more highly touted
+operating systems.   I hate to see O/S review articles that don't
+even mention Oasis/Theos.  
+
+THEOS/OASIS USERS  HANDBOOK:   by  Walt  Stagner  is  due  to  be
+published by  the end  of November, possibly in time  for Comdex.
+The first  two chapters are being included on OUG volume 51 along
+with some of  the EXEC examples used in  the book.  Based on this
+sampling, I predict  the book will become an  instant best seller
+in  the  Oasis/Theos world.   Publisher, Weber Systems, lists the
+book at $17.95 with quantity discounts starting at 42 percent for
+15  copies up.   There is  a toll free number for  orders (only).
+Call (800) 851-6018.  
+
+PEACE CORPS:  Back in  1960 President  John  Kennedy asked the US
+people what  they could do for their country.  One of the answers
+was the Peace Corps - 25 years old this year.  After a quarter of
+a century  over a  hundred thousand volunteers have served  in 92
+different third  world  countries.   While  there  is no  way  to
+quantify  their  contributions  to  improving  the  international
+climate for world  peace, there certainly are millions  of people
+who's lives have  been improved in simple ways.   I wonder if the
+time  has  not  come  for  adding  computers  to  the  tools  our
+volunteers take  with them to the very poorest parts of the world
+they serve.  
+
+EUROPE: is  one  of the  fastest growing microcomputer markets in
+the  world  according to  Intelligent Electronics Europe (IEE), a
+Paris-based   market  research   firm.   Western  European  users
+purchases  grew  57  percent  in  the  first  half  of  1985.   A
+statistical analysis  of European  sales appeared in the 29  July
+Computerworld.  
+
+BENCH MARKS: results  have been  coming in, but MUCH too  slowly.
+So far, we have reports only on the IBC Super Cadet (6.1s), Altos
+8000-10  (5.6A),  Altos 8000-14  (6.1), Altos 5-15D (5.6A), Altos
+580-10  (6.1),  Onyx C8000  (5.5/SU), Onyx Sundance (5.5/SU), NNC
+885 (6.1), and the NNC 540 (5.6).  Of this small group, the 8 MHz
+IBC machine is generally the fastest. If you use a machine not in
+this list, please run the benchmark package released on volume 48
+and send me  the results so we can  tell the world.  Also, if you
+can  run  any  of the  benchmark programs  under  other operating
+systems, I'm  sure we  would all like to know  the results.  (The
+benchmark  package is  also available on CARAVAN for downloading,
+but totals 68 blocks.) 
+
+NEW NAME FOR OUG: The new name for Oasis is now starting to catch
+on.  I hear  both Oasis and Theos used  about equally these days.
+At some not too distant point I guess the OUG will have to change
+too.  But, what should we call ourselves?  And, should we work up
+some kind  of logo this time?  I'm having an identity crises over
+this.  Got any good ideas?  Let me hear from you.  
+
+MOLICULAR: The  Durango  operation  which  did  file  chapter  11
+bankruptcy  has  no  effect  on  the  operation  of the  computer
+division  according  to a  spokesperson at Molicular.  Several of
+you  called  to  ask  about  their  health.   As  far  as I  know
+everything is  OK with them, although I've had no further reports
+from any of our Oasis users lately.  
+
+IBM PC: I've had a report that the Wyse PC (from Omnisource) runs
+Theos86 OK.  Everyone wants to know which of the compatibles work
+with  Oasis.  TSC  has a  test disk for use in  establishing this
+with new  machines.  If  you have a compatible you  would like to
+try it on,  let Buddy Auble at TSC  (415-283-4290) know and He'll
+arrange  for  a   loan  of  the  test  disk.    Speaking  of  the
+compatibles, I  bought an  XT compatible in Hong Kong  and should
+soon be able to support the growing number of Theos86 users.  (It
+just arrived in the mail today!) 
+
+ALTOS UPGRADE: I recently  replaced the 10 Mbyte hard  disk in my
+Altos 8000-10 with a 40 Mbyte drive making it now an 8000-14.  It
+was  surprisingly simple  and very inexpensive.  The Quantum 2040
+40 Mbyte (35  formatted) drives are now appearing  on the surplus
+market for anywhere from $400 to $1000 (BNF has them for $400 and
+CPU offered them for $595).  Switching the drives and reformating
+for Oasis  was all that was needed to get the higher disk storage
+capacity.  So,  for $400  and a couple hours of  work, I now have
+almost 30  Mbyte more  storage (plus a left over  Shugart 1004 10
+Mbyte  drive).   I'd be  happy to  share  the details with anyone
+interested.  
+
+PRODUCTIVITY QUOTIENT:  reported  in  Soft Letter  maintains that
+successful  software   companies  need  one  employee  for  every
+$100,000 in sales.  Big companies like Microsoft get $200,000 per
+employee -  Lotus $300,000  per employee.  WOW!  I sure  don't do
+that well.  How about you?  
+
+GEM DOS: is  the latest in a continuing string of newly announced
+operating systems.  This one is from Digital Research for OEMs of
+68000  based  computers.  Once  again, I  cannot  help but wonder
+aloud why Oasis/THEOS  has not received more attention.   Lots of
+us  know  it is  not for  lack of technical merit.  If  all these
+Johnny-come-lately's  have a  chance to grab a significant market
+share,  then  Oasis/THEOS  should  have  an  even  better chance,
+particularly if we all pull in the same direction from now on.  
+
+DOCUMENTATION: is  often  the  weakest part  of a data processing
+system.  The 9 September issue of Computerworld has a provocative
+article  on what  might be called fifth generation documentation.
+"The Next  Wave of User Documentation" by Edmond Weiss challenges
+"The  traditional  user manual  is already obsolete." He advocate
+"invisible documentation"  where the instructions are implicit in
+the way the  system is offered for use.   One solution is to give
+the  user  automatic  help screens  from "internal documentation"
+whenever it is obvious he/she is lost or confused.  He continues,
+"The  next era  of documentation  will  begin not because someone
+invents  a  better way  to show  a book on a screen,  but because
+someone will decide it is time for the technology to adapt to the
+user instead  of the reverse." I have always thought that systems
+should be self  installing and self instructing.  Heavy  food for
+thought.  I recommend the article.  
+
+VARBUSINESS: is  a   new  "Magazine  for  Value-Added  Resellers"
+published by  Computer System News and currently distributed with
+the  parent publication.   The two  issues I've seen so far  have
+been helpful.  If  you are looking for ways  to increase sales of
+vertical packages,  try to get your hands on VarBusiness for July
+and  look  at "The  VAR Survival  Manual"  by Susan Mennear-Dubas
+(516) 365-4600.  
+
+^RESS: The 19 August issue of InfoWorld article, "New Interest in
+>LIST VOL51 FEEDBACK A ltiuser systems  run micro software, offer
+cost-effective way  to connect users," includes a good trade-offs
+analysis  with charts  and examples.  The article gives multiuser
+systems the edge over LAN's.  
+
+The September  issue  of  BUG newsletter  published by the Better
+Business Bureau  computer users  (Alan Bligh) gave the OUG  a big
+half page plug.  It's a great little newsletter, with every issue
+offering  an  Oasis  tutorial  specific  to  BBB  usage of  their
+systems.  The October issue of Silicon Gulch Gazette gave the OUG
+a little plug with a quotation from our newsletter on their front
+page.  
+
+WHAT EVER  HAPPENED TO:  what's his  name.   Joel Laffitte is now
+working   for  Mike   Blaisdell's  new  Yugen  Corporation  (415)
+547-6790.  Jerry  Weltner has  left MBP Software to do  freelance
+promotion   work   on  his   own  and  write  custom  Oasis/Theos
+application articles (415) 523-7008.  
+
+STANDING ORDERS: Setting up your own standing order is a good way
+to be sure that you get all new OUG volumes as they are released,
+and for about half the cost of ordering individual volumes one at
+a time.   New OUG library volumes are released about every 5 to 8
+weeks in groups of two; either two regular volumes or one regular
+volume  and  one  or more  special bonus  volumes.   Members with
+standing orders  are billed the regular one volume fee of $35 for
+each mailing.  That means you get every third regular volume plus
+the special bonus  volume free for each two  paid volumes.  There
+is an extra tape fee for members who require an Onyx tape.  
+
+You do  not  have to  order any  of the back volumes to  set up a
+standing order  for new volumes.  Software contributors may apply
+their free  volume credits against their standing orders, if they
+choose.   You may  start or  cancel your standing order with  any
+volume.   If you  still have  questions  about the standing order
+plan, give me a call.  
+
+
+
+Peace, 
+
+Fred Bellomy 
+
+(805) 965-0265 and (805) 965-5415 for CARAVAN-information system.
+
+-----------------------------------------------------------------
+end  of........    N  E  W  S    L  E  T  T  E  R     Volume   51
+-----------------------------------------------------------------
+
+VOL51.FEEDBACK:VOL51                                      01/29/85 18:42 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL51.FEEDBACK                                    11 October 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+-----------------------------------------------------------------
+
+                                 10/05/85
+ 
+ 
+Fred Bellomy
+OASIS USERS' GROUP
+P.O. Box 2400
+Santa Barbara, CA 93120
+ 
+Re: 
+ 
+ 
+Dear Fred: 
+ 
+     Hi, long time between whenever I spoke with you last.  
+ 
+     I've installed another printer on my system, the SCM D-300
+and have written a program for doing the setup.  It's on the disk
+for you to include in the O.U.G.  
+ 
+     I must say that the latest volumes are 'dynomite' - vast
+improvement since I joined the group - keep up the good work.  
+ 
+     Take care - regards.  
+ 
+ 
+ 
+                                 Sincerely,
+^
+ 
+                                 Joel Wasserman
+ 
+ 
+P.S.  I have also done some work on Howard Decker's check book
+program from some time back.  It runs a little better with
+wildcard search and cosmetic changes.  
+-----------------------------------------------------------------
+ 
+Hey Fred, 
+
+Here is  some stuff  I am  contributing to the OUG as  I promised
+earlier.  This is a property depreciation program.  
+
+This system  is  very  handy for  my business.   It  handles most
+depreciation  problems  and  allows several  different methods of
+depreciation which can  be used prior to 1981  as well as the new
+ACRS.  It  also includes the totals to be used for investment tax
+credit.  
+
+Naturally, if anyone starts  selling this, I would like  to be in
+on it, but here it is to be distributed freely if you wish.  
+
+Now, another subject: 
+
+I think  it would  be good  for the OUG to have  something like a
+problem sharing  function.  For example, I am having all kinds of
+problems with some  of the operating system hard  headedness.  It
+would be nice to be able to find out if anyone else out there has
+had the same problem and solved it.  I will start out with one: 
+
+I cannot  get  OASIS  to send  the command  to  set my OKIDATA 92
+printer to  double width  characters because the command (US)  is
+filtered by  OASIS and changed to (FF).  I have found that system
+call  64  (DEVOUT) does  this.  I  would  be nervous changing the
+operating  system  even if  I knew  where  this was located.  Any
+suggestions or fixes would be appreciated.  
+
+                        Billy E. Pennal, Ph.D. (Bill)
+                        1425 W. Pioneer Drive, Ste 135
+                        Irving, Texas 75061
+                        (214) 259-4414
+-----------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL51.FEEDBACK                             11 October 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Welcome to volume 51 in the very rapidly expanding OUG library
+of OASIS compatible member contributed "END-USER-ONLY" software.
+
+Want a PRINTED COPY of the program info too {Y/N}? N
+ 
+BLACKJ.BASIC
+ 
+The old casino game of "21" with fairly decent graphics
+and a "card counting" scheme to help practice your luck.
+ 
+
+                 Written by:  Gary Bergman
+                              14 Hickory Lane
+                              North Brunswick, N.J. 08902
+                              TWX: 710 480 6282  ADS NBRU
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+CHECK3A.BASIC/FIRST/INFO/MASTER 
+
+This is a new version of the checkbook program originally written
+by Howard  Decker and  released on Volume 7 eons  ago.  Randy Sun
+has made major  changes to the user interface  and spiffed up the
+menu displays.   The source program is now so large that I cannot
+run  it  in the  interpreter on  my NNC system, but the  compiled
+version works fine.  Note that the two data files must be present
+to get things started and that there is a hidden menu command (B)
+for creating a new working copy of the CHECK3A.MASTER file.
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+CHECK3B.BASIC/INFO 
+
+
+The original version of this program was created by Howard Decker
+and released  way back on volume 7.  Joel Wasserman made a number
+of  enhancements that  make it  a little easier to use.   You may
+need to  make  changes in  lines 160  and  170, if you choose  to
+change either the  data file name or size  - CHECK3B.MASTER  with
+space for  1649 check records.  The program is large and may only
+run in the compiled form on some systems or any system with a lot
+of things attached.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+CORONA23.BASIC
+
+If you happen to  have a Smith Corona D200/D300  printer all your
+troubles  are  over.  Joel  Wasserman also  sent  us this printer
+set-up program (CORONA23) that takes all the sweat out of getting
+the thing to do what you want it to do.   I think it could easily
+be modified for other printers.
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+ 
+DEPREC .EXEC    DEPREC   .INFO      DEPREC0.BASIC   DEPREC1.BASIC
+DEPREC2.BASIC   DEPREC3  .BASIC     DEPREC4.BASIC 
+
+This is a  very comprehensive package for generating depreciation
+schedules, going  well beyond the loan amortization type programs
+of which  we have several.  Using the latest IRS rules it handles
+all  forms of  depreciation including: several forms of declining
+balance,  straight  line, and  sum of  years.   The author, Billy
+Pennal, obviously knows what he is doing here.  The documentation
+is also particularly good on this one.  
+
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+INVENTRY.BASIC/EXEC 
+
+This is an excellent and simple to use perpetual inventory system
+contributed by  Steve Paulovich (617) 238-6585.  The company name
+in line 6430  of the source code will  need to be changed to your
+own name, but other than that it is ready to go.  
+ 
+WANT TO TRY IT NOW? [Y/N]:N
+
+ 
+SNOOPY.POSTER
+ 
+Another rendition of our ol' shaggy friend, Snoopy.  Kevin Hansen
+put it together for us.
+
+WANT TO SEE IT NOW? [Y/N]:N
+
+ 
+WS$UTIL .EXEC   WSARCHIV.EXEC   WSCOPY  .EXEC   WSMASTER.EXEC  
+WSMULTI .EXEC   WSPURGE .EXEC   WSRESTOR.EXEC   WSSINGLE.EXEC  
+
+This is  another  Oasis Systems  Maintenance Shell.  This one was
+created by Walt  Stagner for use as an  example in his soon to be
+released  book,  "THEOS/OASIS USERS  MANUAL." The shell is rather
+elegant with  many  nice  menus  and  help screens  that  make it
+particularly good  for new  or novice users.  It will  need to be
+customized for most systems as Walt made the assumption that your
+system  does  not  keep FLOPPY1  attached all  the  time and then
+attaches it as the 'G' drive when it does want to use it.  So, BE
+CAREFUL until you look at all eight EXECs to see which lines need
+to be customized for your particular system setup.  
+ 
+WANT TO SEE THE TOP EXEC NOW? [Y/N]:N
+
+ 
+WS$BOOK.OASIS2/OASIS3 
+
+These are  the two  introductory chapters from Walt Stagner's new
+book, "THEOS/OASIS USERS HANDBOOK." One covers the "uniqueness of
+Oasis"  and  the  other  deals  with  "naming  conventions."  The
+material is tutorial in nature and will be helpful in introducing
+new users to the operating system.  
+
+The complete THEOS/OASIS USERS HANDBOOK is due to be published by
+the end  of November 1985.  Based on this sampling, I predict the
+book will become an instant best seller in the Oasis/Theos world.
+Publisher, Weber  Systems, lists the book at $17.95 with quantity
+discounts starting  at 42  percent for 15 copies up.   There is a
+toll free number for orders (only).  Call (800) 851-6018.  
+
+WANT TO SEE THEM NOW? [Y/N]:N
+
+>LIST VOL51 WISHLIST A 
+File not found.
+
+
+
+
+
+****************************************************************
+
+OK. SO THAT'S THE END OF VOLUME 51 AND WE WOULD LIKE TO HEAR ANY
+COMMENTS YOU MIGHT HAVE ABOUT IT.  WE ARE ALL STILL LEARNING AND
+I'M SURE THAT THERE WILL BE MANY CHANGES TO COME. GIVE ME A CALL
+ANY TIME.
+ 
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>

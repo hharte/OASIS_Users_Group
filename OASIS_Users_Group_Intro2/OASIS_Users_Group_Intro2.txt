@@ -1,0 +1,1390 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: May 1982
+Volume: Intro 2
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 06/11/82 19:00    87    4 S    70 INTRO2
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 INTRO2
+DISKFILE LIBRARY  A 06/11/82 18:12   643   54 I    45 INTRO2
+FIND     BASIC    A 05/15/82 18:44    51    3 S    83 INTRO2
+FIND     EXEC     A 12/02/81 15:47    48    2 S    79 INTRO2
+INTRO2   EXEC     A 08/04/82 18:58   144    4 S    70 INTRO2
+NEWS     LETTER1  A 06/11/82 21:25    77    4 S    70 INTRO2
+NEWS     LETTER10 A 06/11/82 21:40    91    5 S    72 INTRO2
+NEWS     LETTER11 A 06/11/82 21:42    75    4 S    72 INTRO2
+NEWS     LETTER12 A 06/11/82 21:44   141    8 S    77 INTRO2
+NEWS     LETTER13 A 06/11/82 21:46    72    4 S    70 INTRO2
+NEWS     LETTER14 A 06/11/82 21:47   142    8 S    70 INTRO2
+NEWS     LETTER2  A 06/11/82 21:28    63    3 S    72 INTRO2
+NEWS     LETTER3  A 06/11/82 21:30    56    4 S    79 INTRO2
+NEWS     LETTER4  A 06/11/82 21:32    44    2 S    72 INTRO2
+NEWS     LETTER5  A 06/11/82 21:34   122    7 S    72 INTRO2
+NEWS     LETTER6  A 06/11/82 21:35    81    5 S    79 INTRO2
+NEWS     LETTER7  A 06/11/82 21:37   120    7 S    75 INTRO2
+SELECTI2 EXEC     A 07/14/82 18:06    34    2 S    46 INTRO2
+SOFTWARE GUIDE    A 08/04/82 19:00    70    4 S    71 INTRO2
+VOL1     CONTENTS A 06/02/82 19:34   218    9 S    71 INTRO2
+VOL10    CONTENTS A 06/02/82 18:27   250    9 S    72 INTRO2
+VOL11    CONTENTS A 06/07/82 19:52   192    8 S    71 INTRO2
+VOL12    CONTENTS A 06/07/82 19:30   192    8 S    73 INTRO2
+VOL13    CONTENTS A 06/07/82 19:39   196    8 S    72 INTRO2
+VOL14    CONTENTS A 06/07/82 19:21   179    9 S    74 INTRO2
+VOL2     CONTENTS A 06/02/82 19:23   184    8 S    79 INTRO2
+VOL3     CONTENTS A 06/02/82 19:09   164    6 S    77 INTRO2
+VOL4     CONTENTS A 06/02/82 19:04   224    9 S    79 INTRO2
+VOL5     CONTENTS A 06/02/82 18:55   212   10 S    79 INTRO2
+VOL6     CONTENTS A 06/02/82 18:45   179    7 S    77 INTRO2
+VOL7     CONTENTS A 06/02/82 18:39   120    5 S    72 INTRO2
+VOL8     CONTENTS A 06/02/82 18:32    10    1 S    71 INTRO2
+VOL9     CONTENTS A 06/02/82 18:31    10    1 S    71 INTRO2
+WISH     LIST7    A 11/02/81 16:17    47    2 S    75 INTRO2
+35 file(s), 235 block(s).
+
+>COPYFILE *.*:A = = D (REPL,NOQ
+VOL11.CONTENTS:A copied to VOL11.CONTENTS:D
+VOL3.CONTENTS:A copied to VOL3.CONTENTS:D
+$README.FIRST:A copied to $README.FIRST:D
+NEWS.LETTER3:A copied to NEWS.LETTER3:D
+VOL4.CONTENTS:A copied to VOL4.CONTENTS:D
+FIND.BASIC:A copied to FIND.BASIC:D
+SELECTI2.EXEC:A copied to SELECTI2.EXEC:D
+FIND.EXEC:A copied to FIND.EXEC:D
+VOL13.CONTENTS:A copied to VOL13.CONTENTS:D
+VOL5.CONTENTS:A copied to VOL5.CONTENTS:D
+NEWS.LETTER6:A copied to NEWS.LETTER6:D
+VOL6.CONTENTS:A copied to VOL6.CONTENTS:D
+VOL7.CONTENTS:A copied to VOL7.CONTENTS:D
+WISH.LIST7:A copied to WISH.LIST7:D
+SOFTWARE.GUIDE:A copied to SOFTWARE.GUIDE:D
+VOL10.CONTENTS:A copied to VOL10.CONTENTS:D
+DISKFILE.LIBRARY:A copied to DISKFILE.LIBRARY:D
+VOL8.CONTENTS:A copied to VOL8.CONTENTS:D
+COPYRITE.NOTICE:A replaces COPYRITE.NOTICE:D
+NEWS.LETTER2:A copied to NEWS.LETTER2:D
+NEWS.LETTER10:A copied to NEWS.LETTER10:D
+INTRO2.EXEC:A copied to INTRO2.EXEC:D
+VOL12.CONTENTS:A copied to VOL12.CONTENTS:D
+VOL9.CONTENTS:A copied to VOL9.CONTENTS:D
+NEWS.LETTER11:A copied to NEWS.LETTER11:D
+NEWS.LETTER4:A copied to NEWS.LETTER4:D
+NEWS.LETTER5:A copied to NEWS.LETTER5:D
+NEWS.LETTER12:A copied to NEWS.LETTER12:D
+VOL1.CONTENTS:A copied to VOL1.CONTENTS:D
+NEWS.LETTER13:A copied to NEWS.LETTER13:D
+VOL14.CONTENTS:A copied to VOL14.CONTENTS:D
+VOL2.CONTENTS:A copied to VOL2.CONTENTS:D
+NEWS.LETTER14:A replaces NEWS.LETTER14:D
+NEWS.LETTER7:A copied to NEWS.LETTER7:D
+NEWS.LETTER1:A copied to NEWS.LETTER1:D
+
+>INTRO2
+
+
+
+
+
+ELCOME TO  THE  INTRODUCTORY  VOLUME  NUMBER  2  OF  A  VERY  RAPIDLY
+EXPANDING LIBRARY OF OASIS COMPATIBLE PUBLIC DOMAIN OR "END-USER-ONLY"
+COMMERCIAL SOFTWARE.   THE FOLLOWING  IS A LISTING OF THE  CONTENTS OF
+THIS  VOLUME,   THE  NEWSLETTERS  ON  VOLUMES  1-15,  AND  OTHER  MISC
+INFORMATION: (ASSUMING THE INTRO2 VOLUME IS MOUNTED ON THE "A" DRIVE):
+
+HIT <CR> WHEN READY TO PROCEED.
+▼ name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 06/11/82 19:00    87    4 S    70 INTRO2
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 INTRO2
+DISKFILE LIBRARY  A 06/11/82 18:12   643   54 I    45 INTRO2
+FIND     BASIC    A 05/15/82 18:44    51    3 S    83 INTRO2
+FIND     EXEC     A 12/02/81 15:47    48    2 S    79 INTRO2
+INTRO2   EXEC     A 08/04/82 18:58   144    4 S    70 INTRO2
+NEWS     LETTER1  A 06/11/82 21:25    77    4 S    70 INTRO2
+NEWS     LETTER10 A 06/11/82 21:40    91    5 S    72 INTRO2
+NEWS     LETTER11 A 06/11/82 21:42    75    4 S    72 INTRO2
+NEWS     LETTER12 A 06/11/82 21:44   141    8 S    77 INTRO2
+NEWS     LETTER13 A 06/11/82 21:46    72    4 S    70 INTRO2
+NEWS     LETTER14 A 06/11/82 21:47   142    8 S    70 INTRO2
+NEWS     LETTER2  A 06/11/82 21:28    63    3 S    72 INTRO2
+NEWS     LETTER3  A 06/11/82 21:30    56    4 S    79 INTRO2
+NEWS     LETTER4  A 06/11/82 21:32    44    2 S    72 INTRO2
+NEWS     LETTER5  A 06/11/82 21:34   122    7 S    72 INTRO2
+NEWS     LETTER6  A 06/11/82 21:35    81    5 S    79 INTRO2
+NEWS     LETTER7  A 06/11/82 21:37   120    7 S    75 INTRO2
+SELECTI2 EXEC     A 07/14/82 18:06    34    2 S    46 INTRO2
+SOFTWARE GUIDE    A 08/04/82 19:00    70    4 S    71 INTRO2
+VOL1     CONTENTS A 06/02/82 19:34   218    9 S    71 INTRO2
+VOL10    CONTENTS A 06/02/82 18:27   250    9 S    72 INTRO2
+VOL11    CONTENTS A 06/07/82 19:52   192    8 S    71 INTRO2
+VOL12    CONTENTS A 06/07/82 19:30   192    8 S    73 INTRO2
+VOL13    CONTENTS A 06/07/82 19:39   196    8 S    72 INTRO2
+VOL14    CONTENTS A 06/07/82 19:21   179    9 S    74 INTRO2
+VOL2     CONTENTS A 06/02/82 19:23   184    8 S    79 INTRO2
+VOL3     CONTENTS A 06/02/82 19:09   164    6 S    77 INTRO2
+VOL4     CONTENTS A 06/02/82 19:04   224    9 S    79 INTRO2
+VOL5     CONTENTS A 06/02/82 18:55   212   10 S    79 INTRO2
+VOL6     CONTENTS A 06/02/82 18:45   179    7 S    77 INTRO2
+VOL7     CONTENTS A 06/02/82 18:39   120    5 S    72 INTRO2
+VOL8     CONTENTS A 06/02/82 18:32    10    1 S    71 INTRO2
+VOL9     CONTENTS A 06/02/82 18:31    10    1 S    71 INTRO2
+WISH     LIST7    A 11/02/81 16:17    47    2 S    75 INTRO2
+35 file(s), 235 block(s).
+▼ HE FOLLOWING ARE THE NEWSLETTERS RELEASED WITH THE FIRST 15 VOLUMES.
+
+=====================================================================
+EWS.LETTER1:INTRO2                                       01/29/85 18:16 Page 1
+
+----------------------------------------------------------------------
+17 Feb 1981   N E W S   L E T T E R                           VOLUME 1
+----------------------------------------------------------------------
+
+Dear New Member:
+
+Thanks for  the  contributions.  Finally,  volume I.  It took a
+long  time  to get  it together.   We need a lot more  software
+contributors!!  All  of the programs with file type, BASIC, are
+from the C/PM User's Group volume #3.  They were transferred to
+OASIS compatible  file formats using the GETFILE command.
+
+             (eg. GETFILE KENO.BAS:S  (CPM DRIVE = 2
+
+to transfer a C/PM file called KENO.BAS:A  and put  in  on  the
+S drive  in  the OASIS format.) The   file  was   then  renamed
+KENO.BASIC:A  and  edited  for compatibility  with OASIS BASIC.
+
+I will follow the convention of writing a short EXEC routine to
+both explain and  issue the commands necessary to  execute most
+programs.  Generally, the  the EXEC will have the  same name as
+the program(s)  itself, where  ever that makes sense.  (eg  All
+games are introduced and executed from the GAMES.EXEC).
+
+I will greatly appreciate it if you will try to follow the same
+conventions with everthing you submit to the library.  The more
+time I  have  to  spend  putting  new stuff  into  a consistent
+format, the  slower new  volumes will appear.  In this  regard,
+try to anticipate  that new users of your  software will almost
+always have to  be shown how to use  it, unless it just runs by
+itself.  If there are special files, or any special attachments
+or  assignments,  or any  specific data  input  formats, by all
+means make  it clear through explanations, examples, or best of
+all, by the  use of an EXEC to  "automate" the process of using
+the software like we do with GAMES.EXEC.
+
+Phase One  Systems  tells  me that  all systems currently using
+OASIS use the  same 8" single density diskette  format.  So, we
+will standardize  on that.  To initialize a diskette for single
+density  with  at  least one  hundred file  slots,  put the new
+diskette into  the "A"  drive and issue the following  command:
+
+            INITDISK  A (FORMAT  SIZE  100  SEC  13
+
+You will  then  have a diskette that any OASIS system can read.
+
++++++++
+You   can  now  set up a standing order for all new volumes and
+get  every  fourth one free, if you want.  Or, you can wait for
+periodic  announcements  of  the contents  of  new  volumes and
+order    just  what looks  good to  you.   Either way the basic
+per-volume-service-fee    is  the  same: $35.
+
+If  you  can contribute anything to the library, you may deduct
+$10  from   your contribution for the next volume.  If you send
+in  more  than  50K, you can take off  $25 for the next volume.
+Everyone  must  contribute at least $10 per volume to cover the
+very  real  costs associated with running this thing.
+
+I'll  look  forward  to hearing from you, soon - hopefully with
+some  interesting  new contributions for the library.
+
+
+Sincerely,
+
+
+Fred  L.  Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+
+PS:  I  encourage you to get together with other OASIS users in
+your  area   to share  OUG software and to consolidate  quality
+contributions  to  the OUG library.
+
+----------------------------------------------------------------------
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER2:INTRO2                                       01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+16 May 1981           N E W S   L E T T E R                     VOLUME 2
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Dear Member:
+
+Well, you got to Volume 2, so you must really be serious about
+using your system.  Hope you are working on some original software
+of your own to contribute to the library.  I'm constantly adding
+things of my own to it as well as putting all of your contributions
+into a common format and trying to make sure that they conform to
+the KISS principle.
+
+By all means send me anything you have, but try to make sure that
+all of the KNOWN bugs are out, if possible.  Naturally, I always
+prefer to see things in a generalized form that others will be
+able to put to work without needing to adapt to drastically.  When
+you can, try to think about the great variety of ways people may
+try to use your software and make the human interface as natural
+as possible.
+
+I purged out the BASIC version of several programs and only left
+the BASICOBJ and BASICCOM versions in.  That left a lot of extra
+space, so I've included some of the information files that Phase
+One Systems sent me.  You might want to take a look at some of
+them.
+
+All of you contributors take note.  We have had so many new
+members join us who say they can't make any software contributions,
+that I may be able to set a lower per volume money contribution
+for those of you who are contributing software.  It depends
+on how many new people sign up with only money contributions.  It
+seems reasonable for them to subsidize those of us actually doing
+all the work.  I'm not adverse to making special deals with people
+who do special things to help the effort. We'll just have to wait
+a while and see how the experience develops.  I intend to get a
+reasonable compensation for all of the work I'm putting into this
+thing, but if extraordinary amounts of money start pouring in,
+I'll probably start doing some extraordinary things for the
+members, too.
+
+I have ordered a copy of the OASIS version of the Computerized
+Bullitin Board System (CBBS) and expect to be making an
+announcement of its availability in a few months.  Phase One
+Systems will also operate their own bullitin board, but it is
+going to be strictly service oriented.  So they are encouraging
+us to proceed ahead with our own plans to implement one oriented
+toward applications and information exchange.
+
+That's all for now.  I never know how long it will be before you
+see this - it could be a long time, I guess.
+
+Peace,
+
+FRED
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER3:INTRO2                                       01/29/85 18:16 Page 1
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+2 JUNE 1981              N E W S   L E T T E R                         VOLUME 3
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+
+
+
+Dear Member;
+
+This is the beginning of the news letter series.  Anything and everything (with
+a little editing) that you send me on a disk will go here.  Phase One will be
+getting copies of all of the Users' Group volumes, so its one way to get their
+attention.  If you have things you are working on, tell us.  If you need help,
+make your plea. Etc, etc.
+
+Stuff is coming in faster than I originally anticipated.  In one way it's
+great - in another its a problem.  I don't have enough time to write a review
+about each program.  If any of you are so inclined to be the ZOSO of the OASIS
+Users' Group, give me a call and I'll "share the wealth." (free new volumes or
+something like that).  Also, I want to index everything in our library, but
+as yet have not gotten any of the library programs adapted for our use.  If
+you have something ready to use or if you would like to take on the responsi-
+bility for maintaining the index, get in touch (805-965-5555).
+
+Several people have indicated that they are converting things to which they
+have access from other users groups libraries.  That's a really good idea.
+I've been working on the CP/M library programs in BASIC, but that's only a
+drop in the bucket.  If you have access to some other user group or club
+library, by all means get started with the process of converting anything new
+for use with OASIS.
+
+There are a few things I would like to see someone come up with.  We need a
+generalized conversion program to convert from other BASICs to OASIS BASIC.
+I am trying to get some of the logic worked out for BASIC-E and maybe also
+for CBASIC.  If anyone knows of a nice table of equivelents for commands and
+conventions, let me know.  Basic is duck soup compared to assemble programs.
+(See Taylor's note below) If any of you geniuses out there feel like tackling
+a really BIG problem, then try to figure out a generalized way to convert
+ASSEMBLY programs to OASIS.  There are a lot of little data base management
+systems floating around in the public domain, but so far I haven't been able
+to get any of them converted.  Finally, we need a "cookbook" for generating
+new CLASSnn codes.  Several people have mentioned that their terminals don't
+work just right with the standard ones supplied with OASIS.  If anyone knows
+how to do it, it shouldn't be to difficult to write it down for the rest of us.
+
+Finally, I'm looking into setting up a "BULLETIN BOARD" for OASIS users based
+on John Taylor's MAUDE system.  I'm not sure yet how it will be handled, but
+that's what's in my mind.  There are already a lot of CBBS's available (See
+the BULLETIN.BOARD file in this volume.  If you haven't yet tried one, you
+should.  It's a lot of fun.
+
+Fred Bellomy - Organizer for the OASIS USERS' GROUP.
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*+*
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER4:INTRO2                                       01/29/85 18:16 Page 1
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+9 June 1981         N E W S   L E T T E R                       VOLUME 4
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Hi Sports fans:
+
+In between writing these blurbs I think of a million things I'd like to
+talk about.  But, when the time comes to put it down, I'm speechless.
+For one thing, Volume 3 was only finished a week or so ago.
+
+This volume contains 14 games which include the worst so far (TACOS) and
+one of the most interesting (SWARMS).  I think the international time
+converter (TIME) is great (but then, I wrote it) and I know a lot of
+folks are going to appreciate the household budget program, BUDGET.
+
+Dispite the fact that many of the press releases have started to appear,
+I haven't gotten any new software contributions for a couple of weeks
+now.  Come on you guys and gals; keep the exciting contributions coming.
+
+Nothing new yet on the Bulletin Board System.  I'm trying to get a
+separate dedicated computer to put it on.  The software hasn't arrived
+as yet, but is ordered.  If you have any suggestions for special ways we
+might use it when it is up and running, let me know.  I'm looking into
+the possibilities for hooking up with one of the networks (ie TELENET or
+TYMNET) to make it possible for you all to reach the OUG CBBS at low
+cost.  I don't know how soon that will be possible, but its in the
+thinking process.  If you have any information on how to make it happen,
+get in touch with me.
+
+I've included three blurbs from Phase One Systems (file type ARTICLE or
+INFORMTN) that you might want to read sometime.
+
+No newsletter contributions from any of you, so that's it.
+
+Peace,
+
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER5:INTRO2                                       01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+1 July 1981          N E W S   L E T T E R                      VOLUME 5
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+Dear Member:
+
+Well here it is the fifth volume.  Two years ago it didn't seem
+possible that we would actually have an operating Users' Group,
+little lone already five volumes of user contributed public
+domain software.  But, here it is.  And, this is only the tip
+of the iceberg.  We have so much in the tubes nearing completion
+that I can't believe it sometimes!
+
+This prompts me to ask an obvious question publicly, that a few
+of you have asked privately: Why do we need propretary software?
+
+In some cases, we may not need it where there is already something
+in the public domain that will solve our immediate problem.  But,
+some of the stuff out there is copyrighted with permission for end
+users to use it, but not to sell it for profit.  Everything I add
+to the library of my own, I handle that way.
+
+Then, there is the time it takes to customize an existing package
+to do precisely what a customer wants it to do.  Time is money and
+it is often (usually?) cheaper to buy something that will already
+do your job than to try to massage existing public domain software
+to do it.  That is less of a problem for hobbyists than for people
+who are trying to make a living selling systems with reliable,
+operating software.  And, no one guarentees to maintain public
+domain software.  If you find a bug, that's tough!  You fix it or
+wait for some other member to fix it.
+
+Finally, there are those remarkable software undertakings that are
+just too valuable to be contributed to the public domain until the
+original authors have gotten back a reasonable financial return on
+their intellectual investment.  Everyone deserves to be compensated
+for their efforts - ONE WAY OR ANOTHER.  Some of the things we are
+doing for the Users' Group I think we are doing with the knowledge
+that others are doing the same thing so that we are going to be
+"paid in kind."  Some of it, I know, we are doing for the pure
+pleasure of it!
+
+I have the feeling that one day most application software will be
+either free or automatically generated by trivial instructions that
+anyone of normal intellegence can understand without special training.
+People are already talking that way, so I'm sure it is going to
+happen sooner or later.  It will take something more than efficiently
+run Users' Groups to bring it about, but I think the process is
+already under way.  If users' groups could do it, there would no
+longer be any commercial software, because groups have been around for
+at least twenty years.  There has been excellent free or near free
+software in many of their libraries for at least that long (eg the
+PDP-8 Users' Group library was/is loaded).
+
+But, something new is happening.  People are finally paying attention
+to the human interface with machines in a way which their preoccupation
+with the hardware would not allow in the past.  Now, at last, we are
+beginning to shift some of our brain power towards the problems of how
+to make machines friendly to real people - not just the computer Gurus.
+And you programmers/system analysts out there, no need to panic.  The
+more effective/productive computers make housewives/bakers/baseball
+players, the greater will be their appetites for even more complex
+capabilities.  And, there is no end to the cycle, at least that I can
+imagine.  The computer professional's jobs will be changing, but there
+will be even more of them.  Where only a few hobbyists have their own
+personal computers to command, computers will pervade every aspect of
+our lives sooner than most of us guess.  As the cost of the hardware
+continues to decline and as the list of previously solved software
+problems continues to grow,  there will be virtually no reason not to
+add intellegence to any process/environment where it makes any sense
+at all to do it.  When it only costs an extra dollar to turn the lights
+on and off in a room in response to the presence or absence of a person
+who needs them, such a feature will be added to every room in the
+modern world.  Etc., etc., etc.
+
+Now for some practical comments on things of import.
+
+Volume 5 is the best so far, at least in my opinion.  The COMPARE, DM,
+and DS are really going to help a lot.  The diskfile library system
+(ADD and FIND) solved one of my immediate problems and I am sure you
+will want to use it to keep track of the location of all your various
+pieces of software.  To conserve Vol 5 disk space, I didn't leave any
+unused space in the DISKFILE.LIBRARY file included on this disk, so
+you will need to make a new one for your own use - but no big deal.
+
+THE next volume is well on its way and will include a general purpose
+SORT - not one of the $100 super fast jobs, but one that works great,
+otherwise.  Of course, there are more games coming, too.  Several of
+our members are working on the conversion of the BUSINESSMASTER II
+business system package from OEM Software.  I purchased a distributor
+license for the OASIS USERS' GROUP and will include the converted
+version in future volumes!  That is a really BIG deal and I am looking
+forward to completing this project, for sure.  From what I've seen,
+this is one of the better, fully integrated business packages.  You
+will note in the library file that some of the Vol 6 programs are
+included, not all, but some.
+
+I am finding that I enjoy coordinating this thing so much that my other
+regular business, running The INFO-MART (an on demand information
+service), often sucks hind tit (the one without much milk).  But, there
+have been a significant number of non-contributing members join so that
+I have been able to take out some money compensation along the way.
+But, nobody is getting rich.  I've taken in about $1300.00 in fees
+since the first of the year and have paid myself about a dollar an hour
+(probably a lot less).  I hope that will change.  Everyone deserves to
+be fairly compensated for their efforts, including me.  I'm not
+complaining, because this thing is really a lot of fun, as well.
+
+Well, so long for now. Keep the contributions coming in and tell your
+friends/enimies/BULLETIN BOARDS, etc. that we are working on vol 6.
+
+Peace,
+
+
+Fred L. Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER6:INTRO2                                       01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+20 July 1981             N E W S   L E T T E R                  VOLUME 6
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+Dear Member,
+
+Well here it is: Volume 6 and it's another good one.  We have some really
+serious software contributors out there in OASIS land. You will note some
+significant changes starting with this volume.  First, and most important,
+we will only include the BASICOBJ version of BASIC programs from now on to
+save space.  To compensate, two EXEC's will be repeated on every volume:
+COMPILE and a new one, RUN$.  RUN$ will allow you to "RUN" BASIC programs
+through the OASIS Interpreter.  Instead of saying RUN CIVILWAR you can say
+RUN$ CIVILWAR even though you haven't yet compiled the program.  I hope
+all of you pros out there will be patient with those of us who still need
+such crutches.  To get a compiled version that will run on your particular
+release of OASIS you can just type COMPILE CIVILWAR after you have put the
+BASICOBJ version on a disk that has vacant space on it (Of course you can
+also type BASIC CIVILWAR and do the same thing, but perhaps our EXEC will
+be a little less confusing for some people.).
+
+A somewhat more subtle change is that we are beginning to run out of games,
+or more accurately, we are starting to get more serious contributions from
+members.  Nearly every day I get a call from someone who promises to send
+us more serious software.  There is a lot out there.  Even relatively new
+OASIS users are doing unique things that they are willing to share with the
+rest of us.  It's great and exciting for me!  Our BUSINESSMASTER II project
+now has 4 partners working on the conversion: me; Stu Rosenthal of Green
+Lawn, NY; Ed Kempf of Olathe, KA; and Bill Anderson of San Francisco, CA.
+My guess is that we should have this complete business system available in
+a month or two.  It is not public domain, but I purchased a dealership for
+the OASIS USERS' GROUP and every member will be able to acquire a copy under
+the same conditions as other volumes in the library.
+
+A couple of you have told me that you have either put "ads" in your local
+bulletin boards or are thinking about it.  Thanks, and I encourage others of
+you to do the same thing.  It's one way to get in touch with other OASIS users
+in your area, and the more members we have the better - both financially, and
+program contribution-wise.  Remember, I have no objection to several of you in
+the same geographical area getting together and sharing the OUG library volumes
+with each other as long as you don't "sell" anything and collaborate with one
+another in putting together quality contributions to the library. Always keep
+in mind that there is a lot of intellectual energy and time envolved at my end,
+and one way or another it is important that I continue to be compensated. We
+all clearly want this thing to continue on indefinately and that is personally
+my intention.
+
+Now for the really BIG news.  Digital Microsystems of Oakland, CA and I are
+finalizing an agreement to set up the OASIS USERS' GROUP BULLETIN BOARD on
+one of their computers!  It could happen anytime now.  I have John Taylor's
+version of the CBBS for OASIS and have checked it out on my present system.
+There are still a lot of things to do, but the ball is rolling.
+
+Phase One has indicated that they would be in attendance if we hold a USERS'
+GROUP meeting at the Fall COMDEX in San Francisco, so I am starting to put
+together the plans for that.  Your input is strongly encouraged.
+
+What else?  I'm still having a ball and enjoy talking to all of you who call.
+Sorry I can't always answer the technical questions, but soon we will have an
+organized list of members and you should be able to find someone in your area
+or with your interests on the list.  I guess that's all for this volume.
+
+Oh yes.  I got stuck with 10 boxes of WABASH double sided double density,
+soft sector diskettes.  The guy who sold them to me didn't tell me they were
+not flippies and has refused to talk about it.  Anyway, if you know anyone who
+uses double sided 8" diskettes (one index hole), have I got a deal for them.
+
+
+
+Peace,
+
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of NEWS.LETTER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER7:INTRO2                                       01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+1 November 1981          N E W S   L E T T E R                  VOLUME 7
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+Dear Member,
+
+This volume marks another important advancement in the activities of the
+OASIS USERS' GROUP.  For the first time commercial software is included.
+We purchased commercial distribution rights for the OASIS USERS' GROUP.
+The dictionary file is NOT public domain!  You have a legal copy of it
+and under some conditions can share it with other OASIS users in your
+geographical area, a condition generally true for anything in the library.
+If you have any questions about the copyright status of anything in the
+library, contact the author first.  Then, if you still have questions,
+get in touch with me.
+
+The SPELCHEK spelling checker probably is not the fastest one available,
+but it is certainly one of the least expensive.  And, it does work.  At
+least it tells you when words are not in the dictionary.  Unfortunately,
+there are a lot of strange non-words in the dictionary too.  I don't know
+how it was compiled, but some very unusual "words" show up - like "fred".
+In practice this has not proven to be much of a problem in my testing.
+I would appreciate feedback on your experiences in using it.  And, I would
+especially like lists of good words you find that are not now in the
+dictionary, or non-words and misspelled words you find that are in it.
+I am sure the availability of the dictionary is going to spark some really
+interesting new programs.
+
+I spent about a hundred hours getting the system together, including
+over 20 hours of computer time just rewriting the file into indexed
+segments.  I have a copy of the original sequential file in straight
+alphabetical sequence for anyone who wants to do something for us with
+that format.
+
+Speaking of hours spent on the OUG, I am spending a lot more time than
+I ever imagined it would take processing each new volume for the library.
+While this is still somewhat of a labor of love, the honeymoon is over.
+Fortunately, the income from fees is growing enough so that it is becoming
+worth my while financially.  Thanks folks.
+
+Speaking of income, it has been good enough that I am going to throw in
+volume 9 free along with volume 8 to all of you who set up standing orders.
+Actually, it makes sense because it takes two volumes + to hold the entire
+dictionary.  And, if I don't handle it this way we might end up with more
+volumes (and $35 fees) than I have been telling people to expect on the
+average.  No big deal, but that's how I see it.
+
+Now I don't want to make anyone feel guilty, but LOTS of you out there
+have promised software contributions that have so far not found their
+way into the library.  You like to get new stuff, and the main way we add
+new volumes to the library is through contributions from our members.
+SO GET YOURSELF AWAY FROM THE TV SET AND FINISH THAT PROGRAM YOU PROMISED!
+
+On the subject of new software, if you know of any really good commercial
+software or databases we can buy at a reasonable price (much less than
+$300 for unlimited rights) for conversion to OASIS and inclusion in our
+library, let me know.  It looks like that may be a good way to get new
+quality stuff.  That's how we got the SPELCHEK dictionary and the
+BusinessMaster II packages.
+
+Our BusinessMaster II conversion has bogged down.  Since the last news
+letter there has been no real progress made, of which I am aware.  Now
+that SPELCHEK is done I may be able to put a little more time into the
+project myself.  Our other partners have all been unable to give any of
+their time to the conversion lately.  That's one of the problems with
+trying to undertake a big project with an all volunteer team.  I am still
+optimistic, though, and will keep you informed.
+
+
+I am now very much aware that our members have a wide range of versions
+of OASIS, varying from 5.3 to 5.5.  Volume 1 had a couple of programs
+that had been compiled with version 5.4.  Several people called to say
+they couldn't run them with 5.5.  Now I learn that 5.5 has the capability
+of RE-compiling earlier versions so that they will run with 5.5.  All you
+have to do is issue the command: BASIC AWARI.BASICCOM.  The system will
+then generate a new compiled version.  BEWARE, the old 5.4 version is
+REPLACED, so if you want both versions, better make a copy.  I have fixed
+the current version of Volume 1 so that an automatic recompile happens
+when ever a new user runs the VOL1.EXEC.
+
+Some of you have reported that programs that worked fine with OASIS 5.4
+needed minor changes to run under 5.5.  I have taken the precaution of
+checking everything in volume 7 with both versions 5.4 and 5.5, and will
+plan to do the same for all future volumes.  Let me know if you have any
+other problems with anything in our library.
+
+The new computer for our bulletin board system is scheduled for shipment
+to us sometime very soon.  I have no idea how long it will take to get
+it up and operating with a dedicated phone number.  I do plan to bring
+the new system to the Fall COMDEX meeting this month in Los Vegas.  The
+folks at Digital Microsystems have promised to try and ship our machine
+sometime early this month, so I think it will be available in time for
+the meeting at the show.  I hope so, because it will give some of you a
+chance to play with it while you are there.
+
+We now have a time and place scheduled for our meeting at COMDEX.  It is:
+
+                        C O M D E X
+                        2 P.M. Friday, 20 November, 1981
+                        Conference Rooms 7 and 8
+                        Los Vegas Hilton Hotel
+
+The agenda is still flexible, but will definitely include a question and
+answer period with Phase One personnel and a period for people to make
+public announcements about software they expect to have available in the
+near future - both commercial and OUG library contributions.  It should
+give us a chance to explore new ways of realizing the tremendous potential
+of the OASIS operating system.  See you all there.
+
+So much for this news letter.  Unlike most of the others this one is being
+sent to all members so that they know of the COMDEX meeting. Most of our
+news letters only get "published" on the latest new volume of the library
+diskettes (or ONYX tapes).
+
+Happy computing,
+
+Fred L. Bellomy
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+File not found.
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+File not found.
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER10:INTRO2                                      01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+30 January 1982         N E W S   L E T T E R                  VOLUME 10
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+Dear Member;
+
+Well here we are again after about three months of holidays and other
+things taking priority over the (much more interesting) activities of
+the OASIS USERS' GROUP.  You all have been pretty inactive, too (at
+least software contribution-wise).
+
+Volume 10 has several really important things on it, as well as the
+usual less important or just fun stuff.
+
+Volume 11 is nearing completion, too.  It will contain the OASIS version
+of all the programs in the Osborne publication, "Some Common Basic
+Programs" by Poole and Borchers, as well as some other nifty things.
+One of them will be an MBASIC to OASIS BASIC conversion program!
+
+We have a couple of new volunteers to help with the conversion of
+BusinessMaster II and I am now hearing rumors to the effect that Phase
+One may have a CBASIC to OASIS BASIC conversion routine available
+sometime in the near future. (but, I'm not holding my breath)
+
+I still have 5 boxes of double sided, souble density Wabash 8 inch
+diskettes available at $35/box plus postage.  So, if you have any
+need for same, let me know.  I'd like to get rid of them.
+
+I've lost track of one of our members.  If anyone knows where
+Bret Douglas (formerly of Doraville, GA) is, please let me know.
+
+There has been some progress on our bulletin board system.  We now
+have the modem, software, and the computer (curtesy of Patty Torode,
+of Digital MicroSystems).  What I don't have is a copy of OASIS 5.5
+which will allow me to attach the modem to one of the serial ports.
+Phase One knows of the problem, but so far has only been able to
+scratch their collective head.  Any way, I'm still working on other
+things (like volumes 11 and 12 and other formats) and will not be
+able to get to it for a while longer either.
+
+One of the other things I'm working on myself is a questionaire to
+all of our members.  Not everyone told us what they had when they
+joined, and there are a number of other things many of us would
+like to know about members.  So, sometime in the very near future
+I will be sending out a questionaire - probably with the next
+hardcopy newsletter.  If you have any suggestions for things we
+should ask, let me know.  I'm planning to ask about your hardware,
+special software, conferences/shows you attend each year, any
+hardware/software comparisons/benchmarks you have done, and any
+special interests you may have.
+
+Note: we now do have an ONYX version of the library!  Other formats
+are on their way, too.  Our converter, Grant Krucik, says he is
+willing to be very flexable about the way he interacts with the
+"non-standard format" members.  That means, for one thing that the
+ONYX people can specify how often they want new tapes - bearing
+in mind that there is a $30 tape fee each time.
+
+We need a new volunteer to come up with an annotated directory to
+the contents of the library.  Our other volunteer got sidetracked.
+
+Ace Grove (803) 268-3911 who volunteered to rewrite the SPELCHEK
+system so that it would execute faster tells me he should have
+something for us by about the first of May.  Might not hurt to
+let him know how anxious you are for the new version.  I sure
+know I'm going to appreciate it when it's done!
+
+
+Dispite the fact the folks at Phase One don't always solve all of my
+software problems immediately, it seems appropriate to let you all
+know that they have been very helpful in lots of different ways.
+The last several issues of the Software Monitor have carried most
+of the news I have called in to Jerry Weltner and he always makes
+my rough ideas sound like they were conceived by a major public
+relations firm.  Many of the utilities in our library are being
+contributed by Chris Williams.  And, of course nothing would be
+done for us at Phase One, unless Howard Sidorsky at least approved.
+So, next time you talk to them up there in Oakland, let them know
+you appreciate their support, too.
+
+
+Sincerely,
+
+
+Fred L. Bellomy
+(805) 965-0265
+(805) 965-5555 (answering machine)
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER11:INTRO2                                      01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+30 March 1982             N E W S   L E T T E R                VOLUME 11
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+
+
+Dear Member;
+
+Greetings again.  As  it happens, I have held Volume 10 to send out with
+this one.   Frankly, I thought it would be ready a lot sooner than this,
+or I  would have sent 10 along around the first week in March.  Oh well,
+the road to hell is paved with good intentions, so they say.
+
+This volume (11) has got to be one of the best yet.  The MBASIC to OASIS
+BASIC  converter alone  make it  a winner.  Add to that  the 76 programs
+from "Some  Common BASIC  Programs" (Osbourne), and you have  one that's
+going to be hard to beat.
+
+Coming soon in the  near future (Volume 12 ??)  will be the complete set
+of programs published in "Practical BASIC Programs" again from Osbourne.
+Certainly we are  due for an updated membership  list, and that probably
+will be in Volume 12.
+
+I don't want  to make  your mouth water, so I  won't tell you everything
+people are  promising to  submit in the near future,  but there are some
+really  great  things coming!   I have  been urging everyone to send  us
+"utilities" for converting programs in other versions of BASIC to OASIS.
+Now we have our first one.  I think we should have one for CBASIC in the
+near  future, also.   Yes, I  know Phase One just announced  their's (at
+$250  !),  but we  were talking  about it long before they  made their's
+available.  I'm  sure there will be a "market" for both, as usual.  But,
+once again it will be hard to beat our "price."
+
+We still  need someone  to run  our dictionary through one of  the other
+commercial  spelling  checkers.  There  are definately some non-words in
+our  SPELCHEK dictionary.   It shouldn't  be such a big deal  to run our
+list against theirs.  Come on you guys.  Volunteer.
+
+If you  are  one  of  the  people  promising  great  things,  please  be
+encouraged to  get your  masterpiece finished and send it  in.  I do let
+hints slip now  and then when people call  asking about the availability
+of this or  that kind of program.  So,  someone is certainly waiting for
+your goodies (even if it is only me.).
+
+Speaking of goodies,  I still have 3 boxes of DSDD Wabash diskettes that
+I  want to  get rid  of at $35/box.  Also, I  have 30-40 TI 2716 EPROM's
+(the  multiple  voltage type)  for $8  each.  Wearing my other hat  (The
+INFO-MART) I  am a dealer for the Votrax TYPE-'N-TALK speech synthesizer
+($359) and the Microcompatible MICRO-CUE hardware spooler ($269 up).  We
+are also  dealing most of the popular CP/M software for any of you folks
+out  there  who  can't find  exactly what  you  want for operation under
+OASIS.
+
+Along this same  vain,  I  have  been  having discussions  with  several
+producers  of  commercial  OASIS  compatible  software  about  marketing
+ventures.  The discussions  have run the gamut from  discount offers for
+OUG members  to joint  national marketing efforts to the  creation of an
+OASIS  software supermarket  offering the  wares  of many OASIS software
+producers.  At the  moment our plans are still  in the early formulation
+stages, so  if you have any ideas or want to discuss a joint effort, get
+in  touch  with  me.  Any  such activity  envolving  commercial software
+probably would  be handled under the INFO-MART banner - and handled in a
+way  that  will  not detract  from the  great  achievements of the Oasis
+Users' Group.  So, let's talk.
+
+
+
+                                  Sincerely,
+
+
+                                  Fred L. Bellomy
+                                  (805) 965-0265
+                                  (805) 965-5555 (answering machine)
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER12:INTRO2                                      01/29/85 18:16 Page 1
+
+----------------------------------------------------------------------
+27 March 1982           N E W S   L E T T E R                VOLUME 12
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+This new volume has got to be one of the best yet.  The complete
+OSBOURNE Book, "Practical Basic Programs", is on it along with
+a series of benchmark programs, a specialized database system,
+a system for sending telegrams with your computer/modem, and
+miscellaneous other goodies.
+
+I've come to realize that OASIS is not getting as much "press" as
+it deserves.  There are lots of reviews of CP/M and UNIX compatible
+software, but precious little about the OASIS stuff.  It occurs to
+me that we can probably do something about that.  Any time you have
+occasion to write to the editors of any magazine you read, mention
+that you would like to see more articles about OASIS.  If you have
+commercial software, make sure all the appropriate journals get a
+press release (or a series of them) describing your software.  Invite
+them to review it, too.  Offer to send a demo disk.  I will be
+putting out a computer journals mailing list sometime soon.  WE REALLY
+MUST GET THEM TO START GIVING US A LITTLE SOMETHING NOW AND THEN.
+After all, there are about 20,000 OASIS users now!
+
+Speaking of demonstration disks, it occurred to me that one way to
+satisfy many many people's curiosity about what various commercial
+program packages do, would be to issue a series of brief demonstration
+programs.  They could just summarize the special features of the
+package, and then run through a short demo of how the output looks
+in a typical application.  Of course there are problems with this.
+The demo would have to run hassle free on lots of different kinds
+of equipment, and would have to be very "user friendly."  I still
+think the idea is worth some thought by you commercial software
+developers.  Let me know what you think.  We need someone to be the
+first to try out the idea.
+
+Every now and then I start thinking about the tremendous potential
+power the possession of a personal computer gives us.  For example,
+we can very easily send out large numbers of "PERSONAL" letters
+to decision makers expressing our concerns.  Or, quickly check some
+complicated calculation that the general public must just accept
+as fact.  I have just begun to think of the possible ways I can use
+my system to bring a little reason to some of the insanity I see
+all around us.  What about you?  If you have been doing anything
+along these lines, I'd personally love to hear about it, and more
+than likely will want to put information about it into the library.
+
+The possibilities are endless.  For example, I'd like to see us start
+a series of public concern "form" letters that the rest of us could
+consider modifying and sending out on our systems.  Next time you write
+your congressional representative send me a copy of the letter (on disk,
+naturally).  If you make up a mailing list of names of people to go with
+the letter, send that too.
+
+For safety, we should probably avoid highly controversial subjects
+in starting this sort of thing, but there are an infinite number
+of problems around us that most of us recognize and agree
+on (such as rising crime rates, health hazards, warped western values, etc.).
+Why not start thinking about ways you can increase your effectiveness
+as a change maker through the use of the tool you are using to read
+this. Let's see what can be done.
+
+O.K. Here's the latest on the BusinessMaster conversion project.
+I'm still waiting to send out copies of the unconverted version
+until the 120 odd programs are at least renumbered.  I have two
+possibilities here.  Someone has promised to use CTRAN for us
+on the programs as soon as it is actually available (as of 10 May
+1982 it is still not released by Phase One Systems).  The second
+possibility is that I may get our own version of CCONVERT prepared
+first and use it.  We have MCONVERT as an excellent starting point
+for the CBASIC2 version.  I would think that one way or another
+we should be able to get started in a couple of months.
+
+The most recent conversion of the two Osbourne books reminds me
+to ask if there are any published collections of programs you
+would like to see converted and modified for use with OASIS.
+There are lots of books of programs in the book stores, most of
+the ones I've looked at are not all that interesting.  If you've
+seen any good ones, I'd like to hear about it.
+
+Along this same line, what kinds of software would you like to
+see being added to the library?  Would be authors sometimes ask
+about the kinds of programs there seems to be special interest
+in.  I know a number of members have a large number of old CP/M
+programs they are planning to convert and would like advice on
+where they should begin.  I listen to you, but very few people
+ever mention the things they wish they could find.
+
+If you are a member of another users' group, you might consider
+using their library as a potential source for programs to be
+converted for use under OASIS.  There is a little work envolved,
+but it is almost always easier to convert a good program than
+to start writing one from the beginning.  Quite a bit of the
+things now in our library were converted from programs in one
+of the CP/M Users Group Libraries.  And, there are hundreds of
+users groups.  Also, many of the bulletin boards offer the
+capability of down-loading software that can then be converted
+for use under OASIS.  It's not hard to do at all.  Just takes
+a little time and knowledge of the two Basics.
+
+Our own Bulletin Board has gotten bogged down because of an
+incompatibility between the Computer and version 5.5 of OASIS.
+I haven't lost hope of getting it up and running, just haven't
+had time to work on it lately.
+
+
+After lots of conversations on the subject, I've decided to release
+all future BASIC programs as ASCII files.  The tiny space saving
+that results from putting them into a BASICOBJ form isn't worth
+the questions from people (new users) who don't yet know their
+way around the Interpreter/Compiler.  It wont really make much
+difference to the rest of us, so GOODBYE.BASICOBJ and HELLO.BASIC.
+
+Several of our members have pointed out how easy it is to make
+any old SSSD floppy diskette into a double sided "flippy."  All
+you have to do is punch a second set of holes in the jacket
+like you see on regular "flippies" that you buy.  There is quite
+a bit of tolerance for error, too.  I've now tried it many times
+and have never found a diskette that would not initialize with
+double density!  Of course the manufacturer doesn't guarantee
+the back side to be error free, but then again 10,000 hobbyists
+can't be wrong.  Might be just what the recession ordered.
+
+Well, that's it for this volume.  I know this letter rambles a
+lot, but then I don't plan to enter it in any literary contest
+just now.  If you don't like mine, write some of your own, and
+I'll put them on the next volume.
+
+
+Peace,
+
+
+Fred Bellomy
+OASIS Users' Group
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265 or 965-5555 (answ. mach.)
+
+----------------------------------------------------------------------
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER13:INTRO2                                      01/29/85 18:16 Page 1
+
+----------------------------------------------------------------------
+27 May 1982             N E W S   L E T T E R                VOLUME 13
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+BusinessMaster II is  finally ready  to be sent to the  several people
+who volunteered to help get it working under Oasis Basic.  I have just
+processed the  CBASIC  code  through  an  early version  of  the CTRAN
+program Phase One  is developing.  The conversion is  not perfect, but
+the lines are now numbered and most of the obvious syntactical changes
+have been  made.  I  have tried to "run" a  couple of the programs and
+much to  my surprise, they actually do start to run.  The problems are
+with  file definitions  and CBASIC  statements for which there are  no
+direct conversions to  Oasis Basic.  It is not  going to be that tough
+to get  them to  work now that we have  them partially translated.  If
+you are  one  of the  people who  said  you would like to  work on the
+project and you haven't heard from me by the time you see this, please
+get in  touch with me right away.  Or, if you now want to help, get in
+touch.
+
+Volume 14 is full  and may be issued with  this one.  But, I think the
+really  big  news is  going to  happen in volume 15 or  16.  We have a
+member  who  has  a Visacalc  type spread  sheet  program in the final
+stages of preparation.   It is being written in  the "C" language, and
+will probably  be issued both in source code and as a COMMAND file for
+most of us  who don't have the "C"  processor.  Another of our members
+has  produced  an  assembly version  of our  spelling  checker.  He is
+working  on even  more  enhanced  versions,  he  says.  But,  the  two
+versions he has  already submitted are better than  the first SPELCHEC
+that  I put  together, and  they are almost twice as  fast.  Now he is
+working on  a modified  dictionary with suffixes truncated to  make it
+smaller and a  new version of the spelling  checker program to use the
+truncated dictionary.  I  love it!  Another member is  doing a cleanup
+of the dictionary  to eleminate the nonwords or  mispelled words.  So,
+all in all we should be in really good shape for spelling checking.
+
+This volume has  its share of games again for you games fans.  But, it
+also   has  several   important  utilities,  some  amateur  radio  and
+electrical  engineering  calculation  programs,  a  couple  vocabulary
+building  programs,  and  the  latest  membership  list  together with
+programs for manipulating  it in various ways (including  a customized
+sort program).  All in all, full and generally satisfying.
+
+A final note  on ownership  of the OUG mailing list.   It is not to be
+used for any commercial purpose which is contrary to the objectives of
+the  Oasis  Users Group.   We own  the copyright.  If you receive  any
+mailings which  you think  are not in the best  interest of the OUG or
+its  members, let  me know.   If you have any question  about your own
+proposed  use  of  the list,  check with  me  before proceeding.  This
+applies particularly to  non-members who shouldn't have copies  of it,
+in any case.
+
+I've been starting to look at all the available public domain programs
+that are written  in ASSEMBLY.  In principle, it  doesn't seem like it
+should be  all that  much trouble to write a  conversion program (like
+MCONVERT or CTRAN)  that would give us a  version that would run under
+OASIS.  If anyone  has had any experience along  these lines, I'd like
+to hear from them.
+
+That's it for volume  13.  Keep the contributions coming  in.  I get a
+big kick out  of finding a package with  a disk in it in the mail box.
+I'm always  anxious  to  get it  home and  on  the system to see  what
+goodies one of you has taken the time to send in.
+
+Peace,
+
+
+Fred L. Bellomy
+
+----------------------------------------------------------------------
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+EWS.LETTER14:INTRO2                                      01/29/85 18:16 Page 1
+
+----------------------------------------------------------------------
+32 May 1982           N E W S   L E T T E R                  VOLUME 14
+----------------------------------------------------------------------
+
+
+Dear Member;
+
+Volume 14  (WOW!   Is  it already  14?) contains  two  new versions of
+spelling checkers, two different typing drill programs, and the latest
+commercial  software directory  with cross-reference tables from Phase
+One.   There  are  also a  few new  games,  engineering programs and a
+utility.   The new  spelling checker, PRUFEDIT.COMMAND, is much easier
+to use  and  it is  noticeably faster  -  still not comparable to  the
+commercial  ones,  but  definitely  faster.   And,  Bob  isn't through
+tinkering yet!  Go, Bob, go!  By the way, if you like his efforts, why
+not give  him a  call and let him know.   Everyone likes a little well
+deserved praise now and then.
+
+As I look  back over the past 16 months, it is apparent that I/we have
+been learning  and maturing.  The first volume issued in February 1981
+was  very amateurish  by comparison  with our most recent efforts.   I
+know a lot of the stuff that I put into the library falls far short of
+your professional standards (and mine).  To some degree we must always
+expect this  to be  the case.  If you develop  a really great piece of
+software  by  investing hundreds  of hours  of  energy, you deserve to
+receive  proper compensation.   So, you  are going to be reluctant  to
+give  it away  to  the  Users  Group.   That is  rightly  the realm of
+commercial, proprietary software.  But, what has been happening is the
+increased  sharing of  little things  which  by themselves have little
+commercial  value   -  like  device  drivers,  demonstration  systems,
+fixes/solutions to OASIS problems or shortcomings, etc.
+
+An important new development  is the submission to the  OUG library of
+high  quality  packages  which  the  authors  would  like  to  exploit
+commercially.  Still in the evaluative stages, the idea is to give you
+one copy for  your personal use and evaluation  with the hope that you
+will contact  the author  to make further arrangements for  commercial
+use   or   retail   distribution   (or   further  customized   program
+development).  When  looking over things in the new volumes, give this
+possibility some thought.  It may be an idea whose time has come.
+
+I was talking to  George Butcher the other day  and he asked about the
+decision to issue basic programs as .BASIC files.  He pointed out that
+it now  required an extra step to get them all compiled.  As we talked
+it occurred to  me that the SELECTnn.EXEC programs  could be used with
+the COMPILE.EXEC  utility to automatically compile everything on a new
+OUG library disk.   For example, to compile all  the BASIC programs on
+this (Vol 14) disk, just put it in the "A" drive and type:
+
+                              >SELECT14 COMPILE
+
+You will get  a lot of nonsense messages as the system attempts to run
+the COMPILE exec with the non-basic files, but only the BASIC programs
+will be  processed.  You have to be sure you have enough space on your
+source diskette to  handle the new BASICCOM files  that are generated,
+but aside from  that it works fine.  I  tried it.  So try it yourself.
+I must  tell you  all that this job definitely  has its rewards beyond
+the money I am now able to take out of it.  I love talking to those of
+you who  call in.   I appreciate the words of  encouragement (and even
+praise  on occasion)  that  your  calls  bring.   Every week  is  like
+Christmas around  here.  Your packages arrive and I can hardly wait to
+get them home  from the Post Office to  see what new goodies Santa has
+brought me!  Some times I wish Christmas would hurry up and come after
+a particularly enticing talk with "Santa" about what he is planning to
+bring  me.  And,  believe me  "he" is promising a lot  of really nifty
+stuff.   If you  are  one  of  my  "Santas", take  note.   I'm waiting
+patiently.
+
+I'm now spending at  least half my time running  the OUG.  In the past
+16 months we have taken in a little over $25,000 in fees from members.
+I have  paid  myself  about half  of that  and  the rest has gone  for
+expenses.  I'm  not getting rich, but then I'm not working for nothing
+any  more,  either.   To all  of  you  I  again  say "Thank  you"  for
+continuing to  make this  enough of a success to  justify the time and
+energy I put into it.
+
+By the time  you read this the conversion of BusinessMaster II will be
+well under  way.  Our  five partners already have their  copies of the
+partially translated source code and their assignments.  These are:
+
+     Stu Rosenthol    (516) 757-2403 (Accounts Receivables)
+     Bill Anderson    (415) 441-6971 (General Ledger)
+     Loren Rueter     (305) 724-8915 (Payroll)
+     Don Vanderlinden (816) 231-3748 (Fixed Asset Accounting)
+     Scotty Robinson  (404) 355-2950 (Accounts Payable)
+     Fred Bellomy     (805) 965-0265 (What ever needs doing)
+
+I am asking  everyone to try and finish their first pass by 15 July so
+that we can  aim for a completion date  of 1 August.  Looking over the
+partially  translated code,  it  doesn't  look  like  it will  be  too
+difficult to complete the job.  So, August 1 looks reasonable.
+
+On occasion I have purchased surplus and/or good used diskettes to use
+for backups or  special communications with members.  There  have been
+many times  when I  ran out of my supply  of regular new diskettes and
+just finished  up with what ever other diskettes I happened to have on
+hand.  Most  of the  time it has worked out  fine, but there have been
+several instances where,  unknown to me, a flaky  disk got through the
+initialization and  verification process.  Naturally, I always made it
+right immediately upon being notified of the problem.  But, now I find
+that even diskettes that verify as "perfect" may in fact be "weak."
+
+One way to test  the "strength" of a disk  is to run the SEEK command.
+Really good diskettes will just cause the number on the screen to keep
+changing in  place a  very high percentage of the  time, assuming that
+your disk system  is working properly, of course.   When ever a sector
+is read in error the sector number and error number is reported on the
+screen  and  the cursor  moves down  one  line.  (Check the Diagnostic
+manual  for  details) One  batch of  "first  quality", new diskettes I
+bought gave lots of error checks using this more sensitive test.  Such
+disks generally  still work  O.K.  because the system keeps  trying to
+read the "weak"  sector many times until it  finally (usually) gets it
+right.  The only problem with this is that it takes extra time to read
+the  disk  and so  your system  runs slower and there is  an increased
+chance (slightly) of lost data.
+
+To get around the problem of variable diskette quality/availability, I
+have just made a deal to buy large quantities of un-branded, but major
+brand, first  quality bulk  diskettes in plain brown (actually  white)
+wrappers (Tyvek).  I  am buying them for well  under $2 each and could
+share the wealth with anyone who needs them in multiples of a full box
+(100).   I'm  getting  a  special  deal  on  the  assumption that  the
+quantities I  buy will continue to increase significantly.  If you use
+large quantities  of diskettes, maybe we can help each other.  Give me
+a call.
+
+The process of  copying diskettes now consumes a significant amount of
+time, and  I'm beginning to look into the feasibility of acquiring one
+of those  automated disk copying machines.  If you know of a good deal
+on either  a new  or used machine, please get  in touch.  I suppose we
+might consider  offering a  disk copying service at some  point in the
+future, if we actually do get a machine.  It's a thought.
+
+Well, that's it for Volume 14 and this news-letter.
+
+Peace,
+
+
+Fred Bellomy
+(805) 965-0265 or 965-5555
+
+----------------------------------------------------------------------
+WANT THE NEXT NEWS LETTER [Y/N]?:Y
+File not found.
+▼ OU MIGHT CONSIDER PRINTING OUT THE COMPLETE SET OF NEWSLETTERS.  TO
+DO SO NOW, JUST TYPE "PRINT" (assuming you only have one copy of the
+newsletters in your system at this time).
+:
+▼ ISH.LIST7:INTRO2                                         01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST - I wish somebody would.......................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1.  We need a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E) to OASIS BASIC.
+
+
+3.  We need to develop a cheap way for members to call the new OUG Bulletin
+Board computer.  Does anyone know a way to use the networks (ie TELENET,
+TYMNET, etc.) or other phone service for cheap "off hours" communications?
+
+
+5.  We need a clearly written proceedure for setting up new class codes.
+
+6.  We need a conversion routine for converting ASSEMBLY language code
+from other Z80 systems to OASIS.
+
+7.  We need a BASIC disassembler.
+
+8.  I need a comprehensive mailing list program for keeping track of all
+our members - one that we can put in the public domain.
+Thanks for all the contributions on this on. Still don't have what I
+want yet.  It needs to operate with SCRIPT as well.
+
+9.  I need a data base system for maintaining the commercial software
+directory - again one that can be released into the public domain.
+
+10. We need people who can begin doing benchmark tests of the various
+software products that are becoming available - both propriatary and
+public domain.
+
+11. We need lots more applications to run against the dictionary data
+base.  An assembly version of SPELCHEK would be nice, too.
+
+12. We need someone to make a nice little summary of what is in the
+OASIS USERS' GROUP library.  The DISKFILE library program doesn't
+give enough information about what each program does.  It should be
+a system that can be used for maintaining the information, like Joe
+Trimble's DISKFILE library system.
+
+13.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 November 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ OFTWARE.GUIDE:INTRO2                                     01/29/85 18:16 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+    GUIDE FOR SUBMITTING SOFTWARE CONTRIBUTIONS TO THE OUG LIBRARY
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+
+
+The following "rules" are a first attempt to get some reasonable
+degree of uniformity in the quality of things submitted to the
+library.  They must be considered preliminary forever.  We will
+change the rules any time the situation seems to warrent it. But,
+for now keep the following things in mind as you prepare stuff
+for the OUG Library. FB 9/1/81
+
+
+1.  Assume console units (terminals) have direct cursor addressing,
+and 24 lines of 72 columes.
+
+2.  If the software is hardware dependent, make it very, very clear.
+
+3.  If you want to reserve the commercial rights to your software,
+make it clear by including a comment in the code such as "Permission
+to use, but not to sell." or "Commercial rights reserved.", etc.
+
+4.  Generally speaking, we will only include programs for which the
+source code is included.
+
+5.  Be sure to check out all of the different conditions included
+in your program - better you than some unsuspecting user!
+
+6.  Try to anticipate all of the different possible ways a new user
+might want to use your program and make it as general as possible.
+
+7.  Include the author's name (if known) and the name(s) of anyone
+else envolved in converting/modifying the program and the name and
+phone number(s) of people who would be willing to talk to a new
+user that is having trouble, etc.  This information should be put
+both in the source as REMarks and in the EXEC HELP section.
+
+8.  Where ever it makes sense,  write a short EXEC to explain and
+run the program automatically.  The EXEC should be safe. That is,
+an unsuspecting new user should not be able to accidentally do any
+damage to any part of his existing system (easily).  The EXEC should
+include a HELP section so that when it is executed with out variables
+the user will automatically see the HELP info.  The HELP section
+should be as complete as necessary to make the purpose and correct
+use of your program obvious to even a relatively novice new user.
+
+9.  The major logic flows of the program should be noted by imbedded
+REMarkes, and the more the merrier!
+
+10. When a previously released program is slightly modified or has
+errors corrected, it will be re-released on the next volume under
+the SAME name.
+
+11. When a new program is released that does almost the same thing
+as a previously released program or when wholesale changes are made
+to a previously released program, the new program will be given
+a new name that shows some relationship to the earlier name. For
+example: WUMPUS2 is a greatly enhanced version of WUMPUS.
+
+12. Exceptions to these guidelines may be taken by anyone at anytime
+for any good reason. (But, I'm keeping an eye on you).
+
+13. Be sure to INITialize your diskette for single density, if you
+plan to send it in to the OUG (INIT A (FORMAT SEC 13).
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+Let's hear your ideas about guidelines, too.
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
+

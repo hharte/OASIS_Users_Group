@@ -1,0 +1,310 @@
+>VOL31
+==================================================================
+:                                                                :
+:           VOLUME 31 OF THE OASIS USERS GROUP LIBRARY           :
+:                                                                :
+:                                                                :
+:  "We shall require a substantially new manner of thinking      :
+:                                 if mankind is to survive."     :
+:                                             Albert Einstein    :
+:                                                                :
+:                                                                :
+==================================================================
+WANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+ON WHICH DRIVE [if other than "A"] IS VOL31 MOUNTED? [ A-G S ]:A
+
+
+
+
+
+Welcome  to  VOLUME 31  of a  very  rapidly expanding library of
+OASIS compatible member contributed "END-USER-ONLY" software.
+
+The  following  is  a  listing  of  the  contents  of VOLUME  31,
+the latest newsletter, and feedback from members:
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST31  A 10/17/83 04:10    60    3 S    65 VOL31
+COPYRITE NOTICE   A 05/13/82 18:33     8    1 S    65 VOL31
+SELECT31 EXEC     A 10/26/83 16:27    74    4 S    46 VOL31
+SQ       EXEC     A 10/26/83 12:10   162    4 S    71 VOL31
+SQ       NOTES    A 10/07/83 15:45   232   11 S    79 VOL31
+SQ       OVERVIEW A 10/26/83 09:34    99    5 S    72 VOL31
+SQ$C     EXEC     A 10/30/83 11:48    11    1 S    25 VOL31
+SQ$NEWYR BASICOBJ A 09/21/83 15:54   106    3 S    53 VOL31
+SQ2PQ    EXEC     A 08/22/83 08:43    22    1 S    32 VOL31
+SQA      BASICOBJ A 04/29/83 11:24    83    3 S    77 VOL31
+SQB      BASICOBJ A 10/07/83 15:18   418    9 S    69 VOL31
+SQBA2OBJ EXEC     A 08/11/83 14:42    78    1 S    19 VOL31
+SQC      BASICOBJ A 10/13/83 16:28   253    7 S    89 VOL31
+SQD      BASICOBJ A 10/18/83 17:52   127    4 S    78 VOL31
+SQDEMO   DAT      A 10/08/83 11:01    34   15 I   210 VOL31
+SQDEMO   FILTA    A 09/24/83 14:05     9    1 S    22 VOL31
+SQDEMO   FILTB    A 02/19/83 11:17     9    1 S    22 VOL31
+SQDEMO   FILTC    A 01/04/83 14:19     9    1 S    16 VOL31
+SQDEMO   FILTG    A 09/18/82 17:23     9    1 S    16 VOL31
+SQDEMO   FILTH    A 09/19/82 14:46     9    1 S    22 VOL31
+SQDEMO   FILTI    A 09/21/82 13:41     9    1 S    22 VOL31
+SQDEMO   FILTJ    A 03/31/83 21:54     9    1 S    19 VOL31
+SQDEMO   KEY6     A 10/08/83 11:01    34    5 I    28 VOL31
+SQDEMO   QABBREV  A 02/19/83 10:10     3    2 I    40 VOL31
+SQDEMO   SPEC1    A 01/04/83 14:25   103    2 S    81 VOL31
+SQDEMO   SPEC2    A 02/16/83 17:30   103    2 S    81 VOL31
+SQDEMO   SPEC3    A 02/19/83 17:18   103    2 S    81 VOL31
+SQDEMO   SPEC5    A 09/22/82 22:09   103    2 S    81 VOL31
+SQDEMO   SPEC8    A 07/07/82 20:43   103    2 S    81 VOL31
+SQDEMO   SPEC9    A 03/31/83 21:58   103    2 S    81 VOL31
+SQDEMO   SPECF    A 10/08/83 10:59   210    3 S    81 VOL31
+SQDEMO   SUMM1    A 02/19/83 16:54    19    1 S    24 VOL31
+SQDEMO   SUMM2    A 02/16/83 17:30     1    1 S    24 VOL31
+SQDEMO   SUMM3    A 02/19/83 16:54    19    1 S    24 VOL31
+^QDEMO   SUMM5    A 09/22/82 22:09     1    1 S    24 VOL31
+SQDEMO   SUMM8    A 07/07/82 20:45     5    1 S    24 VOL31
+SQDEMO   SUMM9    A 02/19/83 16:54    19    1 S    24 VOL31
+SQDEMO   SUMMALL  A 02/19/83 16:54    19    1 S    24 VOL31
+SQE      BASICOBJ A 10/30/83 14:05   366    9 S    80 VOL31
+SQF      BASICOBJ A 04/29/83 11:26   165    4 S    77 VOL31
+SQFIXBUG EXEC     A 10/08/83 12:49    30    2 S    75 VOL31
+SQG      BASICOBJ A 05/16/83 16:34   144    5 S    78 VOL31
+SQH      BASICOBJ A 10/30/83 13:40   162    6 S    78 VOL31
+SQI      BASICOBJ A 04/29/83 11:26    42    2 S    58 VOL31
+SQINDICS BASICOBJ A 07/13/83 10:01   100    3 S    75 VOL31
+SQISQDEM BASICOBJ A 02/16/83 16:54    47    2 S    58 VOL31
+SQJ      BASICOBJ A 09/21/83 08:22    60    3 S    78 VOL31
+SQJSQDEM BASICOBJ A 10/24/83 16:58    71    3 S    78 VOL31
+SQLABELS EXEC     A 10/26/83 12:22    63    1 S    65 VOL31
+SQLISTOB EXEC     A 08/11/83 16:00    91    1 S     9 VOL31
+SQOBJ2BA EXEC     A 08/11/83 14:54    78    1 S    19 VOL31
+SQPRSPEC BASICOBJ A 09/28/83 10:01   238    6 S    74 VOL31
+SQS1     SCRIPT   A 10/26/83 15:15    24    2 S    78 VOL31
+SQS10    SCRIPT   A 10/26/83 15:15    52    3 S    78 VOL31
+SQS11    SCRIPT   A 10/26/83 15:18    55    4 S    79 VOL31
+SQS2     SCRIPT   A 10/26/83 15:18    77    4 S    79 VOL31
+SQS3     SCRIPT   A 10/26/83 15:18    73    5 S    79 VOL31
+SQS4     SCRIPT   A 10/26/83 15:18    59    4 S    79 VOL31
+SQS5     SCRIPT   A 10/26/83 15:18    23    2 S    79 VOL31
+SQS6     SCRIPT   A 10/26/83 15:18    94    6 S    79 VOL31
+SQS7     SCRIPT   A 10/26/83 15:19    19    2 S    80 VOL31
+SQS8     SCRIPT   A 10/26/83 15:19    36    2 S    78 VOL31
+SQS9     SCRIPT   A 10/26/83 15:19    41    3 S    78 VOL31
+SQSI     SCRIPT   A 10/26/83 15:19    19    1 S    34 VOL31
+SQSII    SCRIPT   A 10/26/83 15:19    19    1 S    34 VOL31
+SQSQ     SCRIPT   A 10/26/83 15:19     8    1 S    33 VOL31
+SQX      BASICOBJ A 10/23/83 20:54   262    8 S    85 VOL31
+SQY      BASICOBJ A 10/29/83 18:03   338    9 S    80 VOL31
+SQZ      BASICOBJ A 05/04/83 19:41   270    8 S    78 VOL31
+TECH     NOTE1    A 09/04/83 14:23   120    7 S    86 VOL31
+VOL31    CONTENTS A 10/26/83 11:43    54    3 S    72 VOL31
+VOL31    EXEC     A 10/26/83 16:26   153    6 S    73 VOL31
+VOL31    FEEDBACK A 10/26/83 15:43    92    4 S    65 VOL31
+VOL31    NEWS     A 10/26/83 16:09    52    3 S    65 VOL31
+74 file(s), 244 block(s).
+VOL31.NEWS:VOL31                                          01/31/85 08:04 Page 1
+
+-----------------------------------------------------------------
+6 November 1983         N E W S   L E T T E R           Volume 31
+-----------------------------------------------------------------
+
+
+
+
+Good Morning OUG Member;
+
+VOLUME 31:   contains  a   commercial  product  called  SWIFTFILE
+produced   by   Charlie   Swift   of  Swift   Computing  Services
+^916)272-2017.   It's  a  database  management  system and  has a
+voluminous  users'  manual  with it.   Charlie has  used  it as a
+"super" mailing list system,  conference registration/information
+system,  and a  donors information system.  The possibilities for
+it seem  endless.  It  does take a bit of  time to learn, but the
+documentation  seems to cover everything  you  might want to know
+about it.   He is  putting it into the OUG  library as a means of
+promoting dealers sales, so if you think you can do anything with
+it, give him a call.
+
+Also  on  volume 31 is the first in a series of tutorial articles
+being written by Larry Plumb and some thoughts I  have  had about
+ways  to  use  the  OUG  library for promotion of your commercial
+products.
+
+Starting with this volume I have renamed   MEMBER31.FEEDBACK   to
+VOL31.FEEDBACK   and   NEWS.LETTER31   to   VOL31.NEWS for better
+consistency.  Hope it doesn't cause any confusion.
+
+NEWS,  NEWS,  NEWS:  Yep, there is lots more news to tell, but we
+have just plumb run out of space on this volume.  Be assured that
+volume 32 which accompanies this one has plenty of news on it!  I
+just had to cut most of it out of this file so  we  could fit all
+of the Swiftfile stuff on one volume (and we had to use  BASICOBJ
+versions rather than ASCII BASIC versions to do that).
+
+So, flip this diskette   (a flippy)   over and you'll find plenty
+more there.
+
+
+Peace,
+
+
+Fred Bellomy
+
+(805) 965-0265
+(805) 965-5415 (bulletin board - 300 baud)
+
+-----------------------------------------------------------------
+end of . . . .          N E W S   L E T T E R           Volume 31
+-----------------------------------------------------------------
+VOL31.FEEDBACK:VOL31                                      01/31/85 08:04 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL31.FEEDBACK                                   15 November 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+10/26/83  10:17:51         JANN HEDRICK (415) 547-6565
+
+HELLO I'VE JUST JOINED THE OUG AND KNOW PRACTICALLY NOTHING ABOUT
+EITHER THE OASIS SYSTEM OR YOUR UG.  I'VE BEEN IN DP FOR ABOUT 10
+YRS., MOSTLY ON  LARGER MACHINES.  I'M CURRENTLY WORKING  FOR THE
+COMPUTER WORKS IN  EMERYVILLE, CA.  I LIKE VERY  MUCH THE IDEA OF
+UG'S AND  PLAN TO SUPPORT YOUR OUG.  HOPE TO HAVE MORE TIME LATER
+TO COMMUNICATE  WITH YOU!  I'M HAVING MANY SMALL PROBLEMS RUNNING
+OUR   IBC   MIDDI-CADET/ALTOS  8000-12'S   BUT  ASCRIBE  THEM  TO
+'NEWITIS'.  THANKS  FOR BEING  THERE.  I'LL BE CONTACTING YOU  IN
+THE NEAR FUTURE FOR HELP, AND DISKETTE VOLUMES.  JANN.
+
+-----------------------------------------------------------------
+
+10/26/83 09:21 ALAN BLIGH (806)763-5554
+
+I HAVE AN IBM60  ELECTRONIC TYPEWRITER, WOULD LIKE TO  CONNECT TO
+IBC CADET COMPUTER. INTERESTED IN  ANYONE'S EXPERIENCE ESPECIALLY
+WITH  THE  INTERFACE  OFFERED  BY  CALIFORNIA  MICRO  COMPUTER OF
+HUNNINGTON BEACH, CA.  THANKS -
+
+-----------------------------------------------------------------
+
+10/21/83 23:43 MACK BRALY (918) 582-2806
+
+HI FRED.  I  JUST WANTED  TO TRY OUT THE BULLETIN  BOARD, AND SAY
+THANKS  FOR  THE  HAND-HOLDING IN  GETTING ME  STARTED.   RE: THE
+ROLODEX ROUTINE  AND RESEARCH  ROUTINE I SENT: I DIDN'T  GIVE YOU
+ANY  DOCUMENTATION  BECAUSE THEY  ARE RIGHT NOW PRETTY PRIMITIVE.
+PARTICULARLY THE  ROLODEX WHICH HAS TO BE RESIZED AND CAN BE MUCH
+IMPROVED.   THE   ROLODEX  HAS  A  FAIRLY  GENERAL  BUSINESS/HOME
+APPLICABILITY -- IT IS SOMETHING MORE THAN A MAIL LIST MANAGER, I
+THINK.
+
+THE RESEARCH  ROUTINE  IS  USED  FOR  MAINTAINING THE  LAW OFFICE
+INSTITUTIONAL MEMORY, AND HAS ONE GREAT VIRTUE: IT 'KISS'ES WELL.
+SOPHISTICATED, IT  AIN'T.  PROMISE  I WILL GET THEM SMOOTHED  OUT
+AND EXPLAINED BY  COMDEX.  I AM PLANNING TO  COME WITH SHARON (MY
+BRIDE).  HOPE  TO MEET OTHER NON-PROFESSIONAL USERS (PARTICULARLY
+LAWYERS) WHO, LIKE ME ARE STRUGGLING TO STAY ON TOP OF THIS WAVE.
+OF  COURSE I  WANT TO  MEET PROFESSIONALS TOO-- JUST DON'T  THINK
+THERE WOULD BE MUCH I HAVE TO CONTRIBUTE.  SERIOUSLY,
+
+IF THERE  ARE  OTHER  ATTORNEY-TYPES OUT  THERE I  WOULD  LIKE TO
+EXPLORE A  LAWYERS  SUB-GROUP,  AS  I  THINK MANY  OF  OUR COMMON
+INTERESTS MIGHT BE MUTUALLY SUPPORTABLE.
+^
+-----------------------------------------------------------------
+
+09/23/83 13:18 SCOTT SHUEY (213) 691-7550
+
+M-TRAC/ USERBASE  SOFTWARE: I  am interested in contacting anyone
+using  M-TRAC  software  (TracLine  Computer Corp),  or User Base
+software (User Ware Intl).  I am currently using both on an Altos
+8000-14  daily.   M-TRAC  is  my  primary  interest  since  these
+programs are  used to manage my valve manufacturing business, and
+I am a beta site for TracLine.
+
+-----------------------------------------------------------------
+
+06/02/83 10:07 Tom Jones (213) 332-3320
+
+HELP!!! I HAVE  A COMPUPRO  COMPUTER WITH OASIS 5.6 CAN  ANY BODY
+HELP ME  WITH THE SWITCH SETTINGS?  MY TYPE AHEAD IS DEAD IF MORE
+THAN SIX CHARACTERS ARE IN THE BUFFER...
+
+WHERE CAN I GET A LIST OF CURRENT NUMBERS TO CALL...
+
+-----------------------------------------------------------------
+
+04/30/83 LEW MURRAY (717) 393-7774
+
+Anyone interested   in  a   utility  for  restoring  a  "crashed"
+directory, please call Lew Murray at 717-393-7774.
+
+-----------------------------------------------------------------
+
+04/28/83 JEFF MUHLEMAN (800) 547-8740
+
+MODII MOD12 OWNERS: MOD16 UPGRADE FOR SALE HAVE MODEL16 68OOO AND
+128K  MEMORY  BOARDS  FOR  SALE.   ALL  DOCUMENTATION  AND  XENIX
+OPERATING  SYSTEM  (RUN TIME).   UPGRADE KIT.  IF INTERESTED CALL
+JEFF -547-8740 8-5 PST.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL31.FEEDBACK                            15 November 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+^ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+These 66  files comprise  a commercial product called SWIFTFILE produced
+by  Charlie  Swift of  Swift Computing  Services  (916)272-2017.  It's a
+database management system  and has a voluminous users'  manual with it.
+Charlie  has used  it  as  a  "super"  mailing list  system,  conferance
+registeration/information system,  and a doners information system.  The
+possibilities for it seem endless.  It does take a bit of time to learn,
+but the documentation appears to cover everthing you might  want to know
+about it.  He is putting it into the OUG library as a means of promoting
+dealers sales, so  if you think you can  do anything with it, give him a
+call.  LE - a database management system
+
+WANT MORE INFO NOW? [Y/N]:N
+SQ       EXEC    |SQ       NOTES   |SQ       OVERVIEW|SQ$C     EXEC
+SQ$NEWYR BASICOBJ|SQ2PQ    EXEC    |SQA      BASICOBJ|SQB      BASICOBJ
+SQBA2OBJ EXEC    |SQC      BASICOBJ|SQD      BASICOBJ|SQDEMO   DAT
+SQDEMO   FILTA   |SQDEMO   FILTB   |SQDEMO   FILTC   |SQDEMO   FILTG
+SQDEMO   FILTH   |SQDEMO   FILTI   |SQDEMO   FILTJ   |SQDEMO   KEY6
+SQDEMO   QABBREV |SQDEMO   SPEC1   |SQDEMO   SPEC2   |SQDEMO   SPEC3
+SQDEMO   SPEC5   |SQDEMO   SPEC8   |SQDEMO   SPEC9   |SQDEMO   SPECF
+SQDEMO   SUMM1   |SQDEMO   SUMM2   |SQDEMO   SUMM3   |SQDEMO   SUMM5
+SQDEMO   SUMM8   |SQDEMO   SUMM9   |SQDEMO   SUMMALL |SQE      BASICOBJ
+SQF      BASICOBJ|SQFIXBUG EXEC    |SQG      BASICOBJ|SQH      BASICOBJ
+SQI      BASICOBJ|SQINDICS BASICOBJ|SQISQDEM BASICOBJ|SQJ      BASICOBJ
+SQJSQDEM BASICOBJ|SQLABELS EXEC    |SQLISTOB EXEC    |SQOBJ2BA EXEC
+SQPRSPEC BASICOBJ|SQS1     SCRIPT  |SQS10    SCRIPT  |SQS11    SCRIPT
+SQS2     SCRIPT  |SQS3     SCRIPT  |SQS4     SCRIPT  |SQS5     SCRIPT
+SQS6     SCRIPT  |SQS7     SCRIPT  |SQS8     SCRIPT  |SQS9     SCRIPT
+SQSI     SCRIPT  |SQSII    SCRIPT  |SQSQ     SCRIPT  |SQX      BASICOBJ
+SQY      BASICOBJ|SQZ      BASICOBJ
+
+TECH.NOTE1
+
+This is the  first of a series of short tutorial articles on using OASIS
+written  by Larry  Plumb.  This  first  installment concentrates on some
+very elementary principles of computer electronics and operations - bits
+and bytes,  etc.  You  old pros out there will  probably find it boring,
+but you might like to have it around next time someone asks you the same
+old questions  for the hundredth time.  Larry is trying to keep ahead of
+me and  I  have  two  more  installments waiting  for  the next volumes,
+already.
+
+WANT TO READ IT NOW? [Y/N]:N
+****************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 31.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 or 965-5555 (both have answering machines)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board)
+YEP, its finally on the air - 300 baud only for the moment.
+
+****************************************************************
+
+>
+

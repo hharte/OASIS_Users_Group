@@ -1,0 +1,515 @@
+OASIS USERS' GROUP
+Contributed Public Domain Software
+P.O. Box 2400 Santa Barbara, CA 93120
+Fred Bellomy (805) 965-0265
+Date: July 1981
+Volume: 6
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 07/17/81 18:34    23    2 S    68 VOL$1
+ADD      BASICOBJ A 07/17/81 16:52    75    3 S    80 VOL$1
+ADD      EXEC     A 08/28/81 16:23    66    3 S    81 VOL$1
+ASNOOPY  BASICOBJ A 07/14/81 16:42   115    4 S    77 VOL$1
+BANNER   BASICOBJ A 07/14/81 17:03    94    3 S    77 VOL$1
+CIVILWAR BASICOBJ A 07/14/81 16:34   240    8 S    73 VOL$1
+COMPILE  EXEC     A 08/11/81 17:12    41    2 S    74 VOL$1
+COMPOUND BASICOBJ A 07/08/81 15:59    17    1 S    49 VOL$1
+DCH      COPY     A 07/15/81 22:13   167    5 S    64 VOL$1
+FIND     BASICOBJ A 07/17/81 17:30    52    2 S    77 VOL$1
+FIND     EXEC     A 07/15/81 17:32    45    2 S    79 VOL$1
+GAMES    EXEC     A 07/26/81 18:57   129    4 S    66 VOL$1
+GOLF     BASICOBJ A 07/17/81 17:10   332    9 S    85 VOL$1
+GOMOKO   BASICOBJ A 07/08/81 19:49    65    3 S    71 VOL$1
+GREEKRTS BASICOBJ A 07/05/81 23:58    55    2 S    72 VOL$1
+HANGMAN1 BASICOBJ A 07/06/81 00:44   185    5 S    72 VOL$1
+HANGMAN2 BASICOBJ A 07/06/81 00:43   185    6 S    78 VOL$1
+HANGMAN3 BASICOBJ A 07/06/81 00:57   188    5 S    76 VOL$1
+IQUEEN   BASICOBJ A 07/14/81 16:37   184    5 S    68 VOL$1
+LESSON1  SCRIPT   A 05/16/81 16:49   140    7 S    78 VOL$1
+LESSON2  SCRIPT   A 02/09/81 13:44   241    7 S    81 VOL$1
+LESSON3  SCRIPT   A 02/09/81 14:54   190    8 S    79 VOL$1
+LESSON4  SCRIPT   A 03/04/81 05:25   261   11 S    91 VOL$1
+MASTMIND BASICOBJ A 07/05/81 22:52    48    2 S    74 VOL$1
+MEMBER   FEEDBACK A 02/29/81 17:38     9    1 S    77 VOL$1
+MODEM    ASSEMBLE A 07/24/81 11:17  1158   29 S    65 VOL$1
+MODEM    COMMAND  A 07/24/81 11:20    22    6 R   256 VOL$1
+MODEM    DOC      A 07/24/81 11:40   422   20 S    64 VOL$1
+MODEM$   EXEC     A 02/29/81 16:09    48    2 S    67 VOL$1
+MODEM2   ASSEMBLE A 07/21/81 15:55   633   16 S    69 VOL$1
+NEWLIB   BASICOBJ A 07/17/81 19:41    43    2 S    73 VOL$1
+NEWS     LETTER   A 02/29/81 15:54    82    5 S    79 VOL$1
+PMMI     COPY     A 07/15/81 22:19   171    5 S    63 VOL$1
+POSTAGE  BASICOBJ A 07/22/81 16:43    72    3 S    80 VOL$1
+POSTAGE  EXEC     A 06/28/81 17:33    35    2 S    76 VOL$1
+RCPM     LIST     A 07/24/81 08:52   305   16 S    65 VOL$1
+RECIPE   BASICOBJ A 07/08/81 16:26    39    1 S    64 VOL$1
+RELAY    COPY     A 07/15/81 21:51   161    5 S    63 VOL$1
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$1
+SORT     BASICOBJ A 07/14/81 16:12   135    6 S   100 VOL$1
+SORT     EXEC     A 07/14/81 16:12    25    1 S    74 VOL$1
+VOL6     EXEC     A 02/29/81 17:36   392   11 S    77 VOL$1
+WISH     LIST     A 02/29/81 17:39    37    2 S    75 VOL$1
+WSEARCH  BASICOBJ A 02/29/81 16:15   201    4 S    73 VOL$1
+44 file(s), 247 block(s).
+
+>COPYFILE *.*:A = = D (NOQ,REPL
+RECIPE.BASICOBJ:A copied to RECIPE.BASICOBJ:D
+GOMOKO.BASICOBJ:A copied to GOMOKO.BASICOBJ:D
+CIVILWAR.BASICOBJ:A copied to CIVILWAR.BASICOBJ:D
+$README.FIRST:A replaces $README.FIRST:D
+LESSON1.SCRIPT:A copied to LESSON1.SCRIPT:D
+GREEKRTS.BASICOBJ:A copied to GREEKRTS.BASICOBJ:D
+HANGMAN1.BASICOBJ:A copied to HANGMAN1.BASICOBJ:D
+ADD.EXEC:A replaces ADD.EXEC:D
+ASNOOPY.BASICOBJ:A copied to ASNOOPY.BASICOBJ:D
+GAMES.EXEC:A replaces GAMES.EXEC:D
+MASTMIND.BASICOBJ:A copied to MASTMIND.BASICOBJ:D
+HANGMAN2.BASICOBJ:A copied to HANGMAN2.BASICOBJ:D
+LESSON3.SCRIPT:A copied to LESSON3.SCRIPT:D
+FIND.EXEC:A replaces FIND.EXEC:D
+SORT.BASICOBJ:A copied to SORT.BASICOBJ:D
+MODEM.COMMAND:A copied to MODEM.COMMAND:D
+PMMI.COPY:A copied to PMMI.COPY:D
+POSTAGE.EXEC:A replaces POSTAGE.EXEC:D
+HANGMAN3.BASICOBJ:A copied to HANGMAN3.BASICOBJ:D
+ADD.BASICOBJ:A replaces ADD.BASICOBJ:D
+FIND.BASICOBJ:A replaces FIND.BASICOBJ:D
+NEWLIB.BASICOBJ:A copied to NEWLIB.BASICOBJ:D
+RELAY.COPY:A copied to RELAY.COPY:D
+RUN$.EXEC:A replaces RUN$.EXEC:D
+IQUEEN.BASICOBJ:A copied to IQUEEN.BASICOBJ:D
+MODEM2.ASSEMBLE:A copied to MODEM2.ASSEMBLE:D
+MODEM$.EXEC:A copied to MODEM$.EXEC:D
+WISH.LIST:A copied to WISH.LIST:D
+LESSON2.SCRIPT:A copied to LESSON2.SCRIPT:D
+MEMBER.FEEDBACK:A copied to MEMBER.FEEDBACK:D
+GOLF.BASICOBJ:A copied to GOLF.BASICOBJ:D
+SORT.EXEC:A copied to SORT.EXEC:D
+NEWS.LETTER:A replaces NEWS.LETTER:D
+MODEM.ASSEMBLE:A copied to MODEM.ASSEMBLE:D
+RCPM.LIST:A copied to RCPM.LIST:D
+WSEARCH.BASICOBJ:A copied to WSEARCH.BASICOBJ:D
+BANNER.BASICOBJ:A copied to BANNER.BASICOBJ:D
+LESSON4.SCRIPT:A copied to LESSON4.SCRIPT:D
+VOL6.EXEC:A copied to VOL6.EXEC:D
+COMPILE.EXEC:A replaces COMPILE.EXEC:D
+COMPOUND.BASICOBJ:A copied to COMPOUND.BASICOBJ:D
+POSTAGE.BASICOBJ:A replaces POSTAGE.BASICOBJ:D
+DCH.COPY:A copied to DCH.COPY:D
+MODEM.DOC:A copied to MODEM.DOC:D
+
+>VOL6
+ANT TO SKIP OVER THE INTRO MATERIAL [Y/N]:N
+
+
+
+
+
+WELCOME  TO  VOLUME 6  OF A  VERY  RAPIDLY EXPANDING LIBRARY OF
+OASIS COMPATIBLE PUBLIC DOMAIN SOFTWARE CONTRIBUTED BY MEMBERS.
+THE  FOLLOWING  IS  A  LISTING  OF  THE  CONTENTS  OF VOLUME  6
+(ASSUMING IT IS MOUNTED ON THE "A" DRIVE):
+
+name--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$README  FIRST    A 07/17/81 18:34    23    2 S    68 VOL$1
+ADD      BASICOBJ A 07/17/81 16:52    75    3 S    80 VOL$1
+ADD      EXEC     A 08/28/81 16:23    66    3 S    81 VOL$1
+ASNOOPY  BASICOBJ A 07/14/81 16:42   115    4 S    77 VOL$1
+BANNER   BASICOBJ A 07/14/81 17:03    94    3 S    77 VOL$1
+CIVILWAR BASICOBJ A 07/14/81 16:34   240    8 S    73 VOL$1
+COMPILE  EXEC     A 08/11/81 17:12    41    2 S    74 VOL$1
+COMPOUND BASICOBJ A 07/08/81 15:59    17    1 S    49 VOL$1
+DCH      COPY     A 07/15/81 22:13   167    5 S    64 VOL$1
+FIND     BASICOBJ A 07/17/81 17:30    52    2 S    77 VOL$1
+FIND     EXEC     A 07/15/81 17:32    45    2 S    79 VOL$1
+GAMES    EXEC     A 07/26/81 18:57   129    4 S    66 VOL$1
+GOLF     BASICOBJ A 07/17/81 17:10   332    9 S    85 VOL$1
+GOMOKO   BASICOBJ A 07/08/81 19:49    65    3 S    71 VOL$1
+GREEKRTS BASICOBJ A 07/05/81 23:58    55    2 S    72 VOL$1
+HANGMAN1 BASICOBJ A 07/06/81 00:44   185    5 S    72 VOL$1
+HANGMAN2 BASICOBJ A 07/06/81 00:43   185    6 S    78 VOL$1
+HANGMAN3 BASICOBJ A 07/06/81 00:57   188    5 S    76 VOL$1
+IQUEEN   BASICOBJ A 07/14/81 16:37   184    5 S    68 VOL$1
+LESSON1  SCRIPT   A 05/16/81 16:49   140    7 S    78 VOL$1
+LESSON2  SCRIPT   A 02/09/81 13:44   241    7 S    81 VOL$1
+LESSON3  SCRIPT   A 02/09/81 14:54   190    8 S    79 VOL$1
+LESSON4  SCRIPT   A 03/04/81 05:25   261   11 S    91 VOL$1
+MASTMIND BASICOBJ A 07/05/81 22:52    48    2 S    74 VOL$1
+MEMBER   FEEDBACK A 02/29/81 17:38     9    1 S    77 VOL$1
+MODEM    ASSEMBLE A 07/24/81 11:17  1158   29 S    65 VOL$1
+MODEM    COMMAND  A 07/24/81 11:20    22    6 R   256 VOL$1
+MODEM    DOC      A 07/24/81 11:40   422   20 S    64 VOL$1
+MODEM$   EXEC     A 02/29/81 16:09    48    2 S    67 VOL$1
+MODEM2   ASSEMBLE A 07/21/81 15:55   633   16 S    69 VOL$1
+NEWLIB   BASICOBJ A 07/17/81 19:41    43    2 S    73 VOL$1
+NEWS     LETTER   A 02/29/81 15:54    82    5 S    79 VOL$1
+PMMI     COPY     A 07/15/81 22:19   171    5 S    63 VOL$1
+POSTAGE  BASICOBJ A 07/22/81 16:43    72    3 S    80 VOL$1
+POSTAGE  EXEC     A 06/28/81 17:33    35    2 S    76 VOL$1
+RCPM     LIST     A 07/24/81 08:52   305   16 S    65 VOL$1
+RECIPE   BASICOBJ A 07/08/81 16:26    39    1 S    64 VOL$1
+RELAY    COPY     A 07/15/81 21:51   161    5 S    63 VOL$1
+RUN$     EXEC     A 08/10/81 16:21    26    1 S    67 VOL$1
+SORT     BASICOBJ A 07/14/81 16:12   135    6 S   100 VOL$1
+SORT     EXEC     A 07/14/81 16:12    25    1 S    74 VOL$1
+VOL6     EXEC     A 02/29/81 17:36   392   11 S    77 VOL$1
+WISH     LIST     A 02/29/81 17:39    37    2 S    75 VOL$1
+WSEARCH  BASICOBJ A 02/29/81 16:15   201    4 S    73 VOL$1
+44 file(s), 247 block(s).
+▼ EWS.LETTER:VOL$1                                         01/30/85 13:45 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+NEWS.LETTER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+20 July 1981
+
+
+Dear Member,
+
+Well here it is: Volume 6 and it's another good one.  We have some really
+serious software contributors out there in OASIS land. You will note some
+significant changes starting with this volume.  First, and most important,
+we will only include the BASICOBJ version of BASIC programs from now on to
+save space.  To compensate, two EXEC's will be repeated on every volume:
+COMPILE and a new one, RUN$.  RUN$ will allow you to "RUN" BASIC programs
+through the OASIS Interpreter.  Instead of saying RUN CIVILWAR you can say
+RUN$ CIVILWAR even though you haven't yet compiled the program.  I hope
+all of you pros out there will be patient with those of us who still need
+such crutches.  To get a compiled version that will run on your particular
+release of OASIS you can just type COMPILE CIVILWAR after you have put the
+BASICOBJ version on a disk that has vacant space on it (Of course you can
+also type BASIC CIVILWAR and do the same thing, but perhaps our EXEC will
+be a little less confusing for some people.).
+
+A somewhat more subtle change is that we are beginning to run out of games,
+or more accurately, we are starting to get more serious contributions from
+members.  Nearly every day I get a call from someone who promises to send
+us more serious software.  There is a lot out there.  Even relatively new
+OASIS users are doing unique things that they are willing to share with the
+rest of us.  It's great and exciting for me!  Our BUSINESSMASTER II project
+now has 4 partners working on the conversion: me; Stu Rosenthal of Green
+Lawn, NY; Ed Kempf of Olathe, KA; and Bill Anderson of San Francisco, CA.
+My guess is that we should have this complete business system available in
+a month or two.  It is not public domain, but I purchased a dealership for
+the OASIS USERS' GROUP and every member will be able to acquire a copy under
+the same conditions as other volumes in the library.
+
+A couple of you have told me that you have either put "ads" in your local
+bulletin boards or are thinking about it.  Thanks, and I encourage others of
+you to do the same thing.  It's one way to get in touch with other OASIS users
+in your area, and the more members we have the better - both financially, and
+program contribution-wise.  Remember, I have no objection to several of you in
+the same geographical area getting together and sharing the OUG library volumes
+with each other as long as you don't "sell" anything and collaborate with one
+another in putting together quality contributions to the library. Always keep
+in mind that there is a lot of intellectual energy and time envolved at my end,
+and one way or another it is important that I continue to be compensated. We
+all clearly want this thing to continue on indefinately and that is personally
+my intention.
+
+Now for the really BIG news.  Digital Microsystems of Oakland, CA and I are
+finalizing an agreement to set up the OASIS USERS' GROUP BULLETIN BOARD on
+one of their computers!  It could happen anytime now.  I have John Taylor's
+version of the CBBS for OASIS and have checked it out on my present system.
+There are still a lot of things to do, but the ball is rolling.
+
+Phase One has indicated that they would be in attendance if we hold a USERS'
+GROUP meeting at the Fall COMDEX in San Francisco, so I am starting to put
+together the plans for that.  Your input is strongly encouraged.
+
+What else?  I'm still having a ball and enjoy talking to all of you who call.
+Sorry I can't always answer the technical questions, but soon we will have an
+organized list of members and you should be able to find someone in your area
+or with your interests on the list.  I guess that's all for this volume.
+
+Oh yes.  I got stuck with 10 boxes of WABASH double sided double density,
+soft sector diskettes.  The guy who sold them to me didn't tell me they were
+not flippies and has refused to talk about it.  Anyway, if you know anyone who
+uses double sided 8" diskettes (one index hole), have I got a deal for them.
+
+
+
+Peace,
+
+
+Fred Bellomy
+P.O. Box 2400
+Santa Barbara, CA 93120
+(805) 965-0265
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of NEWS.LETTER
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ EMBER.FEEDBACK:VOL$1                                     01/30/85 13:48 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+MEMBER.FEEDBACK for 1 August 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+Nothing received IN MACHINE READABLE FORM since the last volume was released.
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of MEMBER.FEEDBACK
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ISH.LIST:VOL$1                                           01/30/85 13:48 Page 1
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+WISH LIST - I wish somebody would.......................................
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+
+1.  We need a general purpose BASIC converter - you know, from any other
+BASIC (like BASIC-E) to OASIS BASIC.
+
+2.  Jim Mc Cord in Santa Barbara wants to run a version of UCSD PASCAL
+under OASIS.
+
+3.  We need to develop a cheap way for members to call the new OUG Bulletin
+Board computer.  Does anyone know a way to use the networks (ie TELENET,
+TYMNET, etc.) or other phone service for cheap "off hours" communications?
+
+4.  We now have a few inquiries from people who can't use 8" floppies.  We
+need members who can convert to other media formats to form sub groups of
+the OUG so ONYX users and others can get access to the public domain stuff.
+
+5.  We need a clearly written proceedure for setting up new class codes.
+
+6.  We need a conversion routine for converting ASSEMBLY language code
+from other Z80 systems to OASIS.
+
+7.  We need a BASIC disassembler.
+
+8.  I need a comprehensive mailing list program for keeping track of all
+our members - one that we can put in the public domain.
+
+9.  I need a data base system for maintaining the commercial software
+directory - again one that can be released into the public domain.
+
+10. Etc.
+
+
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+END of WISH LIST as of 1 August 1981
+*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=
+▼ ANT A PRINTED COPY OF THE PROGRAM INFO AS WELL? [Y/N]:N
+
+
+
+
+
+THE FOLLOWING ARE SOME COMMENTS ABOUT THE PROGRAMS ON VOLUME 6.
+
+***************************************************************
+
+
+ADD.BASICOBJ/EXEC
+FIND.BASICOBJ/EXEC
+NEWLIB.BASICOBJ
+
+THIS IS A RE-RELEASE OF THE VERSIONS ORIGINALLY ON VOLUME 5.  SOME
+BUGS HAVE BEEN FIXED AND A NEW FACILITY FOR CHANGING THE SIZE OF
+THE DISKFILE.LIBRARY FILE (EXPAND OR CONTRACT) HAS BEEN ADDED.
+
+FOR MORE INFO TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+SNOOPY.BASICOBJ
+
+THIS IS ANOTHER POSTER FEATURING OUR HERO, SNOOPY.  IT'S DIFFERENT
+FROM ALL THE REST OF 'EM.  SO, HERE IT IS. AUTHOR UNKNOWN.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ANNER.BASICOBJ
+
+THIS PROGRAM MAKES BIG POSTERS (BANNERS) USING WHATEVER TEXT YOU GIVE IT.
+THE QUALITY OF THE LETTERS IS NOT THAT GREAT, BUT TRY IT OUT. IF YOU NEED
+A BIG POSTER, IT'LL DO THE JOB. WRITTEN BY TOM KELLY.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+IVILWAR.BASICOBJ
+
+INTERESTING "GAME" THAT ASKS YOU TO DECIDE HOW TO SPEND YOUR CONFEDERACY'S
+LIMITED RESOURCES AND WHICH MILITARY STRATEGIES TO USE AT VARIOUS STAGES
+OF SEVERAL WELL KNOWN CIVILWAR BATTLES.  YOU'LL PROBABLY LOSE THE WAR, JUST
+LIKE THE SOUTH DID IN HISTORY. WRITTEN BY THE TEAM OF L. CRAM, L. GOODIE,
+AND D. HIBBARD.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OMPOUND.BASICOBJ
+
+ANOTHER LITTLE ANONOMOUS COMPOUND INTEREST PROGRAM FOR YOU COLLECTORS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OLF.BASICOBJ
+
+SO IT'S RAINING AND YOU'VE ALREADY CANCELLED ALL OF YOUR OTHER PLANS SO'S
+YOU COULD PLAY A FEW ROUNDS, HUH?  WELL, DON'T GIVE UP. JUST TURN ON THE
+OL' COMPUTER AND FORGET THE CADDY, AND AWAY WE GO.  AN OLD PROGRAM THAT
+WAS ORIGINALLY WRITTEN BY JOHN RODENBURG AND TOM DOSLAND, BUT REVISED AND
+RE-REVISED MANY TIMES BY THE TIME WE GOT IT CONVERTED FOR OASIS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OMOKO.BASICOBJ
+
+BASED ON THE ANCIENT JAPANESE GAME OF GO EXCEPT HERE YOU JUST TRY TO GET 5
+IN A ROW BEFORE THE (DUMB) COMPUTER.  CONVERTED FOR OASIS FROM THE VERSION
+IN "BASIC COMPUTER GAMES" BY DAVID AHL. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+REEKRTS.BASICOBJ
+
+SOME PRACTICE WITH A FEW OF THE GREEK ROOTS OF THE ENGLISH LANGUAGE.  NOT
+BAD PRACTICE FOR SOMEONE LEARNING ENGLISH FOR THE FIRST TIME.  A FEW OF
+THE PROGRAMMERS I KNOW COULD BENEFIT FROM PLAYING IT NOW AND THEN.  THE
+AUTHOR IS UNKNOWN.  I CONVERTED IT. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ANGMAN1.BASICOBJ
+HANGMAN2.BASICOBJ
+HANGMAN3.BASICOBJ
+
+THESE ARE THREE VERSIONS OF THE SAME GAME - EACH WITH ITS OWN SET OF WORDS.
+YOU KNOW THE GAME FROM CHILDHOOD - TRY TO GUESS THE SECRET WORD BY GUESSING
+LETTERS AND BEING TOLD IF THEY ARE IN THE WORD.  AUTHOR UNKNOWN. I CONVERTED
+IT FOR OASIS. FB
+
+TO TRY THE FIRST ONE NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+QUEEN.BASICOBJ
+
+AN INTERESTING LITTLE GAME THAT IS HARD TO WIN.  IT HAS GONE THROUGH SO
+MANY CONVERSIONS THAT EVERYONE HAS LOST TRACK OF THE ORIGINAL AUTHOR.
+I FIXED IT FOR OASIS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ESSON1.SCRIPT
+LESSON2.SCRIPT
+LESSON3.SCRIPT
+LESSON4.SCRIPT
+
+JOE TRIMBLE WORKED UP THESE FOUR LESSONS TO HELP PEOPLE AT HIS OFFICE LEARN
+HOW TO USE OASIS SCRIPT.  THERE ARE SOME THINGS IN THE TEXT THAT APPLY ONLY
+TO HIS PARTICULAR SITUATION, BUT I THINK THERE MIGHT BE OTHER PEOPLE WHO
+CAN BENEFIT FROM WHAT'S HERE IN ITS PRESENT FORM, SO HERE IT IS.
+
+BE WARNED THAT IF YOU ASK TO SEE IT NOW, IT'S GOING TO TAKE A FEW MINUTES TO
+SEE ALL OF THE FOUR LESSONS.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ASTMIND.BASICOBJ
+
+THIS IS THE 5 HIDDEN NUMBER/COLOR GUESSING GAME. IT IS A REAL CHALLANGE
+AND I ONCE TOOK A FULL HOUR TRYING TO FIGURE OUT THE BEST NEXT MOVE.  THE
+FRIEND I WAS PLAYING WITH REMINDS ME OF THAT ONE MOVE EVERY FEW MONTHS OR
+SO.  ALL IN ALL, IT'S A FUN GAME.  I MADE MANY MODIFICATIONS TO AN
+ANONOMOUS PROGRAM AND ADOPTED IT TO OASIS. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ODEM.COMMAND/ASSEMBLE/DOC
+MODEM$.EXEC
+MODEM2.ASSEMBLE
+DCH.COPY
+PMMI.COPY
+RELAY.COPY
+RCPM.LIST
+
+THIS IS THE LONG AWAITED LINK WITH ALL OF THE CP/M BULLETIN BOARD SYSTEMS
+THAT ALLOW DOWN LOADING OF SOFTWARE.  WITH THIS PROGRAM YOU CAN TALK DIRECTLY
+WITH THE XMODEM OR MODEM PROGRAMS AT THE OTHER END RUNNING UNDER CP/M.  IT
+WAS ADAPTED FOR OASIS BY JOHN TAYLOR FROM ORIGINAL SOFTWARE CREATED BY
+WARD CHRISTENSEN.  JOHN HAS INCLUDED BOTH AN ASSEMBLED VERSION (COMMAND)
+AND THE SOURCE CODE, PLUS VARIOUS FILES FOR CUSTOMIZING THE PACKAGE FOR
+YOUR PECULIAR HARDWARE.  HE HAS ALSO INCLUDED EXTENSIVE DOCUMENTATION
+WHICH YOU CAN SEE NOW, IF YOU WANT.  IN ADDITION, HE INCLUDES A RECENTLY
+UPDATED VERSION OF THE LIST OF CBBS SYSTEMS THAT OFFER SOFTWARE TO ANYONE
+WHO WANTS TO CALL IN.  YOU MIGHT CHECK THE LIST TO SEE IF THERE ISN'T A
+SYSTEM IN YOUR CITY.  THIS IS A RELATIVELY EASY WAY TO GET PUBLIC DOMAIN
+SOFTWARE FOR CONVERSION TO OASIS COMPATIBILITY.  TRY IT. IT'S NOT AS
+DIFFICULT AS YOU MIGHT THINK.
+
+FOR MORE INFO NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+OSTAGE.BASICOBJ
+
+THIS IS A SLIGHTLY REVISED VERSION OF THE SAME PROGRAM RELEASED EARLIER.
+THIS VERSION LETS YOU SPECIFY A KNOWN POSTAGE AS WELL AS THE WEIGHT OF
+THE PACKAGE.  I WROTE IT IN DESPERATION WHILE TRYING TO DECIDE WHAT
+COMBINATIONS OF STAMPS TO PUT ON ALL OF THE VARIOUS PACKAGES OF DISKETTES
+I'VE BEEN SENDING TO YOU ALL. FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ECIPE.BASICOBJ
+
+IF THE RECIPE IS FORMULATED TO SERVE 4 PEOPLE AND YOU WANT TO MAKE THE
+SAME RECIPE FOR 7.68 PEOPLE, THIS PROGRAM TELLS YOU WHAT THE NEW AMOUNTS
+OF EACH INGREDIENT SHOULD BE.  BOUND TO BE A REAL WINNER.
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+ORT.BASICOBJ/EXEC
+
+WELL, FOR THOSE OF YOU WHO DECIDED NOT TO SPEND THE HUNDRED BUCKS FOR THE
+FAST OASIS VERSION, HERE IS ONE THAT WORKS ON MOST FILES.  IT WORKS JUST
+FINE ON ALL THE TEST FILES I TRIED IT ON.  IT WAS ORIGINALLY WRITTEN BY
+JOE TRIMBLE AND I'VE MADE A FEW CHANGES TO MAKE IT EASIER TO USE.  BUT,
+JOE GETS ALL THE CREDIT FOR THIS ONE.  I KNOW A LOT OF YOU WILL THANK HIM
+WHEN YOU SEE HOW WELL IT WORKS. IT IS SLOW WITH LARGE FILES, BUT THEN IT'S
+FREE, TOO!
+
+BETTER PLAN TO COMPILE THIS ONE BEFORE TRYING TO USE IT WITH THE EXEC.
+
+TO SEE THE INPUT FORMAT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+
+SEARCH.BASICOBJ
+
+THIS PROGRAM MAKES A HIDDEN WORD PUZZLE.  I MUST CONFESS THAT IT IS ONE
+OF MY FAVORITES.  GREAT TO MAKE PUZZLES FOR FRIENDS WITH ALL THE HIDDEN
+WORDS HAVING SPECIAL MEANING FOR THEM, ALONE. OR, MAKE ONE WITH JUST A
+BUNCH OF PEOPLE'S NAMES.  LOTS OF FUN. THE AUTHOR, UNFORTUNATELY IS NOT
+KNOWN.  I CONVERTED IT FOR OASIS.  FB
+
+TO TRY IT NOW TYPE "RUN" ELSE HIT THE <CR> TO CONTINUE
+:
+***************************************************************
+
+WELL, THAT'S  THE END  OF VOLUME 6.  LET ME  HEAR YOUR COMMENTS
+ABOUT IT.   WE ARE  ALL STILL LEARNING AND I'M  SURE THAT THERE
+WILL BE  MANY CHANGES TO COME. GIVE ME A CALL ANY TIME.
+
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265
+
+***************************************************************
+
+>

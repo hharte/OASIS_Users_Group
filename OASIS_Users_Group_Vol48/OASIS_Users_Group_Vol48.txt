@@ -1,0 +1,926 @@
+June 1985                       Volume: 48
+            OASIS USERS' GROUP
+The Entire Contents Of The O.U.G. Library
+Are For The Exclusive Use Of Its Members.
+CONTACT: Fred Bellomy (805) 965-0265
+P.O. Box 2400 Santa Barbara, CA 93120
+
+Files owned by account: SYSTEM (0)
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL48   
+$README  FIRST    A 01/16/85 10:00    60    3 S    66 VOL48   
+BASIC    FILEINFO A 06/12/85 08:27   111    4 S    78 VOL48   
+BENCH$$$ EXEC     A 12/07/84 10:00   440   14 S    77 VOL48   
+BENCH$$$ INFO     A 06/12/85 08:27    44    2 S    65 VOL48   
+BENCH11A BASIC    A 06/17/85 08:27    43    2 S    87 VOL48   
+BENCH11B BASIC    A 06/17/85 08:27    46    2 S    84 VOL48   
+BENCH11B BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH11C BASIC    A 06/17/85 08:27    44    2 S    90 VOL48   
+BENCH11D BASIC    A 06/17/85 08:27    44    2 S    87 VOL48   
+BENCH11D BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH1A  BASIC    A 06/17/85 08:27    56    3 S    89 VOL48   
+BENCH1B  BASIC    A 06/17/85 08:27    46    2 S    89 VOL48   
+BENCH1B  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH1C  BASIC    A 06/17/85 08:27    45    2 S    80 VOL48   
+BENCH1D  BASIC    A 06/17/85 08:27    44    2 S    86 VOL48   
+BENCH1D  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH22A BASIC    A 12/07/84 10:00    28    1 S   103 VOL48   
+BENCH22B BASIC    A 06/17/85 08:27    32    2 S   103 VOL48   
+BENCH22B BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH2A  BASIC    A 06/17/85 08:27    27    1 S   101 VOL48   
+BENCH2B  BASIC    A 06/17/85 08:27    27    1 S   101 VOL48   
+BENCH2B  BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH33  BASIC    A 06/17/85 08:27    25    2 S   101 VOL48   
+BENCH33  BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH44  BASIC    A 06/18/84 10:00    42    2 S   101 VOL48   
+BENCH44  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCHCLG COMMAND  A 09/29/83 17:29    49   13 R   256 VOL48   
+BENCHMUL EXEC     A 06/17/85 08:27     6    1 S    12 VOL48   
+BENCHPRT BASIC    A 06/18/84 10:00    42    2 S    94 VOL48   
+CLASS    CODES    A 06/18/85 08:27   216    7 S    70 VOL48   
+FLCOPY   EXEC     A 05/16/85 08:27   161    4 S    73 VOL48   
+QABALAH  DATA     A 06/12/85 08:27   186    7 S    82 VOL48   
+QABALAH  EXEC     A 06/12/85 08:27    54    2 S    73 VOL48   
+QABALAH0 BASIC    A 12/07/84 10:00    59    3 S    97 VOL48   
+QABALAH0 BASICCOM A 12/07/84 10:00     5    2 SR  254 VOL48   
+QABALOGO BASICCOM A 10/25/84 16:34     3    1 S   254 VOL48   
+QABALOST BASIC    A 06/12/85 08:27   151    8 S    78 VOL48   
+QABAMIND BASIC    A 06/12/85 08:27   150    9 S    78 VOL48   
+QABANUMB BASIC    A 06/12/85 08:27   101    4 S    75 VOL48   
+QABBONES BASIC    A 06/12/85 08:27   106    4 S   112 VOL48   
+QABSTONE BASIC    A 06/12/85 08:27   261   11 S    79 VOL48   
+QABTAROT BASIC    A 06/12/85 08:27   348    9 S    60 VOL48   
+SCRIPOUT EXEC     A 06/12/85 08:27     9    1 S    68 VOL48   
+SELECT48 EXEC     A 12/07/84 10:00    54    3 S    46 VOL48   
+TAROT    ARCANAG  A 06/12/85 08:27   101    5 S    65 VOL48   
+TAROT    ARCANAL  A 06/12/85 08:27   460   24 S    65 VOL48   
+TAROT    HISTORY  A 06/12/85 08:27   175   10 S    65 VOL48   
+TAROT    HOW$TO   A 06/12/85 08:27    66    4 S    65 VOL48   
+VOL48    CONTENTS A 06/17/85 08:27   128    6 S    70 VOL48   
+VOL48    EXEC     A 06/17/85 08:27   359   10 S    84 VOL48   
+VOL48    FEEDBACK A 06/17/85 08:27   373   17 S    75 VOL48   
+VOL48    NEWS     A 06/12/85 08:27   186   10 S    65 VOL48   
+Z80SYS   SCRIPT   A 06/12/85 08:27   200   10 S    77 VOL48   
+54 file(s), 246 block(s).
+
+>COPYFILE *.*:A = = D(NOQ,REPL
+VOL48.EXEC:A copied to VOL48.EXEC:D
+$OUGB.COMMAND:A replaces $OUGB.COMMAND:D
+$README.FIRST:A replaces $README.FIRST:D
+BENCH11C.BASIC:A copied to BENCH11C.BASIC:D
+BENCH2B.BASICCOM:A copied to BENCH2B.BASICCOM:D
+BENCHMUL.EXEC:A copied to BENCHMUL.EXEC:D
+QABBONES.BASIC:A copied to QABBONES.BASIC:D
+BASIC.FILEINFO:A copied to BASIC.FILEINFO:D
+BENCH11B.BASICCOM:A copied to BENCH11B.BASICCOM:D
+BENCH11D.BASIC:A copied to BENCH11D.BASIC:D
+BENCH1A.BASIC:A copied to BENCH1A.BASIC:D
+BENCH1D.BASICCOM:A copied to BENCH1D.BASICCOM:D
+BENCH33.BASICCOM:A copied to BENCH33.BASICCOM:D
+CLASS.CODES:A replaces CLASS.CODES:D
+QABALAH0.BASIC:A copied to QABALAH0.BASIC:D
+BENCH2A.BASIC:A copied to BENCH2A.BASIC:D
+BENCHCLG.COMMAND:A copied to BENCHCLG.COMMAND:D
+QABALAH.EXEC:A copied to QABALAH.EXEC:D
+QABALOGO.BASICCOM:A copied to QABALOGO.BASICCOM:D
+SCRIPOUT.EXEC:A copied to SCRIPOUT.EXEC:D
+VOL48.FEEDBACK:A copied to VOL48.FEEDBACK:D
+BENCH11D.BASICCOM:A copied to BENCH11D.BASICCOM:D
+BENCH1C.BASIC:A copied to BENCH1C.BASIC:D
+QABALAH0.BASICCOM:A copied to QABALAH0.BASICCOM:D
+QABAMIND.BASIC:A copied to QABAMIND.BASIC:D
+QABANUMB.BASIC:A copied to QABANUMB.BASIC:D
+SELECT48.EXEC:A copied to SELECT48.EXEC:D
+TAROT.HOW$TO:A copied to TAROT.HOW$TO:D
+Z80SYS.SCRIPT:A copied to Z80SYS.SCRIPT:D
+BENCH$$$.EXEC:A copied to BENCH$$$.EXEC:D
+BENCH22A.BASIC:A copied to BENCH22A.BASIC:D
+FLCOPY.EXEC:A copied to FLCOPY.EXEC:D
+QABALAH.DATA:A copied to QABALAH.DATA:D
+VOL48.CONTENTS:A copied to VOL48.CONTENTS:D
+BENCH22B.BASIC:A copied to BENCH22B.BASIC:D
+BENCH44.BASIC:A copied to BENCH44.BASIC:D
+BENCHPRT.BASIC:A copied to BENCHPRT.BASIC:D
+BENCH$$$.INFO:A copied to BENCH$$$.INFO:D
+BENCH1B.BASIC:A copied to BENCH1B.BASIC:D
+QABALOST.BASIC:A copied to QABALOST.BASIC:D
+TAROT.HISTORY:A copied to TAROT.HISTORY:D
+BENCH11A.BASIC:A copied to BENCH11A.BASIC:D
+BENCH22B.BASICCOM:A copied to BENCH22B.BASICCOM:D
+BENCH2B.BASIC:A copied to BENCH2B.BASIC:D
+BENCH44.BASICCOM:A copied to BENCH44.BASICCOM:D
+QABSTONE.BASIC:A copied to QABSTONE.BASIC:D
+TAROT.ARCANAG:A copied to TAROT.ARCANAG:D
+TAROT.ARCANAL:A copied to TAROT.ARCANAL:D
+BENCH11B.BASIC:A copied to BENCH11B.BASIC:D
+BENCH1B.BASICCOM:A copied to BENCH1B.BASICCOM:D
+BENCH1D.BASIC:A copied to BENCH1D.BASIC:D
+BENCH33.BASIC:A copied to BENCH33.BASIC:D
+QABTAROT.BASIC:A copied to QABTAROT.BASIC:D
+VOL48.NEWS:A copied to VOL48.NEWS:D
+
+>VOL48
+
+^     OOOOOOOOOOO        UUU              UUU        GGGGGGGGGGGG
+. . . . . . OUG library volume 48 is mounted on drive A . . . . . . .
+   OOOO         OOOO     UUU              UUU     GGGG          GGGG
+ 1  COMPLETE INTRODUCTION TO VOLUME        5  LIST VOLUME NEWSLETTER 
+ 2  LIST SUMMARY OF VOLUME SOFTWARE        6  LIST MEMBER'S FEEDBACK 
+ 3  RUN SOFTWARE CONTRIBUTIONS ONLY        7  LIST CURRENT WISH LIST 
+ 4  DISPLAY CONTENTS OF THIS VOLUME        8  QUIT                   
+  OOO             OOO    UUU      48      UUU    GGG          GGGGGGG
+YOUR CHOICE? [1-8] ===> 1UUU              UUU    GGG          GGGGGGG
+  OOO             OOO    UUU              UUU    GGG              GGG
+   OOOO         OOOO      UUU            UUU      GGGG          GGGG
+CONTENTS OF OUG VOLUME 48 ON DRIVE AUUUUUUU        GGGGGGGGGGGGGGGG
+      OOOOOOOOOOO            UUUUUUUUUUUU            GGGGGGGGGGGG
+>FILELIS A 
+      Copyright 1985   T H E   O A S I S   U S E R S   G R O U P
+
+=====================================================================
+:                                                                   :
+:                "Grab hold lightly - let go tightly."              :
+:                                     Old Zen saying.               :
+:                                                                   :
+=====================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fname--- Ftype-- Dr --Date-- Time- -Recs Blks Format- Label---
+
+$OUGB    COMMAND  A 02/25/85 00:00     6    2 R   256 VOL48   
+$README  FIRST    A 01/16/85 10:00    60    3 S    66 VOL48   
+BASIC    FILEINFO A 06/12/85 08:27   111    4 S    78 VOL48   
+BENCH$$$ EXEC     A 12/07/84 10:00   440   14 S    77 VOL48   
+BENCH$$$ INFO     A 06/12/85 08:27    44    2 S    65 VOL48   
+BENCH11A BASIC    A 06/17/85 08:27    43    2 S    87 VOL48   
+^ENCH11B BASIC    A 06/17/85 08:27    46    2 S    84 VOL48   
+>LIST VOL48 NEWS A  06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH11C BASIC    A 06/17/85 08:27    44    2 S    90 VOL48   
+BENCH11D BASIC    A 06/17/85 08:27    44    2 S    87 VOL48   
+BENCH11D BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH1A  BASIC    A 06/17/85 08:27    56    3 S    89 VOL48   
+BENCH1B  BASIC    A 06/17/85 08:27    46    2 S    89 VOL48   
+BENCH1B  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH1C  BASIC    A 06/17/85 08:27    45    2 S    80 VOL48   
+BENCH1D  BASIC    A 06/17/85 08:27    44    2 S    86 VOL48   
+BENCH1D  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCH22A BASIC    A 12/07/84 10:00    28    1 S   103 VOL48   
+BENCH22B BASIC    A 06/17/85 08:27    32    2 S   103 VOL48   
+BENCH22B BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH2A  BASIC    A 06/17/85 08:27    27    1 S   101 VOL48   
+BENCH2B  BASIC    A 06/17/85 08:27    27    1 S   101 VOL48   
+BENCH2B  BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH33  BASIC    A 06/17/85 08:27    25    2 S   101 VOL48   
+BENCH33  BASICCOM A 06/17/85 08:27     2    1 SR  254 VOL48   
+BENCH44  BASIC    A 06/18/84 10:00    42    2 S   101 VOL48   
+BENCH44  BASICCOM A 06/17/85 08:27     4    1 SR  254 VOL48   
+BENCHCLG COMMAND  A 09/29/83 17:29    49   13 R   256 VOL48   
+BENCHMUL EXEC     A 06/17/85 08:27     6    1 S    12 VOL48   
+BENCHPRT BASIC    A 06/18/84 10:00    42    2 S    94 VOL48   
+CLASS    CODES    A 06/18/85 08:27   216    7 S    70 VOL48   
+FLCOPY   EXEC     A 05/16/85 08:27   161    4 S    73 VOL48   
+QABALAH  DATA     A 06/12/85 08:27   186    7 S    82 VOL48   
+QABALAH  EXEC     A 06/12/85 08:27    54    2 S    73 VOL48   
+QABALAH0 BASIC    A 12/07/84 10:00    59    3 S    97 VOL48   
+QABALAH0 BASICCOM A 12/07/84 10:00     5    2 SR  254 VOL48   
+QABALOGO BASICCOM A 10/25/84 16:34     3    1 S   254 VOL48   
+QABALOST BASIC    A 06/12/85 08:27   151    8 S    78 VOL48   
+QABAMIND BASIC    A 06/12/85 08:27   150    9 S    78 VOL48   
+QABANUMB BASIC    A 06/12/85 08:27   101    4 S    75 VOL48   
+QABBONES BASIC    A 06/12/85 08:27   106    4 S   112 VOL48   
+QABSTONE BASIC    A 06/12/85 08:27   261   11 S    79 VOL48   
+QABTAROT BASIC    A 06/12/85 08:27   348    9 S    60 VOL48   
+SCRIPOUT EXEC     A 06/12/85 08:27     9    1 S    68 VOL48   
+SELECT48 EXEC     A 12/07/84 10:00    54    3 S    46 VOL48   
+TAROT    ARCANAG  A 06/12/85 08:27   101    5 S    65 VOL48   
+TAROT    ARCANAL  A 06/12/85 08:27   460   24 S    65 VOL48   
+TAROT    HISTORY  A 06/12/85 08:27   175   10 S    65 VOL48   
+TAROT    HOW$TO   A 06/12/85 08:27    66    4 S    65 VOL48   
+VOL48    CONTENTS A 06/17/85 08:27   128    6 S    70 VOL48   
+VOL48    EXEC     A 06/17/85 08:27   359   10 S    84 VOL48   
+VOL48    FEEDBACK A 06/17/85 08:27   373   17 S    75 VOL48   
+VOL48    NEWS     A 06/12/85 08:27   186   10 S    65 VOL48   
+Z80SYS   SCRIPT   A 06/12/85 08:27   200   10 S    77 VOL48   
+54 file(s), 246 block(s).
+
+VOL48.NEWS:VOL48                                          01/30/85 12:21 Page 1
+
+-----------------------------------------------------------------
+17 June 1985            N E W S   L E T T E R           Volume 48
+-----------------------------------------------------------------
+
+
+
+
+Good Morning; 
+
+VOL48: Bench  marks  have  always  been  an  important  tool  for
+comparing  the  performance  of  computer  systems.  I  have been
+trying to  get a really comprehensive set for a couple years.  We
+now  have  several  different  benchmark programs,  and taken all
+together it is not a bad package.  So, until someone sends us the
+"perfect" benchmark set, we will need to rely on what we do have.
+
+Joe Harris put  together a package which ties together all of the
+programs  we had  released earlier  (volumes 12, 21, and 26)  and
+prints a concise  report on the results for  each machine.  Royce
+Bordman  gave us  an algorithm  that he considers to represent  a
+"typical" mix of  direct and indexed file accesses  usually found
+in business  applications.  And, Kevin Hansen gave us one to test
+the  speed of  processing math  functions  (volume 47).  So, here
+they  are  all   together  and  ready  for  you   to  run  almost
+automatically on  your system.  Send me a copy of the report that
+is generated  for your system and I'll report back on the results
+you send in.  
+
+All you  otherworld  students out  there will love Jack Holeman's
+ambitious effort.  If you have ever had a hankering to delve into
+the  occult,  numerology, mysticism,  the Tarot, or the Kabbalah;
+now is your chance to see if the keys you seek are to be found in
+this  other realm.   Jack has  contributed  a package of programs
+which will allow you to consult the sources of ancient wisdom.  I
+don't  suppose  there  are all  that many  people  in the OUG who
+literally  believe  in  the occult  these days,  but  who am I to
+dismiss the ancient teachings out of hand.  
+
+It has long  been apparent that people who can act decisively and
+with conviction often  prevail in their endeavors.  In  the olden
+days (and  by garly, it is still happening in lots of places even
+today in this  civilized world!) a wise man  always consulted the
+Oracle before starting anything important.  What ever it takes to
+create  the  confidence  to act,  cannot be  rejected  as totally
+worthless.    I   have   augmented   Jack's  contributions   with
+information  from  my  own sources  about the  Tarot.   With this
+package  you  should  be able  to open  your  own fortune telling
+parlor,  if  you happen  to have  found yourself a victim of  the
+current computer industry slump.  
+
+There's more.   Jack  Holeman has  sent us  a  couple of tutorial
+items: one  is a  summary of BASIC file use  information, and the
+other is  a handy  summary chart for the Z80  processor including
+the meanings of  system calls.  He has also  given us a technique
+for SCRIPTing a file out to the modem (cute).  
+
+To finish  off  the volume  I've included  the  latest listing of
+class codes  now in the OUG library, and a revised version of the
+EXEC  I  use for  manufacturing disks  using  Lew Murray's single
+floppy copy programs  released earlier.  What can I  say.  Volume
+48 is a little different this time.  
+
+VOL47: is being mailed  with 48 as is the  usual pattern.  BUT, I
+sent the volume  47 newsletter out ahead of  the disks this time.
+A half  dozen members  were worried enough to call  and make sure
+their  disks  hadn't  gotten lost  in the  mail  or something.  I
+sometimes forget how  exciting a new package of  software can be,
+even though  I still  get a charge each time  I get one of yours.
+It was nice to have the reminder.  Sorry for the confusion.  
+
+OASIS TECHNOLOGIES: Otech  has hired two new people: Jim Bobb for
+programming and  Maureen Howard for the administrative staff.  As
+of press  time we  still do not have the  final word on the major
+promotional changes which are expected soon.  Buddy Auble says we
+can expect  to hear something on the 20th.  Watch CARAVAN for the
+news.  It will be there as soon as I have it.  
+
+CARAVAN: I have  been studying  the weekend 300 baud use  pattern
+and  have made  a startling  discovery: most of the callers  have
+1200 baud  modems!  I am now considering running at 1200 baud all
+the time.  If  this will be a problem  for you, let me know right
+away.  
+
+OASIS TIMES:  15,000  copies  were distributed  in April and most
+everybody I've  talked to  is pleased with quality product  Otech
+has produced.  Calle  Webb gets the lion's share  of credit for a
+job well  done.  Now  they are getting ready for  a summer issue.
+In talking to a few of the advertisers I've discovered that there
+may  be thousands  of copies  sitting  around in people's offices
+collecting dust.   I send a copy with each new member packet, but
+will  still have  lots of  copies left by the time  the new issue
+arrives.  If  you are  in that fix too, let  Buddy Auble at Otech
+know (415) 283-4290.   He may be able to  get them into the hands
+of people who  need them.  Undistributed copies don't  do anybody
+any good.  
+
+S-1: was panned  in the  June issue of PC World.   S-1 may or may
+not be vaporware, but one thing is certain: they are taking their
+sweet  time  letting  the  press  (PC  World)  get some  hands-on
+experience in order  to do a technical review.   So far I've seen
+no reviews  of  the  O/S  itself  or any  applications  using it.
+Lombardo, S-1's  president,  is  still  referring  to UNIX  as  a
+dinosaur and MS-DOS plus CP/M as mere toys.  Dick Pick was quoted
+as saying: "Lombardo's  a loose cannon...  As long  as he doesn't
+aim his guns at me, I don't care." They have been promising a lot
+for a long time.  Its getting to be an old story.  
+
+PICK: is still  in the  news.  Two separate groups are  trying to
+set standards  for the O/S.  On top of that PIC, the users group,
+is  trying  to  influence standards,  too.  All  of  this turmoil
+certainly has gotten them a lot of press lately.  
+
+UNIX: continues to  dominate the press, though.  "Unix evolves as
+a  choice, not  a  standard."  states  Amy  Wohl in  the  1 April
+Computerworld.  It  is now  obvious that the UNIX/XENIX world  is
+highly fragmented and likely to become even more so (8 April CSN:
+27 different  versions and growing).  Even though new machines do
+continue  to  show  up with  UNIX as  an  option, I've seen fewer
+articles  lately  that  tout  UNIX  as  the  new  world  standard
+multi-user  O/S  for  16/32-bit  processors.  Even  the technical
+virtues from the  programmers point of view have  come under fire
+lately: "The 'Adventure' game mentality is seen everywhere in the
+system." states  by  Ray  Duncan  in  the April  '85  Dr.  Dobb's
+Journal.  
+
+That we  may  be  witnessing the  beginning of  the  end could be
+deduced from from the answer given by ATT's William O'Shea to the
+question "...  when  would ATT throw up its  hands in defeat?" He
+responded at a recent UNIX conference in Orlando florida: "By the
+next  two  or three  years, we  need to see a major  piece of the
+industry going to  UNIX." (8 April CSN).  I  think we may just be
+seeing  a  new window  of opportunity  opening  up for the lessor
+known contenders like Oasis.  
+
+IBC: is  putting together  a Software  Directory  of their own to
+showcase different  types of software available for their product
+line.    They   recently  mailed   a  questionnaire  to  software
+^evelopers for input.  If you didn't get one, give them a call at
+>LIST VOL48 FEEDBACK A 
+
+TANDY: and the Radio Shack Model II continues unsupported, but an
+increasing number  of inquiries suggest it could get attention in
+the  near future.   If  you  have  an  interest in  seeing  Oasis
+supported on this  machine, right now would be  the right time to
+let someone know.  
+
+SIG: coordination is a great opportunity to learn more about your
+special area of interest.  Every teacher I've ever known has said
+they always  learn  more  than  their  students.  That's  not  to
+suggest that  our coordinators  are teachers, but the analogy  is
+valid.  Those  coordinators with whom I've spoken have reported a
+number  of  unexpected  benefits  from  being  identified  as the
+central  coordination  point for  their special area of interest.
+For  example  Craig  Killam (SIG-COBOL)  tells me  Bill  Berne of
+Quantumn Information  sent him  a review copy of their  new Cobol
+Sort package (By the way Craig, you still owe us some feedback on
+that).  Others  have reported useful contacts they would not have
+made, had  they not stepped forward to coordinate a SIG.  Why not
+do one yourself?  
+
+NEWS REPORTING: is  a big job now for the OUG.  Many, many of you
+have let me know that our little "informal" newsletter has become
+an important source of information about the Oasis world.  I have
+to  believe it's  true and  that we need to try  and do a better,
+more thorough job from now on.  That means I need more input from
+you and  our other members.  I can't be everywhere, but you folks
+are scattered all  over.  Each of us has  unique perspectives and
+information sources and we will all benefit from more sharing.  
+
+For my part, I  will make an effort to  get the newsletters out a
+little  more frequently  by mailing them individually rather than
+two at a  time with the regular standing  order mailings.  But, I
+need  your  help  too.  Please  keep me  informed  when you learn
+something interesting.  
+
+
+Imagining peace, 
+
+
+Fred Bellomy 
+
+(805) 965-0265 and (805) 965-5415 for CARAVAN-information system.
+
+-----------------------------------------------------------------
+end of .......          N E W S   L E T T E R           Volume 48
+-----------------------------------------------------------------
+
+VOL48.FEEDBACK:VOL48                                      01/30/85 12:21 Page 1
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+VOL48.FEEDBACK                                       17 June 1985
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Dear Fred, 
+
+Sorry about the delay  in getting the tape back  to you.  We have
+been wall to wall here lately.  We left off with a TIN version of
+Vol 46+bonus.  
+
+Enclosed is a  newest contribution, which delighted the other OUG
+lawyers in our  (SIG-LAW)  emerging network.  It is called BILGE,
+which is my frank lawyerly opinion of its moral applications. Ah,
+but who am I to stop  the march of science?  If  I hadn't thought
+of it, the Russians would have.  
+
+BILGE is   designed   to  eliminate   the  drudgery  any  skilled
+professional  feels in  having to  fill out time logs or  punch a
+time  clock.  Instead,  with this handy-dandy little program, you
+can  generate  a  month's  or  year's realistic  looking billings
+totally at random and get out to the golf course or slopes.  It's
+perfect  for  those  court-awarded  fees  that require  laborious
+documentation by FRIDAY.  Next time you get a lawyer's bill, this
+program will  make you  stop and wonder, "Now how  did he come up
+with this?" ...  
+
+IT'S NOT TO LATE TO FORGET YOU HEARD ABOUT THIS.  
+
+Albert Bates                                           6/8/85
+Summertown TN 38483-0090
+(615) 964-2334
+
+P.S.: Now   someone   needs   to   adapt   this   for   overnight
+expense-record generating for impending IRS audits.  
+
+P.P.S.: I need to convert some of my OASIS BASIC programs to CP/M
+for  use on  a bulletin  board.  Is there a reverse  MCONVERT out
+there anywhere?  
+
+-----------------------------------------------------------------
+
+    For Sale
+    one IBC Middi Cadet 
+        20MB Hard Disk
+        256K CPU
+        one 5 1/4 1MB floppy
+    two Wyse 50 CRTs
+    one Data South 220 printer
+    all cables
+    six printer ribbons
+        Q Pack
+        Multiplan & Spellbinder
+    all Manuals
+  
+  one year old, good condition, discontinued business
+  contact John Riscoe 303-979-1684 evenings or
+  303-232-6800 days. Price $4,300.00
+
+-----------------------------------------------------------------
+
+**************************************
+
+       C O M M E N T A R I E S
+
+**************************************
+
+THIS IS  A COMMENTARY  ABOUT THE LOCAL DATA PROCESSING MANAGEMENT
+ASSOCIATIONS MICRO COMPUTER  SHOW.  IT DIDN'T HAPPEN A  MOMENT TO
+SOON.   NO  SOONER  THAN THE  COLLEGES HAD  TELEVISED  THAT MICRO
+COMPUTERS CAN'T  DO SOMETHING,  ALONG COMES THE BIG BOYS  (WITH A
+MICRO THAT WILL) TO THE RESCUE.  
+
+I got  a  chance to  view some  of the IVORY TOWER Micros  at the
+local  DPMA Computer  Show.  I  saw the IBM/AT and the  ATT AB/3.
+The rest were  kinda' ordinary looking to me.   (Sorry Burroughs,
+you're still 16 bit !) 
+
+The IBM/AT has  a Twenty  Megabyte Disk Drive and sells  for less
+than 10,000.  It  has a 1.2 Super Floppy  Disk Drive as well.  IT
+HAS NO RANDOM  STORAGE DEVICE like a Tape  Cart Device available,
+according to what  the IBM people told me.   If you had more than
+10 megabytes of data in the AT, and a physical hard drive problem
+occured, it  could mean the loss of software and or data.  I know
+because my  twenty meg winnie died on me one time and if I didn't
+ARCH to  TAPE on Fridays, I would have lost everything except for
+the stuff I had on separate 8 inch floppies.  
+
+You can  hook  up as  many as  seventy-two  terminals without any
+gauranteed response time, according to the IBM people, and I have
+yet  to  see  the  CLUSTER  operate  in  a successful  multi-user
+multi-tasking environment.  IT  MAY, VERY SOON !  If  Some of the
+independent  micro computer  producers can  come up with 5 or  10
+gigabyte  micros  for the  low micro  cost,  the IVORY TOWER BOYS
+might not sell too many FRAMES, and it appears that IBM KNOWS IT.
+"The IBM/AT is sixteen bit", I was told at the Show.  
+
+THE MAIN FRAME WATERS ARE BRACKISH, IT APPEARS...  
+
+A BIG MAIN  FRAME COMPANY MIGHT BE ABLE TO FIGHT ANTI-TRUST SUITS
+and MIGHT  BE ABLE TO CRUSH SMALL COMPETITORS, REAPING THE SPOILS
+OF  THEIR TECHNOLOGY...   BUT HOW  CAN THEY SNAKE A PRODUCT  THAT
+WOULD  GOUGE  THEIR  TEN STORY,  AIR CONDITIONED, HALOGEN DUSTED,
+(PEOPLE CRAWLING  ON LIKE ANTS) MAINUS FRAMUS ???  THIS IS REALLY
+INTERESTING.  ESPECIALLY  IN LIGHT OF THE FACT THAT INTEL HAS NOW
+MADE AGREEMENTS WITH FUGITSU OF JAPAN CONCERNING 6, 8, and 16 bit
+CHIPS !  
+
+ATT HAS A THIRTY TWO BIT MACHINE OUT ?  
+
+The ATT  AB/3  is  a  thirty-two  megabyte  machine  with 32  bit
+processing and is sold around 12,000, I am told.  AGAIN, THERE IS
+NO TAPE  CART!!  COMPLETE UNIX (FULL SHELL/FULL BORNE) WAS ON THE
+ONE I SAW .  It may be that ATT could come up with a Super Micro,
+but  that  would  depend on  the weather  up  there in the clouds
+around all those IVORY TOWERS.  
+
+Would MA BELL  kick her  International Business Man out of  bed ?
+(Sounds  like  a divorce  in the  offing)  Who knows.  If anyone,
+ANYONE !!!  could produce a 32 meg/ 32 bit micro with full backup
+capability and complete multi-user multi-tasking availability for
+20  or  30 terminals,  and it  had CPU to CPU communication  that
+could cluster a few dozen into a NETWORK, who would want a frame,
+or the  staff to run it, or the 12 story building to house it, or
+the  problems associated  with a  frame, if they could get  these
+SUPER MICROS for 144,000 dollars per dozen.  
+
+It reminds me  of the  evolution of a Light Bulb.   At first they
+were repairing  the old light bulbs and they were expensive.  Now
+we  throw  them away,  and we  don't get too awfully upset  if we
+purchase  a  box of  8 bulbs  and one is no good....   People are
+already  using  disposable  watches, and  a little Timex computer
+(99.00) is  as big as the Network it ties into....  WHAT'S NEXT ?
+FOR GOODNESS SAKES, A TEN MEGABYTE "MICKEY MOUSE" WATCH ?  
+
+I have to laugh  when I think about the  evolution of Information
+processing...   Imagine a  person with  a normal size body and  a
+GIGANTIC  HEAD.   And  then ask  yourself, "IS  THIS  REALLY ME".
+That's  one  way of  looking at  the  Main Frame problem.  Mother
+nature gave us  small efficient brains.  Why don't  we have small
+EFFICIENT computers ?  The power of processing is not the same as
+the  Power  of  Information.  If  the Super  micro  evolves in my
+lifetime,  we will  see who  has the stronger ability to  Process
+Information, not in  the speed or response time  of machines, but
+in the application  of statistics and knowlege combined  with the
+speed and response of BIG TECH in Small computers.  
+
+If ATT AB/3  Evolves into  a 32 bit / 2  gig micro, which I don't
+think it  will because  the AB/5 is a mini,  then what would stop
+ATT from conquering the entire main frame market.  And anyone who
+has the  ability  to  get  the  chips produced  and  the software
+written is a candidate for that kind of reward, not just ATT.  
+
+On the BOTTOM LINE, most main frames are financed and it would be
+difficult if  not impossible for companies to convert.  This puts
+the Establishment  on the  side of the main frame.   And it makes
+things look  a little  more grim, if thats possible,  for new and
+growing businesses who need that kind of power.  These micros are
+little more  than bait  for new and growing companies  to buy the
+Establishment product, rather than the new products.  
+
+Back when the Big  Boys started out, there was  no Ivory Tower to
+contend with.   And it seems obvious that if there had been, they
+would have been part of the computer revolution trying to put big
+technology into  the hands of new businesses who needed the price
+breaks.  
+
+The Old Days...  When Luck meant Opportunity meeting hard work.  
+
+WHERE HAVE THEY GONE TO ???  
+
+**************************************
+    N E W   I N N O V A T I O N S
+**************************************
+
+THE LATEST  IDEA  CONCERNING INFORMATION  TECHNOLOGY IS THE SMART
+TELEVISION.  IT IS CALLED SMARTV FOR SHORT.  TELEVISION PRODUCERS
+ARE RAPIDLY EXPANDING  THEIR KNOWLEGE OF COMPUTERS IN  AN ATTEMPT
+TO  COMBINE   BROADCAST  TELEVISION  WITH  MICRO  COMPUTING.   IF
+BROADCAST  MICRO  DATA  BECOMES  A  REALITY,  THEN  THE TELEPHONE
+COMPANY'S  PLAN  TO  CONTROL  THE  MICRO  DATA  MARKET  MIGHT  BE
+ADVERSELY AFFECTED,  ALONG  WITH  THE  PLANS  OF MOST  HIGH  TECH
+COMPANIES WHO PLAN ON USING A WIRE INSTEAD OF THE AIR WAVES.  
+
+"TWO CHICKENS IN EVERY POT AND A SATELLITE DISH ON EVERY ROOF" 
+
+IT'S A GOOD THING  THAT THE FEDERAL GOVERNMENT DID  NOT SCRAP THE
+SPACE SHUTTLE PLANS  BECAUSE THE TV REPAIRMAN OF  THE FUTURE WILL
+BE RIDING TO WORK IN ONE, IT WOULD APPEAR.  
+
+WHETHER THE  TELEVISION  BECOMES  A  TWO-WAY  (SEND AND  RECEIVE)
+DEVICE OR  A ONE-WAY (RECEIVE ONLY DEVICE) IS IN THE HANDS OF THE
+TV PRODUCERS.   AS THEY TEDIOUSLY WORK TOWARD SHRINKING UP ALL OF
+THE ELECTRONIC  TECHNOLOGY IN  ORDER TO MASS PRODUCE IT  AT A LOW
+COST, HEAVEN ONLY KNOWS WHAT THE FIRST ONE WILL LOOK LIKE.  
+
+I WONDER  HOW  FAR  THEY  CAN  SHRINK  THESE  CHIPS  BEFORE  THEY
+DISAPPEAR INTO  THIN AIR?  WHO KNOWS, MAYBE WE'RE ON THE BRINK OF
+MATTER TRANSFER LIKE WE SEE ON STAR TREK.  (BEAM ME UP, SCOTTY !)
+
+
+
+
+
+           **************************    **
+^               ********************* ****
+                            *************
+         FLORIDA CAMPING           ******
+                                  *******
+         JOHN HOLEMAN            ********
+                                 *******
+                                  *****
+                                   **
+
+I LIVE  IN NORTH FLORIDA AND CAMP ON THE BEACHES BETWEEN VIRGINIA
+BEACH,  VIRGINIA  AND TAMPA,  FLORIDA; ALL  DEPENDING  ON HOW THE
+WEATHER IS.   IT'S JUST A FEW HOURS DRIVE TO REALLY NICE CAMPING.
+AT LOW TIDE, THE BEACHES WILL RANGE BETWEEN ONE HUNDRED AND THREE
+HUNDRED YARDS  DEEP.  THE FISHING IS ALWAYS GOOD NEAR JETTIES AND
+INLETS AND FIREWOOD IS NEVER A PROBLEM.  
+
+THE SUNSETS  ARE...  NICE  OVER-LOOKING THE INTERCOASTAL WATERWAY
+AND  ARE  SPECIAL DOWN  NEAR THE  ISLANDS  (NEAR TAMPA).  ON CALM
+DAYS, THE  ATLANTIC AND  CARRIBEAN ARE LIKE GLASS AND  THE FLYING
+FISH CAN  BE SEEN FOR QUITE SOME DISTANCE.  SEA TURTLES ARE OFTEN
+SEEN AND STARFISH,  DRIFTWOOD AND SHELLS ARE ALL  OVER THE PLACE.
+ON  ROUGH  STORMY  DAYS THE  OCEAN IS  FIERCE  AND TEMPESTOUS AND
+SOMETIMES CAUSES  SERIOUS EROSION TO THE BEACHES AND WOODED AREAS
+NEARBY.  IT'S STILL  A GREAT ADVENTURE, EVEN WHEN  THE WEATHER IS
+STORMY BECAUSE  THERE ARE PLENTY OF LODGES.  DEEP SEA FISHING AND
+FRESH WATER FISHING ARE ALSO GOOD SPORTS TO BE A PART OF.  
+
+MACKEREL, BARRACUDA,  RED SNAPPERS,  BLUE FISH, GROUPER, AND MANY
+OTHER  KINDS  OF  OCEAN FISH  ARE DELICIOUS,  NOT  TO MENTION THE
+SHRIMP WHICH  ARE CAUGHT  WITH A CAST NET NEAR  AN INLET OR GRASS
+BED, AND THE CRABS AND OYSTERS WHICH ARE THE EASIEST TO CATCH (ON
+EVERY ROCK AND PILING).  
+
+
+
+     JACK HOLEMAN
+     POST OFFICE BOX 10169
+     JACKSONVILLE FL 32247
+
+-----------------------------------------------------------------
+
+RESUME FOR JACK HOLEMAN
+
+John Phillip Holeman                     FOUR YEARS MICRO DOS EXPERIENCE
+3988 Alhambra Drive West                 NINE YEARS BASIC LANGUAGE
+Post Office Box 10169                    STUDYING ASSEMBLER (NIGHTS)
+Jacksonville, Florida 32247-0169
+Telephone (904) 398-5839
+
+
+VOL48.FEEDBACK:VOL48                                      01/30/85 12:21 Page 2
+
+References:
+     Victor J. Buttner, Attorney                       (904) 731-8067
+     Frank Grosholz, Commercial Video Services         (904) 384-4008
+     Thomas Markham, Warehouse Recording Studio        (904) 399-0424
+     Terry Ryan, Coordinator - Fla Natl Bank           (904) 359-5492
+     Tyrie A. Boyer, Attorney (Judge)                  (904) 358-3030
+
+Employment Desired:
+     Programmer/Analyst, MICRO/MINI-computer applications
+     Technical Support for MICRO/MINI-computers (Instruction)
+     Telecommunications, MICRO/MINI-computers (RS-232)
+     Configuration, Sales, Installation, and Support for Micro-computers.
+     Account Executive for Micro Computer Operations
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+StartingSalary Requirements:
+     $8.40 per hour      40 hours per week        50 weeks per year
+     $9.25 per hour      20 hours per week        50 weeks per year
+     $20   per hour      per assignment           variable
+
+Location Desired:
+     North Florida Area  Jacksonville   Southside Area   Mandarin
+
+Familiar with: (DOS AND ASSOCIATED LANGUAGE)
+     CP/M      MP/M      OASIS     TRSDOS    PC DOS    DISOSS
+     CBASIC    MBASIC    OASIS BASIC         
+                         OASIS SYSTEM EXEC, LINE EDITOR, MACRO, ASSEMBLER
+                                   RADIO SHACK BASIC
+                                             PC BASIC
+                                                       5520 Merge Control
+                                                       Documents and Global
+                                                       Functions
+
+     [ MICRO-DOS EXEC(JCL), SYSTEM CALLS, ALGEBRA, GEOMETRY, ACCOUNTING ]
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+AFFILIATED: DOW JONES, WESTERN UNION, OASIS USERS GROUP 
+
+OWN AND OPERATE: 20 Megabyte multi-user system for software development
+                 Dynabyte Monarch 6900 with Tape and 1200 Bd. Modem-CTS
+                 Two (2) Televideo 970 Smart Terminals
+                 One (1) NEC 7710 Letter Quality Printer
+
+Would like to learn:
+     370 Assembler       UNIX      C         DOS/vse        ADV RM/COBOL 
+     RS 422 Communications ('CPU to CPU' Distributive Processing)
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+PERSONAL ACCOMPLISHMENTS IN MICROCOMPUTER DOS:
+
+    THE OASIS OPERATING SYSTEM FOR MICRO-COMPUTERS (TWO YEARS EXPERIENCE)
+
+
+The Oasis  Disk  Operating  System  is  one  of  the latest  micro-computer
+software developments  which enables micro computers to operate in the same
+manner  as the  mini  and  main-frame  computers  do.  The  system  nucleus
+supports  up to  16 assignable  files, 16 attachable devices, and  over 700
+killobytes of random access memory plus many features which are found in OS
+and DOS.  
+
+Able  to  utilize TEXT  EDIT  and  LINE  EDIT  features for  FILE  CONTROL.
+(Example: WRITE SOURCE CODE IN ASCII, LOAD TO OBJECT FILE and COMPILE) 
+
+Able  to  create JOB  CONTROL PROGRAMS  which control the functions of  the
+system as  well  as  COMPILED  AND  OBJECT BASIC  (Example:  One program to
+configure memory,  print a  specified work grid to the  screen, run modules
+^hrough locations of the grid, allow user options, allow concurrent sorting
+of  data   as  it   is  entered,  set  up  printer   and  modem  parameters
+interactively, etc...) 
+
+Able  to CUSTOMIZE  DISK OPERATING  SYSTEMS  to specific program parameters
+(Example: Attachment  of physical and logical devices, memory configuration
+in multi user format, switch settings for various system devices, etc...) 
+
+Able  to  TRANSCRIBE BUSINESS  ANALYSIS into  BASIC  CODE and BATCH CONTROL
+(Example: Code input procedure and formatting from description of business,
+Code Batchfile controls of data and other basic modules, etc...) 
+
+Able to set  up full MULTI USER ACCOUNTING  for the system files and CREATE
+the REQUIRED  IPL (Initial  Procedure Logon) BATCH FILE as  outlined by end
+user (Example: Set  System Control, Chain Batch controls  within perscribed
+nesting,  LOAD  AND INITIALIZE  THE SPOOLER,  Code  the necessary executive
+procedures for MULTI-USER LOGON SEQUENCES, etc...) 
+
+Able to contact TIME SHARE SERVICES FROM THE SYSTEM and to send and receive
+files with INTERACTIVE  TALK; also utilizing the script  processor for DOWN
+LOADING  (Examples: Attach  modems with  corresponding  baud rates - device
+controls - parity, etc...) 
+
+Able to  produce  required MANUALS  FOR ALL  OF  THE ABOVE and to  instruct
+courses concerning the  use of manuals and software  when office procedures
+cannot be simplified into source code.  
+
+Able  to  coordinate and  implement PUBLIC  RELATIONS  AND ADVERTISING thru
+television, radio, photograpy, direct mail, and salesmanship.  
+
+Able  to   connect  computers   to  PERIPHERAL  DEVICES  with  DIP   SWITCH
+CONFIGURATION,  CABLE  CONSTRUCTION  and  TESTING  (BREAKOUT  BOX),  and to
+perform MINOR  REPAIRS and  REPLACEMENTS within the computer DURING  SYSTEM
+FAILURES.  
+
+                          >>>>>>>>><<<<<<<<<
+                        >>>*>>>*>>><<<*<<<*<<<
+                      >>>**>>>**>>><<<**<<<**<<<
+                    >>>***>>>***>>><<<***<<<***<<<
+                  >>>****>>>****>>><<<****<<<****<<<
+                >>>*****>>>*****>>><<<*****<<<*****<<<
+
+
+-----------------------------------------------------------------
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+End of VOL48.FEEDBACK                              This date 1983
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+
+Welcome to volume 48in the very rapidly expanding library
+of OASIS compatible member contributed "END-USER-ONLY" software.
+
+Want a PRINTED COPY of the program info too {Y/N}? N
+
+ 
+There are  14 programs in all,  but only four different benchmark
+tests.  Some show the effect of CRT baud rate, some the effect of
+compiling BASIC programs.   There is one program from each of the
+four  groups  that is first run in a single partition and then in
+first two and then three partitions simultaneously.  
+BENCH22B.BASIC    BENCH22B.BASICCOM BENCH2A .BASIC   
+Send me a copy of the  report that is  generated  for your system
+and I'll report back on the results you send in.  
+ ENCHPRT.BASIC   
+The complete set of benchmark tests takes about  20 minutes.  So,
+get it started and go have a cup of coffee (decaffeinated).of the
+programs  we had  released earlier  (volumes 12, 21, and 26)  and
+WANT TO TRY IT NOW? [Y/N]:N the results for  each machine.  Royce
+Bordman  gave us  an algorithm  that he considers to represent  a
+"typical" mix of  direct and indexed file accesses  usually found
+in business  applications.  And, Kevin Hansen gave us one to test
+the  speed of  processing math  functions  (volume 47).  So, here
+they  are  all   together  and  ready  for  you   to  run  almost
+automatically on  your system.
+
+ 
+BASIC.FILEINFO
+ 
+This is a handy reference  file about the use of files in  BASIC.
+Most of the information can be found elsewhere, but Jack Holeman
+has pulled it all together into this single SCRIPT file tutorial.
+ 
+WANT TO SEE IT NOW? [Y/N]:N
+
+ 
+CLASS.CODES
+ 
+This is the latest listing of all terminal CLASS CODES now in
+the OUG library.  The list keeps growing, but there are still
+many terminals not represented.  If you have one, send it in.
+ 
+ 
+WANT TO SEE IT NOW? [Y/N]:N
+
+ 
+FLCOPY.EXEC
+
+This is  a new  version of  the utility I use to  make production
+copies of  the OUG volumes each time using the latest versions of
+the FL0/FL2 commands which were released on volume 42.  
+
+FLCOPY.EXEC first makes  an image  of my master on the  hard disk
+and  then copies  it continuously  to  two destination floppies -
+alternating back and forth between the two for faster production.
+This new version  was required because of the  changes Lew Murray
+made to FL0/FL2 on volume 42.  The original version of FLCOPY was
+on volume 37.  
+ 
+WANT TO LIST IT NOW? [Y/N]:N
+
+
+^
+It has long  been apparent that people who can act decisively and
+with conviction often  prevail in their endeavors.  In  the olden
+days (and  by garly, it is still happening in lots of places even
+today in this  civilized world!) a wise man  always consulted the
+Oracle before starting anything important.  What ever it takes to
+create  the  confidence  to act,  cannot be  rejected  as totally
+worthless.    I   have   augmented   Jack's  contributions   with
+information  from  my  own sources  about the  Tarot.   With this
+package  you  should  be able  to open  your  own fortune telling
+parlor,  if  you happen  to have  found yourself a victim of  the
+current computer industry slump.  tributed  a package of programs
+ hich will allow you to consult the sources of ancient wisdom.  I
+WANT TO TRY IT NOW? [Y/N]:Nall  that many  people  in the OUG who
+literally  believe  in  the occult  these days,  but  who am I to
+dismiss the ancient teachings out of hand.  
+
+
+ 
+SCRIPOUT.EXEC
+
+This is a cute technique for sending a SCRIPT file to a modem.  It was
+brought to my attention by Jack Holeman and is based on an EXEC he
+sent in with one of his contribution disks. Look at the listing. FB
+ 
+WANT TO LIST IT NOW? [Y/N]:N
+
+ 
+Z89SYS.SCRIPT
+ 
+This is another handy reference chart prepared by Jack Holeman.
+This one summarizes the operating characteristics of the Z80
+microprocessor, including a listing of the Z80 system calls and
+their meanings.
+ 
+WANT TO SEE IT NOW? [Y/N]:N
+
+>LIST VOL48 WISHLIST A 
+File not found.
+
+
+
+****************************************************************
+
+OK. SO THAT'S THE END OF VOLUME 48 AND WE WOULD LIKE TO HEAR ANY
+COMMENTS YOU MIGHT HAVE ABOUT IT.  WE ARE ALL STILL LEARNING AND
+I'M SURE THAT THERE WILL BE MANY CHANGES TO COME. GIVE ME A CALL
+ANY TIME.
+ 
+FRED BELLOMY
+P.O. BOX 2400
+SANTA BARBARA, CA 93120
+(805) 965-0265 (has an answering machine when I'm not there)
+
+(805) 965-5415 (CARAVAN, the OUG Bulletin board) 1200 baud
+during the week and 300 baud over the weekend (at the moment)
+
+****************************************************************
+
+>
